@@ -81,3 +81,26 @@ Please open an issue with: the scenario number (or the scene), a screenshot, and
 Fan translation, not affiliated with Bandai Namco / Banpresto. No game data is distributed here — only a patch. Please support the official releases.
 
 <a href="https://www.buymeacoffee.com/Srwa_en" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+## Screenshots
+
+<p align="center">
+<img src="screenshots/f03100_320x240_16.png" width="280" alt="Intermission menu" title="Intermission menu">
+<img src="screenshots/f03120_320x240_16.png" width="280" alt="Edit Main Character screen" title="Edit Main Character screen">
+<img src="screenshots/f03900_320x240_16.png" width="280" alt="Story scene on the bridge" title="Story scene on the bridge">
+<img src="screenshots/f03900_320x240_163.png" width="280" alt="Battle preview: Rig Contio vs. Nu Gundam HWS" title="Battle preview: Rig Contio vs. Nu Gundam HWS">
+<img src="screenshots/f06340_320x240_16.png" width="280" alt="Level up, funds and EXP after battle" title="Level up, funds and EXP after battle">
+<img src="screenshots/f07980_320x240_16.png" width="280" alt="Map menu" title="Map menu">
+<img src="screenshots/f12480_320x240_16.png" width="280" alt="Battle: Imp. Guard quote" title="Battle: Imp. Guard quote">
+<img src="screenshots/f15400_320x240_16.png" width="280" alt="Battle: Amuro launches the Fin Funnels" title="Battle: Amuro launches the Fin Funnels">
+<img src="screenshots/f17600_320x240_16.png" width="280" alt="Map dialogue: Tashiro" title="Map dialogue: Tashiro">
+<img src="screenshots/f17880_320x240_16.png" width="280" alt="Unit command menu" title="Unit command menu">
+<img src="screenshots/f23160_320x240_16.png" width="280" alt="Intermission scene: Koji" title="Intermission scene: Koji">
+<img src="screenshots/f26640_320x240_16.png" width="280" alt="Map menu at the start of a stage" title="Map menu at the start of a stage">
+<img src="screenshots/f27120_320x240_16.png" width="280" alt="Intermission scene: Kusuha and Bullet" title="Intermission scene: Kusuha and Bullet">
+<img src="screenshots/f32640_320x240_16.png" width="280" alt="Story choice" title="Story choice">
+<img src="screenshots/f41760_320x240_16.png" width="280" alt="Unit Info: Gunbuster" title="Unit Info: Gunbuster">
+<img src="screenshots/f41760_320x240_162.png" width="280" alt="Select Sortie Units prompt" title="Select Sortie Units prompt">
+<img src="screenshots/f43080_320x240_16.png" width="280" alt="Spirit commands menu" title="Spirit commands menu">
+<img src="screenshots/f43320_320x240_16.png" width="280" alt="Select Sortie Units list" title="Select Sortie Units list">
+</p>
