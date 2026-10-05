@@ -1,6 +1,6 @@
 # Super Robot Wars Alpha (PSX) English Ver.
 
-**Latest release: [Release Candidate 1 (RC01)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/RC01)** — fan translation of *Super Robot Taisen Alpha* (PlayStation, 2000) into English.
+**Latest release: [Release Candidate 2 (RC02)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/RC02)** — fan translation of *Super Robot Taisen Alpha* (PlayStation, 2000) into English.
 
 The first complete, playable English build of **Super Robot Taisen Alpha** (PlayStation, 2000) — the crossover that brought Mazinger, Getter Robo, Gundam (UC and AU), Evangelion, Macross, Dancougar, Dunbine, L-Gaim, Gunbuster, Brain Powerd, the Masou Kishin and the Banpresto originals together for the first time on PSX.
 
@@ -15,6 +15,11 @@ Grab your original Japanese ISO, check the README.md for the quick xdelta patchi
 **AND CONSIDER SUPPORTING FURTHER DEVELOPMENT!** 
 
 <a href="https://www.buymeacoffee.com/Srwa_en" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+## What's new in RC02
+
+- **New dedication and support screen** after the copyright screen (about 6 seconds; press Start to skip it). It has two QR codes: **GitHub** (updates and bug reports) and **Buy Me a Coffee** (support development).
+- Everything else is the same as RC01.
 
 ## What is translated
 
@@ -52,17 +57,17 @@ You need your own dump of the original Japanese disc. **The patch only works on 
 | MD5 | `8cc4b3af159d26d11cad46b136a5c833` |
 | SHA-1 | `cfce3c7a76f64269387fbb7b77e3bcfe41b723c6` |
 
-1. Download `SRWAlpha_EN_RC01.xdelta` and `Super.Robot.Taisen.Alpha.English.RC01.cue` from the [Releases page](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/RC01).
+1. Download `SRWAlpha_EN_RC02.xdelta` and `Super.Robot.Taisen.Alpha.English.RC02.cue` from the [Releases page](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/RC02).
 2. Apply the patch to the Japanese `.bin`:
    - **Windows / macOS / Linux (GUI):** [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) or the [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) web page.
    - **Command line:**
      ```
-     xdelta3 -d -s "Super Robot Taisen Alpha (Japan) (v1.0).bin" SRWAlpha_EN_RC01.xdelta "Super Robot Taisen Alpha (English RC01).bin"
+     xdelta3 -d -s "Super Robot Taisen Alpha (Japan) (v1.0).bin" SRWAlpha_EN_RC02.xdelta "Super Robot Taisen Alpha (English RC02).bin"
      ```
-3. Name the patched file `Super Robot Taisen Alpha (English RC01).bin` (that is the name the `.cue` points to) and keep both in the same folder. You can rename the `.cue` freely; if you rename the `.bin`, edit the `FILE` line of the `.cue` to match.
+3. Name the patched file `Super Robot Taisen Alpha (English RC02).bin` (that is the name the `.cue` points to) and keep both in the same folder. You can rename the `.cue` freely; if you rename the `.bin`, edit the `FILE` line of the `.cue` to match.
 4. Load the `.cue` in your emulator. Tested with **PCSX-Redux**, **DuckStation** and **RetroArch**. Real hardware / ODE has not been tested yet.
 
-`SHA1SUMS` lists the expected hashes. Patched image: SHA-1 `31c081e6be1d34de679d96b7dd5129c423342553`, MD5 `064d7813cf4f0e48b7c95f08c9be51b4` (646,442,496 bytes).
+`SHA1SUMS` lists the expected hashes. Patched image: SHA-1 `38e852eb52526c3d48ef3ffb269b2bbbccd609cb`, MD5 `bb79678772db5cf74fe5ed965b656843` (646,442,496 bytes).
 
 > **Memory cards:** saves from the Japanese version load fine, but the protagonist's and partner's names are stored on the card, so they will appear in kana. Start a new game for the English names.
 
