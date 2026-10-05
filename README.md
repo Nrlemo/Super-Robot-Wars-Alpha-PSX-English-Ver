@@ -4,7 +4,7 @@
 
 The first complete, playable English build of **Super Robot Taisen Alpha** (PlayStation, 2000) — the crossover that brought Mazinger, Getter Robo, Gundam (UC and AU), Evangelion, Macross, Dancougar, Dunbine, L-Gaim, Gunbuster, Brain Powerd, the Masou Kishin and the Banpresto originals together for the first time on PSX.
 
-**This is a release candidate**: every line of dialogue is translated and inserted, the game boots and plays in English from the title screen to the battle animations, but a full start-to-finish playthrough has not been completed yet. Please report anything that looks wrong (see *Reporting problems* below).
+**This is a release candidate**: every line of dialogue is translated and inserted, the game boots and plays in English from the title screen to the battle animations. Please report anything that looks wrong (see *Reporting problems* below).
 
 ### We need your support! 💫
 
@@ -70,13 +70,11 @@ You need your own dump of the original Japanese disc. **The patch only works on 
 
 - A few small graphical labels and button icons inside menu strings may sit slightly off (e.g. the triangle icon in the *Counter* menu).
 - Digits in dialogue use the fixed 8 px width, so numbers look a bit spaced out.
-- Some long battle-quote blocks (the *Show* pilots) have not been checked in game yet.
 - A final style read-through (battle quotes per pilot, scenes against the running game) is still to come.
-- Three dictionary entries still use older spellings (*T-LINK Field*, *Grungust Type-2*, *Dogos Gear*); the rest of the game uses the final ones.
 
 ## Reporting problems
 
-Please open an issue with: the scenario number (or the scene), a screenshot, and what you expected. Text cut mid-word, Japanese text left on screen, freezes and wrong names are the most useful reports at this stage.
+Please open an issue with: the scenario number (or the scene), a screenshot, and what you expected. Text cut mid-word, Japanese text left on screen, and freezes are the most useful reports at this stage.
 
 ---
 
