@@ -4,7 +4,17 @@
 
 The first complete, playable English build of **Super Robot Taisen Alpha** (PlayStation, 2000) — the crossover that brought Mazinger, Getter Robo, Gundam (UC and AU), Evangelion, Macross, Dancougar, Dunbine, L-Gaim, Gunbuster, Brain Powerd, the Masou Kishin and the Banpresto originals together for the first time on PSX.
 
-**This is a release candidate**: every line of dialogue is translated and inserted, the game boots and plays in English from the title screen to the battle animations, but a full start-to-finish playthrough has not been completed yet. Please report anything that looks wrong (see *Reporting problems* below).
+**This is a release candidate**: every line of dialogue is translated and inserted, the game boots and plays in English from the title screen to the battle animations and so forth. Please report anything that looks wrong (see *Reporting problems* below).
+
+### We need your support! 💫
+
+While every line is translated and the game is fully playable from the title screen to the battle animations, we are looking for players to test this build on emulators and physical consoles. 💥
+
+Grab your original Japanese ISO, check the README.md for the quick xdelta patching instructions, and help us polish this masterpiece! Please report any visual bugs🐛, or text issues on our GitHub.
+
+**AND CONSIDER SUPPORTING FURTHER DEVELOPMENT!** 
+
+<a href="https://www.buymeacoffee.com/Srwa_en" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## What is translated
 
@@ -60,9 +70,7 @@ You need your own dump of the original Japanese disc. **The patch only works on 
 
 - A few small graphical labels and button icons inside menu strings may sit slightly off (e.g. the triangle icon in the *Counter* menu).
 - Digits in dialogue use the fixed 8 px width, so numbers look a bit spaced out.
-- Some long battle-quote blocks (the *Show* pilots) have not been checked in game yet.
 - A final style read-through (battle quotes per pilot, scenes against the running game) is still to come.
-- Three dictionary entries still use older spellings (*T-LINK Field*, *Grungust Type-2*, *Dogos Gear*); the rest of the game uses the final ones.
 
 ## Reporting problems
 
@@ -72,3 +80,4 @@ Please open an issue with: the scenario number (or the scene), a screenshot, and
 
 Fan translation, not affiliated with Bandai Namco / Banpresto. No game data is distributed here — only a patch. Please support the official releases.
 
+<a href="https://www.buymeacoffee.com/Srwa_en" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
