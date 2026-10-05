@@ -16,11 +16,6 @@ Grab your original Japanese ISO, check the README.md for the quick xdelta patchi
 
 <a href="https://www.buymeacoffee.com/Srwa_en" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-## What's new in RC02
-
-- **New dedication and support screen** after the copyright screen (about 6 seconds; press Start to skip it). It has two QR codes: **GitHub** (updates and bug reports) and **Buy Me a Coffee** (support development).
-- Everything else is the same as RC01.
-
 ## What is translated
 
 | Content | Status |
