@@ -112,3 +112,48 @@ Fan translation, not affiliated with Bandai Namco / Banpresto. No game data is d
 <img src="screenshots/f43080_320x240_16.png" width="280" alt="Spirit commands menu" title="Spirit commands menu">
 <img src="screenshots/f43320_320x240_16.png" width="280" alt="Select Sortie Units list" title="Select Sortie Units list">
 </p>
+
+## Acknowledgments
+
+This project relies on the work of many people. What follows is what we actually used as a source, reference, or tool (`info/`, `Utils/`, `work/notes/`, `work/glossary/`).
+
+### Technical Reference (Romhacking)
+
+| Source | Authors | What we used it for |
+|---|---|---|
+| **Chinese translation patch "超级机器人ALPHA 汉化 2.0 完全版"** (`Utils/SRT_Alpha`, 2013) | Planning and patch: **WGF** · programming: **KEN TSE**, **luxiwen** · translation: **暴鲤**, **塞外**, **老A** · testing: **parrot0308** | Map of where the text resides, format of the blocks and pointers, and how to reinsert it (Phase 0, see `work/notes/paso1_referencia_chs.md`). Originally distributed at [机战世界 (srworld.net)](http://www.srworld.net/down/game/ps.htm) |
+| **Super Robot Wars Alpha Save Data Editor v1.11e** (`Utils/srwalpha_tool111e`) | **Fiigu** | Structure of save data and dictionary/demo lists |
+
+### Game Documentation (`info/`)
+
+| Source | Authors | Link |
+|---|---|---|
+| Akurasu Wiki (Alpha: characters, units, spirits, skills, OG weapons, timeline, etc.) | Akurasu Community | <https://akurasu.net/wiki/Super_Robot_Wars/Alpha> |
+| *Super Robot Taisen Alpha – Character Journal* (GameFAQs) | **Largo** | <https://gamefaqs.gamespot.com/ps/577805-super-robot-taisen-alpha/faqs/8235> |
+| *Super Robot Taisen Alpha – Move List* (GameFAQs) | **Chiche** | <https://gamefaqs.gamespot.com/ps/577805-super-robot-taisen-alpha/faqs/73008> |
+| *Super Robot Taisen Alpha – Guide and Walkthrough* (GameFAQs) | **Cyath** | <https://gamefaqs.gamespot.com/ps/577805-super-robot-taisen-alpha/faqs> |
+| 隠し要素/α — スーパーロボット大戦Wiki (Hidden Elements/α) | srw.wiki.cre.jp Community | <https://srw.wiki.cre.jp/wiki/%E9%9A%A0%E3%81%97%E8%A6%81%E7%B4%A0/%CE%B1> |
+| スパロボα 攻略チャート (Super Robot Wars α Walkthrough Chart) (`info/s-rpg-navi.com` folder, ~140 pages) | s-rpg-navi.com | <http://s-rpg-navi.com/> |
+
+### Terminology and Glossary (`work/glossary/`)
+
+Official names and consolidated spellings for each franchise, in addition to Akurasu and SRW Fandom:
+
+- SRW Wiki (Fandom): <https://srw.fandom.com/> · Top Wo Nerae Wiki: <https://topwo.fandom.com/> · Gundam Wiki: <https://gundam.fandom.com/>
+- Gundam Official / Gundam.info: <https://en.gundam.info/> · <https://en.gundam-official.com/>
+- EvaGeeks (Evangelion): <https://wiki.evageeks.org/>
+- Sentai Filmworks (Dunbine): <https://www.sentaifilmworks.com/a/news/sentai-filmworks-summons-aura-battler-dunbine>
+- Discotek Media (Giant Robo, Brave Raideen): <https://discotekmedia.com/>
+- Official BANDAI NAMCO localizations (*Super Robot Wars 30*, *X*, OG series) on Steam: <https://store.steampowered.com/app/898750/Super_Robot_Wars_30/> · <https://store.steampowered.com/app/1031510/SUPER_ROBOT_WARS_X/>
+- Macross 2 (m3): <http://www.macross2.net/m3/m3.html> · TV Tropes: <https://tvtropes.org/> · Wikipedia: <https://en.wikipedia.org/>
+
+### Tools
+
+| Tool | Authors | Link |
+|---|---|---|
+| PCSX-Redux (debugging and breakpoints) | grumpycoders | <https://github.com/grumpycoders/pcsx-redux> |
+| DuckStation (boot testing) | Stenzek | <https://github.com/stenzek/duckstation> |
+| mkpsxiso / dumpsxiso (byte-identical ISO rebuild) | Lameguy64 | <https://github.com/Lameguy64/mkpsxiso> |
+| armips (MIPS assembler for the VWF patch) | Kingcom | <https://github.com/Kingcom/armips> |
+| Ghidra (executable reverse engineering) | NSA | <https://github.com/NationalSecurityAgency/ghidra> |
+| ghidra_psx_ldr (PSX loader for Ghidra) | lab313ru | <https://github.com/lab313ru/ghidra_psx_ldr> |
