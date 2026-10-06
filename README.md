@@ -94,6 +94,10 @@ Fan translation, not affiliated with Bandai Namco / Banpresto. No game data is d
 <img src="screenshots/f03900_320x240_16.png" width="280" alt="Story scene on the bridge" title="Story scene on the bridge">
 <img src="screenshots/f03900_320x240_163.png" width="280" alt="Battle preview: Rig Contio vs. Nu Gundam HWS" title="Battle preview: Rig Contio vs. Nu Gundam HWS">
 <img src="screenshots/f06340_320x240_16.png" width="280" alt="Level up, funds and EXP after battle" title="Level up, funds and EXP after battle">
+<img src="screenshots/f29300_320x240_16.png" width="280" alt="Eva-02 Status" title="Eva-02 Status">
+<img src="screenshots/f22900_320x240_16.png" width="280" alt="Eva-02 Battle" title="Eva-02 Battle animation">
+<img src="screenshots/f17000_320x240_16.png" width="280" alt="Misato intermission" title="Misato intermission">
+<img src="screenshots/f21000_320x240_16.png" width="280" alt="Eva-02 Map" title="Eva-02 Map">
 <img src="screenshots/f07980_320x240_16.png" width="280" alt="Map menu" title="Map menu">
 <img src="screenshots/f12480_320x240_16.png" width="280" alt="Battle: Imp. Guard quote" title="Battle: Imp. Guard quote">
 <img src="screenshots/f15400_320x240_16.png" width="280" alt="Battle: Amuro launches the Fin Funnels" title="Battle: Amuro launches the Fin Funnels">
