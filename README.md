@@ -1,6 +1,8 @@
 # Super Robot Wars Alpha (PSX) English Ver.
 
-https://img.shields.io/github/downloads/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/RC02/SRWAlpha_EN_RC02.xdelta?label=Patch%20downloads
+![Patch downloads](https://img.shields.io/github/downloads/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/RC02/SRWAlpha_EN_RC02.xdelta?label=Patch%20downloads)
+
+
 <p align="center">
 <img src="screenshots/cover.jpeg" width="480" alt="cover" title="cover">
 </p>
