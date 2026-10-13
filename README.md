@@ -1,6 +1,21 @@
-# Super Robot Wars Alpha (PSX) English Ver.
 
-![Patch downloads](https://img.shields.io/github/downloads/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/RC02/SRWAlpha_EN_RC02.xdelta?label=Patch%20downloads)
+# Super Robot Taisen Alpha — English Translation
+
+[![Version](https://img.shields.io/badge/version-RC02-blue)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/RC02)
+[![Platform: PSX](https://img.shields.io/badge/platform-PSX-555555?logo=playstation&logoColor=white)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver)
+[![Patch Downloads](https://img.shields.io/github/downloads/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/RC02/SRWAlpha_EN_RC02.xdelta?label=patch%20downloads)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/RC02)
+![Translation](https://img.shields.io/badge/translation-inserted-brightgreen)
+![VWF Font](https://img.shields.io/badge/font-variable--width%20(VWF)-purple)
+![Glossary](https://img.shields.io/badge/glossary-1%2C739%20terms-blue)
+[![Issues](https://img.shields.io/github/issues/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/commits/main)
+
+English fan translation of **Super Robot Taisen Alpha** for the original PlayStation (PSX).
+
+A complete, playable English release candidate featuring translated dialogue, menus, battle quotes, and graphical text.
+
+**Current release:** [RC02 — Release Candidate 2](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/RC02)
+
 
 
 <p align="center">
