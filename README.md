@@ -1,9 +1,9 @@
 
 # Super Robot Taisen Alpha — English Translation
 
-[![Version](https://img.shields.io/badge/version-RC02-blue)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/RC02)
+[![Version](https://img.shields.io/badge/version-v1.00-blue)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.00)
 [![Platform: PSX](https://img.shields.io/badge/platform-PSX-555555?logo=playstation&logoColor=white)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver)
-[![Patch Downloads](https://img.shields.io/github/downloads/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/RC02/SRWAlpha_EN_RC02.xdelta?label=patch%20downloads)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/RC02)
+[![Patch Downloads](https://img.shields.io/github/downloads/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/v1.00/SRWAlpha_EN_v1.00.xdelta?label=patch%20downloads)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.00)
 ![Translation](https://img.shields.io/badge/translation-inserted-brightgreen)
 ![VWF Font](https://img.shields.io/badge/font-variable--width%20(VWF)-purple)
 ![Glossary](https://img.shields.io/badge/glossary-1%2C739%20terms-blue)
@@ -12,9 +12,9 @@
 
 English fan translation of **Super Robot Taisen Alpha** for the original PlayStation (PSX).
 
-A complete, playable English release candidate featuring translated dialogue, menus, battle quotes, and graphical text.
+A complete, playable English release featuring translated dialogue, menus, battle quotes, and graphical text.
 
-**Current release:** [RC02 — Release Candidate 2](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/RC02)
+**Current release:** [v1.00](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.00)
 
 
 
@@ -22,11 +22,11 @@ A complete, playable English release candidate featuring translated dialogue, me
 <img src="screenshots/cover.jpeg" width="480" alt="cover" title="cover">
 </p>
 
-**Latest release: [Release Candidate 2 (RC02)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/RC02)** — fan translation of *Super Robot Taisen Alpha* (PlayStation, 2000) into English.
+**Latest release: [v1.00](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.00)** — fan translation of *Super Robot Taisen Alpha* (PlayStation, 2000) into English.
 
 The first complete, playable English build of **Super Robot Taisen Alpha** (PlayStation, 2000) — the crossover that brought Mazinger, Getter Robo, Gundam (UC and AU), Evangelion, Macross, Dancougar, Dunbine, L-Gaim, Gunbuster, Brain Powerd, the Masou Kishin and the Banpresto originals together for the first time on PSX.
 
-**This is a release candidate**: every line of dialogue is translated and inserted, the game boots and plays in English from the title screen to the battle animations and so forth. Please report anything that looks wrong (see *Reporting problems* below).
+**Every line of dialogue is translated and inserted**, and the game boots and plays in English from the title screen to the battle animations. Please report anything that looks wrong (see *Reporting problems* below).
 
 ### We need your support! 💫
 
@@ -37,6 +37,29 @@ Grab your original Japanese ISO, check the README.md for the quick xdelta patchi
 **AND CONSIDER SUPPORTING FURTHER DEVELOPMENT!** 
 
 <a href="https://www.buymeacoffee.com/Srwa_en" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+## What's new in v1.00
+
+**Story scenes type out again.** Dialogue in the intermission scenes was appearing all at once; it now types out letter by letter like the Japanese original, with the speaker's name shown first, and the characters' face animations play while the text is typed. ([#5](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/issues/5))
+
+**Fixes from player reports:**
+- *Aphrodite A* and *Diana A* (Sayaka's robots) are spelled the same everywhere — dictionaries, unit screens and dialogue ([#1](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/issues/1)).
+- Typos and line-break fixes in Scenarios 50, 60 and 64 ([#4](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/issues/4), [#6](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/issues/6), [#7](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/issues/7)).
+- *Coach* is capitalized when used as a title, and the Combine menu no longer overlaps when combining into SRX — it now reads *N combinations left* ([#8](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/issues/8)).
+- *Fuyutsuki*'s "Huma Human" is now *Human*; the *Great General of Darkness* is shortened to *Great Gen. of Darkness* as a speaker name.
+- Spirit command abbreviations in the unit summary (*Val*, *Mrc*, *Snp*, *Fls*…) so they fit their boxes.
+
+**Small visual fixes:**
+- The *Yes/No* prompt when saving is centered on the cursor.
+- *Wpn. Stats* fits its box on the status screen.
+- The button icons in the *Counter* menu and on the *Choose a Preset Character* screen no longer overlap the text.
+- In the name editor, lowercase letters with tails (g, j, p, q, y) are drawn whole, the nickname has 8 underlines, and a stray "=" is gone.
+- Changing the face on the character screen no longer turns *Gender* back into Japanese.
+- The character dictionary shows *Nick* instead of a leftover kanji label.
+- The five items of the title-screen *Options* menu are now centered.
+- The titles of the unlockable videos in *Demo Select* are translated.
+
+Saves (memory card) from the release candidates should load fine in v1.00.
 
 ## What is translated
 
@@ -74,25 +97,26 @@ You need your own dump of the original Japanese disc. **The patch only works on 
 | MD5 | `8cc4b3af159d26d11cad46b136a5c833` |
 | SHA-1 | `cfce3c7a76f64269387fbb7b77e3bcfe41b723c6` |
 
-1. Download `SRWAlpha_EN_RC02.xdelta` and `Super.Robot.Taisen.Alpha.English.RC02.cue` from the [Releases page](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/RC02).
+1. Download `SRWAlpha_EN_v1.00.xdelta` and `Super.Robot.Taisen.Alpha.English.v1.00.cue` from the [Releases page](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.00).
 2. Apply the patch to the Japanese `.bin`:
    - **Windows / macOS / Linux (GUI):** [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) or the [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) web page.
    - **Command line:**
      ```
-     xdelta3 -d -s "Super Robot Taisen Alpha (Japan) (v1.0).bin" SRWAlpha_EN_RC02.xdelta "Super Robot Taisen Alpha (English RC02).bin"
+     xdelta3 -d -s "Super Robot Taisen Alpha (Japan) (v1.0).bin" SRWAlpha_EN_v1.00.xdelta "Super Robot Taisen Alpha (English v1.00).bin"
      ```
-3. Name the patched file `Super Robot Taisen Alpha (English RC02).bin` (that is the name the `.cue` points to) and keep both in the same folder. You can rename the `.cue` freely; if you rename the `.bin`, edit the `FILE` line of the `.cue` to match.
+3. Name the patched file `Super Robot Taisen Alpha (English v1.00).bin` (that is the name the `.cue` points to) and keep both in the same folder. You can rename the `.cue` freely; if you rename the `.bin`, edit the `FILE` line of the `.cue` to match.
 4. Load the `.cue` in your emulator. Tested with **PCSX-Redux**, **DuckStation** and **RetroArch**. Real hardware / ODE has not been tested yet.
 
-`SHA1SUMS` lists the expected hashes. Patched image: SHA-1 `38e852eb52526c3d48ef3ffb269b2bbbccd609cb`, MD5 `bb79678772db5cf74fe5ed965b656843` (646,442,496 bytes).
+`SHA1SUMS` lists the expected hashes. Patched image: SHA-1 `3af408a62c22e897c250ee27b904ef455309dbb5`, MD5 `5affb071c3a47e8ddba4267e3984daa3` (646,442,496 bytes).
 
 > **Memory cards:** saves from the Japanese version load fine, but the protagonist's and partner's names are stored on the card, so they will appear in kana. Start a new game for the English names.
 
 ## Known issues
 
-- A few small graphical labels and button icons inside menu strings may sit slightly off (e.g. the triangle icon in the *Counter* menu).
 - Digits in dialogue use the fixed 8 px width, so numbers look a bit spaced out.
+- Some long battle-quote blocks (the *Show* pilots) have not been checked in game yet.
 - A final style read-through (battle quotes per pilot, scenes against the running game) is still to come.
+- Three dictionary entries still use older spellings (*T-LINK Field*, *Grungust Type-2*, *Dogos Gear*); the rest of the game uses the final ones.
 
 ## Reporting problems
 
