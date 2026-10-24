@@ -1,0 +1,59 @@
+# Kit de traducción: controles sin el disco del juego (el runner nunca tiene la ISO ni el japonés).
+# Los demás pasos de work/tools/ci_check.sh (tests, validate, generated) necesitan el disco: correrlos en local
+# después de work/tools/kit_setup.sh. Ver docs/TRANSLATION_GUIDE.md.
+name: Kit checks (no game data)
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: Guard, syntax, CSV, no game data, dedication screen
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      PY: python
+      PYTHONUNBUFFERED: '1'
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.14'
+          cache: pip
+          cache-dependency-path: work/tools/requirements.txt
+
+      - name: Dependencies
+        id: deps
+        run: python -m pip install -r work/tools/requirements.txt
+
+      - name: No disc images, BIOS, game EXE or save states
+        if: ${{ !cancelled() && steps.deps.outcome == 'success' }}
+        run: work/tools/ci_check.sh guard
+
+      - name: Syntax of .py and .sh
+        if: ${{ !cancelled() && steps.deps.outcome == 'success' }}
+        run: work/tools/ci_check.sh syntax
+
+      - name: Glossary and reference CSVs (csv_lint.py)
+        if: ${{ !cancelled() && steps.deps.outcome == 'success' }}
+        run: work/tools/ci_check.sh csv
+
+      - name: No Japanese game text committed (kit.py check-stripped)
+        if: ${{ !cancelled() && steps.deps.outcome == 'success' }}
+        run: work/tools/ci_check.sh nogamedata
+
+      - name: Dedication screen unchanged (requirement 2, TRANSLATING.md)
+        if: ${{ !cancelled() && steps.deps.outcome == 'success' }}
+        run: work/tools/ci_check.sh dedication
