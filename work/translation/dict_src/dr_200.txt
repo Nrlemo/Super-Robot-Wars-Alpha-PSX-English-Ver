@@ -1,0 +1,96 @@
+#200 Leprechaun
+An aura battler built by Shot. A new type with guns built in all over, but poorly balanced in armor and other areas. Jeril Coochibi flew it, and it was the first unit ever to undergo a Hyper transformation.
+#201 Hyper Leprechaun
+Jeril's Leprechaun turned Hyper: runaway aura makes its aura barrier take the battler's shape and grow giant, with far more power.
+#202 Wryneck
+One of the last aura battlers of Drake's army, balanced for close and long range. In the anime it turned Hyper through Todd's aura power.
+#203 Vierres
+An aura battler built by Ku. A well-balanced, high-performance unit, later mass-produced as the mainstay of Drake's army. It carries a tomahawk-shaped aura sword, which it sometimes throws in the anime. The Three Red Knights of Ku use red units, and their three-unit Tripler attack gave Sho's Billbine a hard time.
+#204 Bubury
+An aura bomber built by Shot. Faster and better armed than aura battlers, with wire claws for close combat. Musy flew it, troubling Sho's group.
+#205 Zwarth
+An aura battler built by Ah. The final form of the aura battler: fast, heavily armed and armored, on par with the Billbine. Besides the Black Knight's black unit, Musy's white unit and pink units for regular troops exist.
+#206 Spriggan
+An aura cruiser Shot built as his own ship. Weaker in firepower than aura battleships, but as fast as a wing caliber. With a ship of his own, Shot could act apart from Drake and pursue his own ambitions.
+#207 Will-Wips
+Flagship of Drake's army. It flies on pseudo-aura generators and carries aura battlers and aura ships.
+#208 Gyre-Garing
+The aura battleship that serves as flagship of Bishot's army. Most of its interior is hangar, carrying more aura battlers than any other aura battleship. But in turn, its firepower and defense are low.
+#209 Daitarn 3
+A combat super robot: a prototype Megaborg built on Mars by Sozo Haran, stolen and modified by his son Banjo. It runs on a solar-powered pulse ion engine, with armor of the special steel Da. It transforms into the heavy fighter Daifighter and the heavy tank Daitank. It also houses the small transformable fighter Mach Attacker, whose cockpit block moves through the body to become the Daitarn 3's cockpit. It seems easy to fly; Garrison, Beauty, Reika and even Toppo fly it. Despite its size it is amazingly agile, moving as nimbly as a human in the anime. It even changes expression, though whether it has a will of its own is unclear. The Daitarn Fan is used both to defend and as a weapon, and once even fanned back poison powder an enemy sprayed.
+#210 Daifighter
+The Daitarn 3's heavy fighter form.
+Used mainly for long trips; when Banjo holds up his pendant and shouts "Daitarn, come here!", it comes from beyond the horizon wherever he is.
+It is also the base form for docking the Mach Attacker.
+#211 Daitank
+The Daitarn 3's heavy tank form.
+Used on terrain or underground where the Daitarn 3 has trouble.
+A simple transformation; its treads slide in and out, stowed on its back in Daitarn 3 form.
+#212 Mach Attacker
+A fast little fighter, the Daitarn 3's cockpit, transformed from the amphibious police car Mach Patrol. Docked in the Daifighter, its cockpit block moves inside to become the Daitarn 3's.
+#213 Mass Produced Daitank
+A simple mass-produced Daitank. It cannot transform, but equals the original. In the anime it is only mentioned in dialogue. A training Daitank, ridden by Toppo, also exists.
+#214 Mass Produced Daifighter
+A simple mass-produced Daifighter. It cannot transform, but equals the original. It appears in the anime's final battle with the Meganoids, in other colors.
+#215 Mazinger Z
+A super robot Dr. Juzo Kabuto spent 15 years building. But the doctor was assassinated by an Iron Mask sent by Baron Ashura, and Mazinger Z passed to his grandson Koji.
+It runs on Photon Power, with armor of Chogokin Z, refined from Japanium ore. Armed all over, it is said to match the US 7th Fleet in power. But it cannot fly on its own, its greatest weakness. It also has Mazin Power, a kind of overboost, which Koji used in a pinch.
+#216 Mazinger Z
+Mazinger Z docked with the crimson wings, the Jet Scrander; the docking is called "Scrander Cross." The Jet Scrander has variable wings that sweep back for flight above Mach 2.3. Like Mazinger, the Scrander is made of Chogokin Z, with built-in weapons like the Southern Cross Knife.
+#217 Mazinger Z
+Mazinger Z upgraded throughout with a new Photon Power engine built by Professor Yumi. The new engine has 20 times the old output, and its arms and armor were also strengthened. Late in Great Mazinger, a Mazinger Z with Chogokin New Z armor and over 10 times the power also appears.
+#218 Mazinkaiser
+Also called the "Demon God Emperor," or the "Devil Mazinger."
+A prototype of Mazinger Z, carrying the Photon Power reactor built by Dr. Juzo Kabuto. The reactor has immense output but is hard to control, and ran wild in an activation test. So Dr. Kabuto sealed the Kaiser, reactor and all, in Hangar 7 of the Photon Power Laboratory. Fearing that Photon Power robots, that is, Mazingers, might be misused, he gave it a role: "a Mazinger to destroy evil Mazingers."
+The Kaiser has a device like an autonomous circuit, and on startup one of three modes is chosen: "Demon," "God" and "Z."
+"Demon" mode fights on its own, even without a Pilder, when it detects an evil Mazinger. But it is nearly impossible to control; at worst, the Kaiser itself becomes an avatar of destruction.
+"God" mode unleashes the Kaiser's hidden power, but its details are unknown (likely a form of Mazin Power). Last, "Z" mode is with the Kaiser Pilder docked ("Pilder On"); it normally fights in this mode.
+Its armor is Chogokin New Z Alpha, and its controls use a sync system that draws out limitless power from the pilot's will.
+#219 Hover Pilder
+A small fighter that serves as Mazinger Z's cockpit. It docks on Mazinger Z's head with its hover fans. It is said to handle like a motorcycle. Early in the anime, Koji kept the Hover Pilder at home and flew it to the Photon Power Laboratory when called.
+#220 Jet Pilder
+A small fighter that serves as Mazinger Z's cockpit, replacing the Hover Pilder destroyed by the Demon Mechanical Beast Gushios Beta III. Far faster and stronger than the Hover Pilder; its jet booster halves the "Pilder On" time. Like the Hover Pilder, it can also take off vertically.
+#221 Kaiser Pilder
+A small fighter that serves as Mazinkaiser's cockpit. Like the Brain Condor it docks nose-first, but must transform to do so. Docking shifts the Kaiser from "Demon" mode to "God" and "Z" modes, so it serves as the Kaiser's safety device.
+#222 Aphrodite A
+A female robot built by Professor Yumi of the Photon Power Laboratory. First built to mine Japanium ore, it was armed to face Dr. Hell's invasion. Late in the anime a Demon Mechanical Beast destroyed it, and the Diana A replaced it.
+#223 Diana A
+Mazinger Z's new female partner robot, replacing the destroyed Aphrodite A. A motorcycle, the Scarlet Mobile, docks with its head as the cockpit. Built for fighting Mechanical Beasts from the start, it is stronger than the Aphrodite A, but a cockpit that is just a motorcycle is in a way more dangerous than the Boss Borot's.
+#224 Boss Borot
+A robot Boss forced the Lab's three doctors to build. Made from scrap, it still sometimes helped Mazinger Z and Great Mazinger. Boss's ideas led to all sorts of upgrades as needed.
+#225 Garada K7
+A Mechanical Beast built by Dr. Hell.
+It appears with Doublas M2 in episodes 1 and 2, "A Marvelous Robot Is Born" and "Stop the Ashura Corps." The first Mechanical Beast Mazinger Z ever fought.
+#226 Doublas M2
+A Mechanical Beast Dr. Hell modeled on giants found on Bardos Island in the Mediterranean. It appears in episodes 1 and 2, like Garada K7.
+#227 Tauros D7
+A Mechanical Beast built by Dr. Hell.
+It appears in the Mazinger movie "Mazinger Z vs. Devilman." Known for its four-legged design and giant horn, it favors, as it looks, charging with that horn.
+#228 Abdul U6
+A Mechanical Beast built by Dr. Hell. Seen in episode 8, "The Truth of the Great Demon Abdul!!" It hid in a park's giant demon statue to wreck the city at night.
+#229 Jenoba M9
+A Mechanical Beast built by Dr. Hell. It appears in episode 66, "Jenoba M9, the Invisible Assassin." A long-range sniper, it troubles Mazinger Z from beyond radar range. Very proud, it has total faith in its skill. So once it knows it has lost, it destroys itself.
+#230 Glossam X2
+An underwater Mechanical Beast built by Dr. Hell. It appears in episode 18, "Glossam, Pirate Gang of the Sea!" It sank ships with its giant head claws and torpedoes, and once beat Mazinger Z, weak underwater. So Dr. Gordon, a rocketry expert, and his daughter Rita fitted Mazinger Z with water jets.
+#231 Genocider F9
+A flying Mechanical Beast built by Dr. Hell. It appears in episode 34, "Red Lightning: The Flying Mazinger." Packed with 10,000 t of explosives, it put Koji in mortal peril, blowing up its own hands against the Photon Power Laboratory's barrier. But it fell easily to Mazinger Z with the Jet Scrander.
+#232 Gushios Beta III
+The first Demon Mechanical Beast, lent to Dr. Hell by Archduke Gorgon of the Mycenae vanguard. It appears in episode 69, "Melted in Midair! Hover Pilder." Its soft body troubles Mazinger Z more than any Mechanical Beast before it. It spits corrosive fluid, which destroyed the Hover Pilder.
+#233 Jetfire P1
+A Mechanical Beast modeled on the fallen Baron Ashura. In episode 79, "One Second Before Mazinger Explodes!!", it seeks to avenge him.
+#234 Haribyun V6
+A Mechanical Beast of Dr. Hell in episode 91, "Last Chance!! Dr. Hell's Final Battle!!" Guarding Hell Island, it dragged Mazinger Z into the sea with harpoons from its hands and feet.
+#235 Bood
+Baron Ashura's new sea fortress after the Salude fell. Mechanical Beasts launch from the mouth of the face atop its hull. Besides Beasts, it carries submarines, jet fighters and paratroopers.
+#236 Ghoul
+Count Brocken's flying fortress. Beasts launch from its front mouth, and it has a factory inside. It can operate a month without resupply, hiding in cloud-like smoke to carry out missions. It also carries paratroopers of Brocken's Iron Cross Corps.
+#237 Great Mazinger
+A combat super robot built by Dr. Kenzo Kabuto on Mazinger Z's basic design, foreseeing the Mycenae invasion.
+It runs on Photon Power, with armor of Chogokin New Z. It is piloted by the small fighter Brain Condor docking ("Fire On") with it. Its retractable back wings, the Scramble Dash, let it fly at Mach 4.
+Many weapons follow Mazinger Z's concept, but its signature arms are the Mazinger Blade for close combat and the ultra-high-voltage Thunder Break.
+The Great Booster was later built to boost its speed and power (though it ended up disposable).
+Its weak spot is the Scramble Dash housing; a hit there briefly paralyzes all its functions.
+#238 Brain Condor
+A small fighter that serves as Great Mazinger's cockpit. Docking, called "Fire On," is nose-first and vertical into the body. Well armed, it performs well as a fighter. Famous for its oddly long but thrilling launch sequence.
+#239 Venus A
+A female combat robot built by Dr. Kenzo Kabuto as Great Mazinger's partner, foreseeing the Mycenae invasion. It is piloted from the small fighter Queen Star. Built for combat from the start, it can take on Battle Beasts. The later Venus Scrander lets it fly.

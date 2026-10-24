@@ -1,0 +1,68 @@
+category,series,jp,en_final,notes
+pilot,,(無人),(Unmanned),
+pilot,,???,???,
+pilot,Brave Raideen,アギャール,Agyaru,"decidido 2026-09-28 (#43, ver decisiones.csv)"
+pilot,Mobile Suit Victory Gundam,エリシャ・クランスキー,Elisha Klansky,"decidido 2026-09-28 (#43, ver decisiones.csv)"
+pilot,Mobile Suit Victory Gundam,マルチナ・クランスキー,Martina Klansky,"decidido 2026-09-28 (#43, ver decisiones.csv)"
+pilot,Mobile Suit Victory Gundam,カレル・マサリク,Karel Masaryk,
+pilot,Mobile Suit Victory Gundam,トマーシュ・マサリク,Tomache Massarik,"decidido 2026-09-28 (#43, ver decisiones.csv)"
+pilot,Mobile Suit Victory Gundam,ムッターマ・ズガン,Mutterma Zugan,
+pilot,Mobile Suit Gundam: Char's Counterattack,ハサウェイ・ノア,Hathaway Noa,
+pilot,Mobile Suit Gundam F91,ベラ・ロナ,Berah Ronah,
+pilot,Super Dimensional Fortress Macross,ミリア639,Milia 639,
+pilot,Brave Raideen,バラオ,Barao,
+pilot,Mobile Suit Gundam 0083: Stardust Memory,ルセット・オデビー,Lucette Audevie,"decidido 2026-09-28 (#43, ver decisiones.csv)"
+pilot,Combattler V,南原博士,Dr. Nanbara,
+pilot,Mazinger Z,弓教授,Professor Yumi,
+pilot,Mazinger Z,光子力研究所所員,Photonic Lab Staff,
+pilot,Giant Robo,ジャイアントロボ,Giant Robo,
+pilot,Neon Genesis Evangelion,ゼーレ,SEELE,
+pilot,Neon Genesis Evangelion,第7使徒イスラフェル甲,Israfel (A),"Angel 7; oficial: ""Israfel"""
+pilot,Neon Genesis Evangelion,第7使徒イスラフェル乙,Israfel (B),
+pilot,Aim for the Top! Gunbuster,宇宙怪獣上陸艇,Space Monster Lander,Gunbuster: Space Monsters
+pilot,Aim for the Top! Gunbuster,宇宙怪獣兵隊,Space Monster Soldier,
+pilot,Aim for the Top! Gunbuster,宇宙怪獣合体怪獣,Space Monster Fusion,
+pilot,Aim for the Top! Gunbuster,宇宙怪獣混合型,Space Monster Mixed,
+pilot,Aim for the Top! Gunbuster,宇宙怪獣高速型,Space Monster Fast,
+pilot,,ジオン兵,Zeon Soldier,genérico
+pilot,,ジオン強化兵,Zeon Cyber Soldier,genérico
+pilot,,ネオ・ジオン兵,Neo Zeon Soldier,genérico
+pilot,,ネオ・ジオン強化兵,Neo Zeon Cyber Soldier,genérico
+pilot,,ティターンズ兵,Titans Soldier,genérico
+pilot,,ティターンズ強化兵,Titans Cyber Soldier,genérico
+pilot,,ザンスカール兵,Zanscare Soldier,genérico
+pilot,,ザンスカール強化兵,Zanscare Cyber Soldier,genérico
+pilot,,連邦軍兵,Federation Soldier,genérico
+pilot,,強化兵,Cyber Soldier,genérico
+pilot,,エリート兵,Elite Soldier,genérico
+pilot,,親衛隊兵,Royal Guard,genérico
+pilot,,ゼントラン兵,Zentran Soldier,genérico (Macross: Zentradi)
+pilot,,メルトラン兵,Meltran Soldier,genérico (Macross: Meltrandi)
+pilot,,バイストン・ウェル兵,Byston Well Soldier,genérico
+pilot,,帝国監察軍兵,Aerogater Soldier,decidido 2026-09-27 (decisiones.csv)
+pilot,,予言者,Prophet,
+pilot,,人工知能,A.I.,
+pilot,,人工知能改,A.I. Kai,
+pilot,,謎の声,Mysterious Voice,
+ui,,移動,Move,visto en juego: menú de comandos de unidad
+ui,,攻撃,Attack,visto en juego: menú de comandos
+ui,,精神,Spirit,visto en juego: menú de comandos (Spirit Commands)
+ui,,能力,Status,visto en juego: menú de comandos
+ui,,武器選択,Select Weapon,visto en juego: título lista de armas
+ui,,弾数,Ammo,"visto en juego: lista de armas (el juego usa 弾数, no 弾薬)"
+ui,,反撃不能,Can't Counter,visto en juego: vista previa de combate
+ui,,気力,Will,visto en juego: vista previa de combate
+ui,,命中率,Hit %,visto en juego: vista previa de combate
+ui,,レベル,Lv,visto en juego: vista previa (レベル ??)
+ui,,戦闘デモ表示,Battle Anim.,visto en juego: ON/OFF antes del combate
+ui,,資金,Funds,visto en juego: resultado de combate
+ui,,経験値,EXP,visto en juego: resultado de combate
+ui,,クリティカル,Critical!,visto en juego: cartel en batalla (probablemente gráfico)
+pilot,Banpresto Originals,ブリット,Bullet,apodo por defecto de Brooklyn Luckfield ($n/$N/$l; ENTR_GRP y nombre corto de PILOT.BIN); tope 8 caracteres (notes/nombres_protagonistas.md)
+pilot,Banpresto Originals,ユウ,Yuu,apodo por defecto de Yuuki Jaggar ($n/$N/$l; ENTR_GRP y nombre corto de PILOT.BIN); tope 8 caracteres (notes/nombres_protagonistas.md)
+pilot,Banpresto Originals,リョウト,Ryoto,apodo por defecto de Ryoto Hikawa ($n/$N/$l; ENTR_GRP y nombre corto de PILOT.BIN); tope 8 caracteres (notes/nombres_protagonistas.md)
+pilot,Banpresto Originals,タスク,Tasuku,apodo por defecto de Tasuku Shinguji ($n/$N/$l; ENTR_GRP y nombre corto de PILOT.BIN); tope 8 caracteres (notes/nombres_protagonistas.md)
+pilot,Banpresto Originals,リオ,Rio,apodo por defecto de Rio Mei Long ($n/$N/$l; ENTR_GRP y nombre corto de PILOT.BIN); tope 8 caracteres (notes/nombres_protagonistas.md)
+pilot,Banpresto Originals,レオナ,Leona,apodo por defecto de Leona Garstein ($n/$N/$l; ENTR_GRP y nombre corto de PILOT.BIN); tope 8 caracteres (notes/nombres_protagonistas.md)
+pilot,Banpresto Originals,クスハ,Kusuha,apodo por defecto de Kusuha Mizuha ($n/$N/$l; ENTR_GRP y nombre corto de PILOT.BIN); tope 8 caracteres (notes/nombres_protagonistas.md)
+pilot,Banpresto Originals,カーラ,Carla,apodo por defecto de Ricarla Borgnine ($n/$N/$l; ENTR_GRP y nombre corto de PILOT.BIN); tope 8 caracteres (notes/nombres_protagonistas.md)

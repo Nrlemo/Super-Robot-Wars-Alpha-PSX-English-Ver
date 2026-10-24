@@ -1,0 +1,83 @@
+#380 VF-1J Valkyrie B
+The ground combat form of the VF-1J Valkyrie. In the TV series, the first unit Hikaru flew after joining the U.N. Forces. Seen in the opening and eyecatches, it is likely the type viewers of the time remember best. It is also the earliest Valkyrie type, but probably fewer were built than the standard A type.
+#381 VF-1J Armored Valkyrie
+A VF-1 fitted with the Protector Weapon System to cover the series' weak firepower and armor. It cannot transform while armored, but hits harder. The protectors are easily shed for escape in an emergency. Like the Super Pack, it was standard Valkyrie gear for all units. Hikaru used it in TV episode 9, "Miss Macross"; the movie shows it in one scene.
+#382 VF-1J(S) Fighter
+The air combat/cruise form of the VF-1J Valkyrie with Super Pack. These colors are Max's, seen only in the TV series. The Super Pack differs in shape between TV and movie.
+#383 VF-1J(S) GERWALK
+The ground combat/cruise form of the VF-1J Valkyrie with Super Pack. These colors are Max's.
+#384 VF-1J(S) Battroid
+The ground combat form of the VF-1J Valkyrie with Super Pack. These colors are Max's.
+#385 VF-1J(S) Fighter
+The air combat/cruise form of the VF-1J Valkyrie with Super Pack. These colors are those of Milia, micronized, in the TV series. She sortied as a team with her husband Max.
+#386 VF-1J(S) GERWALK
+The ground combat/cruise form of the VF-1J Valkyrie with Super Pack. These colors are those of Milia, micronized, in the TV series.
+#387 VF-1J(S) Battroid
+The ground combat form of the VF-1J Valkyrie with Super Pack. These colors are those of the micronized Milia in the TV series.
+#388 VF-1S Fighter
+The air combat/cruise form of the VF-1S Valkyrie, for squad leaders. These colors are Focker's in the movie. He flew an S type in nearly the same colors in the TV series. After Focker's death in TV episode 18, "Pineapple Salad," Hikaru inherited it.
+#389 VF-1S GERWALK
+The ground combat/cruise form of the VF-1S Valkyrie, for squad leaders. These colors are Focker's in the movie.
+#390 VF-1S Battroid
+The ground combat form of the VF-1S Valkyrie, for squad leaders. These colors are Focker's in the movie, known for the skull mark on its body.
+#391 VF-1S(S) Fighter
+The air combat/cruise form of the VF-1S Valkyrie with Super Pack. The commander's S type has a twin beam cannon on the right of its large booster pack. So it is sometimes called the Strike Valkyrie, to set it apart from the Super Valkyrie. These colors are Focker's in the movie. It differs from the TV series' S-type Super Valkyrie in head, pack and arm shape.
+#392 VF-1S(S) GERWALK
+The ground combat/cruise form of the VF-1S Valkyrie with Super Pack. These colors are Focker's in the movie, nearly the same as on TV.
+#393 VF-1S(S) Battroid
+The ground combat form of the VF-1S Valkyrie with Super Pack. These colors are Focker's in the movie.
+#394 VF-1S(S) Fighter
+The air combat/cruise form of the VF-1S Valkyrie with Super Pack. These colors are Hikaru's in the movie's final battle.
+#395 VF-1S(S) GERWALK
+The ground combat/cruise form of the VF-1S Valkyrie with Super Pack. These colors are Hikaru's in the movie's final battle.
+#396 VF-1S(S) Battroid
+The ground combat form of the VF-1S Valkyrie with Super Pack. These colors are Hikaru's in the movie's final battle.
+#397 VT-1 Valkyrie F
+A two-seat Valkyrie for training. It can take GERWALK form, but lacking arms, it just extends its legs. Extra tanks all over save fuel wasted by clumsy trainees. In the movie Hikaru and Minmay used it for a date in space. It may actually be the unit with the most screen time in the movie. Unlike in the game, it really has no weapons.
+#398 Destroid Monster
+The largest, best-armed Destroid, the Macross's ground weapons; a non-orbital land unit. Built as a walking land battleship, it is too slow to fight alone. But its firepower exceeds a strategic bombing. It needs a crew of three: pilot, gunner and controller.
+#399 Nupetiet-Vergnitzs
+Formally (TV) the Nupetiet-Vergnitzs 5631. A mid-size Zentradi fleet command ship. Known as a fine ship, very practical and hard to damage.
+#400 Queadol-Magdomilla
+Formally the Queadol-Magdomilla 10107. A Zentradi fleet command ship. Built as an assault ship, but its complex hull leaves weak points.
+#401 Thuverl-Salan
+The Zentradi standard battleship, long the mainstay of Zentradi fleets.
+#402 Boddole Flagship
+Flagship of the Zentradi Boddole main fleet. A giant mobile fortress built around the huge bio-computer Golg Boddole Zer, up to about 600 km wide. The hub of over 5 million warships, and the only Zentradi weapon able to repair itself.
+#403 Gnerl Fighter Pod
+A Zentradi aerial combat mobile weapon for use in and out of the atmosphere. Weak alone, it is mainly used in groups.
+#404 Regult
+A Zentradi infantry mobile weapon. Its simple build makes it easy to produce, and it is the mainstay of all forces. Several variants exist, such as scouts. In the movie it appears in the opening battle.
+#405 Regult
+A Regult variant, with more missiles without losing mobility. There is also a scout type.
+#406 Glaug
+The final version of the Zentradi battle pods, fast and heavily armed. But its plants are already destroyed, so it is rarely seen. A dedicated large booster pack extends its operating time and mobility. In the TV series Quamzin used it.
+#407 Nousjadeul-Ger
+The final model of the Zentradi Nousjadeul power armor series. Close to an armored, armed spacesuit, but heavily armed and agile. Its semi-organic interior links directly to the soldier's body.
+#408 Meltrandi Battleship
+The Meltrandi standard battleship.
+#409 Meltrandi Gunship
+A fast, high-output battleship, called the Milia ship as Milia's mothership in the movie. Said to be as agile as a space fighter, it excels at high-speed combat.
+#410 Lap Lamiz Flagship
+Flagship of the Meltrandi Lap Lamiz main fleet, matching the Zentradi Boddole flagship in size and power. At its core is Moruk Lap Lamiz, a huge bio-optical holographic computer.
+#411 Queadluun-Rau
+The fast, agile model of the Queadluun series of battle suits used by elite Meltrandi female officers. A strong, well-armed unit whose tech was later used in the YF-21. These colors are Milia 639's.
+#412 Queadluun-Rau
+Max's unit, a fast Meltrandi battle suit. In the movie, after fighting Milia, Max chose to become a giant and flew this unit.
+#413 Queadluun-Rau
+The fast Queadluun series battle suit of elite Meltrandi female officers. Colors for regular soldiers.
+#414 YF-19 Fighter
+A next-generation all-environment fighter (ADVANCED VARIABLE FIGHTER) built by Shinsei Industry. Code name: Excalibur; a two-seater. A development of the VF-11, a direct descendant of the VF-1, it adopts breakthroughs like super AI avionics and standard pinpoint barriers. It climbs superbly, reaching its aerodynamic ceiling in 48 seconds. It can serve alone as an anti-ship attacker, and against mobile weapons it far outclasses older units. It can also mount Fast Packs, extra arms, and a fold booster, though it can fold only about 20 light-years (one way).
+#415 YF-19 GERWALK
+The YF-19's GERWALK mode.
+Like its other modes, it far outperforms older models.
+#416 YF-19 Battroid
+The VF-19's Battroid mode.
+A strong melee fighter, it can focus its pinpoint barrier on its fists to strike. In the anime it carried optional arms like a grenade launcher on its arm during tests.
+#417 YF-21 Fighter
+A next-generation all-environment fighter built by General Galaxy. Code name: Sturm Vogel. It uses active stealth and BDI brain-wave control for flight and fire control; the pilot syncs body with machine and controls all by brain waves. Its wings of new material change their shape and area as needed. Even normally it matches the YF-19, and with its limiter off and its arms and legs, useless in Fighter mode, discarded, it gets even faster. But then neither machine nor pilot can bear the G-forces. In the anime, Guld removed the limiter against the unmanned stealth fighter Ghost X-9 and downed it at the cost of his life.
+#418 YF-21 GERWALK
+The YF-21's GERWALK mode.
+#419 YF-21 Battroid
+The YF-21's Battroid mode.
+It uses the Queadluun-Rau's attitude control system, so their shapes are alike.

@@ -1,0 +1,92 @@
+#130 Victory Gundam
+Formally the "Victory Gundam."
+A multiple mobile suit built by the League Militaire, seeking the image of past Gundams.
+Its structure seems modeled on the first Gundam: a Core Fighter, Top Limb (hanger) and Bottom Limb (boots). High performance and versatility, plus ease of production, make it the League's mainstay. All parts but the Core Fighter are mass-produced as expendables, and Uso even used this to ram enemies with the Bottom Limb.
+#131 Top Fighter (V)
+A fighter formed by the Core Fighter and the Top Limb, the Victory's upper body. Its arms still move in this form, so it can use not only its beam rifle but its beam saber and beam shield. It takes this form after a Bottom Limb attack, so it is used often.
+#132 Core Fighter (V)
+A small fighter and escape pod that forms the Victory Gundam's cockpit block.
+Unlike other Gundams' Core Fighters, it forms the head and chest, not the belly. It can also dock with the Top Limb (upper body) as the Top Fighter, or with the Bottom Limb (lower body) as the Bottom Fighter. With a Minovsky flight system, it can hover at low altitude.
+#133 V-Dash Gundam
+Formally the "Victory Dash Gundam." The Victory Gundam fitted with the optional Overhang Pack, a large beam cannon that doubles as a booster, sharply raising its arms and thrust.
+When it separates in this state, the Overhang Pack attaches to the Core Fighter to form the Core Booster (not in the game).
+#134 Top Fighter (VD)
+The V-Dash Gundam after shedding its Bottom Parts and Overhang Pack. Same shape and performance as the Victory's Top Fighter.
+#135 Core Fighter (VD)
+A small fighter and escape pod that forms the V-Dash Gundam's cockpit block. Unlike other Gundams' Core Fighters, it forms the head and chest, not the belly. The Victory and V-Dash share the same head and chest, so the Core Fighter is identical.
+#136 V2 Gundam
+Formally the "Victory Two Gundam." As the name says, the Victory's successor, built with the latest tech as the League Militaire's symbol. It becomes Uso's second machine.
+Like the Victory, it consists of a Core Fighter, Top Limb and Bottom Limb. Its key feature is the Minovsky Drive System. This gives it thrust far beyond fusion engines, and emits charged particle beams from V-shaped wings on its back for attack and defense (the "Wings of Light").
+But it loses the Victory's ease of production; only two Core Fighters, which house the Minovsky Drive, seem to have been built (one was lost when Oliver rammed the Adrastea). So the Top and Bottom Limbs seem not to have been mass-produced either, and it never used the Victory's trick of ramming with the Bottom Limb.
+The League is also said to have built the "Second V" (or "V Second"), a Victory with V2-level performance.
+#137 V2 Assault Gundam
+One of the add-on forms using the hardpoints all over the body, which the Victory used only for the Overhang Pack; suited to short and mid range.
+With an I-field generator, anti-beam armor, VSBRs, a mega beam rifle and a mega beam shield, this assault form stresses defense as much as offense. In the anime, Uso deployed the Wings of Light and the Mega Beam Shield's barrier bits to shield units behind him.
+#138 V2 Buster Gundam
+One of the add-on forms using the hardpoints all over the body, which the Victory used only for the Overhang Pack.
+It carries a long range cannon, spray beam pods and micro-missile pods. Made for long-range fire, it stresses firepower.
+Its long range cannon is devastating, sinking enemy battleships in one shot.
+#139 V2 Assault Buster Gundam
+The Assault and Buster options are designed not to interfere when worn together. With both on at once, it is called the V2 Assault Buster Gundam. It is a mass of weapons, but the Minovsky Drive's immense output means thrust barely suffers. A phantom form seen only once in the anime. In overall performance and length of name, it ranks near the top of Universal Century Gundams.
+#140 Core Fighter (V2)
+An ultra-fast fighter and escape pod that forms the V2 Gundam's cockpit block. Like the Victory's, it forms the head and chest, not the belly. It houses the Minovsky Drive unit, so even alone it is amazingly fast.
+#141 Victory Gundam Hexa
+Formally the "Victory Gundam Hexa." A Victory with stronger comms for commanders. Outwardly, the V-shaped head antenna is gone, and high-performance sensors sit where its ears would be. Apart from the head, it is identical to the Victory Gundam.
+#142 Top Fighter (VH)
+The Top Limb docked with the Hexa's Core Fighter. Save for head and comms, it equals the Victory's.
+#143 Core Fighter (VH)
+A small fighter and escape pod that forms the Victory Gundam Hexa's cockpit block. Since the Victory's Core Fighter houses the head, the Hexa's differs slightly in shape. It can also serve as a Top Fighter or Bottom Fighter.
+#144 Gun-EZ
+A mass-produced MS built by the League Militaire alongside the Victory Gundam. It lacks the Victory's transformation and separation, but its base performance is far above Federation mass-produced units. In the anime it was mainly used by the Shrike Team.
+#145 Gunblaster
+A Gun-EZ with a booster pack for more mobility. Like the Gun-EZ, many were built and sent to the front. Its backpack's shape gives it the nickname "Twin Tail."
+#146 White Ark
+A small League Militaire ship for air and space, carrying four MS on its wings. Crewed by Marbet and the children, it served as the mothership of Uso's group when apart from the Reinforce Jr. It can enter the atmosphere alone.
+#147 Reinforce Jr.
+A League Militaire space cruiser and flagship of its fleet. It was hastily built from the old Federation ship Reinforce (likely the Space Ark's class from Gundam F91) and parts of the captured Zanscare battleship Squid. In the anime, its beam ram was used as a weapon only once. In the end, Gomez, Jin Jahanam and others rammed it into the Zugan fleet to open a path, and it sank.
+#148 Zoloat
+Zanscare's first mass-produced MS. A well-balanced unit that became the basis of later Zanscare MS. Its signature weapon is the five-barreled beam strings on its shoulders, used in combat and to capture enemies.
+#149 Shokew
+A prototype ground MS built by Zanscare's BESPA. Like other BESPA units, it flies with a beam rotor. It was also the first MS Uso piloted. Its trials led to its official adoption, and it became the base of the Rig Shokew.
+#150 Contio
+A BESPA space MS. The wired shot claws on its shoulders strike enemies from blind spots. An excellent unit, but its controls are complex, demanding great skill to master. Prototype and mass-produced types exist.
+#151 Ricarl
+A large mobile armor used by BESPA in the atmosphere. Fast, well armed and long-ranged. Besides combat, officers ride it to command and travel. The League Militaire seems to have called it the "Frying Pan."
+#152 Gedlav
+A mass-produced Zanscare MS. Built for ground combat, it rides the Einrad, a tire-shaped support machine for offense and defense. With its arm beam shields out, the Einrad has no blind spots, troubling the League. Nicknamed "Tire."
+#153 Rig Shokew
+A mass-produced BESPA MS, the production model of the Shokew that Chronicle tested on Earth. The Imperial Guard in Zanscare's homeland uses a custom version.
+#154 Doggorla
+A giant BESPA mobile armor. Its long body, the Tail Rad, consists of containers that can each move. It can shed damaged containers and rejoin the rest, avoiding loss of function from partial damage. There is a green space unit flown by Broho and an orange unit for gravity flown by Lupe Cineau. In the anime, it used cloud-shaped dummy balloons in battle, looking just like the opening of a certain classic anime of old folk tales.
+#155 Zanneck
+A prototype BESPA MS. Known for the powerful long-range particle cannon Zanneck Cannon and the two huge particle accelerators on its back that power it. Fuala, back from exile in space, flew it, tormenting the League Militaire with shots from high altitude on its sub-flight system, the Zanneck Base.
+To track enemies, it carries a psycommu-like system that syncs with Fuala's bells, letting her sense the foe directly.
+In the novels, the League called it "Crescent Moon Boofoo."
+#156 Rig Contio
+A BESPA space MS, an upgraded Contio. Its output is far higher, and besides shot claws it carries a folding variable mega beam launcher. Chronicle flew it in a death match with Uso's V2 Gundam on the falling Angel Halo.
+#157 Gottrlatan
+A prototype BESPA MS, Katejina's last unit. It carries a huge beam cannon with its own built-in generator. It also has strong melee weapons, able to fight at any range. The beam cannon folds onto its back in close combat.
+In the anime, it had a fierce shootout with the V2 Buster Gundam and its long range cannon.
+#158 Adrastea
+A landing battleship of Zanscare's Motorad fleet, known as the bike battleship. Devised by Duker Iq for Operation Earth Clean, it was mass-produced with the smaller Lysithea. On Earth its two giant wheels "leveled the ground," terrifying the League Militaire and the people of Earth. When flying, it swings its wheels out to the sides.
+#159 Wing Gundam
+One of the five colony-made Gundams that descended to Earth in Operation Meteor. Built in the L1 colonies by Doctor J.
+As its name says, it is known for its wings, and is armored in gundanium alloy. It alone of the five Gundams can transform, into Bird Mode. This lets it fly in the atmosphere, giving it great versatility and range. Its main weapon is the Buster Rifle, which can kill in one shot. But at full power the rifle fires only three times, so it often fights up close with its beam saber. Its pilot Heero once blew it up, but Zechs, eager to fight Heero, had it rebuilt.
+#160 Wing Gundam (Bird Mode)
+The Wing Gundam's flight mode.
+Powerful and fast, in the anime it even flew carrying other mobile suits.
+#161 Wing Gundam Zero
+The first and strongest Gundam, built by the five scientists who designed the Gundams, after the Tallgeese. It can transform into Neo-Bird Mode, and the Wing Gundam seems to have been modeled on it.
+Its main weapon is the Twin Buster Rifle, powerful enough to destroy a colony in one shot. Its key feature is the ZERO System, which predicts enemy moves and attacks from vast past data and feeds the results straight into the pilot's brain.
+The ZERO System gives a huge edge in battle, but puts terrible strain on the pilot's brain, at times even showing visions of futures beyond the battle. It showed various futures to those who rode it, greatly shaping the Gundam pilots' actions, and in the end became Heero's unit.
+#162 Wing Zero (Neo-Bird Mode)
+Formally "Wing Gundam Zero, Neo-Bird Mode."
+The Wing Gundam Zero's flight mode, with even more thrust than the Wing Gundam's Bird Mode.
+#163 Wing Gundam Zero Custom
+Another form of the Wing Gundam Zero.
+It cannot transform, but its larger wings let it fly in MS form. The wings also serve as heat shields for atmospheric entry and as defense against attacks. In the anime the wings not only flap but shed feathers (the movie reveals verniers between them). Its weapon is the Twin Buster Rifle, which it suddenly held when it rose from the sea. So one might think the rifle was lying in the sea, but it was likely hidden in the wings or on its back.
+Near the end, it fires the Twin Buster Rifle at full power to break the shelter of the Brussels presidential palace, held by the Mariemaia Army, and is wrecked in the process...
+#164 Gundam Deathscythe
+One of the five colony-made Gundams that descended to Earth in Operation Meteor. Built in the L2 colonies by Professor G. Armored in gundanium alloy.
+Its hyper jammer gives it high stealth, suited to covert ops. Its pilot Duo calls it the God of Death, and it has surely buried every foe it met.
+Its main weapon, the giant beam scythe it is named for, can cut enemy MS in two. It also carries a buster shield for offense and defense.

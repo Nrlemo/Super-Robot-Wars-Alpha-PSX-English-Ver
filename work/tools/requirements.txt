@@ -1,0 +1,8 @@
+# Dependencias de Python de las herramientas (work/tools/src), las del venv de server1 (work/.venv).
+# Las usa también el CI (.github/workflows/check.yml). El resto de los scripts es solo stdlib.
+numpy==2.4.6            # tim.py, font_build.py, vwf_table.py, pilot_bin.py
+pillow==12.3.0          # capturas, hojas de contactos, TIM → PNG
+pycdlib==1.21.0         # verificación de la imagen (build_all.py verify, test_build_all)
+segno==1.6.6            # dedicatoria.py (QR de la pantalla de dedicatoria, #279)
+beautifulsoup4==4.15.0  # glossary_build.py (páginas guardadas en info/)
+lxml==6.1.3             # parser de beautifulsoup4

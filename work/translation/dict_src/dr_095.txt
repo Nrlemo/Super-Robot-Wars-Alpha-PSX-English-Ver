@@ -1,0 +1,75 @@
+#95 Gaza D (MA)
+The Gaza D's mobile armor form.
+In this form it can also fly in the atmosphere.
+#96 Galluss-J
+A ground-type MS built by Neo Zeon for the Earth campaign. Made for melee, its signature weapon is the Arm Punch, which extends its arm.
+#97 Zssa
+A rear support MS built by Neo Zeon. Meant to fight alongside the melee-oriented Galluss-J, it gives covering fire with missiles all over its body. With a booster that even lets it fly in the atmosphere, it can also raid enemy lines, fire its missiles and pull out. It also carries a beam saber for close combat once the booster and missile pods are dropped.
+#98 R-Jarja
+A Neo Zeon MS for melee and for knights (commanders). Its concept follows the YMS-15 Gyan, a Zeon MS of the One Year War. Its signature weapon is a beam rifle with a bayonet.
+#99 Dreissen
+Neo Zeon's final Dom-type MS. Built for the Earth landing, it also performs well in space. Mostly armed for melee, its signature weapon is the Tri-Blade cutter.
+#100 Hamma Hamma
+A prototype MS built by Neo Zeon. Thrusters all over its body give it high mobility. The triple beam guns on its arms are wired psycommu weapons for all-range attacks. A strong unit, but it suits only certain pilots, so it was never mass-produced. Mashymre flew it and wrecked Judau's Zeta.
+#101 Bawoo
+A transformable MS built by Neo Zeon. Its upper and lower halves split into the Bawoo Attacker and Bawoo Nutter, the Nutter being radio-guided by the Attacker. Glemy's prototype is all orange, with the kanji for "Flying Dragon" on its skirt. Mass-produced units are green.
+#102 Zaku III
+A prototype Neo Zeon MS, the final Zaku type. A versatile unit that swaps weapons as needed. But it lost to the Doven Wolf in firepower and thrust, so few were made.
+#103 Zaku III Kai
+A custom Zaku III. Based on its assault loadout, with more thrust and some new weapons. Mashymre, loyal to Haman, flew it against Rakan's Space Wolf unit, which sided with Glemy.
+#104 Doven Wolf
+A heavy MS built by Neo Zeon. Its design drew on the Psyco Gundam Mk-II, and it carries wired incoms, quasi-psycommu weapons that anyone can use. Weapons all over its body give it great firepower. A few were mass-produced for Rakan's Space Wolf unit, which served Glemy. Rakan's unit has hidden arms in its forearms that normal units lack.
+#105 Geymalk
+A Neo Zeon Newtype MS, armed all over with heavy weapons like its hyper mega particle cannon. Its child funnels launch from mother funnels in two stages, so they can strike from farther than other models' funnels. Chara, loyal to Haman to the end, flew it against Glemy's mass-produced Qubeleys.
+#106 Qubeley Mk-II
+A prototype Neo Zeon Newtype MS, improved from Haman's prototype Unit 1. The black prototype Unit 2 is flown by Ple. The main change is a three-pronged beam saber that doubles as a beam gun, slightly raising its power; otherwise it matches Unit 1.
+#107 Qubeley Mk-II
+A prototype Neo Zeon Newtype MS, improved from Haman's prototype Unit 1. The red prototype Unit 3 is flown by Ple Two. Unlike Unit 2, it has a psycommu controller that allows remote control; otherwise it matches Units 1 and 2.
+#108 Quin Mantha
+A giant Neo Zeon Newtype MS. Besides psycommu funnels, it has mega particle cannons and beam sabers for close combat. Its head doubles as an escape pod and can fly alone. Neo Zeon's strongest MS, Glemy's trump card, flown by Ple Two to crush the Gundam Team.
+#109 Endra
+A cruiser used by Neo Zeon.
+Several sister ships in other colors exist, like the yellow Mindora and navy Sandra.
+#110 Nu Gundam
+A Newtype MS built by Anaheim Electronics with all its might at the request of the Federation's Londo Bell. Its pilot Amuro helped design it; a super high-performance unit, the culmination of all Gundams. The psycoframe, a new material supplied by Neo Zeon leader Char Aznable, is used around its cockpit and drive system, giving it superb response and agility. The psycoframe also controls its signature weapon, fin funnels, the first psycommu weapons on a Gundam.
+Fin funnels are bigger and stronger than normal funnels; besides firing as mega particle guns, several can combine to make a magnetic field and deploy a beam barrier. It also carries a balanced set of beam, solid and melee weapons.
+It fought Char's Sazabi to the death on the falling Axis, then, to stop Axis's fall, formed a mysterious force field through psycoframe resonance. With its arms, performance and Amuro's skill, it is no stretch to call it the strongest Gundam.
+#111 Nu Gundam HWS
+The full armor concept of past Gundam plans applied to the Nu Gundam. Fitted with the Heavy Weapon System, its added boosters keep it mobile despite the weight of armor like its enlarged shield. It also carries a hyper mega rifle for more firepower.
+#112 Re-GZ (BWS)
+The Re-GZ's mobile armor form, fitted with its Back Weapon System. Its agility, long-range cruising and firepower rise sharply. But the BWS is nearly disposable; once it splits off into MS form, it cannot be refitted (in the field).
+#113 Re-GZ
+A prototype MS built by Anaheim Electronics and used by Londo Bell. A simplified mass-production prototype of the Zeta Gundam, it becomes a mobile armor by wearing its Back Weapon System. This keeps performance high while easing production. But it was still far costlier than other mass-produced units, and only Londo Bell's single unit saw service. "Re-GZ" stands for "Refined Gundam Zeta."
+#114 Jegan
+A mass-produced Federation MS, built by Anaheim Electronics with all its GM series know-how. Thrusters across its body make it mobile, and it carries a wide range of weapons. Londo Bell's mainstay, it was still in use in the U.C. 0120s of Gundam F91.
+#115 Ra Cailum
+Flagship of the Federation's Londo Bell. Besides its launch catapults, it has a landing deck at its stern. It also has a well-armored battle bridge apart from its normal bridge. The Jeanne d'Arc seen in Victory Gundam is its sister ship.
+#116 Geara Doga
+A mass-produced MS of Char Aznable's Neo Zeon. The culmination of Zeon tech so far, it swaps gear to suit the mission for high versatility. Easy to produce, it is Neo Zeon's mainstay. As per Zeon tradition, units of platoon leaders and up have head horns.
+#117 Geara Doga
+Rezin's Geara Doga, custom-tuned as her personal unit and repainted mainly blue.
+#118 Jagd Doga
+A Newtype MS of Char Aznable's Neo Zeon. It reuses the Geara Doga's movable frame, but has a higher-output generator. Added apogee motors and more greatly boost its mobility and agility. Besides many weapons it carries funnels, but it is a rush job, not quite enough as a Newtype unit. Two saw combat; Gyunei's is blue, with a long head antenna.
+#119 Jagd Doga
+A Newtype MS of Char Aznable's Neo Zeon. Quess's unit of the two used in combat, known for its reddish colors and a head antenna shorter than Gyunei's. Instead of Gyunei's beam assault rifle, it wields a mega gatling gun.
+#120 Alpha Azieru
+A giant Newtype mobile armor of Char Aznable's Neo Zeon, the trump card of the plan to freeze Earth by dropping Axis. A giant Sturm thruster unit where legs would be makes it quite agile for its size. Quess Paraya flew it, tormenting Londo Bell with funnels and overwhelming firepower.
+#121 Sazabi
+A Newtype MS of Char Aznable's Neo Zeon. Its built-in psycoframe gives it response far beyond older units. Heavily armored, yet thrusters all over make it agile and fast, a mighty unit fit for Neo Zeon's leader Char. Besides funnels it carries mega particle guns and more for great firepower.
+#122 Rewloola
+Flagship of Char Aznable's Neo Zeon, developed from Zeon's Gwazine-class of the One Year War. A large ship with top-class MS capacity and firepower.
+#123 Gundam F90V
+A high-performance small MS built in the Formula Project of SNRI, the Federation's Strategic Naval Research Institute. The F90 itself is made for melee, but by adding weapons to hardpoints all over, it can handle any battle. The VSBR type aims to raise overall combat power, with the latest beam weapon, the V.S.B.R. (Variable Speed Beam Rifle), and a beam shield. So it looks like the Gundam F91.
+#124 Gundam F91
+A high-performance small MS built in the Formula Project of SNRI, the Federation's Strategic Naval Research Institute. Officially read "Formula Ninety-One." Based on data from the earlier F90, it adopts new tech like a beam shield, a high-output generator and a bio-computer that grows stronger in sync with the pilot's mind. It also has more fixed weapons, like its mega machine cannons.
+When the Crossbone Vanguard attacked Side 4, Seabook, a pilot by chance, managed to link the unfinished bio-computer and took it into battle. When it reaches its limit, parts open to vent heat, and paint peeling off in the heat leaves trails like afterimages. These are the "afterimages with mass" that fool enemy sensors and eyes.
+#125 Vigna Ghina
+A prototype Crossbone Vanguard commander's MS. Fin nozzles, evolved from the Berga Dalas's shelf nozzles, make it highly mobile.
+#126 Rafflesia
+A giant space mobile armor built in the Rafflesia Project of Crossbone Vanguard leader Carozzo. Shaped like five petals, it carries weapons for every direction and range. It is controlled through cables linked to Carozzo's iron mask.
+#127 Berga Giros
+A commander's MS built by the Buch Concern, parent of the Crossbone Vanguard. Its movable shelf nozzle thrusters give it mobility no earlier unit had. Its sensors and thrusters are better than those of its cousin, the Berga Dalas.
+#128 Berga Giros
+A commander's MS built by the Buch Concern, parent of the Crossbone Vanguard. These colors mark Zabine's unit, leader of the elite Black Vanguard.
+#129 Berga Dalas
+A commander's MS built by the Buch Concern, parent of the Crossbone Vanguard. Specced for close combat. A little weaker than the Berga Giros, but armed nearly the same.

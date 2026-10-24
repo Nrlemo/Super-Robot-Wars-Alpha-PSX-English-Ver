@@ -1,0 +1,22 @@
+caja,x,y,w,h,jp,en,align,font,size,style
+H1,164,5,80,21,現在位置,Location,l,DejaVuSans-Bold,11,solid
+R01a,2,33,47,16,移動中,En Route,l,DejaVuSans-Bold,11,solid
+R01b,65,33,183,16,第２新東京市立第壱中学校,Tokyo-2 Municipal Jr. High #1,l,DejaVuSans-Bold,11,solid
+R02a,2,49,94,16,第２新東京市,Tokyo-2,l,DejaVuSans-Bold,11,solid
+R02b,128,49,64,16,東城学園,Tojo Academy,l,DejaVuSans-Bold,11,solid
+R03a,1,65,96,16,光子力研究所,Photon Power Lab,l,DejaVuSans-Bold,11,solid
+R03b,130,65,110,16,新早乙女研究所,New Saotome Lab,l,DejaVuSans-Bold,11,solid
+R04a,2,81,110,16,南原コネクション,Nanbara Connection,l,DejaVuSans-Bold,11,solid
+R04b,129,81,88,16,ＤＣ日本支部,DC Japan Branch,l,DejaVuSans-Bold,11,solid
+R05a,2,97,174,16,連邦軍極東支部 基地付近,Near Fed. Far East Branch Base,l,DejaVuSans-Bold,11,solid
+R05b,186,97,46,16,甲府市,Kofu City,l,DejaVuSans-Bold,11,solid
+R06a,1,113,160,16,ＥＶＡ３号機起動実験場,Unit-03 Activation Test Site,l,DejaVuSans-Bold,11,solid
+R06b,169,113,81,16,Ｎｅｒｖ本部,NERV HQ,l,DejaVuSans-Bold,11,solid
+R07a,1,129,79,16,ムトロポリス,Mutropolis,l,DejaVuSans-Bold,11,solid
+R07b,97,129,96,16,シン＝ザ＝シティ？,Shin-Za City,l,DejaVuSans-Bold,11,solid
+R07c,209,129,46,16,（２文字、判読不能）,Yokohama,l,DejaVuSansCondensed-Bold,11,solid
+R08a,0,145,129,16,大鳥島ビッグファルコン,Otori Island Big Falcon,l,DejaVuSans-Bold,11,solid
+R08b,146,145,101,16,ウィル・ウィプス,Wil Wiph,l,DejaVuSans-Bold,11,solid
+R09a,2,161,109,16,連邦軍伊豆基地,Fed. Izu Base,l,DejaVuSans-Bold,11,solid
+R09b,130,161,110,16,小笠原諸島付近,Near Ogasawara Is.,l,DejaVuSans-Bold,11,solid
+R10a,2,177,151,16,エンジェル・ハイロゥ内,Inside the Angel Halo,l,DejaVuSans-Bold,11,solid

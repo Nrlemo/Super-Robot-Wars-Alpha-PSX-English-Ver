@@ -1,0 +1,7 @@
+caja,x,y,w,h,jp,en,align,font,size,style
+E01,27,1,42,14,クリティカル,Critical!,c,game8,8,outline
+E02,100,1,55,14,シールド防御,Shield Def.,c,game8,8,outline
+E03,190,1,36,14,分身,Mirage,c,game8,8,outline
+E04,16,17,64,14,ゲッタービジョン,Getter Vision,c,game8,8,outline
+E05,96,17,65,14,マッハスペシャル,Mach Special,c,game8,8,outline
+E06,169,17,77,14,真マッハスペシャル,Shin Mach Special,c,game8,8,outline

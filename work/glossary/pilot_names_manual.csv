@@ -1,0 +1,66 @@
+campo,jp,en,motivo
+full,ｶﾄﾙ=ﾗﾊﾞ-ﾊﾞ=ｳｨﾅ-,Quatre R. Winner,Quatre Raberba Winner = 21 B (campo de 20)
+full,暗黒大将軍,Dark Great General,"Great General of Darkness = 25 B; decisión del mantenedor 2026-09-28 (INVESTIGACION_NOMBRES), D13; en diálogos sigue el nombre largo"
+full,ﾗｲﾃﾞｨ-ｽ=F=ﾌﾞﾗﾝｼｭﾀｲﾝ,Raidiese Branstein,Raidiese F. Branstein = 21 B
+full,ﾗｵﾃﾞｷﾔ=ｼﾞｭﾃﾞｯｶ=ｺﾞｯﾂｫ,Laodicea J. Gozzo,Laodicea Judecca Gozzo = 22 B
+full,素晴らしきﾋｨｯﾂｶﾗﾙﾄﾞ,Fab. Fitzcarraldo,"Fabulous Fitzcarraldo = 21 B; decisión del mantenedor 2026-09-28 (INVESTIGACION_NOMBRES), D06/L04"
+full,眩惑のｾﾙﾊﾞﾝﾃｽ,Dazzling Cervantes,Cervantes the Dazzler = 21 B
+full,ﾈｵ･ｼﾞｵﾝ強化兵,Neo Zeon Cyber Sldr,Neo Zeon Cyber Soldier = 22 B (glosario_revision.md punto 7)
+full,ｻﾞﾝｽｶ-ﾙ強化兵,Zanscare Cyber Sldr,Zanscare Cyber Soldier = 22 B (glosario_revision.md punto 7)
+full,東山大三郎,D. Higashiyama,Daizaburo Higashiyama (correcciones.csv) = 21 B
+full,混世魔王樊瑞,Chaos Lord Hanzui,Hanzui the Chaos Lord = 21 B
+full,激動たるｶﾜﾗｻﾞｷ,Stormy Kawarazaki,Kawarazaki The Stormy = 21 B
+short,暗黒大将軍,Dark General,campo corto de 12 B
+short,連邦軍兵,Fed Soldier,Federation Soldier = 18 B
+short,ﾃｨﾀ-ﾝｽﾞ兵,Titans Troop,Titans Soldier = 14 B
+short,強化兵,Cyber Troop,Cyber Soldier = 13 B
+short,ｾﾞﾝﾄﾗﾝ兵,Zentradi,"Zentradi Soldier = 16 B; decisión del mantenedor 2026-09-28 (INVESTIGACION_NOMBRES), D12"
+short,ﾒﾙﾄﾗﾝ兵,Meltrandi,"Meltrandi Soldier = 17 B; decisión del mantenedor 2026-09-28 (INVESTIGACION_NOMBRES), D12"
+short,謎の声,Voice,Mysterious Voice = 16 B
+short,ﾄｸﾜﾝ,Tokwan,no está en hablantes.csv
+short,ｹﾞ-ﾂ,Gates,no está en hablantes.csv
+short,ﾊｻｳｪｲ,Hathaway,no está en hablantes.csv
+short,ﾍﾞﾗ=ﾛﾅ,Berah Ronah,no está en hablantes.csv
+short,ﾄﾏ-ｼｭ,Tomache,no está en hablantes.csv
+short,ｺﾞｽﾞ,Goze,no está en hablantes.csv
+short,人工知能,A.I.,no está en hablantes.csv
+short,人工知能改,A.I. Kai,decisiones.csv
+short,ﾌﾞﾘｯﾄ,Bullet,apodo por defecto del protagonista (glosario)
+short,ﾕｳ,Yuu,apodo por defecto del protagonista (glosario)
+short,ﾘｮｳﾄ,Ryoto,apodo por defecto del protagonista (glosario)
+short,ﾀｽｸ,Tasuku,apodo por defecto del protagonista (glosario)
+short,ﾘｵ,Rio,apodo por defecto del protagonista (glosario)
+short,ﾚｵﾅ,Leona,apodo por defecto del protagonista (glosario)
+short,ｸｽﾊ,Kusuha,apodo por defecto del protagonista (glosario)
+short,ｶ-ﾗ,Carla,apodo por defecto del protagonista (glosario)
+short,(無人),(Unmanned),no está en hablantes.csv
+short,ﾈｵ･ｼﾞｵﾝ兵,Neo Zeon,Neo Zeon Soldier = 16 B
+short,ｻﾞﾝｽｶ-ﾙ兵,Zanscare,Zanscare Soldier = 16 B
+short,B･W兵,BW Soldier,Byston Well Soldier = 19 B
+short,ｴﾘ-ﾄ兵,Elite Troop,Elite Soldier = 13 B
+short,帝国監察軍兵,Aerogater,Aerogater Soldier = 17 B
+short,親衛隊兵,Imp. Guard,Imperial Guard = 14 B (decisiones.csv)
+short,ｻｷｴﾙ,Sachiel,Ángel
+short,ｼｬﾑｼｪﾙ,Shamshel,Ángel
+short,ﾗﾐｴﾙ,Ramiel,Ángel
+short,ｶﾞｷﾞｴﾙ,Gaghiel,Ángel
+short,ｲｽﾗﾌｪﾙ,Israfel,Ángel
+short,ｲｽﾗﾌｪﾙ甲,Israfel A,Ángel (甲/乙 = mitades A/B)
+short,ｲｽﾗﾌｪﾙ乙,Israfel B,Ángel (甲/乙 = mitades A/B)
+short,ﾏﾄﾘｴﾙ,Matarael,Ángel
+short,ｾﾞﾙｴﾙ,Zeruel,Ángel
+short,EVA量産機,MP EVA,"Mass Production EVA = 19 B; decisión del mantenedor 2026-09-28 (INVESTIGACION_NOMBRES), D14"
+short,兵隊,Troop Type,"monstruo espacial (Gunbuster); decisión del mantenedor 2026-09-28 (INVESTIGACION_NOMBRES), D15: Space Monster Troop"
+short,高速型,Fast Type,monstruo espacial (Gunbuster)
+short,上陸艇,Lander,monstruo espacial (Gunbuster)
+short,混合型,Mixed Type,"monstruo espacial (Gunbuster); decisión del mantenedor 2026-09-28 (INVESTIGACION_NOMBRES), D15: Space Monster Mixed"
+short,合体怪獣,Fused Type,"monstruo espacial (Gunbuster); decisión del mantenedor 2026-09-28 (INVESTIGACION_NOMBRES), D15: Space Monster Fused"
+short,ﾙｾｯﾄ,Lucette,no está en hablantes.csv
+short,ｷﾞｸﾞﾅﾝ,Kigunan,no está en hablantes.csv
+short,ｶﾚﾙ,Karel,no está en hablantes.csv
+short,ｴﾘｼｬ,Elisha,no está en hablantes.csv
+short,ﾏﾙﾁﾅ,Martina,no está en hablantes.csv
+short,ﾑｯﾀ-ﾏ,Mutterma,decisiones.csv (Mutterma Sugan)
+short,ｾﾞ-ﾚ,SEELE,no está en hablantes.csv
+short,ｱｷﾞｬ-ﾙ,Agyaru,no está en hablantes.csv
+short,ﾛﾎﾞ,Robo,Giant Robo

@@ -1,0 +1,14 @@
+caja,x,y,w,h,jp,en,align,font,size,style
+H1,164,5,80,21,現在位置,Location,l,DejaVuSans-Bold,11,solid
+R01a,2,33,47,16,移動中,En Route,l,DejaVuSans-Bold,11,solid
+R01b,162,33,54,16,マクロス,Macross,l,DejaVuSans-Bold,11,solid
+R02a,2,49,143,16,マクロス艦内・閉鎖ブロック,"Macross, Sealed Block",l,DejaVuSans-Bold,11,solid
+R02b,161,49,65,16,アーガマ艦,The Argama,l,DejaVuSans-Bold,11,solid
+R03a,2,65,94,16,マクロス艦内都市,Macross City,l,DejaVuSans-Bold,11,solid
+R03b,161,65,72,16,ボドル旗艦,Boddole Ship,l,DejaVuSans-Bold,11,solid
+R04a,1,81,80,16,ヱクセリヲン,Exelion,l,DejaVuSans-Bold,11,solid
+R04b,161,81,71,16,ヘルモーズ,Hermodr,l,DejaVuSans-Bold,11,solid
+R05a,1,97,88,16,木星コロニー,Jupiter Colony,l,DejaVuSans-Bold,11,solid
+R05b,161,97,48,16,木星圏,Jupiter,l,DejaVuSans-Bold,11,solid
+R06a,1,113,136,16,ボドル旗艦（木星圏）,Boddole Ship (Jupiter),l,DejaVuSans-Bold,11,solid
+R07a,1,129,144,16,ボアザン軍スカールーク,Boazan Skullruk,l,DejaVuSans-Bold,11,solid

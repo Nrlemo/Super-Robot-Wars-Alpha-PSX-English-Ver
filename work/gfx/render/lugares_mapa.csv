@@ -1,0 +1,71 @@
+hoja,u,v,w,usos,jp,en
+G33,0,32,47,36,移動中,En Route
+G33,0,48,95,12,第２新東京市,Tokyo-2
+G33,128,48,63,2,東城学園,Tojo Academy
+G33,0,64,95,8,光子力研究所,Photon Power Lab
+G33,128,64,111,5,新早乙女研究所,New Saotome Lab
+G33,0,80,111,4,南原コネクション,Nanbara Connection
+G33,128,80,87,3,ＤＣ日本支部,DC Japan Branch
+G33,0,96,111,30,連邦軍極東支部,Fed. Far East Branch
+G33,0,96,175,1,連邦軍極東支部 基地付近,Near Fed. Far East Branch Base
+G33,184,96,47,2,甲府市,Kofu City
+G33,0,112,159,2,ＥＶＡ３号機起動実験場,Unit-03 Activation Test Site
+G33,168,112,79,25,Ｎｅｒｖ本部,NERV HQ
+G33,0,128,79,4,ムトロポリス,Mutropolis
+G33,96,128,95,3,シン＝ザ＝シティ？,Shin-Za City
+G33,208,128,31,2,（２文字、判読不能）,Yokohama
+G33,0,144,127,9,大鳥島ビッグファルコン,Otori Island Big Falcon
+G33,144,144,103,2,ウィル・ウィプス,Wil Wiph
+G33,0,160,111,2,連邦軍伊豆基地,Fed. Izu Base
+G33,128,160,111,1,小笠原諸島付近,Near Ogasawara Is.
+G33,0,176,151,2,エンジェル・ハイロゥ内,Inside the Angel Halo
+G34,0,32,47,46,移動中,En Route
+G34,64,32,95,4,アメリカ西海岸,US West Coast
+G34,0,48,127,2,北米シャイアン基地,"Cheyenne Base, NA"
+G34,160,48,63,3,恐竜帝国,Dino Empire
+G34,0,64,143,4,ジャブロー・ティターンズ基地,"Jaburo, Titans Base"
+G34,160,64,79,3,ＢＦ団アジト,BF Hideout
+G34,0,80,143,3,連邦軍トリントン基地,Fed. Torrington Base
+G34,160,80,87,2,ホンコンシティ,Hong Kong City
+G34,136,96,103,6,Ｄｒ．ヘルのアジト,Dr. Hell's Hideout
+G34,0,112,119,2,キャンベル軍アジト,Campbell Hideout
+G34,136,112,103,3,ボアザン軍アジト,Boazan Hideout
+G34,0,128,87,10,南アタリア島,South Ataria Island
+G34,0,128,151,6,南アタリア島・マクロス,"South Ataria Island, Macross"
+G34,160,128,63,2,ＤＣ本部,DC HQ
+G34,0,144,159,5,国際警察機構北京支部,ICPO Beijing Branch
+G34,168,144,55,3,ダカール,Dakar
+G34,160,160,63,5,ＯＺ本部,OZ HQ
+G34,0,176,111,7,サンクキングダム,Sanc Kingdom
+G34,160,176,71,3,スマトラ島,Sumatra
+G35,0,32,47,75,移動中,En Route
+G35,96,32,143,2,フロンティアⅣコロニー,Frontier IV Colony
+G35,0,48,87,3,グリーンノア２,Green Noa 2
+G35,144,48,95,3,ラビアンローズ,La Vie en Rose
+G35,0,64,79,5,ジュピトリス,Jupitris
+G35,144,64,55,7,アクシズ,Axis
+G35,0,80,79,1,衛星軌道上,In Orbit
+G35,160,80,51,1,サイド７,Side 7
+G35,0,96,95,7,ア・バオア・クー,A Baoa Qu
+G35,0,96,127,2,ア・バオア・クー宙域,A Baoa Qu Space
+G35,160,96,63,5,暗礁宙域,Shoal Zone
+G35,0,112,135,2,エンジェル・ハイロゥ,Angel Halo
+G35,160,112,71,21,コンペイ島,Konpei Island
+G35,0,144,151,4,ＳＤＦ艦隊合流ポイント,SDF Fleet Rendezvous Point
+G35,176,144,55,2,サイド４,Side 4
+G35,0,160,111,1,地球大気圏付近,Near Earth
+G35,128,160,119,2,コスモ・バビロニア,Cosmo Babylonia
+G35,0,176,135,3,ネオ・テクネチウム基地,Neo Technetium Base
+G35,176,176,55,3,ルナツー,Luna II
+G35,0,192,63,3,アーガマ艦,The Argama
+G35,96,192,143,2,ボアザン軍スカールーク,Boazan Skullruk
+G35,0,208,111,2,フォン・ブラウン,Von Braun
+G36,0,32,47,30,移動中,En Route
+G36,0,48,143,2,マクロス艦内・閉鎖ブロック,"Macross, Sealed Block"
+G36,160,48,63,12,アーガマ艦,The Argama
+G36,0,64,95,7,マクロス艦内都市,Macross City
+G36,160,64,71,5,ボドル旗艦,Boddole Ship
+G36,0,80,79,4,ヱクセリヲン,Exelion
+G36,160,80,71,8,ヘルモーズ,Hermodr
+G36,0,96,87,4,木星コロニー,Jupiter Colony
+G36,160,96,47,10,木星圏,Jupiter

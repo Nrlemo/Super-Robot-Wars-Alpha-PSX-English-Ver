@@ -1,0 +1,74 @@
+#1 Huckebein Mk-II
+A Personal Trooper developed by the EFF Far East Branch's SRX Project with help from Mao Industries on the Moon. An improved, mass-production prototype of the RTX-008R Huckebein, whose black hole engine ran wild in its activation test; its generator was swapped for a fusion engine. Most of its parts come from the mass-produced PT Gespenst Mk-II.
+But this RTX-010 is specially fitted with the Gravicon System (gravity control) and the T-LINK System, using EOT (Extra-Over Technology, alien tech). The Gravicon System also generates the Gravity Wall, a field in front of the unit that repels attacks. With know-how from the SRX Project poured in, it is a sister unit of the R Series (the R-1 above all).
+The hero's unit is special; later mass-produced units lack the Gravicon and T-LINK Systems.
+#2 Huckebein Mk-III
+A Super Personal Trooper built by the EFF Far East Branch's SRX Project to meet the worsening alien war. Based on the Huckebein Mk-II, it fully adopts SRX Project know-how and EOT. Its concept is "a smaller, high-performance SRX," and its parts share R Series standards (it is on the same line as the R-GUN, but is really a sister unit of the SRX).
+Like the SRX and R-GUN, it runs on a Tronium Engine, and carries an improved Gravicon System. Its key feature is the "Core Trooper System": the Mk-III itself is the core, fitted with an Armored Module (armed exoskeleton) to suit the mission. AMs extend the R Series' Plus Parts, boosting the PT's firepower and defense, and some give it entirely new functions.
+Its firepower, mobility and defense are unrivaled, making it one of the strongest PTs of its time. But its high cost meant only two were built, and one went missing after a failed activation test.
+The Huckebeins carry a cockpit that doubles as a small fighter, the Personal Fighter, shared by the Mk-II and Mk-III.
+#3 Huckebein Boxer
+The Huckebein Mk-III fitted with the close-combat Armored Module "Boxer." Many of Boxer's weapons are modeled on the SRX's; combined with it, the Mk-III becomes its original concept, "a smaller, high-performance SRX." Many attitude thrusters across the module give it the high mobility and power befitting a melee unit.
+AM Boxer was first built as the R-SWORD, No. 2 of the RW Series led by the R-GUN: a giant sword for the SRX (the gravity sword G Sword). But when the Mk-III's rollout and deployment were moved up, it was hastily converted into its Armored Module. The G-Sword Diver uses the R-SWORD's transformation (into a sword).
+#4 Huckebein Gunner
+The Huckebein Mk-III fitted with the artillery Armored Module "Gunner." It carries four of the Mk-II's G Impact Cannons (the Full Impact Cannon), suited to long-range fire. Its large thruster unit also gives it long range.
+AM Gunner was first built as a PT carrier for the R-1, which lacks Plus Parts and has a short range. When the Mk-III's rollout was moved up, it was hastily converted into its Armored Module. AM Gunner has its own cockpit, and can serve alone as a support craft. By swapping connectors, it can also dock with the Mk-II, R-1 and R-GUN, units of the same line.
+#5 Grungust Type-2
+An anti-alien, super robot-type Personal Trooper developed by the EFF Far East Branch's SRX Project. Built at the Tesla Leicht Institute, it is the second Grungust, "the Super Fighter," and a sort of mass-production prototype. Some modes and weapons were cut, but it performs well. Its weapons and generator use EOT (Extra-Over Technology, alien tech); its firepower falls short of the first unit, but far outstrips its peers. It is specially fitted with the T-LINK System (a telekinesis sensor/amplifier), so only telekinetics can pilot it. But even an unskilled pilot with telekinesis capable of a telekinesis link can move it by will to a degree. The T-LINK System also powers a barrier, the T-LINK Field, giving it strong defense. Using transformation tech from the R Series, it changes into its flight mode, the G Hawk, over twice as fast as the first unit. But to simplify for mass production, it lacks the first unit's heavy tank mode.
+The hero's Type-2 is special; its T-LINK System and special weapon, the Torment Blade, are absent from later mass-produced units.
+#6 G Hawk
+The Grungust Type-2's flight mode. Using R Series tech, it transforms over twice as fast as the first unit, and fights well in this mode.
+#7 RyuKoOh
+A Choukijin formed with RyuOhKi on top and KoOhKi below. A semi-organic weapon built by the ancients with KoRyuOh to fight demons and gods of destruction. After many wars they slept, until Mozi and Gongshu Ban, thinkers and engineers of China's Warring States era, dug them up and rebuilt them into their present form. People of La Gias seem to have met them then, adding alchemy to RyuKoOh, so its armor and power source resemble the later Masouki.
+RyuKoOh has an autonomous mind, a soul of sorts, and is intelligent, but if its "Gekirin" throat armor is hit, it flies into a rage and its power grows.
+It can act alone, but unless a pilot it accepts is aboard, its perpetual engine, the Gogyouki, does not fully run and it cannot show its true power.
+After Dr. Eri Anzai, an authority on super-archaeology, dug it up from the Shiyu Mound in Shandong, China, the SRX Project staff added the T-LINK System, Cracker Engine and T-LINK Field of the wrecked Grungust Type-3 as support systems.
+Compared with its other form, KoRyuOh, it excels in air, water and sorcery combat, with immense power. Its body runs on the perpetual engine, but attacks need fusui (water with ashes of burned talismans) as fuel. Its armor is said to be talismans hardened by magic, but it is by no means made of paper.
+#8 KoRyuOh
+A Choukijin formed with KoOhKi on top and RyuOhKi below. Fiercer than RyuKoOh, it excels at melee and with weapons. It cannot fly, but is fast and agile on land. It also uses a clone technique. In truth, KoRyuOh (KoOhKi) sees RyuKoOh (RyuOhKi) as a rival, and before Dr. Anzai dug them up, they rarely combined...
+#9 RyuOhKi
+A dragon Choukijin found in ruins in Shandong, China, aka the Invincible Dragon. Modeled on the winged dragon Yinglong, it has folding wings and excels underwater. Built by the ancients with KoOhKi to fight demons, but...
+#10 KoOhKi
+A white tiger Choukijin found in ruins in Shandong, aka the Mightiest Tiger. Built by the ancients with RyuOhKi to fight demons, but...
+#11 Huckebein EX
+The Huckebein, the first PT with EOT, rolled out as the RTX-008L, 008R and 009 at once. The 008L and 008R carried the black hole engine, an EOT, while the 009 had a normal fusion engine. When the 008R's black hole engine ran wild in an activation test and wrecked it, Mao Industries saw the danger and chose to scrap the other two, but SRX Project members of the EFF Far East Branch took them in.
+The fusion-powered 009 was used for data gathering, while the black hole 008L was sealed for a time; after the Mk-II was built, it was rebuilt and revived as the Huckebein EX. The EX lies between the Huckebein and Huckebein Mk-II, with traits of both. So it looks like the Mk-II, but is painted red, and is known as "Red."
+#12 Grungust Kai
+An upgraded SRG-01 Grungust built at the Tesla Leicht Institute. Also a prototype of the Type-2, nearly identical in shape. Its color earns it the name "Black." Its power source is now a Tronium Engine, and its transformation was omitted to shore up frame strength. With the Gravicon System (gravity control) from the Huckebein Mk-II, it can fly. Though a prototype, it outperforms the Grungust Type-2 overall.
+#13 Gundam
+A general-purpose mobile suit built in Operation V by the Federation, far behind Zeon in MS development. It vastly outperforms Zeon's Zaku, and even the novice Amuro downed two Zakus in his first battle. The first MS-sized beam rifle, solo reentry, the core block system, weapons for any range, a learning computer, new armor: its many features shaped later mobile suits.
+With the power of Amuro, then awakening as a Newtype, it won great victories, and Zeon soldiers feared it as "the Federation's White Devil," "the White Meteor" and "the white one." But late in the war it could not keep up with Amuro's Newtype power, and a magnetic coating improved its response. After the One Year War, many mobile suits bore its name, and it became a legend.
+#14 Core Fighter
+A small fighter and escape pod that forms the shared cockpit block of the Gundam, Guncannon and Guntank, built in Operation V. It raises pilot survival and recovers the costly learning computer and its combat data. Its weapons are weak against MS, but it was a precious asset early in the war. It also forms the nose of the Core Booster.
+#15 G-3 Gundam
+The third Gundam, a Federation MS of the One Year War, rebuilt on the Moon as a magnetic coating test unit. Its response is improved, but there is no record of Amuro Ray ever piloting it. In the novels it is Amuro's last machine. The prototype Gundam is RX-78-1, the White Base's unit RX-78-2, and this one RX-78-3, hence the nickname "G-3 Gundam" (some say it was a radio code name). One theory says Amuro switched to the G-3 when his Gundam got its coating at Konpei Island in the TV series, but this is unconfirmed.
+#16 Core Fighter (G-3)
+The Core Fighter of the G-3 Gundam, the third Gundam, whose response was improved by magnetic coating. Its controls were probably improved a little too, but outwardly only its colors differ.
+#17 Core Booster
+A Core Fighter fitted with a large booster that adds range and firepower. With a mega particle cannon as well, it can hold its own against mobile suits. Two were deployed on the White Base, flown by Sayla and Sleggar.
+#18 White Base
+A Pegasus-class assault landing ship built in the Federation's Operation V. Its Minovsky craft lets it fly in the atmosphere, and it can enter and leave the atmosphere alone. The first Federation MS carrier, captained by Paolo, then Bright Noa. It was the mothership of the Gundam and other RX units. Zeon called it "Trojan Horse" for its shape. Its units were said to equal a Federation mobile battalion.
+#19 Medea
+A Federation transport plane of the One Year War, with a detachable self-propelled container under its body. In the anime, Matilda Ajan flies it, shielding the Gundam from the Black Tri-Stars' Jet Stream Attack.
+#20 Char's Zaku
+Strictly speaking, this is not the MS-06S Zaku II flown by the "Red Comet" Char Aznable, but an MS-06FZ Zaku II Kai painted red. So it does not exist in the anime or in official Gundam history.
+#21 Gouf
+A Zeon mobile suit of the One Year War. A Zaku II redesigned for ground combat, with a machine gun in its left hand and its signature Heat Rod whip in its right. Ramba Ral's unit troubled Amuro's Gundam. It later went into mass production, and many were sent into the attack on Jaburo.
+#22 Gelgoog
+A mass-produced Zeon mobile suit built late in the One Year War. Zeon's first unit with a beam rifle and beam sword (naginata). It performs very well (said to rival the Gundam), but by the time it reached the front, Zeon lacked the veterans to use it well. Besides Char's early prototype, there are many variants such as high-mobility and beam cannon types.
+#23 Big Zam
+A heavy Zeon mobile armor for space, built in the One Year War. Its many high-output mega particle cannons and I-field anti-beam barrier give it great power. But cooling issues limited full combat to under 20 minutes. Its legs can be detached in an emergency.
+Under Dozle's command, it was Solomon's trump card, fighting Sleggar's G-Fighter (Core Booster in the movie) and Amuro's Gundam. Had mass production succeeded, it would have been used to attack Jaburo, the Federation HQ.
+#24 Zanzibar
+A Zeon mobile cruiser of the One Year War. It can enter the atmosphere alone and fly within it on its lifting body. With boosters, it can also leave the atmosphere. In the anime, Ramba Ral and Char used it as their mothership.
+#25 Dolos
+A huge Zeon space transport carrier. It carries 182 mobile suits and can launch seven at once by catapult. Well armed too, it was a core carrier at the front.
+#26 Gwazine
+A large space battleship used by the Zabi family of the Principality of Zeon in the One Year War. Three were built, starting with the Great Degwin, flagship of Sovereign Degwin Zabi. Heavily armed and carrying many MS, it can even reach the asteroid belt, just in case. The ending of the movie "Encounters in Space" shows Char heading to Axis in a Gwazine-class ship.
+#27 NT-1 Alex
+A Newtype Gundam built by the Federation late in the One Year War. The fourth Gundam, formally the RX-78-NT1 Gundam "Alex." "Alex" comes from its model code "RX." Unlike Zeon's Newtype units it has no psycommu, only better response through magnetic coating.
+The first unit with an all-around monitor, it can also wear Chobham Armor, which cancels impacts with built-in explosives. It was meant for the White Base unit, but fought in Side 6 with its tester Chris as pilot. It fell in mutual ruin with Bernie's Zaku II Kai, and never reached Amuro.
+#28 Zaku Kai
+Properly the Zaku II Kai. A Zeon MS improved from the Zaku II late in the One Year War. The Integrated Refit Plan also moved other units, like the Rick Dom II, to second-phase production. Thrust across the frame is up 70% over the Zaku II, but with the same propellant, its operating time is halved. Hand grenades and more are standard, boosting its arms.
+#29 Rick Dom II
+Read "Rick Dom Zwei." The Rick Dom's second-phase production model, made late in the One Year War under Zeon's Integrated Refit Plan. It outperforms the original, and later became the base design for Neo Zeon's Dreissen. Many variants exist for various fronts.

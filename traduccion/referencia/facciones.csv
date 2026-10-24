@@ -1,0 +1,58 @@
+jp,variantes_jp,en,tipo,serie,fuente,estado,apariciones,notas
+エアロゲイター,,Aerogaters,alienígenas,Banpresto Original (SRX),oficial (OG),fijo,848,"Adjetivo/singular: ""Aerogater""."
+帝国監察軍,監察軍,Imperial Inspection Army,alienígenas,Banpresto Original (SRX),mantenedor,fijo,175,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): nombre formal (A02). ""Aerogaters"" solo donde el japonés dice エアロゲイター (según la SRW Wiki, los Aerogaters son la 7.ª flota del ejército). NO usar ""Inspectors"" (otra facción de OG2). 帝国監察軍兵 = ""Aerogater Soldier""."
+辺境銀河方面監察軍,,Galactic Frontier Inspection Army,alienígenas,Banpresto Original (SRX),mantenedor,fijo,15,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): A02; término de la SRW Wiki (Ze Balmary Imperial Galactic Frontier Inspection Army)."
+ゼ＝バルマリィ帝国,ゼ・バルマリィ帝国|バルマリィ,Ze Balmary Empire,alienígenas,Banpresto Original (SRX),mantenedor,fijo,80,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): A03: sin guion (SRW Wiki). Forma corta バルマー = ""Balmar""."
+バルマー,,Balmar,alienígenas,Banpresto Original (SRX),oficial (OG),fijo,28,
+ロンド＝ベル,ロンド・ベル|ロンド＝ベル隊,Londo Bell,aliados,Gundam (UC),oficial,fijo,714,"ロンド＝ベル隊 = ""Londo Bell"" (sin ""Team""/""Squad"" salvo que haga falta)."
+第１３独立外部部隊,,13th Autonomous Corps,aliados,,mantenedor,fijo,10,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 2), B03: como la Gundam Wiki llama al 第13独立部隊 de la White Base. Nombre formal de Londo Bell en Alpha."
+ＳＲＸ計画,ＳＲＸ計画,SRX Project,aliados,Banpresto Original (SRX),oficial (OG),fijo,455,
+ＳＲＸチーム,,SRX Team,aliados,Banpresto Original (SRX),oficial (OG),fijo,96,
+ＳＤＦ,,SDF,aliados,,juego,fijo,364,Space Defense Force (flota de Tashiro/Global). No desarrollar la sigla.
+ＥＯＴＩ機関,,EOTI Institute,aliados,Banpresto Original,oficial (OG),fijo,6,Institución que estudió la ASS-1 (Bian Zoldark).
+ＬＴＲ機構,,LTR Organization,aliados,Banpresto Original (SRX),oficial (OG),fijo,7,Eri Anzai.
+マオ・インダストリー,マオ社|マオ・インダストリー社,Mao Industries,empresa,Banpresto Original,oficial (OG),fijo,194,"マオ社 → ""Mao Industries"" (no ""Mao Co."")."
+アナハイム・エレクトロニクス,アナハイム,Anaheim Electronics,empresa,Gundam (UC),oficial,fijo,38,
+連邦軍,地球連邦軍,Federation Forces,ejército,Gundam (UC),oficial,fijo,566,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): A01, ""Federation Forces"" / ""Earth Federation Forces"" (EFF) en todo el juego, también en las fichas SRX: en Alpha es una sola organización (no EFA). 地球連邦 = ""Earth Federation""."
+連邦正規軍,,Federation regular army,ejército,,propuesta,fijo,14,
+連邦特別宇宙軍,,Federation Special Space Force,ejército,,propuesta,fijo,10,
+ティターンズ,,Titans,ejército,Zeta Gundam,oficial,fijo,728,"Siempre con ""the"": ""the Titans""."
+エゥーゴ,,AEUG,ejército,Zeta Gundam,oficial,fijo,246,"Glosario: errata ""AUEG"" de una unidad corregida (#46)."
+カラバ,,Karaba,ejército,Zeta Gundam,oficial,fijo,80,
+ジオン,ジオン軍|ジオン公国|ジオン公国軍,Zeon,ejército,Gundam (UC),oficial,fijo,794,"ジオン公国 = ""Principality of Zeon""."
+ネオ・ジオン,ネオ・ジオン軍,Neo Zeon,ejército,Gundam ZZ / CCA,oficial,fijo,348,
+デラーズ・フリート,デラーズ軍,Delaz Fleet,ejército,Gundam 0083,oficial,fijo,31,
+クロスボーン・バンガード,クロスボーン,Crossbone Vanguard,ejército,Gundam F91,oficial,fijo,42,
+ジュピトリアン,,Jupitorians,ejército,Zeta / Victory (Alpha),mantenedor,fijo,421,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): A09: facción propia de Alpha (Scirocco + Zanscare); adjetivo ""Jupitorian"". La nave ジュピトリス = ""Jupitris""."
+ベスパ,,BESPA,ejército,Victory Gundam,oficial,fijo,21,
+リガ・ミリティア,,League Militaire,ejército,Victory Gundam,oficial,fijo,84,
+シュラク隊,シュラク,Shrike Team,escuadrón,Victory Gundam,oficial,fijo,30,
+ＯＺ,,OZ,ejército,Gundam Wing,oficial,fijo,206,
+ロームフェラ財団,ロームフェラ,Romefeller Foundation,organización,Gundam Wing,oficial,fijo,62,
+ＤＣ,ディバイン・クルセイダーズ,DC,ejército,Banpresto Original,oficial (OG),fijo,232,"Forma larga: ""the Divine Crusaders""."
+ゼーレ,,SEELE,organización,Evangelion,oficial,fijo,51,
+Ｎｅｒｖ,ネルフ,NERV,organización,Evangelion,oficial,fijo,231,Siempre en mayúsculas.
+使徒,,Angels,enemigos,Evangelion,oficial,fijo,563,"""Angel"" en singular."
+ゼントラーディ,ゼントラーディ軍,Zentradi,alienígenas,Macross,oficial,fijo,196,"Soldado: ""Zentran""."
+メルトランディ,メルトランディ軍,Meltrandi,alienígenas,Macross,oficial,fijo,84,"Glosario (unidad): errata ""Meltlandi"" corregida (#46). Soldado: ""Meltran""."
+スカル小隊,スカル,Skull Squadron,escuadrón,Macross,oficial,fijo,103,"スカルリーダー = ""Skull Leader""."
+宇宙怪獣,,Space Monsters,enemigos,Gunbuster,oficial,fijo,281,"Unidad y piloto: siempre ""Space Monster"" (glosario mezcla ""Uchuu Kaijuu"")."
+Ｄｒ．ヘル,ドクターヘル,Dr. Hell,enemigos,Mazinger Z,oficial,fijo,128,
+機械獣軍,,Mechanical Beast army,enemigos,Mazinger Z,propuesta,fijo,11,
+ミケーネ帝国,ミケーネ,Mycenae Empire,enemigos,Great Mazinger,oficial,fijo,33,
+恐竜帝国,,Dinosaur Empire,enemigos,Getter Robo,oficial,fijo,21,
+キャンベル星人,キャンベル軍|キャンベル,Campbellians,enemigos,Combattler V,oficial,fijo,62,"キャンベル軍 = ""the Campbell army""."
+ボアザン,ボアザン軍|ボアザン帝国,Boazan,enemigos,Voltes V,oficial,fijo,165,"Adjetivo: ""Boazanian""."
+妖魔帝国,,Demon Empire,enemigos,Raideen,mantenedor,fijo,46,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): B04: Discotek."
+ムー帝国,古代ムー帝国,Mu Empire,aliados,Raideen,oficial,fijo,5,
+メガノイド,,Meganoids,enemigos,Daitarn 3,oficial,fijo,23,
+獣戦機隊,,Cyber Beast Force,aliados,Dancouga,oficial,fijo,62,
+国際警察機構,,International Police Organization,aliados,Giant Robo,oficial,fijo,38,"Sus agentes: エキスパート = ""Experts""."
+エキスパート,,Experts,aliados,Giant Robo,oficial,fijo,36,
+ＢＦ団,,BF Group,enemigos,Giant Robo,oficial,fijo,130,BF = Big Fire.
+ビッグ・ファイア,,Big Fire,enemigos,Giant Robo,oficial,fijo,18,
+十傑集,,the Magnificent Ten,enemigos,Giant Robo,oficial,fijo,29,
+ドレイク軍,,Drake's army,ejército,Dunbine,guía,fijo,44,
+ビショット軍,,Bishot's army,ejército,Dunbine,propuesta,fijo,7,
+バイストン・ウェル軍,,the Byston Well forces,ejército,Dunbine,propuesta,fijo,19,
+コープランダー隊,,Copelander Team,escuadrón,Raideen,mantenedor,fijo,13,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 2), B05: confirmado. Equipo de apoyo de Raideen (Jinguji, Mari, Rei) desde Mutropolis."

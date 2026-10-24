@@ -122,9 +122,19 @@ You need your own dump of the original Japanese disc. **The patch only works on 
 
 Please open an issue with: the scenario number (or the scene), a screenshot, and what you expected. Text cut mid-word, Japanese text left on screen, freezes and wrong names are the most useful reports at this stage.
 
+## Translate it into your language
+
+This repository also contains the **translation kit**: every tool used to make this translation and the English script
+as a starting point, without any game data (the Japanese text is extracted from your own disc). Anyone can fork it and
+translate the game into another language.
+
+- **[TRANSLATING.md](TRANSLATING.md)**: the three requirements (fork this project, don't modify the thanks/dedication
+  screen, and link [Buy Me a Coffee](https://buymeacoffee.com/srwa_en)).
+- **[docs/TRANSLATION_GUIDE.md](docs/TRANSLATION_GUIDE.md)**: the complete manual, from setup to publishing your patch.
+
 ---
 
-Fan translation, not affiliated with Bandai Namco / Banpresto. No game data is distributed here — only a patch. Please support the official releases.
+Fan translation, not affiliated with Bandai Namco / Banpresto. No game data is distributed here: only a patch, the tools and the translated text. Please support the official releases.
 
 <a href="https://www.buymeacoffee.com/Srwa_en" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 

@@ -1,0 +1,110 @@
+# Imágenes de disco y BIOS (nunca versionar)
+*.bin
+*.cue
+*.img
+*.iso
+*.BIN
+Bios/
+Emulator/
+
+# Binarios de terceros
+Utils/SRT_Alpha/SLPS_025.28
+Utils/**/*.exe
+
+# Entorno regenerable / pesado
+work/.venv/
+work/downloads/
+work/tools/bin/
+work/tools/src_ext/
+work/tools/ghidra_[0-9]*/
+work/tools/jdk-*/
+work/ghidra_proj/
+work/iso_jp/
+work/iso_chs/
+work/build/
+
+# Emuladores: solo se versiona la configuración
+work/emu/**
+!work/emu/
+!work/emu/duckstation/
+!work/emu/duckstation/settings.ini
+!work/emu/pcsx-redux/
+!work/emu/pcsx-redux/pcsx.json
+
+__pycache__/
+*.pyc
+work/analysis/
+
+# Salidas de scripts (CLAUDE.md §7) y temporales de lote.py
+work/logs/
+*.jsonl.tmp
+
+# Glosario: caché de páginas web y texto regenerable (glossary_build.py)
+work/glossary/web/*.html
+work/glossary/src_txt/
+
+# Desktop: card de trabajo del perfil de Redux y puntero a la última grabación (los checkpoints en saves/cards/ sí se versionan)
+saves/redux/memcard*.mcd
+saves/redux/*.log
+saves/grabaciones/ULTIMA
+
+# Worktrees de Claude Code (repos aparte, nunca versionar)
+.claude/worktrees/
+
+# Salida regenerable de gfx_render.py
+work/gfx/render/out/
+
+
+MEMORY.md
+docs/capturas/Captura de pantalla_20261001_224902.png
+docs/capturas/Captura de pantalla_20261001_224940.png
+docs/capturas/Captura de pantalla_20261001_224958.png
+docs/capturas/Captura de pantalla_20261001_225248.png
+retroarch-test-builds.md
+saves/cards/CP14-INT-E01-decision-bullet.mcd
+saves/cards/CP14-INT-E01-decision-bullet.rec.txt
+saves/grabaciones/rec_20261001_183312.mcd
+saves/grabaciones/rec_20261001_183312.txt
+saves/grabaciones/rec_20261001_183627.mcd
+saves/grabaciones/rec_20261001_183627.txt
+saves/grabaciones/rec_20261001_183733.mcd
+saves/grabaciones/rec_20261001_183733.txt
+saves/grabaciones/rec_20261001_184742.mcd
+saves/grabaciones/rec_20261001_184742.txt
+saves/grabaciones/rec_20261001_222923.mcd
+saves/grabaciones/rec_20261001_222923.txt
+saves/redux/pcsx.json
+
+
+# capturas: cuadros sueltos de drive.sh (quedan en disco; al repo van solo las comparativas)
+docs/capturas/**/*.raw
+docs/capturas/**/f[0-9]*_*.png
+docs/capturas/**/contact.png
+docs/capturas/**/drive.log
+
+# savestates del emulador: contienen RAM del juego, nunca se versionan
+*.sstate
+*.sstate[0-9]
+
+# ── Kit de traducción (kit.py): datos del juego regenerados en local desde el disco propio, nunca se versionan ──
+work/.kit/
+work/dump/pilot.jsonl
+work/dump/robot.jsonl
+work/dump/dc.jsonl
+work/dump/dr.jsonl
+work/dump/ovl_strings.jsonl
+work/dump/sndata_map.csv
+work/dump/sndata_bloques.csv
+work/dump/end_credits.csv
+work/translation/menus_en.jsonl
+work/translation/dc_en.jsonl
+work/translation/dr_en.jsonl
+work/translation/mdata_en.csv
+work/translation/menus_acortados.csv
+work/glossary/pilot_names_en.csv
+work/glossary/pilot_bin_missing.txt
+traduccion/referencia/generado/
+# lotes de lote.py y paquetes de paquete_traduccion.py: llevan el "jp" de cada fila (se trabajan en local; el
+# resultado queda en work/dump/)
+traduccion/lotes/
+traduccion/paquetes/

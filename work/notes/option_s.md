@@ -1,0 +1,135 @@
+# OPTION/S.BIN — títulos del sound test (#222)
+
+**Mapeado y cerrado. No se traduce** (decisión del mantenedor, 2026-10-01): son títulos de canciones temáticas
+y de BGM en kana de ancho medio (muchos son nombres propios de series). Esta nota deja el formato por si algún día se retoma.
+
+## Formato (verificado 2026-10-01, 4732 bytes)
+- Cabecera: `u32[3] = 0x0000000C, 0x00000DA4, 0x0000127C` = inicio del bloque 1, inicio del bloque 2, fin del archivo.
+- Registros de **40 bytes**: `u32 id` + `char title[36]` (SJIS, kana de ancho medio y algo de ancho completo, relleno NUL).
+- Bloque 1: 87 registros (0x0C–0xDA4). Bloque 2: 31 registros (0xDA4–0x127C), mismo formato; arranca con los mismos
+  ids/títulos del bloque 1 (id 0x32 ﾏｼﾞﾝｶﾞｰZ…): segunda lista, probablemente de otra pantalla (no se investigó).
+- No hay punteros externos conocidos: el archivo es un listado plano. Largo del título: máx. 35 bytes + NUL.
+
+## Inventario
+Bloque 1 (id · título):
+
+- `0x000c`  50 · ﾏｼﾞﾝｶﾞ-Z
+- `0x0034`  51 · ﾏｼﾞﾝｶｲｻﾞｰ
+- `0x005c`  88 · Zのﾃｰﾏ
+- `0x0084`  89 · 空飛ぶﾏｼﾞﾝｶﾞｰZ
+- `0x00ac`  49 · おれはｸﾞﾚｰﾄﾏｼﾞﾝｶﾞｰ
+- `0x00d4`  25 · ｹﾞｯﾀｰﾛﾎﾞ!
+- `0x00fc`  27 · 赤い彗星
+- `0x0124`  20 · THE WINNER
+- `0x014c`  21 · MEN OF DESTINY
+- `0x0174`  33 · ﾓﾋﾞﾙｽｰﾂ戦 敵機襲来
+- `0x019c`  34 · 宇宙を駆ける ｾﾞｰﾀ発動
+- `0x01c4`  35 · 艦隊戦
+- `0x01ec`  82 · 水の星へ愛をこめて
+- `0x0214`  36 · ｻｲﾚﾝﾄｳﾞｫｲｽ
+- `0x023c`  24 · MAIN TITLE
+- `0x0264`  26 · F91ｶﾞﾝﾀﾞﾑ出撃
+- `0x028c`  28 · STAND UP TO THE VICTORY
+- `0x02b4`  29 · DON'T STOP! CARRY ON!
+- `0x02dc`  30 · JUST COMMUNICATION
+- `0x0304`  31 · RHYTHM EMOTION
+- `0x032c`  32 · WHITE REFLECTION
+- `0x0354`   5 · ｶﾑﾋｱ!ﾀﾞｲﾀｰﾝ3
+- `0x037c`  80 · ﾀﾞｲﾀｰﾝ3の名のもとに
+- `0x03a4`  81 · 破嵐万丈
+- `0x03cc`   6 · ﾀﾞﾝﾊﾞｲﾝとぶ
+- `0x03f4`   0 · ｺﾝ･ﾊﾞﾄﾗｰVのﾃｰﾏ
+- `0x041c`  79 · ﾚｯﾂ･ｺﾝﾊﾞｲﾝ!
+- `0x0444`  78 · ﾎﾞﾙﾃｽVの歌
+- `0x046c`   4 · ﾊﾞｰﾆﾝｸﾞ･ﾗﾌﾞ
+- `0x0494`  75 · ﾄｯﾌﾟをねらえ! ～Fly High～
+- `0x04bc`  76 · 作戦開始
+- `0x04e4`  77 · 危機
+- `0x050c`  92 · ｶﾞﾝﾊﾞｽﾀｰ
+- `0x0534`  13 · DECISIVE BATTLE
+- `0x055c`  14 · A STEP FORWARD INTO TERROR
+- `0x0584`  15 · EVA-02
+- `0x05ac`  16 · THE BEAST Ⅱ
+- `0x05d4`  17 · 交響曲 第9番 ﾆ短調 第4楽章 より
+- `0x05fc`  18 · 残酷な天使のﾃｰｾﾞ
+- `0x0624`  19 · 魂のﾙﾌﾗﾝ
+- `0x064c`  37 · 運命の矢
+- `0x0674`  45 · ﾄﾞｯｸﾞ･ﾌｧｲﾀｰ
+- `0x069c`  46 · 総攻撃
+- `0x06c4`  47 · ５０万年の戦い
+- `0x06ec`  83 · 私の彼はﾊﾟｲﾛｯﾄ
+- `0x0714`  84 · 愛・おぼえていますか
+- `0x073c`  85 · ﾏｸﾛｽ
+- `0x0764`  48 · DOG FIGHT
+- `0x078c`  52 · 勇者ﾗｲﾃﾞｨｰﾝ
+- `0x07b4`  91 · ｵﾚは洸だ
+- `0x07dc`  22 · 出撃!その名はｼﾞｬｲｱﾝﾄ･ﾛﾎﾞ!
+- `0x0804`  23 · ﾒｲﾝ･ﾀｲﾄﾙ
+- `0x082c`  57 · EVERYWHERE YOU GO
+- `0x0854`  58 · ICE MAN
+- `0x087c`  59 · PSYCHIC ENERGY
+- `0x08a4`  61 · MARIONETTE MESSIAH
+- `0x08cc`  62 · THE ARROW OF DESTINY
+- `0x08f4`  63 · 鋼の魂～SUPER ROBOT SPIRITS
+- `0x091c`  64 · TIME DIVER
+- `0x0944`   1 · 熱風!疾風!ｻｲﾊﾞｽﾀｰ
+- `0x096c`   2 · ﾀﾞｰｸﾌﾟﾘｽﾞﾝ
+- `0x0994`   3 · ﾌﾗｯﾊﾟｰ･ｶﾞｰﾙ
+- `0x09bc`  53 · ACE ATTACKER
+- `0x09e4`  54 · 我ﾆ敵ﾅｼ
+- `0x0a0c`  55 · VANISING TROOPER
+- `0x0a34`  56 · 鋼鉄のｺｸﾋﾟｯﾄ
+- `0x0a5c`  65 · 荒ぶる魂!!
+- `0x0a84`  67 · 遠い日の安息
+- `0x0aac`  68 · 誰がために鐘は踊る
+- `0x0ad4`  69 · 苦難の先に待つものは
+- `0x0afc`  70 · 開かれた砲門
+- `0x0b24`  71 · 一つの結末
+- `0x0b4c`  72 · 災い来たりて
+- `0x0b74`  73 · 悲しい記憶
+- `0x0b9c`  74 · 修羅の予感
+- `0x0bc4`  38 · 勝利と敗北の狭間で
+- `0x0bec`  39 · この星の明日のために
+- `0x0c14`  40 · 進路に光明､退路に絶望
+- `0x0c3c`  41 · 揺れる照星
+- `0x0c64`  42 · それぞれの大義のために
+- `0x0c8c`  43 · 虚空からの使者
+- `0x0cb4`  44 · 忌むべき訪問者
+- `0x0cdc`   7 · 彼方へ
+- `0x0d04`   8 · Invisible
+- `0x0d2c`  10 · 黄昏の戦場
+- `0x0d54`  11 · 絶望の宴
+- `0x0d7c`  12 · 全能なる調停者
+
+Bloque 2 (id · título):
+- `0x0da4`  50 · ﾏｼﾞﾝｶﾞｰZ
+- `0x0dcc`  88 · Zのﾃｰﾏ
+- `0x0df4`  89 · 空飛ぶﾏｼﾞﾝｶﾞｰZ
+- `0x0e1c`  51 · ﾏｼﾞﾝｶｲｻﾞｰ
+- `0x0e44`  49 · おれはｸﾞﾚｰﾄﾏｼﾞﾝｶﾞｰ
+- `0x0e6c`  25 · ｹﾞｯﾀｰﾛﾎﾞ!
+- `0x0e94`  20 · THE WINNER
+- `0x0ebc`  21 · MEN OF DESTINY
+- `0x0ee4`  82 · 水の星へ愛をこめて
+- `0x0f0c`  36 · ｻｲﾚﾝﾄｳﾞｫｲｽ
+- `0x0f34`  28 · STAND UP TO THE VICTORY
+- `0x0f5c`  29 · DON'T STOP! CARRY ON!
+- `0x0f84`  30 · JUST COMMUNICATION
+- `0x0fac`  31 · RHYTHM EMOTION
+- `0x0fd4`  32 · WHITE REFLECTION
+- `0x0ffc`   5 · ｶﾑﾋｱ! ﾀﾞｲﾀｰﾝ3
+- `0x1024`   6 · ﾀﾞﾝﾊﾞｲﾝとぶ
+- `0x104c`   0 · ｺﾝ･ﾊﾞﾄﾗｰVのﾃｰﾏ
+- `0x1074`  78 · ﾎﾞﾙﾃｽVの歌
+- `0x109c`   4 · ﾊﾞｰﾆﾝｸﾞ･ﾗﾌﾞ
+- `0x10c4`  75 · ﾄｯﾌﾟをねらえ! ～Fly High～
+- `0x10ec`  18 · 残酷な天使のﾃｰｾﾞ
+- `0x1114`  19 · 魂のﾙﾌﾗﾝ
+- `0x113c`  85 · ﾏｸﾛｽ
+- `0x1164`  83 · 私の彼はﾊﾟｲﾛｯﾄ
+- `0x118c`  84 · 愛･おぼえていますか
+- `0x11b4`  52 · 勇者ﾗｲﾃﾞｨｰﾝ
+- `0x11dc`  59 · PSYCHIC ENERGY
+- `0x1204`  63 · 鋼の魂～SUPER ROBOT SPIRITS
+- `0x122c`   1 · 熱風! 疾風! ｻｲﾊﾞｽﾀｰ
+- `0x1254`  53 · ACE ATTACKER

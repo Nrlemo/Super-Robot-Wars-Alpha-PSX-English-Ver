@@ -1,0 +1,80 @@
+jp,variantes_jp,en,tipo,serie,fuente,estado,apariciones,notas
+南アタリア島,アタリア,South Ataria Island,isla,Macross,oficial,fijo,301,"Donde cayó la ASS-1. ""Atalia"" en la Complete Chart: usar Ataria."
+第２新東京市,,Tokyo-2,ciudad,Evangelion,juego,fijo,43,"¡OJO! La historia de Alpha dice 第２ (no 第３ como el anime): ""Tokyo-2"". Solo las fichas DC/DR, que resumen el anime, dicen 第３ → ahí sí ""Tokyo-3"". Traducir lo que dice cada línea."
+箱根,,Hakone,ciudad,Evangelion,real,fijo,5,Donde se construye la ciudad de NERV.
+ジオフロント,,GeoFront,base,Evangelion,oficial,fijo,19,
+セントラルドグマ,,Central Dogma,base,Evangelion,oficial,fijo,16,
+ターミナルドグマ,,Terminal Dogma,base,Evangelion,oficial,fijo,7,
+Ｎｅｒｖ本部,ネルフ本部,NERV HQ,base,Evangelion,oficial,fijo,43,
+浅間山,,Mt. Asama,lugar,Evangelion,real,fijo,6,Volcán (episodio Magmadiver).
+光子力研究所,,Photon Power Laboratory,base,Mazinger Z,mantenedor,fijo,72,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): A05: forma corta ""Photon Lab"" (Mazinger Wiki; coherente con Photon Beam y Photon Lab Staff)."
+科学要塞研究所,,Fortress of Science,base,Great Mazinger,mantenedor,fijo,8,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 2), B06: ""Fortress of Science"" (confirmado)."
+早乙女研究所,,Saotome Research Institute,base,Getter Robo,oficial,fijo,27,"Corto: ""the Saotome Lab""."
+新早乙女研究所,,New Saotome Research Institute,base,Getter Robo,oficial,fijo,12,
+南原コネクション,,Nanbara Connection,base,Combattler V,oficial,fijo,18,Base de Combattler V.
+ビッグファルコン,ビッグ・ファルコン,Big Falcon,base,Voltes V,oficial,fijo,18,
+極東支部,,Far East Branch,base,Banpresto Original,oficial (OG),fijo,310,"Sede de Londo Bell en Alpha (""連邦軍極東支部"" = ""the Federation Far East Branch"")."
+極東基地,,Far East Base,base,Banpresto Original,oficial (OG),fijo,3,
+日本支部,,Japan Branch,base,,propuesta,fijo,77,"Casi siempre ""ＤＣ日本支部"" = ""DC Japan Branch""."
+北京支部,,Beijing Branch,base,Giant Robo,propuesta,fijo,27,Del Intl. Police Organization.
+特脳研,特殊脳医学研究所,Special Brain Research Institute,base,Banpresto Original (SRX),mantenedor,fijo,37,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 2), B07: ""Special Brain Research Institute"" la primera vez; después ""SBRI"" o ""the Institute""."
+テスラ＝ライヒ研究所,テスラ・ライヒ研究所|テスラ研,Tesla-Leicht Institute,base,Banpresto Original,oficial (OG),fijo,23,"OG: ""Tesla Leicht Institute"" / ""Tesla Institute""."
+百里基地,,Hyakuri Base,base,,real,fijo,4,Base aérea real (Ibaraki).
+富士演習場,,Mt. Fuji Training Grounds,lugar,Dancouga,propuesta,fijo,2,
+東京湾,,Tokyo Bay,lugar,,real,fijo,13,
+新宿,,Shinjuku,ciudad,,real,fijo,3,
+三浦半島,,Miura Peninsula,lugar,,real,fijo,6,
+八丈島,,Hachijo Island,isla,,real,fijo,7,
+大鳥島,,Otori Island,isla,,propuesta,fijo,4,
+大雪山,,Mt. Daisetsu,lugar,,real,fijo,8,
+甲府市,甲府,Kofu City,ciudad,,real,fijo,14,
+バードス島,,Bardos Island,isla,Mazinger Z,oficial,fijo,10,Base del Dr. Hell.
+ムトロポリス,,Mutropolis,ciudad,Raideen,oficial,fijo,11,Ciudad de la antigua Mu.
+ジャブロー,,Jaburo,base,Gundam (UC),oficial,fijo,78,
+ダカール,,Dakar,ciudad,Zeta Gundam,oficial,fijo,43,"Discurso de Dakar = ""the Dakar speech""."
+ホンコン,香港,Hong Kong,ciudad,Zeta Gundam,oficial,fijo,36,"ホンコン・シティ = ""Hong Kong City"" (título 44)."
+トリントン基地,トリントン,Torrington Base,base,Gundam 0083,oficial,fijo,13,
+シャイアン,シャイアン基地,Cheyenne,base,Gundam (UC),oficial,fijo,12,Donde estuvo confinado Amuro.
+マーケサズ諸島,,Marquesas Islands,isla,,real,fijo,6,
+山東省,,Shandong Province,lugar,,real,fijo,8,Excavación de Eri Anzai.
+中国大陸,,mainland China,lugar,,real,fijo,7,
+北米大陸,北米,North America,lugar,,real,fijo,16,
+オーストラリア,,Australia,lugar,,real,fijo,14,Colonia caída de la Guerra de un Año (Sydney).
+ヨーロッパ,,Europe,lugar,,real,fijo,15,
+カサレリア,,Kasarelia,lugar,Victory Gundam,oficial,fijo,22,Pueblo de Uso.
+ウーイッグ,,Woowig,ciudad,Victory Gundam,oficial,fijo,16,
+サンクキングダム,サンク・キングダム,Sanc Kingdom,reino,Gundam Wing,oficial,fijo,57,
+死海,,Dead Sea,lugar,Evangelion,oficial,fijo,12,"Casi siempre en 死海文書 = ""the Dead Sea Scrolls""."
+月,月面,the Moon,astro,,real,fijo,572,"月面都市 = ""lunar city""."
+フォン・ブラウン,フォン・ブラウン市,Von Braun,ciudad,Zeta Gundam,oficial,fijo,9,Ciudad lunar.
+グラナダ,,Granada,ciudad,Gundam (UC),oficial,fijo,1,
+サイド３,サイド,Side 3,colonia,Gundam (UC),oficial,fijo,108,"Formato ""Side N"" con número arábigo."
+ルナツー,,Luna II,base,Gundam (UC),oficial,fijo,15,
+ソロモン,,Solomon,base,Gundam (UC),oficial,fijo,69,"""ソロモンの悪夢"" = ""the Nightmare of Solomon"" (Gato)."
+コンペイ島,,Konpei Island,base,Gundam 0083,oficial,fijo,58,Ex-Solomon.
+ア・バオア・クー,バオア・クー,A Baoa Qu,base,Gundam (UC),oficial,fijo,43,
+アクシズ,,Axis,base,Zeta/ZZ/CCA,oficial,fijo,126,También la facción (Axis Zeon).
+グリーンノア,グリーン・ノア,Green Noa,colonia,Zeta Gundam,oficial,fijo,22,
+フロンティアサイド,フロンティア・サイド,Frontier Side,colonia,Gundam F91,oficial,fijo,13,
+アステロイドベルト,,asteroid belt,astro,,real,fijo,16,
+火星,,Mars,astro,,real,fijo,27,
+サラ基地,,Sara Base,base,Daitarn 3,propuesta,fijo,12,Base de Marte cerrada tras la rebelión meganoide.
+木星,,Jupiter,astro,,real,fijo,113,
+土星,,Saturn,astro,,real,fijo,12,
+冥王星,,Pluto,astro,Gunbuster,real,fijo,25,
+雷王星,,Planet Raioh,astro,Gunbuster,mantenedor,fijo,17,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): B01: grafía de los subtítulos en inglés (gunbuster.net). El oficial gana sobre el Hepburn."
+テクネチウム基地,,Technetium Base,base,Banpresto Original,oficial (OG),fijo,20,Destruida por la Black Hole Engine del Huckebein 008L.
+ボアザン星,ボアザン本星,Planet Boazan,astro,Voltes V,oficial,fijo,55,
+キャンベル星,,Planet Campbell,astro,Combattler V,oficial,fijo,11,
+バルマー本星,,the Balmar homeworld,astro,Banpresto Original,mantenedor,fijo,8,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): A03."
+母星,,homeworld,astro,,propuesta,fijo,43,
+マスドライバー,マス・ドライバー,mass driver,estructura,,oficial,fijo,46,
+バイストン・ウェル,バイストン＝ウェル,Byston Well,mundo,Dunbine,oficial,fijo,183,
+ナの国,,the Kingdom of Na,reino,Dunbine,mantenedor,fijo,7,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): B02: reinos Na, Rau, Ku, Ah, Mi (Wikipedia)."
+ラウの国,,the Kingdom of Rau,reino,Dunbine,mantenedor,fijo,30,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): B02."
+クの国,,the Kingdom of Ku,reino,Dunbine,mantenedor,fijo,10,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): B02."
+アの国,,the Kingdom of Ah,reino,Dunbine,mantenedor,fijo,5,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): B02: ""Ah"", no ""Ao"" (Wikipedia)."
+ミの国,,the Kingdom of Mi,reino,Dunbine,mantenedor,fijo,4,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): B02."
+ラ・ギアス,ラ＝ギアス,La Gias,mundo,Masou Kishin,oficial (OG),fijo,35,
+ラングラン,,Langran,reino,Masou Kishin,oficial (OG),fijo,4,
+神の国,,the Land of God,concepto,Dancouga,propuesta,fijo,4,"Delirio de Shapiro (título 106: ""The Temptation Of The Land Of God"")."
