@@ -1,0 +1,1426 @@
+{"file": "SNMAP", "off": 18960, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 18980, "en": "Outer Space"}
+{"file": "SNMAP", "off": 39496, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 39516, "en": "Road"}
+{"file": "SNMAP", "off": 39536, "en": "Road"}
+{"file": "SNMAP", "off": 39556, "en": "Building"}
+{"file": "SNMAP", "off": 39576, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 39596, "en": "Sea"}
+{"file": "SNMAP", "off": 39616, "en": "Sea"}
+{"file": "SNMAP", "off": 39636, "en": "Mountain"}
+{"file": "SNMAP", "off": 39656, "en": "Plains"}
+{"file": "SNMAP", "off": 39676, "en": "Woods"}
+{"file": "SNMAP", "off": 39696, "en": "Forest"}
+{"file": "SNMAP", "off": 39716, "en": "Residential"}
+{"file": "SNMAP", "off": 39736, "en": "Residential"}
+{"file": "SNMAP", "off": 39756, "en": "Koji's House"}
+{"file": "SNMAP", "off": 39776, "en": "School"}
+{"file": "SNMAP", "off": 39796, "en": "Beach"}
+{"file": "SNMAP", "off": 54500, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 54520, "en": "Bridge"}
+{"file": "SNMAP", "off": 54540, "en": "River"}
+{"file": "SNMAP", "off": 54560, "en": "Lake"}
+{"file": "SNMAP", "off": 54580, "en": "Lake"}
+{"file": "SNMAP", "off": 54600, "en": "Mountain"}
+{"file": "SNMAP", "off": 54620, "en": "Plains"}
+{"file": "SNMAP", "off": 54640, "en": "Plains"}
+{"file": "SNMAP", "off": 54660, "en": "Woods"}
+{"file": "SNMAP", "off": 54680, "en": "Forest"}
+{"file": "SNMAP", "off": 54700, "en": "Photon Lab"}
+{"file": "SNMAP", "off": 54720, "en": "Photon Lab"}
+{"file": "SNMAP", "off": 54740, "en": "Lakeside"}
+{"file": "SNMAP", "off": 54760, "en": "Riverbank"}
+{"file": "SNMAP", "off": 73536, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 73556, "en": "Road"}
+{"file": "SNMAP", "off": 73576, "en": "Road"}
+{"file": "SNMAP", "off": 73596, "en": "River"}
+{"file": "SNMAP", "off": 73616, "en": "Lake"}
+{"file": "SNMAP", "off": 73636, "en": "Lake"}
+{"file": "SNMAP", "off": 73656, "en": "Mountain"}
+{"file": "SNMAP", "off": 73676, "en": "Plains"}
+{"file": "SNMAP", "off": 73696, "en": "Woods"}
+{"file": "SNMAP", "off": 73716, "en": "Forest"}
+{"file": "SNMAP", "off": 73736, "en": "Forest"}
+{"file": "SNMAP", "off": 73756, "en": "New Saotome Lab"}
+{"file": "SNMAP", "off": 73776, "en": "Lakeside"}
+{"file": "SNMAP", "off": 73796, "en": "Riverbank"}
+{"file": "SNMAP", "off": 88768, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 88788, "en": "Sea"}
+{"file": "SNMAP", "off": 88808, "en": "Sea"}
+{"file": "SNMAP", "off": 88828, "en": "Plains"}
+{"file": "SNMAP", "off": 88848, "en": "Beach"}
+{"file": "SNMAP", "off": 106788, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 106808, "en": "Bridge"}
+{"file": "SNMAP", "off": 106828, "en": "Sea"}
+{"file": "SNMAP", "off": 106848, "en": "Sea"}
+{"file": "SNMAP", "off": 106868, "en": "Plains"}
+{"file": "SNMAP", "off": 106888, "en": "Woods"}
+{"file": "SNMAP", "off": 106908, "en": "Beach"}
+{"file": "SNMAP", "off": 129404, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 129424, "en": "Road"}
+{"file": "SNMAP", "off": 129444, "en": "Road"}
+{"file": "SNMAP", "off": 129464, "en": "Building"}
+{"file": "SNMAP", "off": 129484, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 129504, "en": "Sea"}
+{"file": "SNMAP", "off": 129524, "en": "Sea"}
+{"file": "SNMAP", "off": 129544, "en": "Mountain"}
+{"file": "SNMAP", "off": 129564, "en": "Plains"}
+{"file": "SNMAP", "off": 129584, "en": "Woods"}
+{"file": "SNMAP", "off": 129604, "en": "Forest"}
+{"file": "SNMAP", "off": 129624, "en": "Beach"}
+{"file": "SNMAP", "off": 129644, "en": "Far East Base"}
+{"file": "SNMAP", "off": 129664, "en": "Far East Base"}
+{"file": "SNMAP", "off": 148260, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 148280, "en": "Outer Space"}
+{"file": "SNMAP", "off": 148300, "en": "Outer Space"}
+{"file": "SNMAP", "off": 148320, "en": "Outer Space"}
+{"file": "SNMAP", "off": 148340, "en": "Outer Space"}
+{"file": "SNMAP", "off": 148360, "en": "Colony"}
+{"file": "SNMAP", "off": 148380, "en": "Earth"}
+{"file": "SNMAP", "off": 162784, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 162804, "en": "Road"}
+{"file": "SNMAP", "off": 162824, "en": "Road"}
+{"file": "SNMAP", "off": 162844, "en": "Road"}
+{"file": "SNMAP", "off": 162864, "en": "Building"}
+{"file": "SNMAP", "off": 162884, "en": "Bridge"}
+{"file": "SNMAP", "off": 162904, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 162924, "en": "Plains"}
+{"file": "SNMAP", "off": 162944, "en": "Woods"}
+{"file": "SNMAP", "off": 162964, "en": "Forest"}
+{"file": "SNMAP", "off": 163004, "en": "Titans Base"}
+{"file": "SNMAP", "off": 163024, "en": "Titans Base"}
+{"file": "SNMAP", "off": 177092, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 177112, "en": "Outer Space"}
+{"file": "SNMAP", "off": 177132, "en": "Outer Space"}
+{"file": "SNMAP", "off": 177152, "en": "Outer Space"}
+{"file": "SNMAP", "off": 177172, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 177192, "en": "Colony"}
+{"file": "SNMAP", "off": 196128, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 196148, "en": "Outer Space"}
+{"file": "SNMAP", "off": 196168, "en": "Outer Space"}
+{"file": "SNMAP", "off": 196188, "en": "Outer Space"}
+{"file": "SNMAP", "off": 196208, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 196228, "en": "Earth"}
+{"file": "SNMAP", "off": 211588, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 211608, "en": "Outer Space"}
+{"file": "SNMAP", "off": 211628, "en": "Outer Space"}
+{"file": "SNMAP", "off": 211648, "en": "Earth"}
+{"file": "SNMAP", "off": 233856, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 233876, "en": "Road"}
+{"file": "SNMAP", "off": 233896, "en": "Road"}
+{"file": "SNMAP", "off": 233916, "en": "Building"}
+{"file": "SNMAP", "off": 233936, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 233956, "en": "Sea"}
+{"file": "SNMAP", "off": 233976, "en": "Sea"}
+{"file": "SNMAP", "off": 233996, "en": "Mountain"}
+{"file": "SNMAP", "off": 234016, "en": "Plains"}
+{"file": "SNMAP", "off": 234036, "en": "Plains"}
+{"file": "SNMAP", "off": 234056, "en": "Woods"}
+{"file": "SNMAP", "off": 234076, "en": "Forest"}
+{"file": "SNMAP", "off": 234096, "en": "Beach"}
+{"file": "SNMAP", "off": 234116, "en": "Far East Base"}
+{"file": "SNMAP", "off": 234136, "en": "Far East Base"}
+{"file": "SNMAP", "off": 253496, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 253516, "en": "Sea"}
+{"file": "SNMAP", "off": 253536, "en": "Sea"}
+{"file": "SNMAP", "off": 253556, "en": "Mountain"}
+{"file": "SNMAP", "off": 253576, "en": "Plains"}
+{"file": "SNMAP", "off": 253596, "en": "Plains"}
+{"file": "SNMAP", "off": 253616, "en": "Woods"}
+{"file": "SNMAP", "off": 253636, "en": "Forest"}
+{"file": "SNMAP", "off": 253656, "en": "Nanbara Conn."}
+{"file": "SNMAP", "off": 253676, "en": "Nanbara Conn."}
+{"file": "SNMAP", "off": 253696, "en": "Residential"}
+{"file": "SNMAP", "off": 253716, "en": "Beach"}
+{"file": "SNMAP", "off": 253736, "en": "Beach"}
+{"file": "SNMAP", "off": 272184, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 272204, "en": "Road"}
+{"file": "SNMAP", "off": 272224, "en": "Road"}
+{"file": "SNMAP", "off": 272244, "en": "Building"}
+{"file": "SNMAP", "off": 272264, "en": "Bridge"}
+{"file": "SNMAP", "off": 272284, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 272304, "en": "Sea"}
+{"file": "SNMAP", "off": 272324, "en": "Sea"}
+{"file": "SNMAP", "off": 272344, "en": "River"}
+{"file": "SNMAP", "off": 272364, "en": "Plains"}
+{"file": "SNMAP", "off": 272384, "en": "Woods"}
+{"file": "SNMAP", "off": 272404, "en": "Residential"}
+{"file": "SNMAP", "off": 272424, "en": "Seawall"}
+{"file": "SNMAP", "off": 292128, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 292148, "en": "Sea"}
+{"file": "SNMAP", "off": 292168, "en": "Sea"}
+{"file": "SNMAP", "off": 292188, "en": "Plains"}
+{"file": "SNMAP", "off": 292208, "en": "Woods"}
+{"file": "SNMAP", "off": 292228, "en": "Beach"}
+{"file": "SNMAP", "off": 310560, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 310580, "en": "Sea"}
+{"file": "SNMAP", "off": 310600, "en": "Sea"}
+{"file": "SNMAP", "off": 310620, "en": "Plains"}
+{"file": "SNMAP", "off": 310640, "en": "Woods"}
+{"file": "SNMAP", "off": 310660, "en": "Beach"}
+{"file": "SNMAP", "off": 329280, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 329300, "en": "Road"}
+{"file": "SNMAP", "off": 329320, "en": "Road"}
+{"file": "SNMAP", "off": 329340, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 329360, "en": "Plains"}
+{"file": "SNMAP", "off": 329380, "en": "Woods"}
+{"file": "SNMAP", "off": 329400, "en": "Forest"}
+{"file": "SNMAP", "off": 329420, "en": "Desert"}
+{"file": "SNMAP", "off": 329440, "en": "Residential"}
+{"file": "SNMAP", "off": 329460, "en": "Residential"}
+{"file": "SNMAP", "off": 329480, "en": "Airport"}
+{"file": "SNMAP", "off": 329500, "en": "Runway"}
+{"file": "SNMAP", "off": 329520, "en": "Federation Base"}
+{"file": "SNMAP", "off": 329540, "en": "Federation Base"}
+{"file": "SNMAP", "off": 343000, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 343020, "en": "Road"}
+{"file": "SNMAP", "off": 343040, "en": "Lake"}
+{"file": "SNMAP", "off": 343060, "en": "Lake"}
+{"file": "SNMAP", "off": 343080, "en": "Mountain"}
+{"file": "SNMAP", "off": 343100, "en": "Plains"}
+{"file": "SNMAP", "off": 343120, "en": "Woods"}
+{"file": "SNMAP", "off": 343140, "en": "Forest"}
+{"file": "SNMAP", "off": 343160, "en": "Factory"}
+{"file": "SNMAP", "off": 343180, "en": "Factory"}
+{"file": "SNMAP", "off": 343200, "en": "Lakeside"}
+{"file": "SNMAP", "off": 357944, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 357964, "en": "Road"}
+{"file": "SNMAP", "off": 357984, "en": "Mountain"}
+{"file": "SNMAP", "off": 358004, "en": "Plains"}
+{"file": "SNMAP", "off": 358024, "en": "Plains"}
+{"file": "SNMAP", "off": 358044, "en": "Woods"}
+{"file": "SNMAP", "off": 358064, "en": "Forest"}
+{"file": "SNMAP", "off": 358084, "en": "Uso's House"}
+{"file": "SNMAP", "off": 376152, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 376172, "en": "Road"}
+{"file": "SNMAP", "off": 376192, "en": "Road"}
+{"file": "SNMAP", "off": 376212, "en": "Building"}
+{"file": "SNMAP", "off": 376232, "en": "Bridge"}
+{"file": "SNMAP", "off": 376252, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 376272, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 376292, "en": "Sea"}
+{"file": "SNMAP", "off": 376312, "en": "Sea"}
+{"file": "SNMAP", "off": 376332, "en": "River"}
+{"file": "SNMAP", "off": 376352, "en": "Plains"}
+{"file": "SNMAP", "off": 376372, "en": "Plains"}
+{"file": "SNMAP", "off": 376392, "en": "Plains"}
+{"file": "SNMAP", "off": 376412, "en": "Woods"}
+{"file": "SNMAP", "off": 376432, "en": "Forest"}
+{"file": "SNMAP", "off": 376452, "en": "Residential"}
+{"file": "SNMAP", "off": 376472, "en": "Residential"}
+{"file": "SNMAP", "off": 376492, "en": "Relena's Manor"}
+{"file": "SNMAP", "off": 376512, "en": "Beach"}
+{"file": "SNMAP", "off": 376532, "en": "Riverbank"}
+{"file": "SNMAP", "off": 396384, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 396404, "en": "Road"}
+{"file": "SNMAP", "off": 396424, "en": "Special Base"}
+{"file": "SNMAP", "off": 396444, "en": "Special Base"}
+{"file": "SNMAP", "off": 396464, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 396484, "en": "Sea"}
+{"file": "SNMAP", "off": 396504, "en": "Sea"}
+{"file": "SNMAP", "off": 396524, "en": "Mountain"}
+{"file": "SNMAP", "off": 396544, "en": "Plains"}
+{"file": "SNMAP", "off": 396564, "en": "Plains"}
+{"file": "SNMAP", "off": 396584, "en": "Woods"}
+{"file": "SNMAP", "off": 396604, "en": "Forest"}
+{"file": "SNMAP", "off": 396624, "en": "Cliff"}
+{"file": "SNMAP", "off": 396644, "en": "Cliff"}
+{"file": "SNMAP", "off": 396664, "en": "Jinmen Rock"}
+{"file": "SNMAP", "off": 396684, "en": "Seaside School"}
+{"file": "SNMAP", "off": 396704, "en": "Residential"}
+{"file": "SNMAP", "off": 396724, "en": "Big Shell"}
+{"file": "SNMAP", "off": 396744, "en": "Beach"}
+{"file": "SNMAP", "off": 415036, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 415056, "en": "Road"}
+{"file": "SNMAP", "off": 415076, "en": "Lake"}
+{"file": "SNMAP", "off": 415096, "en": "Plains"}
+{"file": "SNMAP", "off": 415116, "en": "Desert"}
+{"file": "SNMAP", "off": 415136, "en": "Wasteland"}
+{"file": "SNMAP", "off": 415156, "en": "Airport"}
+{"file": "SNMAP", "off": 415176, "en": "Runway"}
+{"file": "SNMAP", "off": 415196, "en": "Runway"}
+{"file": "SNMAP", "off": 415216, "en": "Runway"}
+{"file": "SNMAP", "off": 415236, "en": "Federation Base"}
+{"file": "SNMAP", "off": 415256, "en": "Federation Base"}
+{"file": "SNMAP", "off": 415276, "en": "Lakeside"}
+{"file": "SNMAP", "off": 432680, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 432700, "en": "Sea"}
+{"file": "SNMAP", "off": 432720, "en": "Sea"}
+{"file": "SNMAP", "off": 432740, "en": "Mountain"}
+{"file": "SNMAP", "off": 432760, "en": "Plains"}
+{"file": "SNMAP", "off": 432780, "en": "Woods"}
+{"file": "SNMAP", "off": 432800, "en": "Forest"}
+{"file": "SNMAP", "off": 432820, "en": "Beach"}
+{"file": "SNMAP", "off": 451928, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 451948, "en": "Road"}
+{"file": "SNMAP", "off": 451968, "en": "Road"}
+{"file": "SNMAP", "off": 451988, "en": "Building"}
+{"file": "SNMAP", "off": 452008, "en": "Bridge"}
+{"file": "SNMAP", "off": 452028, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 452048, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 452068, "en": "Sea"}
+{"file": "SNMAP", "off": 452088, "en": "Sea"}
+{"file": "SNMAP", "off": 452108, "en": "River"}
+{"file": "SNMAP", "off": 452128, "en": "Plains"}
+{"file": "SNMAP", "off": 452148, "en": "Plains"}
+{"file": "SNMAP", "off": 452168, "en": "Plains"}
+{"file": "SNMAP", "off": 452188, "en": "Woods"}
+{"file": "SNMAP", "off": 452208, "en": "Forest"}
+{"file": "SNMAP", "off": 452228, "en": "Residential"}
+{"file": "SNMAP", "off": 452248, "en": "Residential"}
+{"file": "SNMAP", "off": 452268, "en": "Relena's Manor"}
+{"file": "SNMAP", "off": 452288, "en": "Beach"}
+{"file": "SNMAP", "off": 452308, "en": "Riverbank"}
+{"file": "SNMAP", "off": 473468, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 473488, "en": "Road"}
+{"file": "SNMAP", "off": 473508, "en": "Road"}
+{"file": "SNMAP", "off": 473528, "en": "Building"}
+{"file": "SNMAP", "off": 473548, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 473568, "en": "Sea"}
+{"file": "SNMAP", "off": 473588, "en": "Sea"}
+{"file": "SNMAP", "off": 473608, "en": "Mountain"}
+{"file": "SNMAP", "off": 473628, "en": "Plains"}
+{"file": "SNMAP", "off": 473648, "en": "Woods"}
+{"file": "SNMAP", "off": 473668, "en": "Forest"}
+{"file": "SNMAP", "off": 473688, "en": "Beach"}
+{"file": "SNMAP", "off": 473708, "en": "Far East Base"}
+{"file": "SNMAP", "off": 473728, "en": "Far East Base"}
+{"file": "SNMAP", "off": 494112, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 494132, "en": "Road"}
+{"file": "SNMAP", "off": 494152, "en": "Road"}
+{"file": "SNMAP", "off": 494172, "en": "Building"}
+{"file": "SNMAP", "off": 494192, "en": "Power Bldg."}
+{"file": "SNMAP", "off": 494212, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 494232, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 494252, "en": "Lake"}
+{"file": "SNMAP", "off": 494272, "en": "Lake"}
+{"file": "SNMAP", "off": 494292, "en": "Mountain"}
+{"file": "SNMAP", "off": 494312, "en": "Plains"}
+{"file": "SNMAP", "off": 494332, "en": "Woods"}
+{"file": "SNMAP", "off": 494352, "en": "Forest"}
+{"file": "SNMAP", "off": 494372, "en": "Lakeside"}
+{"file": "SNMAP", "off": 494392, "en": "Reservoir"}
+{"file": "SNMAP", "off": 514592, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 514612, "en": "Road"}
+{"file": "SNMAP", "off": 514632, "en": "Road"}
+{"file": "SNMAP", "off": 514652, "en": "Building"}
+{"file": "SNMAP", "off": 514672, "en": "Power Bldg."}
+{"file": "SNMAP", "off": 514692, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 514712, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 514732, "en": "Lake"}
+{"file": "SNMAP", "off": 514752, "en": "Lake"}
+{"file": "SNMAP", "off": 514772, "en": "Mountain"}
+{"file": "SNMAP", "off": 514792, "en": "Plains"}
+{"file": "SNMAP", "off": 514812, "en": "Woods"}
+{"file": "SNMAP", "off": 514832, "en": "Forest"}
+{"file": "SNMAP", "off": 514852, "en": "Lakeside"}
+{"file": "SNMAP", "off": 514872, "en": "Reservoir"}
+{"file": "SNMAP", "off": 535616, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 535636, "en": "Road"}
+{"file": "SNMAP", "off": 535656, "en": "Road"}
+{"file": "SNMAP", "off": 535676, "en": "Building"}
+{"file": "SNMAP", "off": 535696, "en": "Bridge"}
+{"file": "SNMAP", "off": 535716, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 535736, "en": "Sea"}
+{"file": "SNMAP", "off": 535756, "en": "Sea"}
+{"file": "SNMAP", "off": 535776, "en": "Plains"}
+{"file": "SNMAP", "off": 535796, "en": "DC HQ Bldg."}
+{"file": "SNMAP", "off": 535816, "en": "Seawall"}
+{"file": "SNMAP", "off": 550988, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 551008, "en": "Road"}
+{"file": "SNMAP", "off": 551028, "en": "Road"}
+{"file": "SNMAP", "off": 551048, "en": "Building"}
+{"file": "SNMAP", "off": 551068, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 551088, "en": "Lake"}
+{"file": "SNMAP", "off": 551108, "en": "Mountain"}
+{"file": "SNMAP", "off": 551128, "en": "Plains"}
+{"file": "SNMAP", "off": 551148, "en": "Plains"}
+{"file": "SNMAP", "off": 551168, "en": "Woods"}
+{"file": "SNMAP", "off": 551188, "en": "Forest"}
+{"file": "SNMAP", "off": 551208, "en": "Residential"}
+{"file": "SNMAP", "off": 551228, "en": "Lakeside"}
+{"file": "SNMAP", "off": 571936, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 571956, "en": "Road"}
+{"file": "SNMAP", "off": 571976, "en": "Road"}
+{"file": "SNMAP", "off": 571996, "en": "Building"}
+{"file": "SNMAP", "off": 572016, "en": "Power Bldg."}
+{"file": "SNMAP", "off": 572036, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 572056, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 572076, "en": "Lake"}
+{"file": "SNMAP", "off": 572096, "en": "Lake"}
+{"file": "SNMAP", "off": 572116, "en": "Mountain"}
+{"file": "SNMAP", "off": 572136, "en": "Plains"}
+{"file": "SNMAP", "off": 572156, "en": "Woods"}
+{"file": "SNMAP", "off": 572176, "en": "Forest"}
+{"file": "SNMAP", "off": 572196, "en": "Lakeside"}
+{"file": "SNMAP", "off": 572216, "en": "Reservoir"}
+{"file": "SNMAP", "off": 586980, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 587000, "en": "Bridge"}
+{"file": "SNMAP", "off": 587020, "en": "River"}
+{"file": "SNMAP", "off": 587040, "en": "Lake"}
+{"file": "SNMAP", "off": 587060, "en": "Lake"}
+{"file": "SNMAP", "off": 587080, "en": "Mountain"}
+{"file": "SNMAP", "off": 587100, "en": "Plains"}
+{"file": "SNMAP", "off": 587120, "en": "Plains"}
+{"file": "SNMAP", "off": 587140, "en": "Woods"}
+{"file": "SNMAP", "off": 587160, "en": "Forest"}
+{"file": "SNMAP", "off": 587180, "en": "Photon Lab"}
+{"file": "SNMAP", "off": 587200, "en": "Photon Lab"}
+{"file": "SNMAP", "off": 587220, "en": "Lakeside"}
+{"file": "SNMAP", "off": 587240, "en": "Riverbank"}
+{"file": "SNMAP", "off": 606016, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 606036, "en": "Road"}
+{"file": "SNMAP", "off": 606056, "en": "Road"}
+{"file": "SNMAP", "off": 606076, "en": "River"}
+{"file": "SNMAP", "off": 606096, "en": "Lake"}
+{"file": "SNMAP", "off": 606116, "en": "Lake"}
+{"file": "SNMAP", "off": 606136, "en": "Mountain"}
+{"file": "SNMAP", "off": 606156, "en": "Plains"}
+{"file": "SNMAP", "off": 606176, "en": "Woods"}
+{"file": "SNMAP", "off": 606196, "en": "Forest"}
+{"file": "SNMAP", "off": 606216, "en": "Forest"}
+{"file": "SNMAP", "off": 606236, "en": "New Saotome Lab"}
+{"file": "SNMAP", "off": 606256, "en": "Lakeside"}
+{"file": "SNMAP", "off": 606276, "en": "Riverbank"}
+{"file": "SNMAP", "off": 627232, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 627252, "en": "Road"}
+{"file": "SNMAP", "off": 627272, "en": "Road"}
+{"file": "SNMAP", "off": 627292, "en": "Building"}
+{"file": "SNMAP", "off": 627312, "en": "Power Bldg."}
+{"file": "SNMAP", "off": 627332, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 627352, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 627372, "en": "Lake"}
+{"file": "SNMAP", "off": 627392, "en": "Lake"}
+{"file": "SNMAP", "off": 627412, "en": "Mountain"}
+{"file": "SNMAP", "off": 627432, "en": "Plains"}
+{"file": "SNMAP", "off": 627452, "en": "Woods"}
+{"file": "SNMAP", "off": 627472, "en": "Forest"}
+{"file": "SNMAP", "off": 627492, "en": "Lakeside"}
+{"file": "SNMAP", "off": 627512, "en": "Reservoir"}
+{"file": "SNMAP", "off": 647712, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 647732, "en": "Road"}
+{"file": "SNMAP", "off": 647752, "en": "Road"}
+{"file": "SNMAP", "off": 647772, "en": "Building"}
+{"file": "SNMAP", "off": 647792, "en": "Power Bldg."}
+{"file": "SNMAP", "off": 647812, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 647832, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 647852, "en": "Lake"}
+{"file": "SNMAP", "off": 647872, "en": "Lake"}
+{"file": "SNMAP", "off": 647892, "en": "Mountain"}
+{"file": "SNMAP", "off": 647912, "en": "Plains"}
+{"file": "SNMAP", "off": 647932, "en": "Woods"}
+{"file": "SNMAP", "off": 647952, "en": "Forest"}
+{"file": "SNMAP", "off": 647972, "en": "Lakeside"}
+{"file": "SNMAP", "off": 647992, "en": "Reservoir"}
+{"file": "SNMAP", "off": 668460, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 668480, "en": "River"}
+{"file": "SNMAP", "off": 668500, "en": "Lake"}
+{"file": "SNMAP", "off": 668520, "en": "Lake"}
+{"file": "SNMAP", "off": 668540, "en": "Mountain"}
+{"file": "SNMAP", "off": 668560, "en": "Plains"}
+{"file": "SNMAP", "off": 668580, "en": "Forest"}
+{"file": "SNMAP", "off": 668600, "en": "Lakeside"}
+{"file": "SNMAP", "off": 668620, "en": "Riverbank"}
+{"file": "SNMAP", "off": 688940, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 688960, "en": "River"}
+{"file": "SNMAP", "off": 688980, "en": "Lake"}
+{"file": "SNMAP", "off": 689000, "en": "Lake"}
+{"file": "SNMAP", "off": 689020, "en": "Mountain"}
+{"file": "SNMAP", "off": 689040, "en": "Plains"}
+{"file": "SNMAP", "off": 689060, "en": "Forest"}
+{"file": "SNMAP", "off": 689080, "en": "Lakeside"}
+{"file": "SNMAP", "off": 689100, "en": "Riverbank"}
+{"file": "SNMAP", "off": 706432, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 706452, "en": "River"}
+{"file": "SNMAP", "off": 706472, "en": "Mountain"}
+{"file": "SNMAP", "off": 706492, "en": "Plains"}
+{"file": "SNMAP", "off": 706512, "en": "Plains"}
+{"file": "SNMAP", "off": 706532, "en": "Plains"}
+{"file": "SNMAP", "off": 706552, "en": "Forest"}
+{"file": "SNMAP", "off": 706572, "en": "Wasteland"}
+{"file": "SNMAP", "off": 706592, "en": "Wasteland"}
+{"file": "SNMAP", "off": 706612, "en": "Wasteland"}
+{"file": "SNMAP", "off": 706632, "en": "Cliff"}
+{"file": "SNMAP", "off": 706652, "en": "Cliff"}
+{"file": "SNMAP", "off": 724324, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 724344, "en": "Mountain"}
+{"file": "SNMAP", "off": 724364, "en": "Plains"}
+{"file": "SNMAP", "off": 724384, "en": "Woods"}
+{"file": "SNMAP", "off": 724404, "en": "Forest"}
+{"file": "SNMAP", "off": 744236, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 744256, "en": "River"}
+{"file": "SNMAP", "off": 744276, "en": "Lake"}
+{"file": "SNMAP", "off": 744296, "en": "Lake"}
+{"file": "SNMAP", "off": 744316, "en": "Mountain"}
+{"file": "SNMAP", "off": 744336, "en": "Plains"}
+{"file": "SNMAP", "off": 744356, "en": "Forest"}
+{"file": "SNMAP", "off": 744376, "en": "Lakeside"}
+{"file": "SNMAP", "off": 744396, "en": "Riverbank"}
+{"file": "SNMAP", "off": 769324, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 769344, "en": "Road"}
+{"file": "SNMAP", "off": 769364, "en": "Road"}
+{"file": "SNMAP", "off": 769384, "en": "Building"}
+{"file": "SNMAP", "off": 769404, "en": "High-Rise"}
+{"file": "SNMAP", "off": 769424, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 769444, "en": "Plains"}
+{"file": "SNMAP", "off": 769464, "en": "Forest"}
+{"file": "SNMAP", "off": 769484, "en": "Residential"}
+{"file": "SNMAP", "off": 769504, "en": "Pond"}
+{"file": "SNMAP", "off": 784460, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 784480, "en": "Road"}
+{"file": "SNMAP", "off": 784500, "en": "Road"}
+{"file": "SNMAP", "off": 784520, "en": "Building"}
+{"file": "SNMAP", "off": 784540, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 784560, "en": "Lake"}
+{"file": "SNMAP", "off": 784580, "en": "Mountain"}
+{"file": "SNMAP", "off": 784600, "en": "Plains"}
+{"file": "SNMAP", "off": 784620, "en": "Plains"}
+{"file": "SNMAP", "off": 784640, "en": "Woods"}
+{"file": "SNMAP", "off": 784660, "en": "Forest"}
+{"file": "SNMAP", "off": 784680, "en": "Residential"}
+{"file": "SNMAP", "off": 784700, "en": "Lakeside"}
+{"file": "SNMAP", "off": 805448, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 805468, "en": "Road"}
+{"file": "SNMAP", "off": 805488, "en": "Road"}
+{"file": "SNMAP", "off": 805508, "en": "Bridge"}
+{"file": "SNMAP", "off": 805528, "en": "Sea"}
+{"file": "SNMAP", "off": 805548, "en": "Sea"}
+{"file": "SNMAP", "off": 805568, "en": "Plains"}
+{"file": "SNMAP", "off": 805588, "en": "Plains"}
+{"file": "SNMAP", "off": 805608, "en": "Forest"}
+{"file": "SNMAP", "off": 805628, "en": "Cliff"}
+{"file": "SNMAP", "off": 805648, "en": "Big Falcon"}
+{"file": "SNMAP", "off": 805668, "en": "Big Falcon"}
+{"file": "SNMAP", "off": 805688, "en": "Beach"}
+{"file": "SNMAP", "off": 830768, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 830788, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 830808, "en": "Road"}
+{"file": "SNMAP", "off": 830828, "en": "Road"}
+{"file": "SNMAP", "off": 830848, "en": "Building"}
+{"file": "SNMAP", "off": 830868, "en": "High-Rise"}
+{"file": "SNMAP", "off": 830888, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 830908, "en": "Plains"}
+{"file": "SNMAP", "off": 830928, "en": "Forest"}
+{"file": "SNMAP", "off": 830948, "en": "Residential"}
+{"file": "SNMAP", "off": 830968, "en": "Pond"}
+{"file": "SNMAP", "off": 845028, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 845048, "en": "Bridge"}
+{"file": "SNMAP", "off": 845068, "en": "River"}
+{"file": "SNMAP", "off": 845088, "en": "Lake"}
+{"file": "SNMAP", "off": 845108, "en": "Lake"}
+{"file": "SNMAP", "off": 845128, "en": "Mountain"}
+{"file": "SNMAP", "off": 845148, "en": "Plains"}
+{"file": "SNMAP", "off": 845168, "en": "Plains"}
+{"file": "SNMAP", "off": 845188, "en": "Woods"}
+{"file": "SNMAP", "off": 845208, "en": "Forest"}
+{"file": "SNMAP", "off": 845228, "en": "Photon Lab"}
+{"file": "SNMAP", "off": 845248, "en": "Photon Lab"}
+{"file": "SNMAP", "off": 845268, "en": "Lakeside"}
+{"file": "SNMAP", "off": 845288, "en": "Riverbank"}
+{"file": "SNMAP", "off": 864840, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 864860, "en": "Road"}
+{"file": "SNMAP", "off": 864880, "en": "Road"}
+{"file": "SNMAP", "off": 864900, "en": "Bridge"}
+{"file": "SNMAP", "off": 864920, "en": "Sea"}
+{"file": "SNMAP", "off": 864940, "en": "Sea"}
+{"file": "SNMAP", "off": 864960, "en": "Plains"}
+{"file": "SNMAP", "off": 864980, "en": "Plains"}
+{"file": "SNMAP", "off": 865000, "en": "Forest"}
+{"file": "SNMAP", "off": 865020, "en": "Cliff"}
+{"file": "SNMAP", "off": 865040, "en": "Big Falcon"}
+{"file": "SNMAP", "off": 865060, "en": "Big Falcon"}
+{"file": "SNMAP", "off": 865080, "en": "Beach"}
+{"file": "SNMAP", "off": 890160, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 890180, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 890200, "en": "Road"}
+{"file": "SNMAP", "off": 890220, "en": "Road"}
+{"file": "SNMAP", "off": 890240, "en": "Building"}
+{"file": "SNMAP", "off": 890260, "en": "High-Rise"}
+{"file": "SNMAP", "off": 890280, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 890300, "en": "Plains"}
+{"file": "SNMAP", "off": 890320, "en": "Forest"}
+{"file": "SNMAP", "off": 890340, "en": "Residential"}
+{"file": "SNMAP", "off": 890360, "en": "Pond"}
+{"file": "SNMAP", "off": 908852, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 908872, "en": "Flatland"}
+{"file": "SNMAP", "off": 908892, "en": "Road"}
+{"file": "SNMAP", "off": 908912, "en": "Road"}
+{"file": "SNMAP", "off": 908932, "en": "Building"}
+{"file": "SNMAP", "off": 908952, "en": "Bridge"}
+{"file": "SNMAP", "off": 908972, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 908992, "en": "Sea"}
+{"file": "SNMAP", "off": 909012, "en": "Sea"}
+{"file": "SNMAP", "off": 909032, "en": "River"}
+{"file": "SNMAP", "off": 909052, "en": "Residential"}
+{"file": "SNMAP", "off": 909072, "en": "Seawall"}
+{"file": "SNMAP", "off": 924804, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 924824, "en": "Outer Space"}
+{"file": "SNMAP", "off": 924844, "en": "Outer Space"}
+{"file": "SNMAP", "off": 924864, "en": "Earth"}
+{"file": "SNMAP", "off": 944424, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 944444, "en": "Outer Space"}
+{"file": "SNMAP", "off": 944464, "en": "Outer Space"}
+{"file": "SNMAP", "off": 944484, "en": "Outer Space"}
+{"file": "SNMAP", "off": 944504, "en": "Outer Space"}
+{"file": "SNMAP", "off": 944524, "en": "La Vie en Rose"}
+{"file": "SNMAP", "off": 944544, "en": "Earth"}
+{"file": "SNMAP", "off": 944564, "en": "Moon"}
+{"file": "SNMAP", "off": 963868, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 963888, "en": "Outer Space"}
+{"file": "SNMAP", "off": 963908, "en": "Outer Space"}
+{"file": "SNMAP", "off": 963928, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 963948, "en": "Solomon"}
+{"file": "SNMAP", "off": 978144, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 978164, "en": "Road"}
+{"file": "SNMAP", "off": 978184, "en": "Road"}
+{"file": "SNMAP", "off": 978204, "en": "Building"}
+{"file": "SNMAP", "off": 978224, "en": "Bridge"}
+{"file": "SNMAP", "off": 978244, "en": "Bridge"}
+{"file": "SNMAP", "off": 978264, "en": "Special Base"}
+{"file": "SNMAP", "off": 978284, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 978304, "en": "Plains"}
+{"file": "SNMAP", "off": 978324, "en": "Woods"}
+{"file": "SNMAP", "off": 978344, "en": "Forest"}
+{"file": "SNMAP", "off": 978384, "en": "Residential"}
+{"file": "SNMAP", "off": 995880, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 995900, "en": "Sea"}
+{"file": "SNMAP", "off": 995920, "en": "Sea"}
+{"file": "SNMAP", "off": 995940, "en": "Mountain"}
+{"file": "SNMAP", "off": 995960, "en": "Plains"}
+{"file": "SNMAP", "off": 995980, "en": "Woods"}
+{"file": "SNMAP", "off": 996000, "en": "Forest"}
+{"file": "SNMAP", "off": 996020, "en": "Beach"}
+{"file": "SNMAP", "off": 1014312, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1014332, "en": "Sea"}
+{"file": "SNMAP", "off": 1014352, "en": "Sea"}
+{"file": "SNMAP", "off": 1014372, "en": "Mountain"}
+{"file": "SNMAP", "off": 1014392, "en": "Plains"}
+{"file": "SNMAP", "off": 1014412, "en": "Woods"}
+{"file": "SNMAP", "off": 1014432, "en": "Forest"}
+{"file": "SNMAP", "off": 1014452, "en": "Beach"}
+{"file": "SNMAP", "off": 1033508, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1033528, "en": "Sea"}
+{"file": "SNMAP", "off": 1033548, "en": "Sea"}
+{"file": "SNMAP", "off": 1033568, "en": "Mountain"}
+{"file": "SNMAP", "off": 1033588, "en": "Plains"}
+{"file": "SNMAP", "off": 1033608, "en": "Forest"}
+{"file": "SNMAP", "off": 1033628, "en": "Beach"}
+{"file": "SNMAP", "off": 1061504, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1061524, "en": "Building"}
+{"file": "SNMAP", "off": 1061544, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1061564, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1061584, "en": "Sea"}
+{"file": "SNMAP", "off": 1061604, "en": "Sea"}
+{"file": "SNMAP", "off": 1061624, "en": "Mountain"}
+{"file": "SNMAP", "off": 1061644, "en": "Mountain"}
+{"file": "SNMAP", "off": 1061664, "en": "Plains"}
+{"file": "SNMAP", "off": 1061684, "en": "Cliff"}
+{"file": "SNMAP", "off": 1061704, "en": "Cliff"}
+{"file": "SNMAP", "off": 1061724, "en": "Crater"}
+{"file": "SNMAP", "off": 1061744, "en": "Crater"}
+{"file": "SNMAP", "off": 1061764, "en": "DC HQ Bldg."}
+{"file": "SNMAP", "off": 1061784, "en": "Airport"}
+{"file": "SNMAP", "off": 1061804, "en": "Runway"}
+{"file": "SNMAP", "off": 1061824, "en": "Seawall"}
+{"file": "SNMAP", "off": 1061844, "en": "Seawall"}
+{"file": "SNMAP", "off": 1061864, "en": "Beach"}
+{"file": "SNMAP", "off": 1061884, "en": "Macross Dock"}
+{"file": "SNMAP", "off": 1061904, "en": "Macross Dock"}
+{"file": "SNMAP", "off": 1090176, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1090196, "en": "Building"}
+{"file": "SNMAP", "off": 1090216, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1090236, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1090256, "en": "Sea"}
+{"file": "SNMAP", "off": 1090276, "en": "Sea"}
+{"file": "SNMAP", "off": 1090296, "en": "Mountain"}
+{"file": "SNMAP", "off": 1090316, "en": "Mountain"}
+{"file": "SNMAP", "off": 1090336, "en": "Plains"}
+{"file": "SNMAP", "off": 1090356, "en": "Cliff"}
+{"file": "SNMAP", "off": 1090376, "en": "Cliff"}
+{"file": "SNMAP", "off": 1090396, "en": "Crater"}
+{"file": "SNMAP", "off": 1090416, "en": "Crater"}
+{"file": "SNMAP", "off": 1090436, "en": "DC HQ Bldg."}
+{"file": "SNMAP", "off": 1090456, "en": "Airport"}
+{"file": "SNMAP", "off": 1090476, "en": "Runway"}
+{"file": "SNMAP", "off": 1090496, "en": "Seawall"}
+{"file": "SNMAP", "off": 1090516, "en": "Seawall"}
+{"file": "SNMAP", "off": 1090536, "en": "Beach"}
+{"file": "SNMAP", "off": 1090556, "en": "Macross Dock"}
+{"file": "SNMAP", "off": 1090576, "en": "Macross Dock"}
+{"file": "SNMAP", "off": 1118848, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1118868, "en": "Building"}
+{"file": "SNMAP", "off": 1118888, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1118908, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1118928, "en": "Sea"}
+{"file": "SNMAP", "off": 1118948, "en": "Sea"}
+{"file": "SNMAP", "off": 1118968, "en": "Mountain"}
+{"file": "SNMAP", "off": 1118988, "en": "Mountain"}
+{"file": "SNMAP", "off": 1119008, "en": "Plains"}
+{"file": "SNMAP", "off": 1119028, "en": "Cliff"}
+{"file": "SNMAP", "off": 1119048, "en": "Cliff"}
+{"file": "SNMAP", "off": 1119068, "en": "Crater"}
+{"file": "SNMAP", "off": 1119088, "en": "Crater"}
+{"file": "SNMAP", "off": 1119108, "en": "DC HQ Bldg."}
+{"file": "SNMAP", "off": 1119128, "en": "Airport"}
+{"file": "SNMAP", "off": 1119148, "en": "Runway"}
+{"file": "SNMAP", "off": 1119168, "en": "Seawall"}
+{"file": "SNMAP", "off": 1119188, "en": "Seawall"}
+{"file": "SNMAP", "off": 1119208, "en": "Beach"}
+{"file": "SNMAP", "off": 1119228, "en": "Macross Dock"}
+{"file": "SNMAP", "off": 1119248, "en": "Macross Dock"}
+{"file": "SNMAP", "off": 1137176, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1137196, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1137216, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1137236, "en": "Pluto"}
+{"file": "SNMAP", "off": 1153368, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1153388, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1172508, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1172528, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1172548, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1172568, "en": "Saturn"}
+{"file": "SNMAP", "off": 1172588, "en": "Saturn"}
+{"file": "SNMAP", "off": 1193800, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1193820, "en": "Road"}
+{"file": "SNMAP", "off": 1193840, "en": "Road"}
+{"file": "SNMAP", "off": 1193860, "en": "Road"}
+{"file": "SNMAP", "off": 1193880, "en": "Building"}
+{"file": "SNMAP", "off": 1193900, "en": "High-Rise"}
+{"file": "SNMAP", "off": 1193920, "en": "Bridge"}
+{"file": "SNMAP", "off": 1193940, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1193960, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1193980, "en": "Plains"}
+{"file": "SNMAP", "off": 1194000, "en": "Plains"}
+{"file": "SNMAP", "off": 1194020, "en": "Woods"}
+{"file": "SNMAP", "off": 1194040, "en": "Concert Venue"}
+{"file": "SNMAP", "off": 1213464, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1213484, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1213504, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1213524, "en": "Jupiter"}
+{"file": "SNMAP", "off": 1231148, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1231208, "en": "Energy Tank"}
+{"file": "SNMAP", "off": 1249808, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1249828, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1278592, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1278612, "en": "Building"}
+{"file": "SNMAP", "off": 1278632, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1278652, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1278672, "en": "Sea"}
+{"file": "SNMAP", "off": 1278692, "en": "Sea"}
+{"file": "SNMAP", "off": 1278712, "en": "Mountain"}
+{"file": "SNMAP", "off": 1278732, "en": "Mountain"}
+{"file": "SNMAP", "off": 1278752, "en": "Plains"}
+{"file": "SNMAP", "off": 1278772, "en": "Cliff"}
+{"file": "SNMAP", "off": 1278792, "en": "Cliff"}
+{"file": "SNMAP", "off": 1278812, "en": "Crater"}
+{"file": "SNMAP", "off": 1278832, "en": "Crater"}
+{"file": "SNMAP", "off": 1278852, "en": "DC HQ Bldg."}
+{"file": "SNMAP", "off": 1278872, "en": "Airport"}
+{"file": "SNMAP", "off": 1278892, "en": "Runway"}
+{"file": "SNMAP", "off": 1278912, "en": "Seawall"}
+{"file": "SNMAP", "off": 1278932, "en": "Seawall"}
+{"file": "SNMAP", "off": 1278952, "en": "Beach"}
+{"file": "SNMAP", "off": 1278972, "en": "Macross Dock"}
+{"file": "SNMAP", "off": 1278992, "en": "Macross Dock"}
+{"file": "SNMAP", "off": 1307264, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1307284, "en": "Building"}
+{"file": "SNMAP", "off": 1307304, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1307324, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1307344, "en": "Sea"}
+{"file": "SNMAP", "off": 1307364, "en": "Sea"}
+{"file": "SNMAP", "off": 1307384, "en": "Mountain"}
+{"file": "SNMAP", "off": 1307404, "en": "Mountain"}
+{"file": "SNMAP", "off": 1307424, "en": "Plains"}
+{"file": "SNMAP", "off": 1307444, "en": "Cliff"}
+{"file": "SNMAP", "off": 1307464, "en": "Cliff"}
+{"file": "SNMAP", "off": 1307484, "en": "Crater"}
+{"file": "SNMAP", "off": 1307504, "en": "Crater"}
+{"file": "SNMAP", "off": 1307524, "en": "DC HQ Bldg."}
+{"file": "SNMAP", "off": 1307544, "en": "Airport"}
+{"file": "SNMAP", "off": 1307564, "en": "Runway"}
+{"file": "SNMAP", "off": 1307584, "en": "Seawall"}
+{"file": "SNMAP", "off": 1307604, "en": "Seawall"}
+{"file": "SNMAP", "off": 1307624, "en": "Beach"}
+{"file": "SNMAP", "off": 1307644, "en": "Macross Dock"}
+{"file": "SNMAP", "off": 1307664, "en": "Macross Dock"}
+{"file": "SNMAP", "off": 1325592, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1325612, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1325632, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1325652, "en": "Pluto"}
+{"file": "SNMAP", "off": 1344024, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1344044, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1344064, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1344084, "en": "Pluto"}
+{"file": "SNMAP", "off": 1362972, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1362992, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1363012, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1363032, "en": "Saturn"}
+{"file": "SNMAP", "off": 1363052, "en": "Saturn"}
+{"file": "SNMAP", "off": 1384264, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1384284, "en": "Road"}
+{"file": "SNMAP", "off": 1384304, "en": "Road"}
+{"file": "SNMAP", "off": 1384324, "en": "Road"}
+{"file": "SNMAP", "off": 1384344, "en": "Building"}
+{"file": "SNMAP", "off": 1384364, "en": "High-Rise"}
+{"file": "SNMAP", "off": 1384384, "en": "Bridge"}
+{"file": "SNMAP", "off": 1384404, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1384424, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1384444, "en": "Plains"}
+{"file": "SNMAP", "off": 1384464, "en": "Plains"}
+{"file": "SNMAP", "off": 1384484, "en": "Woods"}
+{"file": "SNMAP", "off": 1384504, "en": "Concert Venue"}
+{"file": "SNMAP", "off": 1403928, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1403948, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1403968, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1403988, "en": "Jupiter"}
+{"file": "SNMAP", "off": 1425224, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1425244, "en": "Road"}
+{"file": "SNMAP", "off": 1425264, "en": "Road"}
+{"file": "SNMAP", "off": 1425284, "en": "Road"}
+{"file": "SNMAP", "off": 1425304, "en": "Building"}
+{"file": "SNMAP", "off": 1425324, "en": "High-Rise"}
+{"file": "SNMAP", "off": 1425344, "en": "Bridge"}
+{"file": "SNMAP", "off": 1425364, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1425384, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1425404, "en": "Plains"}
+{"file": "SNMAP", "off": 1425424, "en": "Plains"}
+{"file": "SNMAP", "off": 1425444, "en": "Woods"}
+{"file": "SNMAP", "off": 1425464, "en": "Concert Venue"}
+{"file": "SNMAP", "off": 1442136, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1442156, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1463076, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1463176, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1483044, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1483064, "en": "Road"}
+{"file": "SNMAP", "off": 1483084, "en": "Runway"}
+{"file": "SNMAP", "off": 1483104, "en": "Mars"}
+{"file": "SNMAP", "off": 1483124, "en": "Mars Base"}
+{"file": "SNMAP", "off": 1483144, "en": "Mars Base"}
+{"file": "SNMAP", "off": 1483164, "en": "Mars Mountain"}
+{"file": "SNMAP", "off": 1501988, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1502008, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1502028, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1502048, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1502068, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1502088, "en": "Colony"}
+{"file": "SNMAP", "off": 1502108, "en": "Earth"}
+{"file": "SNMAP", "off": 1518444, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1518464, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1518484, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1518504, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1518524, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 1518544, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 1518564, "en": "Axis"}
+{"file": "SNMAP", "off": 1540960, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1540980, "en": "Road"}
+{"file": "SNMAP", "off": 1541000, "en": "Road"}
+{"file": "SNMAP", "off": 1541020, "en": "Building"}
+{"file": "SNMAP", "off": 1541040, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1541060, "en": "Plains"}
+{"file": "SNMAP", "off": 1541080, "en": "Woods"}
+{"file": "SNMAP", "off": 1541100, "en": "Forest"}
+{"file": "SNMAP", "off": 1541160, "en": "Energy Tank"}
+{"file": "SNMAP", "off": 1557356, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1557376, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1557396, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1557416, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1557436, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 1557456, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 1557476, "en": "Axis"}
+{"file": "SNMAP", "off": 1576756, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1576776, "en": "Road"}
+{"file": "SNMAP", "off": 1576796, "en": "Crater"}
+{"file": "SNMAP", "off": 1576816, "en": "Crater"}
+{"file": "SNMAP", "off": 1576836, "en": "Crater"}
+{"file": "SNMAP", "off": 1576856, "en": "Lunar Surface"}
+{"file": "SNMAP", "off": 1576876, "en": "Lunar Surface"}
+{"file": "SNMAP", "off": 1576896, "en": "Lunar Base"}
+{"file": "SNMAP", "off": 1576916, "en": "Lunar Base"}
+{"file": "SNMAP", "off": 1576936, "en": "Lunar Mountain"}
+{"file": "SNMAP", "off": 1576956, "en": "Lunar Mountain"}
+{"file": "SNMAP", "off": 1592264, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1592284, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1592304, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1592324, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1592344, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 1592364, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 1592384, "en": "Colony"}
+{"file": "SNMAP", "off": 1611056, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1611076, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1611096, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1611116, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1611136, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1611156, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1611176, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 1611196, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 1611216, "en": "Colony"}
+{"file": "SNMAP", "off": 1611236, "en": "Luna II"}
+{"file": "SNMAP", "off": 1629996, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1630016, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1630036, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1630056, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1630076, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1630096, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1630116, "en": "Colony"}
+{"file": "SNMAP", "off": 1630136, "en": "Earth"}
+{"file": "SNMAP", "off": 1630156, "en": "Moon"}
+{"file": "SNMAP", "off": 1645188, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1645208, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1645228, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1645248, "en": "Earth"}
+{"file": "SNMAP", "off": 1665568, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1665588, "en": "Road"}
+{"file": "SNMAP", "off": 1665608, "en": "Road"}
+{"file": "SNMAP", "off": 1665628, "en": "Building"}
+{"file": "SNMAP", "off": 1665648, "en": "Power Bldg."}
+{"file": "SNMAP", "off": 1665668, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1665688, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1665708, "en": "Lake"}
+{"file": "SNMAP", "off": 1665728, "en": "Lake"}
+{"file": "SNMAP", "off": 1665748, "en": "Mountain"}
+{"file": "SNMAP", "off": 1665768, "en": "Plains"}
+{"file": "SNMAP", "off": 1665788, "en": "Woods"}
+{"file": "SNMAP", "off": 1665808, "en": "Forest"}
+{"file": "SNMAP", "off": 1665828, "en": "Lakeside"}
+{"file": "SNMAP", "off": 1665848, "en": "Reservoir"}
+{"file": "SNMAP", "off": 1687932, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1687952, "en": "Road"}
+{"file": "SNMAP", "off": 1687972, "en": "Road"}
+{"file": "SNMAP", "off": 1687992, "en": "Building"}
+{"file": "SNMAP", "off": 1688012, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1688032, "en": "Sea"}
+{"file": "SNMAP", "off": 1688052, "en": "Sea"}
+{"file": "SNMAP", "off": 1688072, "en": "Mountain"}
+{"file": "SNMAP", "off": 1688092, "en": "Plains"}
+{"file": "SNMAP", "off": 1688112, "en": "Woods"}
+{"file": "SNMAP", "off": 1688132, "en": "Forest"}
+{"file": "SNMAP", "off": 1688152, "en": "Beach"}
+{"file": "SNMAP", "off": 1688172, "en": "Far East Base"}
+{"file": "SNMAP", "off": 1688192, "en": "Far East Base"}
+{"file": "SNMAP", "off": 1707844, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1707864, "en": "Road"}
+{"file": "SNMAP", "off": 1707884, "en": "Road"}
+{"file": "SNMAP", "off": 1707904, "en": "River"}
+{"file": "SNMAP", "off": 1707924, "en": "Lake"}
+{"file": "SNMAP", "off": 1707944, "en": "Lake"}
+{"file": "SNMAP", "off": 1707964, "en": "Mountain"}
+{"file": "SNMAP", "off": 1707984, "en": "Plains"}
+{"file": "SNMAP", "off": 1708004, "en": "Plains"}
+{"file": "SNMAP", "off": 1708024, "en": "Woods"}
+{"file": "SNMAP", "off": 1708044, "en": "Forest"}
+{"file": "SNMAP", "off": 1708064, "en": "Forest"}
+{"file": "SNMAP", "off": 1708084, "en": "New Saotome Lab"}
+{"file": "SNMAP", "off": 1708104, "en": "Lakeside"}
+{"file": "SNMAP", "off": 1708124, "en": "Riverbank"}
+{"file": "SNMAP", "off": 1727308, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1727328, "en": "Road"}
+{"file": "SNMAP", "off": 1727348, "en": "River"}
+{"file": "SNMAP", "off": 1727368, "en": "River"}
+{"file": "SNMAP", "off": 1727388, "en": "Plains"}
+{"file": "SNMAP", "off": 1727408, "en": "Forest"}
+{"file": "SNMAP", "off": 1727428, "en": "Factory"}
+{"file": "SNMAP", "off": 1727448, "en": "Factory"}
+{"file": "SNMAP", "off": 1727468, "en": "ICPO"}
+{"file": "SNMAP", "off": 1727488, "en": "ICPO"}
+{"file": "SNMAP", "off": 1727508, "en": "Sandbar"}
+{"file": "SNMAP", "off": 1727528, "en": "Riverbank"}
+{"file": "SNMAP", "off": 1745740, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1745760, "en": "Road"}
+{"file": "SNMAP", "off": 1745780, "en": "River"}
+{"file": "SNMAP", "off": 1745800, "en": "River"}
+{"file": "SNMAP", "off": 1745820, "en": "Plains"}
+{"file": "SNMAP", "off": 1745840, "en": "Forest"}
+{"file": "SNMAP", "off": 1745860, "en": "Factory"}
+{"file": "SNMAP", "off": 1745880, "en": "Factory"}
+{"file": "SNMAP", "off": 1745900, "en": "ICPO"}
+{"file": "SNMAP", "off": 1745920, "en": "ICPO"}
+{"file": "SNMAP", "off": 1745940, "en": "Sandbar"}
+{"file": "SNMAP", "off": 1745960, "en": "Riverbank"}
+{"file": "SNMAP", "off": 1769260, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1769280, "en": "Road"}
+{"file": "SNMAP", "off": 1769300, "en": "Building"}
+{"file": "SNMAP", "off": 1769320, "en": "Power Bldg."}
+{"file": "SNMAP", "off": 1769340, "en": "Lake"}
+{"file": "SNMAP", "off": 1769360, "en": "Lake"}
+{"file": "SNMAP", "off": 1769380, "en": "Plains"}
+{"file": "SNMAP", "off": 1769400, "en": "Plains"}
+{"file": "SNMAP", "off": 1769420, "en": "Forest"}
+{"file": "SNMAP", "off": 1769440, "en": "Forest"}
+{"file": "SNMAP", "off": 1769460, "en": "NERV HQ"}
+{"file": "SNMAP", "off": 1769480, "en": "NERV HQ"}
+{"file": "SNMAP", "off": 1769500, "en": "Lakeside"}
+{"file": "SNMAP", "off": 1792380, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1792400, "en": "Road"}
+{"file": "SNMAP", "off": 1792420, "en": "Road"}
+{"file": "SNMAP", "off": 1792440, "en": "Building"}
+{"file": "SNMAP", "off": 1792460, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1792480, "en": "Sea"}
+{"file": "SNMAP", "off": 1792500, "en": "Sea"}
+{"file": "SNMAP", "off": 1792520, "en": "Mountain"}
+{"file": "SNMAP", "off": 1792540, "en": "Plains"}
+{"file": "SNMAP", "off": 1792560, "en": "Woods"}
+{"file": "SNMAP", "off": 1792580, "en": "Forest"}
+{"file": "SNMAP", "off": 1792600, "en": "Beach"}
+{"file": "SNMAP", "off": 1792620, "en": "Far East Base"}
+{"file": "SNMAP", "off": 1792640, "en": "Far East Base"}
+{"file": "SNMAP", "off": 1813056, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1813076, "en": "Road"}
+{"file": "SNMAP", "off": 1813096, "en": "Bridge"}
+{"file": "SNMAP", "off": 1813116, "en": "Military Base"}
+{"file": "SNMAP", "off": 1813136, "en": "Military Base"}
+{"file": "SNMAP", "off": 1813156, "en": "River"}
+{"file": "SNMAP", "off": 1813176, "en": "Plains"}
+{"file": "SNMAP", "off": 1813196, "en": "Woods"}
+{"file": "SNMAP", "off": 1813216, "en": "Forest"}
+{"file": "SNMAP", "off": 1813236, "en": "Wasteland"}
+{"file": "SNMAP", "off": 1813256, "en": "Riverbank"}
+{"file": "SNMAP", "off": 1838644, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1838664, "en": "Road"}
+{"file": "SNMAP", "off": 1838684, "en": "Road"}
+{"file": "SNMAP", "off": 1838704, "en": "Road"}
+{"file": "SNMAP", "off": 1838724, "en": "Building"}
+{"file": "SNMAP", "off": 1838744, "en": "High-Rise"}
+{"file": "SNMAP", "off": 1838764, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1838784, "en": "Plains"}
+{"file": "SNMAP", "off": 1838804, "en": "Forest"}
+{"file": "SNMAP", "off": 1838824, "en": "Desert"}
+{"file": "SNMAP", "off": 1838844, "en": "Residential"}
+{"file": "SNMAP", "off": 1838864, "en": "Pond"}
+{"file": "SNMAP", "off": 1858112, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1858132, "en": "Road"}
+{"file": "SNMAP", "off": 1858152, "en": "Bridge"}
+{"file": "SNMAP", "off": 1858172, "en": "Military Base"}
+{"file": "SNMAP", "off": 1858192, "en": "Military Base"}
+{"file": "SNMAP", "off": 1858212, "en": "River"}
+{"file": "SNMAP", "off": 1858232, "en": "Plains"}
+{"file": "SNMAP", "off": 1858252, "en": "Woods"}
+{"file": "SNMAP", "off": 1858272, "en": "Forest"}
+{"file": "SNMAP", "off": 1858292, "en": "Wasteland"}
+{"file": "SNMAP", "off": 1858312, "en": "Riverbank"}
+{"file": "SNMAP", "off": 1872840, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1872860, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1872880, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1872900, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1872920, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 1872940, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 1872960, "en": "Colony"}
+{"file": "SNMAP", "off": 1891664, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1891684, "en": "Road"}
+{"file": "SNMAP", "off": 1891704, "en": "Road"}
+{"file": "SNMAP", "off": 1891724, "en": "Building"}
+{"file": "SNMAP", "off": 1891744, "en": "Bridge"}
+{"file": "SNMAP", "off": 1891764, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1891784, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1891804, "en": "Sea"}
+{"file": "SNMAP", "off": 1891824, "en": "Sea"}
+{"file": "SNMAP", "off": 1891844, "en": "River"}
+{"file": "SNMAP", "off": 1891864, "en": "Plains"}
+{"file": "SNMAP", "off": 1891884, "en": "Plains"}
+{"file": "SNMAP", "off": 1891904, "en": "Woods"}
+{"file": "SNMAP", "off": 1891924, "en": "Forest"}
+{"file": "SNMAP", "off": 1891944, "en": "Residential"}
+{"file": "SNMAP", "off": 1891964, "en": "School"}
+{"file": "SNMAP", "off": 1891984, "en": "Beach"}
+{"file": "SNMAP", "off": 1892004, "en": "Riverbank"}
+{"file": "SNMAP", "off": 1910048, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1910068, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1910088, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1910108, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1910128, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 1910148, "en": "Solomon"}
+{"file": "SNMAP", "off": 1928736, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1928756, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1928776, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1928796, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1928816, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 1928836, "en": "Earth"}
+{"file": "SNMAP", "off": 1944692, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1944712, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1944732, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1944752, "en": "Outer Space"}
+{"file": "SNMAP", "off": 1944772, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 1944792, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 1944812, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 1944832, "en": "Solar Ray"}
+{"file": "SNMAP", "off": 1966460, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1966480, "en": "Road"}
+{"file": "SNMAP", "off": 1966500, "en": "Road"}
+{"file": "SNMAP", "off": 1966520, "en": "Building"}
+{"file": "SNMAP", "off": 1966540, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 1966560, "en": "Sea"}
+{"file": "SNMAP", "off": 1966580, "en": "Sea"}
+{"file": "SNMAP", "off": 1966600, "en": "Mountain"}
+{"file": "SNMAP", "off": 1966620, "en": "Plains"}
+{"file": "SNMAP", "off": 1966640, "en": "Woods"}
+{"file": "SNMAP", "off": 1966660, "en": "Forest"}
+{"file": "SNMAP", "off": 1966680, "en": "Beach"}
+{"file": "SNMAP", "off": 1966700, "en": "Far East Base"}
+{"file": "SNMAP", "off": 1966720, "en": "Far East Base"}
+{"file": "SNMAP", "off": 1981668, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1981688, "en": "Bridge"}
+{"file": "SNMAP", "off": 1981708, "en": "River"}
+{"file": "SNMAP", "off": 1981728, "en": "Lake"}
+{"file": "SNMAP", "off": 1981748, "en": "Lake"}
+{"file": "SNMAP", "off": 1981768, "en": "Mountain"}
+{"file": "SNMAP", "off": 1981788, "en": "Plains"}
+{"file": "SNMAP", "off": 1981808, "en": "Plains"}
+{"file": "SNMAP", "off": 1981828, "en": "Woods"}
+{"file": "SNMAP", "off": 1981848, "en": "Forest"}
+{"file": "SNMAP", "off": 1981868, "en": "Photon Lab"}
+{"file": "SNMAP", "off": 1981888, "en": "Photon Lab"}
+{"file": "SNMAP", "off": 1981908, "en": "Lakeside"}
+{"file": "SNMAP", "off": 1981928, "en": "Riverbank"}
+{"file": "SNMAP", "off": 1999404, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 1999424, "en": "Sea"}
+{"file": "SNMAP", "off": 1999444, "en": "Sea"}
+{"file": "SNMAP", "off": 1999464, "en": "Sea"}
+{"file": "SNMAP", "off": 1999484, "en": "Mountain"}
+{"file": "SNMAP", "off": 1999504, "en": "Plains"}
+{"file": "SNMAP", "off": 1999524, "en": "Woods"}
+{"file": "SNMAP", "off": 1999544, "en": "Forest"}
+{"file": "SNMAP", "off": 1999564, "en": "Beach"}
+{"file": "SNMAP", "off": 2017572, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2017592, "en": "Sea"}
+{"file": "SNMAP", "off": 2017612, "en": "Sea"}
+{"file": "SNMAP", "off": 2017632, "en": "Mountain"}
+{"file": "SNMAP", "off": 2017652, "en": "Plains"}
+{"file": "SNMAP", "off": 2017672, "en": "Forest"}
+{"file": "SNMAP", "off": 2017692, "en": "Beach"}
+{"file": "SNMAP", "off": 2038884, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2038904, "en": "Road"}
+{"file": "SNMAP", "off": 2038924, "en": "Special Base"}
+{"file": "SNMAP", "off": 2038944, "en": "Special Base"}
+{"file": "SNMAP", "off": 2038964, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 2038984, "en": "Sea"}
+{"file": "SNMAP", "off": 2039004, "en": "Sea"}
+{"file": "SNMAP", "off": 2039024, "en": "Sea"}
+{"file": "SNMAP", "off": 2039044, "en": "Mountain"}
+{"file": "SNMAP", "off": 2039064, "en": "Plains"}
+{"file": "SNMAP", "off": 2039084, "en": "Plains"}
+{"file": "SNMAP", "off": 2039104, "en": "Plains"}
+{"file": "SNMAP", "off": 2039124, "en": "Woods"}
+{"file": "SNMAP", "off": 2039144, "en": "Forest"}
+{"file": "SNMAP", "off": 2039164, "en": "Cliff"}
+{"file": "SNMAP", "off": 2039184, "en": "Jinmen Rock"}
+{"file": "SNMAP", "off": 2039204, "en": "Seaside School"}
+{"file": "SNMAP", "off": 2039224, "en": "Residential"}
+{"file": "SNMAP", "off": 2039244, "en": "Big Shell"}
+{"file": "SNMAP", "off": 2039264, "en": "Beach"}
+{"file": "SNMAP", "off": 2057260, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2057280, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2057300, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2057320, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2057340, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2057360, "en": "Solar Ray"}
+{"file": "SNMAP", "off": 2057400, "en": "Earth"}
+{"file": "SNMAP", "off": 2076968, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2076988, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2077008, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2077028, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2077048, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2077068, "en": "La Vie en Rose"}
+{"file": "SNMAP", "off": 2077088, "en": "Earth"}
+{"file": "SNMAP", "off": 2077108, "en": "Moon"}
+{"file": "SNMAP", "off": 2096160, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2096180, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2096200, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2096220, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 2096240, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 2096260, "en": "Moon"}
+{"file": "SNMAP", "off": 2114592, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2114612, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2114632, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2114652, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2114672, "en": "Earth"}
+{"file": "SNMAP", "off": 2114692, "en": "Angel Halo"}
+{"file": "SNMAP", "off": 2133024, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2133044, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2133064, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2133084, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2133104, "en": "Earth"}
+{"file": "SNMAP", "off": 2133124, "en": "Angel Halo"}
+{"file": "SNMAP", "off": 2151204, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2151224, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2151244, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2151264, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2151284, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2151304, "en": "Colony"}
+{"file": "SNMAP", "off": 2151324, "en": "Earth"}
+{"file": "SNMAP", "off": 2169640, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2169660, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2169680, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2169700, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2169720, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2169740, "en": "Colony"}
+{"file": "SNMAP", "off": 2169760, "en": "Colony"}
+{"file": "SNMAP", "off": 2169780, "en": "Earth"}
+{"file": "SNMAP", "off": 2186092, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2186112, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2186132, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2186152, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2186172, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 2186192, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 2186212, "en": "Axis"}
+{"file": "SNMAP", "off": 2204200, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2204220, "en": "Sea"}
+{"file": "SNMAP", "off": 2204240, "en": "Sea"}
+{"file": "SNMAP", "off": 2204260, "en": "Mountain"}
+{"file": "SNMAP", "off": 2204280, "en": "Plains"}
+{"file": "SNMAP", "off": 2204300, "en": "Woods"}
+{"file": "SNMAP", "off": 2204320, "en": "Forest"}
+{"file": "SNMAP", "off": 2204340, "en": "Beach"}
+{"file": "SNMAP", "off": 2228012, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2228032, "en": "Road"}
+{"file": "SNMAP", "off": 2228052, "en": "Building"}
+{"file": "SNMAP", "off": 2228072, "en": "Power Bldg."}
+{"file": "SNMAP", "off": 2228092, "en": "Lake"}
+{"file": "SNMAP", "off": 2228112, "en": "Lake"}
+{"file": "SNMAP", "off": 2228132, "en": "Plains"}
+{"file": "SNMAP", "off": 2228152, "en": "Plains"}
+{"file": "SNMAP", "off": 2228172, "en": "Forest"}
+{"file": "SNMAP", "off": 2228192, "en": "Forest"}
+{"file": "SNMAP", "off": 2228212, "en": "NERV HQ"}
+{"file": "SNMAP", "off": 2228232, "en": "NERV HQ"}
+{"file": "SNMAP", "off": 2228252, "en": "Lakeside"}
+{"file": "SNMAP", "off": 2240368, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2240388, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2257952, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2257972, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2257992, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2258012, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 2258032, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 2258052, "en": "Moon"}
+{"file": "SNMAP", "off": 2274916, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2274936, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2274956, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2274976, "en": "Earth"}
+{"file": "SNMAP", "off": 2291300, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2291320, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2291340, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2291360, "en": "Earth"}
+{"file": "SNMAP", "off": 2314028, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2314048, "en": "Road"}
+{"file": "SNMAP", "off": 2314068, "en": "Building"}
+{"file": "SNMAP", "off": 2314088, "en": "Power Bldg."}
+{"file": "SNMAP", "off": 2314108, "en": "Lake"}
+{"file": "SNMAP", "off": 2314128, "en": "Lake"}
+{"file": "SNMAP", "off": 2314148, "en": "Plains"}
+{"file": "SNMAP", "off": 2314168, "en": "Plains"}
+{"file": "SNMAP", "off": 2314188, "en": "Forest"}
+{"file": "SNMAP", "off": 2314208, "en": "Forest"}
+{"file": "SNMAP", "off": 2314228, "en": "NERV HQ"}
+{"file": "SNMAP", "off": 2314248, "en": "NERV HQ"}
+{"file": "SNMAP", "off": 2314268, "en": "Lakeside"}
+{"file": "SNMAP", "off": 2338604, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2338624, "en": "Road"}
+{"file": "SNMAP", "off": 2338644, "en": "Building"}
+{"file": "SNMAP", "off": 2338664, "en": "Power Bldg."}
+{"file": "SNMAP", "off": 2338684, "en": "Lake"}
+{"file": "SNMAP", "off": 2338704, "en": "Lake"}
+{"file": "SNMAP", "off": 2338724, "en": "Plains"}
+{"file": "SNMAP", "off": 2338744, "en": "Plains"}
+{"file": "SNMAP", "off": 2338764, "en": "Forest"}
+{"file": "SNMAP", "off": 2338784, "en": "Forest"}
+{"file": "SNMAP", "off": 2338804, "en": "NERV HQ"}
+{"file": "SNMAP", "off": 2338824, "en": "NERV HQ"}
+{"file": "SNMAP", "off": 2338844, "en": "Lakeside"}
+{"file": "SNMAP", "off": 2359092, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2359112, "en": "Road"}
+{"file": "SNMAP", "off": 2359132, "en": "Crater"}
+{"file": "SNMAP", "off": 2359152, "en": "Crater"}
+{"file": "SNMAP", "off": 2359172, "en": "Crater"}
+{"file": "SNMAP", "off": 2359192, "en": "Lunar Surface"}
+{"file": "SNMAP", "off": 2359212, "en": "Lunar Surface"}
+{"file": "SNMAP", "off": 2359232, "en": "Lunar Base"}
+{"file": "SNMAP", "off": 2359252, "en": "Lunar Base"}
+{"file": "SNMAP", "off": 2359272, "en": "Lunar Mountain"}
+{"file": "SNMAP", "off": 2359292, "en": "Lunar Mountain"}
+{"file": "SNMAP", "off": 2379040, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2379060, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2379080, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2379100, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2379120, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 2379140, "en": "Solomon"}
+{"file": "SNMAP", "off": 2397208, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2397228, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2397248, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 2397268, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 2415156, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2415176, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2415196, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2415216, "en": "Planet Raioh"}
+{"file": "SNMAP", "off": 2415236, "en": "Space Monsters"}
+{"file": "SNMAP", "off": 2415256, "en": "Space Monsters"}
+{"file": "SNMAP", "off": 2436116, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2436136, "en": "Closed Space"}
+{"file": "SNMAP", "off": 2436156, "en": "Closed Space"}
+{"file": "SNMAP", "off": 2456592, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2456612, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2475296, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2475316, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2475336, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2475356, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2475376, "en": "Shoal Zone"}
+{"file": "SNMAP", "off": 2475396, "en": "Solomon"}
+{"file": "SNMAP", "off": 2492980, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2493000, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2493020, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2493040, "en": "Planet Raioh"}
+{"file": "SNMAP", "off": 2493060, "en": "Space Monsters"}
+{"file": "SNMAP", "off": 2493080, "en": "Space Monsters"}
+{"file": "SNMAP", "off": 2513936, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2513956, "en": "Closed Space"}
+{"file": "SNMAP", "off": 2531856, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2531876, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2548356, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2548376, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2548396, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2548416, "en": "Earth"}
+{"file": "SNMAP", "off": 2572076, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2572096, "en": "Road"}
+{"file": "SNMAP", "off": 2572116, "en": "Building"}
+{"file": "SNMAP", "off": 2572136, "en": "Power Bldg."}
+{"file": "SNMAP", "off": 2572156, "en": "Lake"}
+{"file": "SNMAP", "off": 2572176, "en": "Lake"}
+{"file": "SNMAP", "off": 2572196, "en": "Plains"}
+{"file": "SNMAP", "off": 2572216, "en": "Plains"}
+{"file": "SNMAP", "off": 2572236, "en": "Forest"}
+{"file": "SNMAP", "off": 2572256, "en": "Forest"}
+{"file": "SNMAP", "off": 2572276, "en": "NERV HQ"}
+{"file": "SNMAP", "off": 2572296, "en": "Reservoir"}
+{"file": "SNMAP", "off": 2572316, "en": "Lakeside"}
+{"file": "SNMAP", "off": 2584432, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2584452, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2611840, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2611860, "en": "Building"}
+{"file": "SNMAP", "off": 2611880, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 2611900, "en": "Paved Ground"}
+{"file": "SNMAP", "off": 2611920, "en": "Sea"}
+{"file": "SNMAP", "off": 2611940, "en": "Sea"}
+{"file": "SNMAP", "off": 2611960, "en": "Mountain"}
+{"file": "SNMAP", "off": 2611980, "en": "Mountain"}
+{"file": "SNMAP", "off": 2612000, "en": "Plains"}
+{"file": "SNMAP", "off": 2612020, "en": "Cliff"}
+{"file": "SNMAP", "off": 2612040, "en": "Cliff"}
+{"file": "SNMAP", "off": 2612060, "en": "Crater"}
+{"file": "SNMAP", "off": 2612080, "en": "Crater"}
+{"file": "SNMAP", "off": 2612100, "en": "DC HQ Bldg."}
+{"file": "SNMAP", "off": 2612120, "en": "Airport"}
+{"file": "SNMAP", "off": 2612140, "en": "Runway"}
+{"file": "SNMAP", "off": 2612160, "en": "Seawall"}
+{"file": "SNMAP", "off": 2612180, "en": "Seawall"}
+{"file": "SNMAP", "off": 2612200, "en": "Beach"}
+{"file": "SNMAP", "off": 2612220, "en": "Macross Dock"}
+{"file": "SNMAP", "off": 2612240, "en": "Macross Dock"}
+{"file": "SNMAP", "off": 2630184, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2630204, "en": "Sea"}
+{"file": "SNMAP", "off": 2630224, "en": "Sea"}
+{"file": "SNMAP", "off": 2630244, "en": "Mountain"}
+{"file": "SNMAP", "off": 2630264, "en": "Plains"}
+{"file": "SNMAP", "off": 2630284, "en": "Woods"}
+{"file": "SNMAP", "off": 2630304, "en": "Forest"}
+{"file": "SNMAP", "off": 2630324, "en": "Beach"}
+{"file": "SNMAP", "off": 2648616, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2648636, "en": "Sea"}
+{"file": "SNMAP", "off": 2648656, "en": "Sea"}
+{"file": "SNMAP", "off": 2648676, "en": "Mountain"}
+{"file": "SNMAP", "off": 2648696, "en": "Plains"}
+{"file": "SNMAP", "off": 2648716, "en": "Woods"}
+{"file": "SNMAP", "off": 2648736, "en": "Forest"}
+{"file": "SNMAP", "off": 2648756, "en": "Beach"}
+{"file": "SNMAP", "off": 2665092, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2665112, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2665132, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2665152, "en": "Earth"}
+{"file": "SNMAP", "off": 2683932, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2683952, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2683972, "en": "Outer Space"}
+{"file": "SNMAP", "off": 2683992, "en": "Saturn"}
+{"file": "SNMAP", "off": 2684012, "en": "Saturn"}
+{"file": "SNMAP", "off": 2697920, "en": "Out of Bounds"}
+{"file": "SNMAP", "off": 2697940, "en": "Sea"}
+{"file": "SNMAP", "off": 2697960, "en": "Sea"}
+{"file": "SNMAP", "off": 2697980, "en": "Plains"}
+{"file": "SNMAP", "off": 2698000, "en": "Beach"}
+{"file": "TEST", "off": 20900, "en": "Out of Bounds"}
+{"file": "TEST", "off": 20920, "en": "Flatland"}
+{"file": "TEST", "off": 20940, "en": "Road"}
+{"file": "TEST", "off": 20960, "en": "Building"}
+{"file": "TEST", "off": 20980, "en": "High-Rise"}
+{"file": "TEST", "off": 21000, "en": "Power Bldg."}
+{"file": "TEST", "off": 21020, "en": "Bridge"}
+{"file": "TEST", "off": 21040, "en": "Military Base"}
+{"file": "TEST", "off": 21060, "en": "Military Base"}
+{"file": "TEST", "off": 21080, "en": "Special Base"}
+{"file": "TEST", "off": 21100, "en": "Special Base"}
+{"file": "TEST", "off": 21120, "en": "Paved Ground"}
+{"file": "TEST", "off": 21140, "en": "Sea"}
+{"file": "TEST", "off": 21160, "en": "River"}
+{"file": "TEST", "off": 21180, "en": "Lake"}
+{"file": "TEST", "off": 21200, "en": "Mountain"}
+{"file": "TEST", "off": 21220, "en": "Mountain"}
+{"file": "TEST", "off": 21240, "en": "Plains"}
+{"file": "TEST", "off": 21260, "en": "Woods"}
+{"file": "TEST", "off": 21280, "en": "Forest"}
+{"file": "TEST", "off": 21300, "en": "Desert"}
+{"file": "TEST", "off": 21320, "en": "Wasteland"}
+{"file": "TEST", "off": 21340, "en": "Cliff"}
+{"file": "TEST", "off": 21360, "en": "Slope"}
+{"file": "TEST", "off": 21380, "en": "Plains"}
+{"file": "TEST", "off": 21400, "en": "Woods"}
+{"file": "TEST", "off": 21420, "en": "Forest"}
+{"file": "TEST", "off": 21440, "en": "Wasteland"}
+{"file": "TEST", "off": 21460, "en": "Jinmen Rock"}
+{"file": "TEST", "off": 21480, "en": "Sky"}
+{"file": "TEST", "off": 21500, "en": "Outer Space"}
+{"file": "TEST", "off": 21520, "en": "Shoal Zone"}
+{"file": "TEST", "off": 21540, "en": "Wreckage"}
+{"file": "TEST", "off": 21560, "en": "Colony Wreck"}
+{"file": "TEST", "off": 21580, "en": "Colony"}
+{"file": "TEST", "off": 41496, "en": "Out of Bounds"}
+{"file": "TEST", "off": 41516, "en": "Flatland"}
+{"file": "TEST", "off": 41536, "en": "Building"}
+{"file": "TEST", "off": 41556, "en": "Sea"}
+{"file": "TEST", "off": 60180, "en": "Out of Bounds"}
+{"file": "TEST", "off": 60200, "en": "Flatland"}
+{"file": "TEST", "off": 60220, "en": "Sea"}
+{"file": "TEST", "off": 85268, "en": "Out of Bounds"}
+{"file": "TEST", "off": 85288, "en": "Flatland"}
+{"file": "TEST", "off": 85308, "en": "Building"}
+{"file": "TEST", "off": 103708, "en": "Out of Bounds"}
+{"file": "TEST", "off": 103728, "en": "Flatland"}
+{"file": "TEST", "off": 103748, "en": "River"}
+{"file": "TEST", "off": 103768, "en": "Mountain"}
+{"file": "TEST", "off": 103788, "en": "Slope"}
+{"file": "TEST", "off": 122388, "en": "Out of Bounds"}
+{"file": "TEST", "off": 122408, "en": "Outer Space"}
+{"file": "TEST", "off": 122428, "en": "Earth"}
+{"file": "TEST", "off": 150100, "en": "Out of Bounds"}
+{"file": "TEST", "off": 150120, "en": "Flatland"}
+{"file": "TEST", "off": 150140, "en": "Road"}
+{"file": "TEST", "off": 150160, "en": "Building"}
+{"file": "TEST", "off": 150180, "en": "Paved Ground"}
+{"file": "TEST", "off": 150200, "en": "Sea"}
+{"file": "TEST", "off": 150220, "en": "Mountain"}
+{"file": "TEST", "off": 150240, "en": "Crater"}
+{"file": "TEST", "off": 150260, "en": "School"}
+{"file": "TEST", "off": 170780, "en": "Out of Bounds"}
+{"file": "TEST", "off": 170800, "en": "Outer Space"}
+{"file": "TEST", "off": 193368, "en": "Out of Bounds"}
+{"file": "TEST", "off": 193388, "en": "Flatland"}
+{"file": "TEST", "off": 193408, "en": "Road"}
+{"file": "TEST", "off": 193428, "en": "Building"}
+{"file": "TEST", "off": 193448, "en": "Special Base"}
+{"file": "TEST", "off": 193468, "en": "Paved Ground"}
+{"file": "TEST", "off": 193488, "en": "Forest"}
+{"file": "TEST", "off": 212772, "en": "Out of Bounds"}
+{"file": "TEST", "off": 212792, "en": "Road"}
+{"file": "TEST", "off": 212812, "en": "Crater"}
+{"file": "TEST", "off": 212832, "en": "Lunar Surface"}
+{"file": "TEST", "off": 212852, "en": "Lunar Base"}
+{"file": "TEST", "off": 212872, "en": "Lunar Base"}
+{"file": "TEST", "off": 212892, "en": "Lunar Mountain"}
+{"file": "TEST", "off": 231708, "en": "Out of Bounds"}
+{"file": "TEST", "off": 231728, "en": "Outer Space"}
+{"file": "TEST", "off": 231748, "en": "La Vie en Rose"}
+{"file": "TEST", "off": 231768, "en": "Earth"}
+{"file": "TEST", "off": 231788, "en": "Moon"}

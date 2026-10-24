@@ -1,0 +1,120 @@
+jp,en,en_short,en_short_bytes,status,source,rationale
+メガ粒子砲,Mega Particle Cannon,Mega Particle Gun,17,official,Gundam-EN,"Gundam English sources use ""mega particle gun"" as well; stays distinct from Neue Ziel's ""Mega Cannon"" (メガカノン砲)."
+対空機銃,Anti-Air Machine Gun,AA Machine Gun,14,fan-standard,convention,AA = anti-air (same as AA Pulse Laser).
+75ミリ5連装マシンガン,75mm Finger Machine Gun,Finger Machine Gun,18,official,Gundam-EN,Keeps the official name; drops the caliber.
+クローミサイル,Claw Missile,Claw Missile,12,accepted-literal,literal; Big Zam leg claws,Literal and self-explanatory; no competing English name found.
+対空メガ粒子砲,Anti-Air Mega Particle Cannon,AA Mega Cannon,14,fan-standard,convention,Mega Cannon convention.
+大型メガ粒子砲,Large Mega Particle Cannon,Large Mega Cannon,17,fan-standard,convention,Mega Cannon convention.
+120ミリ機関砲,120mm Machine Cannon,120mm Autocannon,16,fan-standard,convention,機関砲 = autocannon (standard military English).
+サブメガ粒子砲,Sub Mega Particle Cannon,Sub Mega Cannon,15,fan-standard,convention,Mega Cannon convention.
+メインメガ粒子砲,Main Mega Particle Cannon,Main Mega Cannon,16,fan-standard,convention,Mega Cannon convention.
+2連装メガ粒子砲,Twin Mega Particle Cannon,Twin Mega Cannon,16,fan-standard,convention,Mega Cannon convention.
+12連装ミサイルランチャー,12-Tube Missile Launcher,12-Tube Missiles,16,fan-standard,convention,"""N-Tube Missiles"" convention."
+大型ビームマシンガン,Large Beam Machine Gun,Large Beam MG,13,fan-standard,convention,MG = machine gun (no shorter full wording fits).
+爆導索,Demolition Chain Mine,Demolition Chain,16,resolved,"Gundam Wiki (gundam.fandom.com) (GP03 Dendrobium: ""Demolition Chain Mines"")","[en changed: was ""Explosive Cable""] Official-style English from Gundam sources replaces the literal ""Explosive Cable"". Short drops the generic ""Mine""."
+集束ミサイル,Cluster Missile,Cluster Missile,15,accepted-literal,literal (集束 = clustered),Standard military term; fits.
+8連多弾倉ミサイルランチャー,8-Tube Multi-Magazine Missile Launcher,8-Tube Missiles,15,fan-standard,convention,"""N-Tube Missiles"" convention; ""multi-magazine"" lost."
+110ミリ機関砲,110mm Machine Cannon,110mm Autocannon,16,fan-standard,convention,Autocannon convention.
+小型ミサイルランチャー,Small Missile Launcher,Small Missiles,14,fan-standard,convention,"""X Missiles"" convention for launchers."
+偏向メガ粒子砲,Deflection Mega Particle Cannon,Deflect Mega Cannon,19,resolved,"Gundam Wiki (gundam.fandom.com) (Neue Ziel: ""Deflection Type Mega Particle Cannon"" x9)","Full name confirmed. Short keeps ""Deflect"" (recognizable) and uses the Mega Cannon convention; replaces ""Bent Mega Cannon""."
+大型ミサイルランチャー,Large Missile Launcher,Large Missiles,14,fan-standard,convention,"""X Missiles"" convention."
+110ミリ速射砲,110mm Rapid-Fire Gun,110mm Rapid Gun,15,fan-standard,convention,"Drops ""-Fire""."
+メガバズーカランチャー,Mega Bazooka Launcher,Mega Bazooka,12,official,Gundam-EN,Common official short name.
+格闘,Melee Attack,Melee Attack,12,accepted-literal,"convention; OG-EN uses ""Melee"" for the stat","Generic unarmed attack; neutral wording works for EVA, beasts, Valkyries."
+拡散メガ粒子砲,Scatter Mega Particle Cannon,Scatter Mega Cannon,19,fan-standard,convention,Mega Cannon convention.
+小型メガビーム砲,Small Mega Beam Cannon,Small Mega Beam Gun,19,fan-standard,convention,Cannon→Gun (small weapon anyway).
+メガ拡散ビーム砲,Mega Scatter Beam Cannon,Mega Scatter Beam,17,fan-standard,convention,Drops the generic noun.
+160ミリ機関砲,160mm Machine Cannon,160mm Autocannon,16,fan-standard,convention,Autocannon convention.
+20連装ミサイルランチャー,20-Tube Missile Launcher,20-Tube Missiles,16,fan-standard,convention,"""N-Tube Missiles"" convention."
+ハイパーメガ粒子砲,Hyper Mega Particle Cannon,Hyper Mega Cannon,17,official,Gundam-EN,"Mega Cannon convention; distinct from ""Hyper Mega Launcher""."
+180ミリ機関砲,180mm Machine Cannon,180mm Autocannon,16,fan-standard,convention,Autocannon convention.
+140ミリ機関砲,140mm Machine Cannon,140mm Autocannon,16,fan-standard,convention,Autocannon convention.
+ハイメガ粒子砲,High Mega Particle Cannon,High Mega Particle,18,fan-standard,convention,"""High Mega Cannon"" would collide with ZZ's ハイメガキャノン, so the noun is dropped instead."
+対空機関砲,Anti-Air Machine Cannon,AA Autocannon,13,fan-standard,convention,AA + Autocannon conventions.
+マイクロ・ミサイルランチャー,Micro Missile Launcher,Micro Missiles,14,fan-standard,convention,"""X Missiles"" convention."
+スプレーミサイルランチャー,Spray Missile Launcher,Spray Missiles,14,official,Gundam-EN,"""X Missiles"" convention."
+ハイドボンブレイヤー,Hide Bomb Dispenser,Hide Bomb Dispenser,19,resolved,"Gundam Wiki (gundam.fandom.com) (Zaku III Custom: ""hide bomb dispenser""); JP wikis: ハイド・ボンブ投下器(レイヤー)","[en changed: was ""Hide Bomb Layer""] Maintainer confirmed ハイドボンブ = ""Hide Bomb"". ハイド・ボンブ = space mine dropped from the left shoulder box; レイヤー = mine-layer. English Gundam sources call it ""hide bomb dispenser"" (exactly 19 bytes). Alt: ""Hide Bomb Layer""."
+有線式メガアーム砲,Wired Mega Arm Cannon,Wired Mega Arm Gun,18,fan-standard,convention,"Keeps ""Mega Arm""; Cannon→Gun."
+バグ援護攻撃,Bug Support Attack,Bug Support Attack,18,accepted-literal,"Gundam F91 (official ""Bugs"")",援護攻撃 = support attack (SRW-EN term). Fits in 18 bytes.
+八手ビームサーベル,8-Way Beam Saber,8-Way Beam Saber,16,accepted-literal,literal (八手 = eight hands),Multi-direction saber combo; no official English. Keep.
+2連ショルダービームガン,Twin Shoulder Beam Gun,Shoulder Beam Guns,18,fan-standard,convention,"Plural carries the ""twin""."
+胸部ミサイルランチャー,Chest Missile Launcher,Chest Missiles,14,fan-standard,convention,"""X Missiles"" convention."
+ヴァリアブルメガランチャー,Variable Mega Launcher,Var. Mega Launcher,18,fan-standard,convention,Only the first word abbreviated.
+ホイールプレッシャー,Wheel Pressure,Wheel Pressure,14,accepted-literal,katakana transliteration,Direct loanword; keep.
+6連マイクロミサイルポッド,6-Tube Micro Missile Pod,6-Tube Micro Pod,16,fan-standard,convention,"N-Tube convention; ""Missile"" implied by Micro Pod."
+ローリングバスターライフル,Rolling Buster Rifle,Rolling Buster,14,official,Gundam-EN,The distinctive shout; the generic noun is dropped.
+2連装ビームガトリングガン,Twin Beam Gatling Gun,Twin Beam Gatling,17,official,Gundam-EN,"Drops ""Gun""."
+実弾ライフル,Ballistic Rifle,Ballistic Rifle,15,accepted-literal,literal (実弾 = live ammunition),"""Ballistic"" is the usual English opposite of beam weapons."
+サザンクロスナイフ,Southern Cross Knife,Southern Cross,14,official,Mazinger-EN,"The distinctive shout; the generic noun is dropped. Alt: ""S. Cross Knife""."
+大車輪ロケットパンチ,Daisharin Rocket Punch,Daisharin R. Punch,18,fan-standard,Mazinger fandom,"Rocket Punch abbreviated to keep the iconic ""Daisharin""."
+スペシャルDXボロットパンチ,Special DX Borot Punch,SP DX Borot Punch,17,fan-standard,convention,"SP = Special; keeps the ""DX"" vs plain ""Special Borot Punch"" distinction."
+ドリルプレッシャーパンチ,Drill Pressure Punch,Drill Pressure,14,official,Mazinger-EN,"The distinctive shout; the generic noun is dropped. Alt: ""Drill P. Punch""."
+超破壊光線,Super Destruction Ray,Super Destruct Ray,18,fan-standard,convention,Shout-style compression.
+ダブルトマホークブーメラン,Double Tomahawk Boomerang,Dbl Tomahawk Boomer,19,decided,maintainer decision 2026-09-27; Getter-EN,"""Double Tomahawk"" and ""Tomahawk Boomerang"" are separate weapons, so neither can be the short."
+大雪山おろし二段返し,Daisetsuzan Oroshi Nidan-gaeshi,Daisetsuzan 2-Stage,19,fan-standard,Getter fandom,"""Daisetsuzan Oroshi"" is a separate weapon, so 2-Stage marks the variant."
+マックライアット,Mack Riot,Mack Riot,9,resolved,Getter Robo Wiki / Texas Mack: the two revolvers combine into a shotgun or a rifle,"ライアット = riot (gun), i.e. the shotgun form; the rifle form is the separate ""Mack Rifle"". Keep ""Mack Riot""."
+ハンドソルト,Hand Sold,Hand Sold,9,decided,maintainer decision 2026-09-27; SRW Wiki JP (ゼン2号): pronounced ハンドソルド in the anime; screw-type hand cutter,"[en changed: was ""Hand Salt""] Follows the anime pronunciation (ソルド) and avoids the unintended ""Hand Salt""."
+ドスブレッシャー,Dos Pressure,Dos Pressure,12,decided,maintainer decision 2026-09-27; JP wikis: design name ドスプレッシャー (4-blade rotary wing cutter); Hyoma shouts it in BXCLIST msg 810,"Uses the original design-sheet name. NamuWiki-EN ""Dos Brasher"" rejected."
+ナルマグネ光線,Null Magne Ray,Null Magne Ray,14,resolved,game text DC: ナルマグネ光線で強制分離 (forces Combattler V to separate),"[en changed: was ""Narumagne Ray""] ナル = null: the ray cancels the magnetism that holds the Battle Machines together. Replaces the meaningless ""Narumagne Ray""."
+超電磁ボールVの字斬り,Chodenji Ball V-Slash,Chodenji Ball V-Cut,19,fan-standard,convention (Chodenji romanized like the other Chodenji attacks),Slash→Cut keeps every element.
+分子破壊砲,Molecular Destruction Cannon,Molecular Destroyer,19,fan-standard,convention,Shout-style compression.
+神空剣,Shinkuken,Shinkuken,9,accepted-literal,"romanized; parallels Voltes V 天空剣 ""Tenkuken""","Romanization mirrors Tenkuken. Alt descriptive: ""Divine Sky Sword""."
+断空砲フォーメーション,Dankuu Cannon Formation,Dankuu Cannon Form.,19,fan-standard,Dancouga fandom,"Keeps ""Dankuu Cannon"" so it is not confused with the Sword/Kouga attacks."
+5連ミサイルランチャー,5-Tube Missile Launcher,5-Tube Missiles,15,fan-standard,convention,"""N-Tube Missiles"" convention."
+高収束ビーム速射砲,Focused Rapid Beam Cannon,Rapid Beam Cannon,17,fan-standard,convention,"Drops ""Focused""."
+マゴロク・E・ソード,Magoroku Exterminate Sword,Magoroku E-Sword,16,official,Evangelion-EN,"The official name already abbreviates it to ""E""."
+ポジトロンスナイパーライフル,Positron Sniper Rifle,Positron Sniper,15,official,Evangelion-EN,"Stays distinct from ""Positron Rifle""."
+イナズマ反転キック,Inazuma Reverse Kick,Inazuma Turn Kick,17,fan-standard,convention (反転 = turnaround),"Stays distinct from ""Inazuma Kick""."
+ジャコビニ流星アタック,Giacobini Meteor Attack,Giacobini Meteor,16,fan-standard,Gunbuster fandom,Drops the generic noun.
+ダブルバスターコレダー,Double Buster Collider,Dbl Buster Collider,19,fan-standard,Gunbuster fandom,"Stays distinct from ""Buster Collider""."
+バスタートマホークブーメラン,Buster Tomahawk Boomerang,Buster Boomerang,16,fan-standard,Gunbuster fandom,"""Buster Tomahawk"" is a separate weapon, so keep Boomerang."
+全周熱線砲,Omni Heat Ray Cannon,Omni Heat Ray,13,fan-standard,convention,Drops the generic noun.
+対空パルスレーザー砲,AA Pulse Laser Cannon,AA Pulse Laser,14,fan-standard,convention,Drops the generic noun.
+紅玉式光線主砲,Ruby Main Beam Cannon,Ruby Main Cannon,16,accepted-literal,literal (紅玉 = ruby),"Exelion main gun; short drops ""Beam""."
+兵隊,Soldier Swarm,Soldier Swarm,13,accepted-literal,literal (landing craft deploys Space Monster soldiers),Keep.
+対艦ミサイルランチャー,Anti-Ship Missile Launcher,Anti-Ship Missiles,18,fan-standard,convention,"""X Missiles"" convention."
+小型自己誘導ミサイル,Small Homing Missile,Mini Homing Missile,19,fan-standard,convention,Small→Mini.
+アームド・アタック,ARMD Attack,ARMD Attack,11,resolved,Macross official: ARMD carriers,Macross punches with the ARMD carrier arm. Keep.
+超高機動マイクロミサイル,High-Maneuver Micro Missile,HM Micro Missile,16,official,Macross-EN (HMMM),"HM prefix stays distinct from the generic ""Micro Missile""."
+誘導収束ビーム砲,Guided Focus Beam Cannon,Guided Beam Cannon,18,fan-standard,convention,"Drops ""Focus""."
+対艦対空ミサイルランチャー,Anti-Ship/Air Missile Launcher,AS/AA Missiles,14,fan-standard,convention,"AS/AA + ""X Missiles"" conventions."
+超大型荷電粒子ビーム砲,Super Heavy Particle Beam Cannon,Heavy Particle Beam,19,fan-standard,convention,Drops the generic noun.
+中口径荷電粒子ビーム砲,Mid-Caliber Particle Beam Cannon,Mid Particle Beam,17,official,Macross-EN,Parallel to Heavy Particle Beam.
+小口径レーザー対人機銃,Anti-Personnel Laser Gun,Anti-Pers. Laser,16,fan-standard,convention,The previous short was 20 bytes.
+荷電粒子ビーム砲,Charged Particle Beam Cannon,Particle Beam Gun,17,official,Macross-EN,"The previous short ""Particle Beam Cannon"" was 20 bytes."
+小型レーザーマシン・ピストル,Laser Machine Pistol,Laser Auto Pistol,17,fan-standard,convention,Machine pistol = automatic pistol.
+ライトソード,Light Sword,Light Sword,11,accepted-literal,literal,Keep.
+Gインパクトキャノン,G-Impact Cannon,G-Impact Cannon,15,official,"Akurasu OGs Mech Database Real Trooper X (Huckebein Mk-II, AM Gunner)","[en changed: was ""G Impact Cannon""] OGs spelling with hyphen."
+マルチトレースミサイル,Multi-Trace Missiles,Multi-Trace Missile,19,official,"Akurasu OGs Barrier Piercing Weapon List (info/, JP+EN pair)","[en changed: was ""Multi-Trace Missile""] OGs uses the plural (20 bytes), so the menu keeps the singular."
+リープミサイル,Leap Missiles,Leap Missiles,13,official,"Akurasu OGs Barrier Piercing Weapon List (info/, JP+EN pair): リープ・ミサイル = ""Leap Missiles""","[en changed: was ""Leap Missile""] OGs uses the plural."
+フルインパクト・キャノン,Full-Impact Cannon,Full-Impact Cannon,18,official,Akurasu OGs Mech Database Real Trooper X (Huckebein Gunner),"[en changed: was ""Full Impact Cannon""] OGs spelling with hyphen."
+アイソリッド・レーザー,Eye-Solid Laser,Eye-Solid Laser,15,official,"Akurasu OGs Mech Database (Grungust Type 2, G-Hawk)","[en changed: was ""Isolid Laser""] OGs spelling."
+計都瞬獄剣,Torment Blade,Torment Blade,13,official,"Akurasu OGs Barrier Piercing Weapon List (info/, JP+EN pair): 計都瞬獄剣 = ""Torment Blade""","[en changed: was ""Keito Shungoku-ken""] OG style; Grungust Type 2."
+マグマ・ヴァサール,Magma Vassal,Magma Vassal,12,official,"Akurasu OGs Mech Database Others (info/): RyuKoOh ""Magma Vassal""","[en changed: was ""Magma Vasal""] OGs name wins over the fan spelling ""Magma Vasarl""."
+龍王破山剣,Dragoon Blade,Dragoon Blade,13,official,"Akurasu OGs Mech Database Others (info/): RyuKoOh ""Dragoon Blade"" (by unit; SRW Wiki Fandom also gives Dragoon Blade = RyuOh Hazanken)","[en changed: was ""Ryuoh Hazanken""] OG style (maintainer decision 2026-09-27). Pairs with Wrathcleaver."
+龍王破山剣・逆鱗断,Wrathcleaver,Wrathcleaver,12,official,"Akurasu OGs Barrier Piercing Weapon List (info/, JP+EN pair): 龍王破山剣・逆鱗断 = ""Wrathcleaver""; maintainer decision 2026-09-27 (OG style)","[en changed: was ""Ryuoh Hazanken Gekirindan""] Fits in 19 bytes."
+ガウンジェノサイダー,Gaun Genocider,Gaun Genocider,14,official,Akurasu OGs Mech Database R Series (work/glossary/web/ogs_Mech_Database_R_Series.html),Was fan-standard; confirmed OGs name.
+天上天下無敵剣,Unstoppable Supreme Sword,Supreme Sword,13,official,"Akurasu OGs Mech Database R Series (work/glossary/web/ogs_Mech_Database_R_Series.html): SRX ""Unstoppable Supreme Sword""; maintainer decision 2026-09-27 (OG-EN style for SRX/R-1)","[en changed: was ""Tenjo Tenka Muteki-ken""] Menu short drops ""Unstoppable""; the full name belongs in the battle shout (BXCLIST), where there is room."
+天上天下念動爆砕剣,Unstoppable TK Burst Slash,TK Burst Slash,14,official,"Akurasu OGs Mech Database R Series (work/glossary/web/ogs_Mech_Database_R_Series.html): SRX ""Unstoppable TK Burst Slash""; maintainer decision 2026-09-27 (OG-EN style for SRX/R-1)","[en changed: was ""Tenjo Tenka Nendo Bakusai-ken""] Menu short drops ""Unstoppable""; the full name belongs in the battle shout."
+天上天下一撃必殺砲,Unstoppable HTB Cannon,Unstop. HTB Cannon,18,decided,maintainer decision 2026-09-27; OG-EN style (Unstoppable family),"[en changed: was ""Tenjo Tenka Ichigeki Hissatsu-ho""] The SRX also has HTBキャノン (""HTB Cannon""), so ""Unstoppable"" is abbreviated instead of dropped."
+R-コンビネーション,R-Combination,R-Combination,13,accepted-literal,katakana transliteration,Keep.
+G・リボルヴァー,G-Revolver,G-Revolver,10,official,Akurasu OGs Weapon List (work/glossary/web/ogs_Weapon_List.html),"[en changed: was ""G Revolver""] OGs spells it with a hyphen."
+念動シュート,TK Shoot,TK Shoot,8,accepted-literal,"Super Robot Spirits guide: ""Nendo Shoot""; 念動 = TK (glossary)","Consistent with ""TK Laser Cannon"". Alt: ""Nendo Shoot""."
+天上天下念動破砕剣,Unstoppable TK Sword,TK Sword,8,official,"Akurasu OGs Barrier Piercing Weapon List (info/, JP+EN pair): R-1 ""Unstoppable TK Sword"" = 天上天下念動破砕剣","[en changed: was ""Tenjo Tenka Nendo Hasai-ken""] Full name is 20 bytes; the family rule drops ""Unstoppable"" in the menu. The OGs Mech Database labels the same R-1 weapon ""T-Link Sword"" (same stats), but the JP-paired list says Unstoppable TK Sword."
+念動集束式レーザーキャノン,TK Laser Cannon,TK Laser Cannon,15,official,"Akurasu OGs ALL Weapon List (info/, JP+EN pair): 念動収束式Lキャノン = ""TK Laser Cannon""","[en changed: was ""TK Focused Laser Cannon""] OGs official name; fits."
+T-LINKブーメラン,T-Link Boomerang,T-Link Boomerang,16,official,Akurasu OGs Mech Database R Series (work/glossary/web/ogs_Mech_Database_R_Series.html): R-Gun Powered,Was fan-standard; confirmed OGs name.
+ディスカッター乱舞の太刀,Discutter Ranbu no Tachi,Discutter Ranbu,15,fan-standard,Masou Kishin fandom,"Keeps the recognizable ""Ranbu""."
+試作型縮退砲,Prototype Degeneration Cannon,Proto Degen Cannon,18,resolved,"maintainer decision 2026-09-27: 縮退砲 (Shukutai Hō) = ""Degeneration Cannon"" (Neo Granzon)",Full name confirmed; short abbreviates Prototype/Degeneration.
+クロスマッシャー,Cross Smasher,Cross Smasher,13,official,"Akurasu OGs Mech Database Others (info/): Valsione / Valsion Custom ""Cross Smasher""","[en changed: was ""Crossmasher""] OGs spelling."
+アルドレーザー,Ald Laser,Ald Laser,9,resolved,"Super Robot Wars Wiki (Fandom), Zfylud/Zehirut: ""Ald Laser""",Confirmed.
+ジーベン・ゲバウト,Sieben Gebaut,Sieben Gebaut,13,decided,maintainer decision 2026-09-27,"Literal kept (a ""Sieben Gebote"" reading was considered and rejected)."
+ギスト・ブロー,Gist Blow,Gist Blow,9,decided,maintainer decision 2026-09-27; SRW Wiki JP (ゼカリア): energy-coated manipulator punch,"Literal. Must NOT become ""Geist Blow"": that name already belongs to Ezekiel's ガイスト・ブロー."
+4連ミサイルランチャー,Quad Missile Launcher,Quad Missiles,13,fan-standard,convention,"""X Missiles"" convention."
+タキス・ミサイル,Takis Missile,Takis Missile,13,accepted-literal,katakana transliteration (BXCLIST msg 3296),Keep.
+ピンポントバリアパンチ,Pinpoint Barrier Punch,Pinpoint B. Punch,17,official,Macross Plus EN,The game text has a typo (ピンポント); translate as intended.
+ゴッドゴーガン把ね撃ち,God Gorgon Volley,God Gorgon Volley,17,accepted-literal,"Raideen official ""God Gorgon""; 把ね撃ち (= 束ね撃ち) = bundled shot",Keep.
+小型ミサイル多連ランチャー,Multi Mini-Missile Launcher,Mini Missile Volley,19,fan-standard,convention,"The previous short ""Mini Missile Barrage"" was 20 bytes."
+ロケットバズーカ射出,Rocket Bazooka Launch,Rocket Bazooka Fire,19,fan-standard,convention,"""Rocket Bazooka"" is a separate weapon, so a verb stays (射出 = launch/fire)."
+ブラックホール・キャノン改,Black Hole Cannon Kai,Black Hole Cannon,17,fan-standard,"OG-EN ""Black Hole Cannon""","Huckebein EX has no plain Black Hole Cannon, so ""Kai"" can go."
+計都羅喉剣,Eclipse Slash,Eclipse Slash,13,official,"Akurasu OGs Mech Database Super Robot Grungust (info/): Grungust has ""Eclipse Slash"" and ""Calamity Slash"" (= 計都羅睺剣・暗剣殺, JP pair)","[en changed: was ""Keito Rako-ken""] Inferred by unit: the plain 計都羅睺剣 is the Eclipse Slash. The game writes 喉 for 睺."
+多弾頭ミサイル,Multi-Warhead Missile,Multi-Head Missile,18,fan-standard,convention,"Alt: ""MIRV Missile""."

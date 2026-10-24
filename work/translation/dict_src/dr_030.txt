@@ -1,0 +1,72 @@
+#30 Kampfer
+Zeon's last mass-produced mobile suit of the One Year War. Classed as an assault unit, thrusters all over its body give it agility far beyond earlier mobile suits. The drawback is that its agility burns propellant fast, so its operating time is short. Its missions call for many weapons carried all over its body, mostly solid-ammo arms, meant to be dropped once empty before it pulls out. In the anime, Steiner's Cyclops Team used it in Side 6 to steal the NT-1 Alex.
+#31 Gelgoog J
+The final mass-produced Gelgoog, called the Gelgoog Jager. High-performing but built in very small numbers. Its precise beam rifle earns it the name "Sniper Gelgoog."
+#32 Gundam GP01
+A prototype Gundam MS built after the One Year War, mainly by Anaheim Electronics at the Federation's request. Designed for gravity, it can move much like a human. It inherits the RX-78 Gundam's concept and uses a core block system. Code name: Zephyranthes (the rain lily); in the language of flowers, "pure love."
+#33 Core Fighter II
+A small fighter and escape pod that forms the GP01's cockpit block. Unlike the RX-78's core block system, it docks horizontally. In this form it can use the GP01's beam saber as a beam gun.
+#34 Gundam GP01 Full Burnern
+Known as the Full Burnern. The GP01 refitted for space. The base frame is nearly unchanged, but added thrusters and propellant tanks greatly boost its mobility and operating time in space.
+#35 Core Fighter II Fb
+The Core Fighter II refitted to match the space-type GP01. Its wings, useless in zero-G, were removed and booster pods added. In the anime, Nina flew it.
+#36 Gundam GP02
+A prototype Gundam MS built by Anaheim Electronics at the Federation's request, like the GP01. Designed to use tactical nukes, it carries the Atomic Bazooka, which fires an Mk-82 nuclear warhead. To return from ground zero, its body is carefully heat- and shock-proofed, and its large shield has a built-in cooler. Anavel Gato of the Zeon remnant Delaz Fleet stole it from Torrington Base and pilots it. Code name: Physalis (the ground cherry); in the language of flowers, "deceit."
+#37 Gundam GP03
+A base defense unit built by Anaheim Electronics at the Federation's request, like the GP01 and GP02. Its concept is a weapon with both an MS's versatility and a mobile armor's speed and firepower. It consists of the MS unit Gundam Stamen and the Armed Base Orchis, which holds and deploys its weapons. It also has an I-field generator for beam defense. Code name: Dendrobium (an orchid); in the language of flowers, "a willful beauty."
+#38 Gundam Stamen
+The MS unit of the Gundam GP03, built by Anaheim Electronics. A space combat unit that performs well alone, but is meant to dock with the Armed Base Orchis. So it has special gear like folding support arms to pull weapons from containers and hip tail binders. "Stamen" is the male part of a flower.
+#39 GM Cannon II
+A mid-range support MS built by the Federation after the One Year War, using data from the RX-77D Guncannon II. Its shoulder cannons are now beam weapons, and it carries a beam saber for close combat. Its armor seems modeled on the NT-1 Alex's Chobham Armor.
+#40 GM Custom
+A GM-type MS the Federation built after the war to upgrade its mass-produced units. A stronger generator and apogee motors greatly boost its mobility and agility. Descended from the NT-1 Alex, it mainly went to aces. Kou says it is a machine "whose feature is having no features."
+#41 Gelgoog M
+A version of the MS-14 Gelgoog, read "Gelgoog Marine." Descended from the high-mobility Gelgoog of the late war. It is weaker than the Gelgoog J, but cheaper to make. Mainly used by Cima's fleet; Cima's commander unit has even better mobility and extra weapons.
+#42 Xamel
+A heavy prototype Zeon MS of the late One Year War. It carries a folding 68cm cannon for long-range fire. It moves on hover, faster than it looks. Also called the "Melza Un Kanone."
+#43 Val Walo
+A prototype mobile armor Zeon was building at Granada late in the One Year War. Kelley, a one-armed Zeon veteran, hid it in his lunar factory and finished it. Before handing it to Cima's unit, he chose to fight Kou's GP01Fb on the Moon. Its signature weapon is the Plasma Leader.
+#44 Gerbera Tetra
+A mobile suit built by Anaheim Electronics. Though a candidate Gundam prototype, it was developed mainly by ex-Zeon engineers, so it looks nothing like a Gundam. It should have been the Gundam GP04, but it fell into the Delaz Fleet's hands and Cima Garahau pilots it.
+#45 Neue Ziel
+A large prototype space mobile armor built by the Zeon remnants in Axis after the war, and given to the allied Delaz Fleet for Operation Stardust. Large beam weapons all over it give it immense firepower and speed, plus an I-field generator. It can also make wired all-range attacks.
+#46 Gundam Mk-II
+The Titans' successor to the RX-78 Gundam. Built for combat inside colonies, but highly versatile. It wears Titans colors (black and navy), which began with the GM Quel. It was meant to be the Titans' symbol, but its designer, Franklin Bidan, seems to have seen it as a mere stepping stone. All three units built fell into AEUG hands.
+#47 Gundam Mk-II
+A general-purpose MS built by the Titans. A redesign of the RX-78 Gundam of the One Year War, developed mainly by Earth-born engineers. Armor issues limited it to three prototypes, but its movable frame, which separates the armor from the inner structure, greatly shaped later MS design (mass production above all). During tests at Gryps 2, it was stolen by the AEUG's Quattro Bajeena and by Kamille Bidan, who was being questioned by the MPs, and repainted aboard the Argama. Kamille then flew it to great success. Later the Flying Armor for atmospheric entry, Kamille's idea, let it fly at high speed on Earth (though it was used only at Jaburo...). After Kamille moved to the Zeta, Emma flew it, and in Gundam ZZ it was mainly flown by Elle Vianno.
+#48 G-Defenser
+A space fighter that doubles as extra gear for the Gundam Mk-II. It can fight alone on par with a mobile suit, and docking with the Mk-II boosts its durability, range and firepower. When docked, the G-Defenser's cockpit splits off as a small craft that doubles as an escape pod.
+#49 Super Gundam
+The Gundam Mk-II docked with the G-Defenser. It makes up for the Mk-II's weak armor, and uses the G-Defenser's main gun, the Long Rifle, for more firepower. The Mk-II can also dock with the G-Defenser in its fighter form, called the G-Flyer (not in the game). Since the G-Defenser's core fighter splits off in Super Gundam form, it really seats only one, unlike in the game.
+#50 Zeta Gundam
+A prototype transformable MS the AEUG had Anaheim Electronics build.
+A key milestone of Anaheim's Project Z to develop new mobile suits, this famed machine spawned the Hyaku Shiki and Methuss as offshoots, and the Zeta Plus, ZZ Gundam and Re-GZ as successors. It combines the Mk-II's movable frame, the Rick Dias's armor and Kamille's ideas (like the Mk-II's Flying Armor). In Waverider form it can enter the atmosphere with no options like a ballute, and fly within it. In MS form it is fast and agile too, and its high-output generator powers strong weapons like the Hyper Mega Launcher. A bio-sensor added later greatly improves its response.
+Judau flew it early in Gundam ZZ, and even after the ZZ appeared, he used it when speed was needed.
+#51 Waverider
+The Zeta Gundam's high-speed form.
+Transforming aims all its verniers backward for immense speed. This thrust lets it fly in the atmosphere.
+Its biggest merit is atmospheric entry without options like a ballute. This makes the Zeta strategically vital. A variant with different Flying Armor, the "Wave Shooter," is said to exist.
+#52 Zeta II
+A development of the Zeta Gundam, read "Zeta Two." Its simpler transformation boosts productivity and handling, but it loses atmospheric entry. Its transformation seems modeled on the Methuss. In reality the ZZ Gundam took priority and the Zeta II plan was dropped. So later Zeta-type MS (Zeta Plus, Re-GZ) did not inherit its concept.
+#53 Zeta II (MA)
+The Zeta II's mobile armor mode.
+It cannot enter the atmosphere, and serves as a space fighter.
+#54 Hyaku Shiki
+A prototype MS built by Anaheim Electronics and used by the AEUG. Designed by Dr. M. Nagano. Built as a transformable MS for Anaheim's Project Z, but a structural flaw led to the transformation being dropped. Still, its performance was high enough for combat, and it went to the Argama. Its hallmark is gold armor, said to be beam-resistant. The "hundred" (hyaku) in its name means "a mobile suit to last a hundred years." A generator strong enough to power the optional Mega Bazooka Launcher alone, the flexible binders on its back for mobility and Quattro's skill won it great victories, like the Jaburo raid.
+It was wrecked in the final battle with Haman, but in Gundam ZZ a second unit went to the Argama, mostly flown by Beecha.
+#55 Hyaku Shiki Kai
+An improved Hyaku Shiki. Probably built by Anaheim for the AEUG once Nemos and GMs could no longer match Titans MS, but there is no record of Quattro flying it. A high-mobility device replaces its back binders, boosting mobility further. It also carries more weapons. Other Hyaku Shiki types include the mass-produced, ground-type and Full Armor Hyaku Shiki Kai.
+#56 Full Armor Hyaku Shiki Kai
+An upgrade plan for the Hyaku Shiki Kai. Beam and solid weapons raise its firepower, and a chest reflector panel adds defense. In reality large transformable MS took over, and it was never mass-produced.
+#57 Rick Dias
+A general-purpose MS built by Anaheim Electronics and used by the AEUG. Armored in gundarium alloy and built with Zeon-derived tech, so it resembles the Dom. Its codename was Gamma Gundam, but at Quattro's suggestion it was named after the medieval navigator Bartolomeu Dias. Only Quattro's unit was red, but after he moved to the Hyaku Shiki, all units were painted that way.
+#58 Rick Dias
+A different-colored Rick Dias.
+This was the standard color, but it vanished as Quattro's colors caught on. Maybe painting two schemes was too much work...
+#59 Methuss
+A prototype transformable MS by Anaheim Electronics, built for Anaheim's Project Z. Its speed and agility were fine, but its frame was fragile and its MS performance mediocre, so only one unit went into service, on the Argama. Known for its pipe-like waist and built-in arm beam guns. It stayed on early in Gundam ZZ, but seems to have left the field when Fa left.
+#60 Methuss (MA)
+The mobile armor form of Anaheim's prototype transformable MS. It seems to have been built to test transformation. Once done, it went to the Argama, serving as a fast space fighter.
+#61 Argama
+A space cruiser built as the main force of the anti-Federation AEUG. Modeled on the Federation's White Base of the One Year War, it was to be named White Base II, but Melanie Hue Carbine, chairman of Anaheim Electronics, the AEUG's great sponsor, named it Argama. Its first captain was Henken Bekkener, later ex-White Base captain Bright Noa. Known for its unique rotating living block, it was later fitted with a hyper mega particle cannon that can destroy a colony in one shot.
+After descending to Earth in Gundam ZZ, it was entrusted to Karaba, the AEUG's ground support.

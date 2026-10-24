@@ -1,0 +1,144 @@
+category,jp,en_final,en_short,notes
+spirit,加速,Accel,,decisión 2026-09-27: terminología SRW OG (Atlus OG1/OG2 usa Accel; OGs usa Accelerate)
+spirit,幸運,Luck,,decisión 2026-09-27: terminología SRW OG (no Fortune)
+spirit,期待,Hope,,decisión 2026-09-27: terminología SRW OG (no Prospect)
+spirit,激闘,Fury,,decisión 2026-09-27
+ui,気力,Will,,"decisión 2026-09-27: Will (OG), no Morale"
+pilot,ムッターマ・ズガン,Mutterma Sugan,,decisión 2026-09-27: grafía oficial (Gundam official)
+pilot,帝国監察軍兵,Aerogater Soldier,,decisión 2026-09-27
+pilot,親衛隊兵,Imperial Guard,,decisión 2026-09-27
+pilot,人工知能改,A.I. Kai,,decisión 2026-09-27
+part,ミンメイ人形,Minmay Doll,,"decisión 2026-09-28: grafía oficial de Macross (Lynn Minmay), no Minmei"
+pilot_skill,切り払い/斬り払い,Sword Cut,,"decisión 2026-09-28: Sword Cut, no Sword Sweep"
+pilot_skill,斬り払い,Sword Cut,,decisión 2026-09-28
+unit_ability,念動フィールド,Telekinesis Field,,"decisión 2026-09-28: Telekinesis Field, no TK Field"
+pilot,ブリット,Bullet,,decisión 2026-09-28: apodo del protagonista (notes/nombres_protagonistas.md)
+pilot,ユウ,Yuu,,decisión 2026-09-28: apodo del protagonista (notes/nombres_protagonistas.md)
+pilot,リョウト,Ryoto,,decisión 2026-09-28: apodo del protagonista (notes/nombres_protagonistas.md)
+pilot,タスク,Tasuku,,decisión 2026-09-28: apodo del protagonista (notes/nombres_protagonistas.md)
+pilot,リオ,Rio,,decisión 2026-09-28: apodo del protagonista (notes/nombres_protagonistas.md)
+pilot,レオナ,Leona,,decisión 2026-09-28: apodo del protagonista (notes/nombres_protagonistas.md)
+pilot,クスハ,Kusuha,,decisión 2026-09-28: apodo del protagonista (notes/nombres_protagonistas.md)
+pilot,カーラ,Carla,,decisión 2026-09-28: apodo del protagonista (notes/nombres_protagonistas.md)
+pilot,冬月コウゾウ,Kozo Fuyutsuki,,decisión 2026-09-28 (#46): errata (Fuyutski); grafía oficial de Evangelion
+pilot,一条輝,Hikaru Ichijo,,"decisión 2026-09-28 (#46): grafía oficial de Macross (sin ""ou"")"
+pilot,葵豹馬,Hyoma Aoi,,"decisión 2026-09-28 (#46): política del mantenedor 2026-09-28: nombre oficial si existe; si no, Hepburn sin macrón"
+pilot,クローディア・ラサール,Claudia LaSalle,,decisión 2026-09-28 (#46): grafía oficial de Macross
+unit,ガンダムMk-II (エゥーゴ用),Gundam Mk-II (AEUG),,decisión 2026-09-28 (#46): errata de la sigla (AUEG)
+unit,メルトランディ,Meltrandi,,decisión 2026-09-28 (#46): oficial de Macross; coherente con Meltran
+pilot,東山大三郎,Daizaburo Higashiyama,D. Higashiyama,"decisión 2026-09-28 (#46): errata (Daijiburou Higashiyamo); 21 bytes: forma corta en #14; decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), L03: corta ""D. Higashiyama"""
+pilot,葉月考太郎,Dr. Kotaro Hazuki,,"decisión 2026-09-28 (#46): política del mantenedor 2026-09-28: nombre oficial si existe; si no, Hepburn sin macrón; ""Dr."" como el resto"
+pilot,オオタコウイチロウ,Koichiro Ohta,,"decisión 2026-09-28 (#46): subtítulos oficiales de Gunbuster (""Ohta"")"
+pilot,浪花十三,Juzo Naniwa,,"decisión 2026-09-28 (#46): política del mantenedor 2026-09-28: nombre oficial si existe; si no, Hepburn sin macrón"
+pilot,猿丸太郎,Taro Sarumaru,,"decisión 2026-09-28 (#46): política del mantenedor 2026-09-28: nombre oficial si existe; si no, Hepburn sin macrón"
+pilot,プリンス・シャーキン,Prince Sharkin,,decisión 2026-09-28 (#40): Sharkin (grafía inglesa más difundida; igual que la unidad Giant Sharkin)
+unit_ability,ピンポイントバリア,Pinpoint Barrier,,decisión 2026-09-28 (#40): término canónico de Macross/Robotech
+part,ピンポイントバリア,Pinpoint Barrier,,decisión 2026-09-28 (#40): término canónico de Macross/Robotech
+unit_ability,Iフィールド,I-Field,,decisión 2026-09-28 (#40): grafía oficial de Gundam
+unit_ability,Iフィールド(ν),I-Field (ν),,decisión 2026-09-28 (#40): grafía oficial de Gundam
+unit_ability,Iフィールド (v),I-Field,,decisión 2026-09-28 (#40): grafía oficial de Gundam
+part,Iフィールド,I-Field,,decisión 2026-09-28 (#40): grafía oficial de Gundam
+part,Ｉフィールド発生装置,I-Field Generator,,decisión 2026-09-28 (#40): grafía oficial de Gundam
+pilot,アギャール,Agyaru,,"decisión 2026-09-28 (#43): general del Imperio Yoma (Raideen), segundo de Sharkin; ""Agyaru"" (TV Tropes). Solo en PILOT.BIN"
+pilot,エリシャ・クランスキー,Elisha Klansky,,decisión 2026-09-28 (#43): grafía oficial Bandai (Klánský). Solo en PILOT.BIN
+pilot,マルチナ・クランスキー,Martina Klansky,,decisión 2026-09-28 (#43): grafía oficial Bandai (Klánský). Solo en PILOT.BIN
+pilot,カレル・マサリク,Karel Masaryk,,decisión 2026-09-28 (#43): grafía oficial Bandai. Solo en PILOT.BIN
+pilot,トマーシュ・マサリク,Tomache Massarik,,decisión 2026-09-28 (#43): grafía oficial Bandai (el hermano es Masaryk: se respeta). Solo en PILOT.BIN
+pilot,ルセット・オデビー,Lucette Audevie,,decisión 2026-09-28 (#43): ingeniera de Anaheim de Gundam 0083 (gundam-c.com). Solo en PILOT.BIN
+pilot,中条長官,Chief Chujo,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C01: es un cargo (Giant Robo)"
+pilot,平祭官,Priest,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C02: cargo del Demon Empire (Raideen)"
+pilot,シャクティ・カリン,Shakti Kareen,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C03: grafía oficial de Victory Gundam"
+pilot,マヘリア・メリル,Mahalia Merrill,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C04: grafía oficial de Victory Gundam"
+pilot,コニー・フランシス,Connie Francis,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C05: grafía oficial de Victory Gundam"
+pilot,クロノクル・アシャー,Chronicle Asher,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C06: grafía oficial de Victory Gundam"
+pilot,ブリタイ・クリダニク,Vrlitwhai 7018,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C07: numeración del film DYRL (PILOT.BIN ﾌﾞﾘﾀｲ7018)"
+pilot,エキセドル・フォルモ,Exsedol 4970,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C08: numeración del film DYRL"
+pilot,カムジン・クラヴシェラ,Quamzin 03350,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C09: créditos del film DYRL (AniDB, Macross Wiki); el 03850 de PILOT.BIN es errata del original"
+pilot,ミリア・ファリーナ・ジーナス,Milia Fallyna Jenius,Milia,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C10: grafía oficial de Macross (20 bytes)"
+unit,VF-1J スーパーバルキリー (ミリア用),VF-1J Super Valkyrie (Milia),,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C10: Milia, no Milla"
+unit,クァドラン・ロー (ミリア機),Queadluun-Rau (Milia),,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C10: Milia, no Milla"
+unit,リカール,Ricarl,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C11: grafía oficial de Victory Gundam"
+unit,ブルーガー,Bluegar,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C12"
+unit,ボドル旗艦,Boddole Flagship,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C13: coherente con Golg Boddole Zer; en diálogo ""Boddole Zer's flagship"""
+unit_ability,暴走,Berserk,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), A08: Berserk en todo (Evangelion oficial), no Rampage"
+pilot_skill,聖戦士,Holy Warrior,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), A04: SRW X en inglés y Bandai (""Holy Warrior Dunbine""); también en diálogo"
+part,超合金Ｚ,Chogokin Z,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), A06: SRW T/30 oficial; también en diálogo"
+part,超合金ニューZ,Chogokin New Z,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), A06"
+pilot_skill,強化人間,Cyber Newtype,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), A07: sin guion"
+pilot,強化兵,Cyber Soldier,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), A07"
+pilot,光子力研究所所員,Photon Lab Staff,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), A05: Photon Power Laboratory (corta Photon Lab)"
+pilot,ゼントラン兵,Zentradi Soldier,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), D12: más reconocible que Zentran"
+pilot,メルトラン兵,Meltrandi Soldier,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), D12: coherente con Meltrandi"
+pilot,暗黒大将軍,Great General of Darkness,Dark Great General,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), D13/L02: forma larga en diálogo; corta (18 B) en PILOT.BIN"
+unit,暗黒大将軍,Great General of Darkness,Dark Great General,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), D13: corta (18 B) en ROBOT.RAF"
+pilot,戴宗,Taiso,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), D05: Hepburn sin macrón (política)"
+pilot,諸葛亮孔明,Shokatsuryo Komei,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), D05: Hepburn sin macrón (política); 17 bytes"
+pilot,リー・カザリーン,Katherine Rii,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), D03: grafía fan más difundida; rótulo Katherine. Confirmar si SRW 30 usa otra"
+pilot,ド・ズール,Do Zuhl,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), D02"
+unit,ザクIII改,Zaku III Custom,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), E01: grafía oficial de Bandai (15 B)"
+unit,EVA零号機改,Evangelion Unit-00 Kai,EVA Unit-00 Kai,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), E04"
+unit,EVA零号機・改,Evangelion Unit-00 Kai,EVA Unit-00 Kai,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), E04"
+spirit,自爆,Self-Destruct,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), H01: OG"
+pilot,ショウ・ザマ,Sho Zama,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D08: SRW X en inglés"
+pilot,トッド・ギネス,Todd Guinness,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D08: reparto del doblaje en inglés"
+pilot,バーン・バニングス,Burn Bunnings,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D08: reparto del doblaje en inglés"
+pilot,ビショット・ハッタ,Bishot Hatta,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D08: Behind The Voice Actors; corrige errata ""Bishott Hate"""
+pilot,ルーザ・ルフト,Luza Luft,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D08: corrige errata ""Leeza"""
+pilot,ミュージィ・ポー,Musy Poe,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D08"
+pilot,エル・フィノ,El Fino,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D08/K01: separa de Elle Vianno (ZZ)"
+pilot,エレ・ハンム,Ele Hanm,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D08/K01: エレ = Ele; separa de Elle Vianno"
+pilot,カワッセ・グー,Kawasse Gu,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D08: Hepburn sin macrón"
+pilot,ダー,Da,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D08: chiste con el ruso da/nyet"
+pilot,ニェット,Nyet,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D08: chiste con el ruso da/nyet"
+pilot,桜野マリ,Mari Sakurano,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D07: IMDb, TV Tropes"
+pilot,神宮寺力,Chikara Jinguji,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D07: じんぐうじ ちから (Pixiv); ""Riki"" es apodo"
+pilot,ロペット,Ropet,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D04: SRW Wiki (SRW 30)"
+pilot,ミーア,Miia,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D04: SRW Wiki (SRW 30); no ""Mia"""
+pilot,Qボス,Q-Boss,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D05: con guion, igual en todos los archivos"
+pilot,衝撃のアルベルト,Shockwave Alberto,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D06: epíteto + nombre (orden del japonés), igual que la unidad"
+unit,衝撃のアルベルト,Shockwave Alberto,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D06"
+pilot,素晴らしきヒィッツカラルド,Fabulous Fitzcarraldo,Fab. Fitzcarraldo,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D06/L04: forma larga en diálogo (21 B); corta 17 B"
+pilot,眩惑のセルバンテス,Dazzling Cervantes,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D06/L05 (18 B)"
+pilot,混世魔王 樊瑞,Chaos Lord Hanzui,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D06/L06 (17 B); lectura japonesa, como Taiso/Komei"
+pilot,激動たるカワラザキ,Stormy Kawarazaki,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D06/L07 (17 B)"
+pilot,オロシャのイワン,Ivan the Terrible,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D06"
+pilot,EVA量産機,Mass Production EVA,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D14: igual que la forma corta de la unidad (19 B)"
+unit,EVA量産機,Mass Production Evangelion,Mass Production EVA,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D14"
+pilot,宇宙怪獣兵隊,Space Monster Troop,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D15: patrón único Space Monster X (≤ 20 B)"
+pilot,宇宙怪獣高速型,Space Monster Fast,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D15"
+pilot,宇宙怪獣上陸艇,Space Monster Lander,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D15"
+pilot,宇宙怪獣混合型,Space Monster Mixed,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D15"
+pilot,宇宙怪獣合体怪獣,Space Monster Fused,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D15"
+unit,宇宙怪獣・兵隊,Space Monster Troop,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D15"
+unit,宇宙怪獣・高速型,Space Monster Fast,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D15"
+unit,宇宙怪獣・上陸艇,Space Monster Lander,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D15"
+unit,宇宙怪獣・混合型,Space Monster Mixed,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D15"
+unit,宇宙怪獣・合体怪獣,Space Monster Fused,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D15"
+pilot,カトル・ラバーバ・ウィナー,Quatre Raberba Winner,Quatre R. Winner,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), L01"
+pilot,ライディース・F・ブランシュタイン,Raidiese F. Branstein,Raidiese Branstein,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), L08"
+pilot,ラオデキヤ・ジュデッカ・ゴッツォ,Laodicea Judecca Gozzo,Laodicea J. Gozzo,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), L09"
+pilot,ネオ・ジオン強化兵,Neo Zeon Cyber Soldier,Neo Zeon Cyber Sldr,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), L10"
+pilot,ザンスカール強化兵,Zanscare Cyber Soldier,Zanscare Cyber Sldr,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), L11"
+unit,ガンダムエピオン・バード形態,Gundam Epyon (MA Mode),Epyon (MA Mode),"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E03: sitio oficial de Gundam"
+unit,空戦ポッド,Gnerl Fighter Pod,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E05: ジナール空戦ポッド (Macross Mecha Manual)"
+unit,メルトランディ軍標準戦艦,Meltrandi Battleship,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E06 (20 B)"
+unit,メルトランディ軍中型砲艦,Meltrandi Gunboat,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E06"
+unit,戦闘獣ズガール,Battle Beast Zugal,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E09: como la unidad (Zugal)"
+unit,ズガール,Zugal,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E09"
+unit,光波獣ピグドロン,Lightwave Beast Pikudron,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E10: grafía del juego (ﾋﾟｸﾄﾞﾛﾝ); forma larga solo en diálogo/diccionario"
+unit,ピクドロン,Pikudron,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E10"
+spirit,挑発,Taunt,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), H02: sin nombre oficial en OGs/T/30/V/X"
+spirit,隠れ身,Stealth,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), H03"
+spirit,奇襲,Ambush,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), H04"
+spirit,捨て身,Reckless,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), H06 (alternativa Desperate)"
+spirit,奇跡,Miracle,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), H05"
+spirit,復活,Revive,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), H07"
+unit_ability,HP回復(小),HP Regen (S),,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), H09: estilo de SP Regen (OGs)"
+unit_ability,HP回復(大),HP Regen (L),,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), H09"
+unit_ability,EN回復(小),EN Regen (S),,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), H09"
+unit_ability,EN回復(大),EN Regen (L),,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), H09"
+ui,攻撃力,Attack,ATK,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), H12"
+ui,射程,Range,RNG,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), H12"
+ui,命中,Hit,HIT,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), H12"
+ui,クリティカル補正,Critical,CRT,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), H12"
+ui,機甲,Armor,,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), H12"

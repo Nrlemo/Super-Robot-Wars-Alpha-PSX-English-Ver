@@ -1,0 +1,22 @@
+caja,x,y,w,h,jp,en,align,font,size,style
+H1,164,5,80,21,現在位置,Location,l,DejaVuSans-Bold,11,solid
+R01a,2,33,47,16,移動中,En Route,l,DejaVuSans-Bold,11,solid
+R01b,65,33,175,16,アメリカ西海岸・とある学園,"US West Coast, a School",l,DejaVuSans-Bold,11,solid
+R02a,1,49,128,16,北米シャイアン基地,"Cheyenne Base, NA",l,DejaVuSans-Bold,11,solid
+R02b,161,49,64,16,恐竜帝国,Dino Empire,l,DejaVuSans-Bold,11,solid
+R03a,2,65,143,16,ジャブロー・ティターンズ基地,"Jaburo, Titans Base",l,DejaVuSans-Bold,11,solid
+R03b,162,65,78,16,ＢＦ団アジト,BF Hideout,l,DejaVuSans-Bold,11,solid
+R04a,2,81,142,16,連邦軍トリントン基地,Fed. Torrington Base,l,DejaVuSans-Bold,11,solid
+R04b,161,81,88,16,ホンコンシティ,Hong Kong City,l,DejaVuSans-Bold,11,solid
+R05a,2,97,118,16,トレーズのオフィス,Treize's Office,l,DejaVuSans-Bold,11,solid
+R05b,137,97,104,16,Ｄｒ．ヘルのアジト,Dr. Hell's Hideout,l,DejaVuSans-Bold,11,solid
+R06a,1,113,119,16,キャンベル軍アジト,Campbell Hideout,l,DejaVuSans-Bold,11,solid
+R06b,137,113,104,16,ボアザン軍アジト,Boazan Hideout,l,DejaVuSans-Bold,11,solid
+R07a,2,129,150,16,南アタリア島・マクロス,"South Ataria Island, Macross",l,DejaVuSans-Bold,11,solid
+R07b,163,129,61,16,ＤＣ本部,DC HQ,l,DejaVuSans-Bold,11,solid
+R08a,2,145,158,16,国際警察機構北京支部,ICPO Beijing Branch,l,DejaVuSans-Bold,11,solid
+R08b,170,145,53,16,ダカール,Dakar,l,DejaVuSans-Bold,11,solid
+R09a,1,161,144,16,ダカール連邦議事堂,Dakar Federation Assembly,l,DejaVuSans-Bold,11,solid
+R09b,163,161,62,16,ＯＺ本部,OZ HQ,l,DejaVuSans-Bold,11,solid
+R10a,1,177,112,16,サンクキングダム,Sanc Kingdom,l,DejaVuSans-Bold,11,solid
+R10b,162,177,70,16,スマトラ島,Sumatra,l,DejaVuSans-Bold,11,solid

@@ -1,0 +1,120 @@
+jp,variantes_jp,en,tipo,serie,fuente,estado,apariciones,notas
+モビルスーツ,,mobile suit,mecha,Gundam,oficial,fijo,404,"Abreviatura ""MS"" solo si falta espacio."
+モビルアーマー,,mobile armor,mecha,Gundam,oficial,fijo,52,
+モビルドール,,mobile doll,mecha,Gundam Wing,oficial,fijo,26,
+パーソナルトルーパー,ＰＴ,Personal Trooper,mecha,Banpresto Original,oficial (OG),fijo,259,"Sigla ""PT""."
+アーマード・モジュール,ＡＭ,Armored Module,mecha,Banpresto Original,oficial (OG),fijo,59,"Sigla ""AM""."
+スーパーロボット,,super robot,mecha,,oficial,fijo,123,
+オーラバトラー,,Aura Battler,mecha,Dunbine,oficial,fijo,124,
+オーラバトルシップ,,aura battleship,mecha,Dunbine,oficial,fijo,14,
+オーラマシン,,aura machine,mecha,Dunbine,oficial,fijo,20,
+バルキリー,,Valkyrie,mecha,Macross,oficial,fijo,74,"""VF"" en nombres de unidad."
+デストロイド,,Destroid,mecha,Macross,oficial,fijo,10,
+ガウォーク,,GERWALK,mecha,Macross,oficial,fijo,1,
+バトロイド,,Battroid,mecha,Macross,oficial,fijo,9,
+エヴァンゲリオン,ＥＶＡ,Evangelion,mecha,Evangelion,oficial,fijo,598,"ＥＶＡ → ""EVA""; 初号機 ""Unit-01"", 零号機 ""Unit-00"", 弐号機 ""Unit-02"", 参号機 ""Unit-03"", 量産機 ""Mass Production Model""."
+バスターマシン,,Buster Machine,mecha,Gunbuster,oficial,fijo,17,
+機械獣,,Mechanical Beast,mecha,Mazinger Z,oficial,fijo,194,
+戦闘獣,,Warrior Beast,mecha,Great Mazinger,oficial,fijo,28,
+メカザウルス,,Mechasaurus,mecha,Getter Robo,oficial,fijo,24,
+化石獣,,Fossil Beast,mecha,Raideen,propuesta,fijo,16,
+獣士,,Beast Fighter,mecha,Voltes V,dc,fijo,52,Término usado en dc_en.
+獣戦機,,Beast Machine,mecha,Dancouga,dc,fijo,133,
+ゲットマシン,,Get Machine,mecha,Getter Robo,oficial,fijo,30,
+ボルトマシン,,Volt Machine,mecha,Voltes V,oficial,fijo,17,
+バトルマシン,,Battle Machine,mecha,Combattler V,oficial,fijo,36,
+超機人,,Choukijin,mecha,Banpresto Original,oficial (OG),fijo,39,
+魔装機神,,Masou Kishin,mecha,Masou Kishin,oficial (OG),fijo,27,"魔装機 = ""Masouki""."
+魔装機,,Masouki,mecha,Masou Kishin,oficial (OG),fijo,31,
+ミノフスキー粒子,ミノフスキー,Minovsky particles,tecnología,Gundam,oficial,fijo,21,
+サイコミュ,,psycommu,tecnología,Gundam,oficial,fijo,43,
+サイコフレーム,,psycoframe,tecnología,Char's Counterattack,oficial,fijo,7,"Grafía oficial de Bandai (""Psycoframe""), igual que la parte del glosario."
+ファンネル,フィン・ファンネル,funnel,tecnología,Gundam,oficial,fijo,120,"フィン・ファンネル = ""Fin Funnel""."
+アンバック,,AMBAC,tecnología,Gundam,oficial,fijo,8,
+ガンダニュウム,ガンダニュウム合金,Gundanium,tecnología,Gundam Wing,oficial,fijo,13,"ガンダニュウム合金 = ""Gundanium alloy""."
+ゼロシステム,ゼロ・システム,Zero System,tecnología,Gundam Wing,oficial,fijo,82,"Igual que la habilidad del glosario (oficial GW: ""ZERO System"")."
+光子力,光子力エネルギー,Photon Power,tecnología,Mazinger Z,mantenedor,fijo,140,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): A05: coherente con Photon Power Laboratory y Photon Beam."
+超合金Ｚ,,Chogokin Z,tecnología,Mazinger Z,mantenedor,fijo,10,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): A06: SRW T/30 oficial; en diálogo también. 超合金ニューＺ = ""Chogokin New Z""."
+ジャパニウム,ジャパニウム鉱石,Japanium,tecnología,Mazinger Z,oficial,fijo,4,
+ゲッター線,,Getter Rays,tecnología,Getter Robo,oficial,fijo,54,
+ゲッター炉,,Getter Reactor,tecnología,Getter Robo,oficial,fijo,21,
+超電磁,,Chodenji,tecnología,Combattler V / Voltes V,dc,fijo,143,"En armas sigue weapons_en (""Chodenji Ball""...). 超電磁ロボ = ""Super Electromagnetic Robot""."
+ムートロン,,Mutron,tecnología,Raideen,oficial,fijo,10,
+オーラ力,オーラちから,aura power,tecnología,Dunbine,oficial,fijo,167,
+オーラロード,オーラ・ロード,Aura Road,concepto,Dunbine,oficial,fijo,36,
+聖戦士,,Holy Warrior,concepto,Dunbine,mantenedor,fijo,32,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): A04: SRW X en inglés y Bandai (""Holy Warrior Dunbine""); habilidad y diálogo."
+地上人,,surface dweller,concepto,Dunbine,dc,fijo,75,
+フェラリオ,,Ferario,concepto,Dunbine,oficial,fijo,7,Hadas de Byston Well (Chum).
+プラーナ,,prana,tecnología,Masou Kishin,oficial (OG),fijo,21,
+ポゼッション,,Possession,concepto,Masou Kishin,oficial (OG),fijo,6,"精霊憑依 = ""Spirit Possession"" (habilidad del glosario y título 129)."
+精霊,守護精霊,spirit,concepto,Masou Kishin,propuesta,fijo,28,"守護精霊 = ""guardian spirit""."
+念動力,念動,telekinesis,tecnología,Banpresto Original,oficial (OG),fijo,301,"念動力者 = ""telekinetic"". dc_en: ""telekinesis""."
+Ｔ－ＬＩＮＫシステム,Ｔ－ＬＩＮＫ,T-LINK System,tecnología,Banpresto Original,oficial (OG),fijo,534,
+念動フィールド,,Telekinesis Field,tecnología,Banpresto Original,decisiones.csv,fijo,58,"Decisión 2026-09-28 (no ""TK Field""). dr_en usa ""T-LINK Field"" (3 veces): corregir allá."
+サイコドライバー,,Psycho Driver,concepto,Banpresto Original,oficial (OG),fijo,272,
+サイキッカー,,psychic,concepto,Banpresto Original,propuesta,fijo,68,
+サイキック・ウェーブ,,psychic wave,concepto,Banpresto Original,propuesta,fijo,91,
+ＥＯＴ,イー・オー・ティー,EOT,tecnología,Banpresto Original,oficial (OG),fijo,267,Extra-Over Technology.
+トロニウム・エンジン,トロニウム,Tronium Engine,tecnología,Banpresto Original,oficial (OG),fijo,123,
+ブラックホール・エンジン,ブラックホールエンジン,Black Hole Engine,tecnología,Banpresto Original,oficial (OG),fijo,43,
+ズフィルード・クリスタル,ズフィルードクリスタル,Zfylud Crystal,tecnología,Banpresto Original (SRX),oficial (OG),fijo,10,"ズフィルード sola = ""Zfylud"" (unidad del glosario)."
+クロスゲート・パラダイム・システム,,Crossgate Paradigm System,tecnología,Banpresto Original (SRX),fan,propuesta,20,
+クロスゲート・ドライブ,,Crossgate Drive,tecnología,Banpresto Original (SRX),fan,propuesta,7,
+ウラヌス・システム,,Uranus System,tecnología,Banpresto Original (SRX),oficial (OG),fijo,32,
+グラビコン・システム,,Gravicon System,tecnología,Banpresto Original,oficial (OG),fijo,6,
+グラビティ・ウォール,,Gravity Wall,tecnología,Banpresto Original,oficial (OG),fijo,23,
+Ａ．Ｔ．フィールド,ＡＴフィールド,AT Field,tecnología,Evangelion,oficial,fijo,51,
+ＬＣＬ,,LCL,tecnología,Evangelion,oficial,fijo,7,
+エントリープラグ,,entry plug,tecnología,Evangelion,oficial,fijo,21,
+シンクロ率,,synchro rate,tecnología,Evangelion,oficial,fijo,15,"Igual que la habilidad del glosario (""Synchro Rate"")."
+Ｓ２機関,,S2 Engine,tecnología,Evangelion,oficial,fijo,9,"Oficial ""S² Engine"": ""²"" no existe en la fuente (cp932) → ""S2 Engine""."
+チルドレン,ファーストチルドレン|サードチルドレン|フィフスチルドレン,Children,concepto,Evangelion,oficial,fijo,48,First/Second/Third/Fourth/Fifth Child (ADV).
+セカンドインパクト,,Second Impact,concepto,Evangelion,oficial,fijo,6,"サードインパクト = ""Third Impact""."
+人類補完計画,補完計画,Human Instrumentality Project,concepto,Evangelion,oficial,fijo,55,
+死海文書,,Dead Sea Scrolls,concepto,Evangelion,oficial,fijo,12,
+ロンギヌスの槍,,Lance of Longinus,concepto,Evangelion,oficial,fijo,10,
+リリン,,Lilin,concepto,Evangelion,oficial,fijo,17,
+フォールド,フォールドシステム|デフォールド,fold,tecnología,Macross,oficial,fijo,149,"スペース・フォールド = ""space fold""; デフォールド = ""defold""."
+プロトカルチャー,,Protoculture,concepto,Macross,oficial,fijo,58,
+マイクローン,,Micronian,concepto,Macross,oficial,fijo,61,
+ヤック・デカルチャ,デカルチャ,Yack deculture,expresión,Macross,oficial,fijo,6,"Exclamación zentradi: dejar en zentradi (""Deculture!"")."
+ミス・マクロス,ミス・マクロス・コンテスト,Miss Macross,concepto,Macross,oficial,fijo,17,
+縮退炉,,degenerate reactor,tecnología,Gunbuster,oficial,fijo,25,
+ウラシマ効果,,Urashima effect,concepto,Gunbuster,oficial,fijo,1,
+ワープ,ワープアウト,warp,tecnología,,oficial,fijo,60,
+ニュータイプ,ＮＴ,Newtype,concepto,Gundam,oficial,fijo,211,
+強化人間,,Cyber Newtype,concepto,Gundam,mantenedor,fijo,36,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): A07: sin guion (dc_en corregido)."
+スペースノイド,,Spacenoid,concepto,Gundam,oficial,fijo,66,"アースノイド = ""Earthnoid""."
+コロニー,スペースコロニー,colony,concepto,Gundam,oficial,fijo,430,
+地球脱出計画,,Earth evacuation plan,concepto,Banpresto Original,propuesta,propuesta,9,
+マジンガー量産計画,,Mazinger mass-production plan,concepto,Mazinger Z,propuesta,propuesta,7,
+ＧＲ計画,,GR Project,concepto,Giant Robo,propuesta,propuesta,8,
+星の屑,星の屑作戦,Operation Stardust,operación,Gundam 0083,oficial,fijo,29,
+ヤシマ作戦,,Operation Yashima,operación,Evangelion,oficial,fijo,15,
+ハハヤ作戦,,Operation Hahaya,operación,Evangelion,srw.wiki.cre.jp,fijo,2,"Nombre propio de SRW Alpha (esc. 31 Booby Trap, ruta Shoot Down), no es la Operación Yashima: https://srw.wiki.cre.jp/wiki/ハハヤ作戦"
+オペレーション・メテオ,,Operation Meteor,operación,Gundam Wing,oficial,fijo,1,
+オペレーション・デイブレイク,,Operation Daybreak,operación,Gundam Wing,oficial,fijo,2,
+ジェットストリームアタック,,Jet Stream Attack,operación,Gundam (0079),oficial,fijo,6,
+少尉,,Ensign,rango,,mantenedor,fijo,307,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): F01: Gundam oficial y OG (""Ensign Ryusei"")."
+中尉,,Lieutenant,rango,,mantenedor,fijo,561,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): F02."
+大尉,,Captain,rango,,mantenedor,fijo,619,"decidido 2026-09-28 (mantenedor): ""Captain Amuro"", ""Captain Burning"" (0083: sin excepción naval). Mismo título que 艦長 (Captain): se distingue por contexto, como en la localización oficial de Gundam."
+少佐,,Major,rango,,mantenedor,fijo,1247,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): F04."
+中佐,,Commander (Cmdr.),rango,,mantenedor,fijo,141,"decidido 2026-09-28 (mantenedor): rango → ""Cmdr. Bright""; puesto al mando de la nave (艦長) → ""Captain Bright"", como la localización oficial de Gundam."
+大佐,,Colonel,rango,,guía,propuesta,39,
+准将,,Brigadier General,rango,,guía,propuesta,76,"En trato: ""General""."
+艦長,,Captain,rango,,guía,fijo,570,
+提督,,Admiral,rango,,guía,fijo,21,
+長官,,Director,rango,,mantenedor,fijo,171,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 1): F06: según el personaje: 岡防衛長官 ""General Oka"", 中条長官 ""Chief Chujo"", イゴール長官 ""Commander Igor""."
+司令,,Commander,rango,Evangelion,oficial,fijo,149,"副司令 = ""Sub-Commander""."
+博士,ドクター,Dr.,rango,,guía,fijo,1018,
+教授,,Professor,rango,,guía,fijo,346,
+所長,,Director,rango,,guía,fijo,25,
+社長,,President,rango,,propuesta,fijo,71,"リン社長 = ""President Mao""."
+閣下,,Your Excellency,rango,,guía,fijo,39,
+特佐,,Special Lieutenant,rango,Gundam Wing,mantenedor,fijo,13,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 2), F07: ""Special Lieutenant""; en trato ""Lieutenant Zechs""."
+教官,,Instructor,rango,,propuesta,fijo,74,Ryusei → Ingram.
+コーチ,,Coach,rango,Gunbuster,guía,fijo,57,
+委員長,学級委員,Class Rep,rango,,guía,fijo,8,
+お姉様,,Onee-sama,trato,Gunbuster,guía,fijo,45,"Excepción a ""sin honoríficos"" (Noriko→Kazumi). decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 2): la otra excepción es 先輩 → ""Senpai"" (Maya → Ritsuko)."
+イエッサー,,"Yes, sir!",expresión,,propuesta,fijo,52,
+先輩,,Senpai,trato,Evangelion,mantenedor,fijo,78,"decidido 2026-09-28 (mantenedor, INVESTIGACION_NOMBRES ronda 2), G04: ""Senpai"" para Maya → Ritsuko (excepción a ""sin honoríficos"", como Onee-sama). Los demás usos (78 en total, todas las series) según contexto; por defecto, el nombre."

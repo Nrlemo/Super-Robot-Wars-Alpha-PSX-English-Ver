@@ -1,0 +1,487 @@
+robot_id,jp_game,jp_norm,en,en_short,en_bytes,franchise,status,source,notes
+0,ｶﾞﾝﾀﾞﾑ,ガンダム,Gundam,,6,Mobile Suit Gundam,official,Gundam-EN,RX-78-2 | glossary: ガンダム = Gundam
+1,ｺｱﾌｧｲﾀ-,コアファイター,Core Fighter,,12,Mobile Suit Gundam,official,Gundam-EN,glossary: コアファイター = Core Fighter; コアファイター (ZZ) = Core Fighter (ZZ); コアファイター (V) = Core Fighter (V); コアファイター (VD) = Core Fighter (VD); コアファイター (V2) = Core Fighter (V2); コアファイター (VH) = Core Fighter (VH)
+2,G-3ｶﾞﾝﾀﾞﾑ,G-3ガンダム,G-3 Gundam,,10,Mobile Suit Gundam,official,Gundam-EN,glossary: G-3ガンダム = G-3 Gundam
+3,ｺｱﾌｧｲﾀ-(G-3),コアファイター(G-3),Core Fighter (G-3),,18,Mobile Suit Gundam,official,Gundam-EN,"el juego dice Core Fighter, no Core Booster como Akurasu | glossary: コアファイター = Core Fighter; コアファイター (ZZ) = Core Fighter (ZZ); コアファイター (V) = Core Fighter (V); コアファイター (VD) = Core Fighter (VD); コアファイター (V2) = Core Fighter (V2); コアファイター (VH) = Core Fighter (VH)"
+4,ｺｱﾌﾞ-ｽﾀ-,コアブースター,Core Booster,,12,Mobile Suit Gundam,official,Gundam-EN,glossary: コアブースター (G-3) = Core Booster (G-3)
+5,ﾎﾜｲﾄﾍﾞ-ｽ,ホワイトベース,White Base,,10,Mobile Suit Gundam,official,Gundam-EN,glossary: ホワイトベース = White Base
+6,ｸﾞﾌ,グフ,Gouf,,4,Mobile Suit Gundam,official,Gundam-EN,glossary: グフ = Gouf
+7,ﾋﾞｸﾞ･ｻﾞﾑ,ビグ・ザム,Big Zam,,7,Mobile Suit Gundam,official,Gundam-EN,glossary: ビグ・ザム = Big Zam
+8,ｻﾞﾝｼﾞﾊﾞﾙ,ザンジバル,Zanzibar,,8,Mobile Suit Gundam,official,Gundam-EN,Akurasu: Zanzibar-class; el juego no dice 級 | glossary: ザンジバル級機動巡洋艦 = Zanzibar-class
+9,ﾄﾞﾛｽ,ドロス,Dolos,,5,Mobile Suit Gundam,official,Gundam-EN,glossary: ドロス級宇宙空母 = Dolos-class
+10,ｸﾞﾜｼﾞﾝ,グワジン,Gwazine,,7,Mobile Suit Gundam,official,Gundam-EN,glossary: グワジン級大型戦艦 = Gwazine-class
+11,ﾐﾃﾞｱ,ミデア,Medea,,5,Mobile Suit Gundam,official,Gundam-EN,glossary: ミデア = Medea
+12,ｹﾞﾙｸﾞｸﾞ,ゲルググ,Gelgoog,,7,Mobile Suit Gundam,official,Gundam-EN,glossary: ゲルググ = Gelgoog
+13,ｻﾞｸ改,ザク改,Zaku II Kai,,11,Mobile Suit Gundam 0080: War in the Pocket,official,Gundam-EN,MS-06FZ; Akurasu: Zaku Kai | glossary: ザク改 = Zaku Kai
+14,ｼｬｱ専用ｻﾞｸ,シャア専用ザク,Char's Zaku II,,14,Mobile Suit Gundam,official,Gundam-EN,"Akurasu: Char's Zaku; oficial largo: Char's Custom Zaku II (20 B, también entra) | glossary: シャア専用ザク = Char's Zaku"
+15,NT-1ｱﾚｯｸｽ,NT-1アレックス,Gundam NT-1 Alex,,16,Mobile Suit Gundam 0080: War in the Pocket,official,Gundam-EN,"RX-78NT-1 Gundam NT-1 ""Alex""; Akurasu: NT-1 Alex | glossary: NT-1アレックス = NT-1 Alex"
+16,ﾘｯｸ･ﾄﾞﾑﾚﾟ,リック・ドムⅡ,Rick Dom II,,11,Mobile Suit Gundam 0080: War in the Pocket,official,Gundam-EN,glossary: リック・ドムII = Rick Dom II
+17,ｹﾝﾌﾟﾌｧ-,ケンプファー,Kampfer,,7,Mobile Suit Gundam 0080: War in the Pocket,official,Gundam-EN,oficial: Kämpfer (sin diéresis por ASCII) | glossary: ケンプファー = Kampfer
+18,ﾑｻｲ改,ムサイ改,Musai Kai,,9,Mobile Suit Gundam 0083: Stardust Memory,fan-standard,akurasu,Musai Kai-class (0083) | glossary: ムサイ改級軽巡洋艦 = Musai Kai-class
+19,ｹﾞﾙｸﾞｸﾞ･J,ゲルググ・J,Gelgoog Jager,,13,Mobile Suit Gundam 0080: War in the Pocket,official,Gundam-EN,MS-14JG Gelgoog Jäger; Akurasu: Gelgoog J | glossary: ゲルググJ = Gelgoog J
+20,ｶﾞﾝﾀﾞﾑ試作1号機,ガンダム試作1号機,Gundam GP01,,11,Mobile Suit Gundam 0083: Stardust Memory,official,Gundam-EN,codename Zephyranthes | glossary: ガンダム試作1号機 = Gundam GP01
+21,ｺｱﾌｧｲﾀ-ﾚﾟ,コアファイターⅡ,Core Fighter II,,15,Mobile Suit Gundam 0083: Stardust Memory,official,Gundam-EN,glossary: コアファイターII = Core Fighter II
+22,ｶﾞﾝﾀﾞﾑ試作1号機Fb,ガンダム試作1号機Fb,Gundam GP01Fb,,13,Mobile Suit Gundam 0083: Stardust Memory,official,Gundam-EN,Full Burnern (Akurasu lo escribe completo) | glossary: ガンダム試作1号機Fb = Gundam GP01 Full Burnern
+23,ｺｱﾌｧｲﾀ-ﾚﾟFb,コアファイターⅡFb,Core Fighter II Fb,,18,Mobile Suit Gundam 0083: Stardust Memory,fan-standard,akurasu,glossary: コアファイターIIFb = Core Fighter II Fb
+24,ｶﾞﾝﾀﾞﾑ試作2号機,ガンダム試作2号機,Gundam GP02,,11,Mobile Suit Gundam 0083: Stardust Memory,official,Gundam-EN,GP02A Physalis | glossary: ガンダム試作2号機 = Gundam GP02
+25,ｶﾞﾝﾀﾞﾑ試作3号機,ガンダム試作3号機,Gundam GP03,,11,Mobile Suit Gundam 0083: Stardust Memory,official,Gundam-EN,GP03 Dendrobium | glossary: ガンダム試作3号機 = Gundam GP03
+26,ｶﾞﾝﾀﾞﾑ･ｽﾃｲﾒﾝ,ガンダム・ステイメン,Gundam GP03S Stamen,,19,Mobile Suit Gundam 0083: Stardust Memory,official,Gundam-EN,Akurasu: Gundam Stamen | glossary: ガンダム・ステイメン = Gundam Stamen
+27,ｻﾞﾒﾙ,ザメル,Xamel,,5,Mobile Suit Gundam 0083: Stardust Memory,official,Gundam-EN,glossary: ザメル = Xamel
+28,ｳﾞｧﾙ･ｳﾞｧﾛ,ヴァル・ヴァロ,Val Walo,,8,Mobile Suit Gundam 0083: Stardust Memory,official,Gundam-EN,glossary: ヴァル・ヴァロ = Val Walo
+29,ｶﾞ-ﾍﾞﾗ･ﾃﾄﾗ,ガーベラ・テトラ,Gerbera Tetra,,13,Mobile Suit Gundam 0083: Stardust Memory,official,Gundam-EN,glossary: ガーベラ・テトラ = Gerbera Tetra
+30,ﾉｲｴ･ｼﾞ-ﾙ,ノイエ・ジール,Neue Ziel,,9,Mobile Suit Gundam 0083: Stardust Memory,official,Gundam-EN,glossary: ノイエ・ジール = Neue Ziel
+31,ｼﾞﾑ･ｷｬﾉﾝﾚﾟ,ジム・キャノンⅡ,GM Cannon II,,12,Mobile Suit Gundam 0083: Stardust Memory,official,Gundam-EN,glossary: ジム・キャノンII = GM Cannon II
+32,ｼﾞﾑ･ｶｽﾀﾑ,ジム・カスタム,GM Custom,,9,Mobile Suit Gundam 0083: Stardust Memory,official,Gundam-EN,glossary: ジム・カスタム = GM Custom
+33,ｹﾞﾙｸﾞｸﾞ･M,ゲルググ・M,Gelgoog Marine,,14,Mobile Suit Gundam 0083: Stardust Memory,official,Gundam-EN,MS-14F; Akurasu: Gelgoog M | glossary: ゲルググM = Gelgoog M
+34,Zｶﾞﾝﾀﾞﾑ,Zガンダム,Zeta Gundam,,11,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: Ζガンダム = Zeta Gundam
+35,ｳｪｲﾌﾞﾗｲﾀﾞ-,ウェイブライダー,Waverider,,9,Mobile Suit Zeta Gundam,official,Gundam-EN,modo MA de Zeta Gundam | glossary: Ζガンダム = Zeta Gundam
+36,Zﾚﾟ,ZⅡ,Z II,,4,Mobile Suit Zeta Gundam,official,Gundam-EN,"MSZ-008 ZII (""Zeta Two""); glifo Ⅱ reemplazado por ASCII"
+37,Zﾚﾟ(MA),ZⅡ(MA),Z II (MA),,9,Mobile Suit Zeta Gundam,official,Gundam-EN,
+38,ｶﾞﾝﾀﾞﾑﾔﾟﾕﾟﾚﾟ,ガンダムMk-Ⅱ,Gundam Mk-II,,12,Mobile Suit Zeta Gundam,official,Gundam-EN,"3 registros (Titans/AEUG, Akurasu los separa) | glossary: ガンダムMk-II (ティターンズ用) = Gundam Mk-II (Titans); ガンダムMk-II (エゥーゴ用) = Gundam Mk-II (AEUG)"
+39,ｶﾞﾝﾀﾞﾑﾔﾟﾕﾟﾚﾟ,ガンダムMk-Ⅱ,Gundam Mk-II,,12,Mobile Suit Zeta Gundam,official,Gundam-EN,"3 registros (Titans/AEUG, Akurasu los separa) | glossary: ガンダムMk-II (ティターンズ用) = Gundam Mk-II (Titans); ガンダムMk-II (エゥーゴ用) = Gundam Mk-II (AEUG)"
+40,ｶﾞﾝﾀﾞﾑﾔﾟﾕﾟﾚﾟ,ガンダムMk-Ⅱ,Gundam Mk-II,,12,Mobile Suit Zeta Gundam,official,Gundam-EN,"3 registros (Titans/AEUG, Akurasu los separa) | glossary: ガンダムMk-II (ティターンズ用) = Gundam Mk-II (Titans); ガンダムMk-II (エゥーゴ用) = Gundam Mk-II (AEUG)"
+41,Gﾃﾞｨﾌｪﾝｻ-,Gディフェンサー,G-Defenser,,10,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: Gディフェンサー = G-Defenser
+42,ｽ-ﾊﾟ-ｶﾞﾝﾀﾞﾑ,スーパーガンダム,Super Gundam,,12,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: スーパーガンダム = Super Gundam
+43,百式,百式,Hyaku Shiki,,11,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: 百式 = Hyaku Shiki
+44,百式改,百式改,Hyaku Shiki Kai,,15,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: 百式改 = Hyaku Shiki Kai
+45,ﾌﾙｱ-ﾏ-百式改,フルアーマー百式改,Full Armor Hyaku Shiki Kai,FA Hyaku Shiki Kai,18,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: フルアーマー百式改 = Full Armor Hyaku Shiki Kai
+46,ﾘｯｸ･ﾃﾞｨｱｽ,リック・ディアス,Rick Dias,,9,Mobile Suit Zeta Gundam,official,Gundam-EN,2 registros (uno es el de Quattro) | glossary: リック・ディアス (クワトロ用) = Rick Dias (Quattro); リック・ディアス = Rick Dias
+47,ﾘｯｸ･ﾃﾞｨｱｽ,リック・ディアス,Rick Dias,,9,Mobile Suit Zeta Gundam,official,Gundam-EN,2 registros (uno es el de Quattro) | glossary: リック・ディアス (クワトロ用) = Rick Dias (Quattro); リック・ディアス = Rick Dias
+48,ﾒﾀｽ,メタス,Methuss,,7,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: メタス = Methuss
+49,ﾒﾀｽ(MA),メタス(MA),Methuss (MA),,12,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: メタス = Methuss
+50,ﾏﾗｻｲ,マラサイ,Marasai,,7,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: マラサイ = Marasai
+51,ﾒｯｻ-ﾗ,メッサーラ,Messala,,7,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: メッサーラ = Messala
+52,ﾒｯｻ-ﾗ(MA),メッサーラ(MA),Messala (MA),,12,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: メッサーラ = Messala
+53,ｶﾞﾌﾞｽﾚｲ,ガブスレイ,Gabthley,,8,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: ガブスレイ = Gabthley
+54,ｶﾞﾌﾞｽﾚｲ(MA),ガブスレイ(MA),Gabthley (MA),,13,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: ガブスレイ = Gabthley
+55,ﾊﾞｲｱﾗﾝ,バイアラン,Byarlant,,8,Mobile Suit Zeta Gundam,official,Gundam-EN,Akurasu: Byalant | glossary: バイアラン = Byalant
+56,ﾊﾝﾌﾞﾗﾋﾞ,ハンブラビ,Hambrabi,,8,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: ハンブラビ = Hambrabi
+57,ﾊﾝﾌﾞﾗﾋﾞ(MA),ハンブラビ(MA),Hambrabi (MA),,13,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: ハンブラビ = Hambrabi
+58,ﾊﾟﾗｽ･ｱﾃﾈ,パラス・アテネ,Palace Athene,,13,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: パラス・アテネ = Palace Athene
+59,ｷｭﾍﾞﾚｲ,キュベレイ,Qubeley,,7,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: キュベレイ = Qubeley
+60,ｱｯｼﾏ-,アッシマー,Asshimar,,8,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: アッシマー = Asshimar
+61,ｱｯｼﾏ-(MA),アッシマー(MA),Asshimar (MA),,13,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: アッシマー = Asshimar
+62,ﾊﾞｳﾝﾄﾞ･ﾄﾞｯｸﾞ,バウンド・ドッグ,Bound Doc,,9,Mobile Suit Zeta Gundam,official,Gundam-EN,Akurasu: Baund Doc | glossary: バウンド・ドック = Baund Doc
+63,ﾊﾞｳﾝﾄﾞ･ﾄﾞｯｸﾞ(MA),バウンド・ドッグ(MA),Bound Doc (MA),,14,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: バウンド・ドック = Baund Doc
+64,ｻｲｺｶﾞﾝﾀﾞﾑ,サイコガンダム,Psyco Gundam,,12,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: サイコガンダム = Psyco Gundam
+65,ｻｲｺｶﾞﾝﾀﾞﾑ(MA),サイコガンダム(MA),Psyco Gundam (MA),,17,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: サイコガンダム = Psyco Gundam
+66,ｻｲｺｶﾞﾝﾀﾞﾑﾔﾟﾕﾟﾚﾟ,サイコガンダムMk-Ⅱ,Psyco Gundam Mk-II,,18,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: サイコガンダムMk-II = Psyco Gundam Mk-II
+67,ｻｲｺｶﾞﾝﾀﾞﾑﾔﾟﾕﾟﾚﾟ(MA),サイコガンダムMk-Ⅱ(MA),Psyco Gundam Mk-II (MA),Psyco Mk-II (MA),16,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: サイコガンダムMk-II = Psyco Gundam Mk-II
+68,ｼﾞ･O,ジ・O,The O,,5,Mobile Suit Zeta Gundam,official,Gundam-EN,PMX-003 The O; Akurasu: The-O | glossary: ジ・O = The-O
+69,ｱ-ｶﾞﾏ,アーガマ,Argama,,6,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: アーガマ = Argama
+70,ﾘ-ﾝﾎ-ｽJr.,リーンホースJr.,Reinforce Jr.,,13,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: リーンホースJr. = Reinforce Junior
+71,ﾗ-･ｶｲﾗﾑ,ラー・カイラム,Ra Cailum,,9,Mobile Suit Gundam: Char's Counterattack,official,Gundam-EN,glossary: ラー・カイラム = Ra Cailum
+72,ﾄﾞｺﾞｽ･ｷﾞｱ,ドゴス・ギア,Dogosse Giar,,12,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: ドゴス・ギア = Dogosse Giar
+73,ｱﾚｷｻﾝﾄﾞﾘｱ,アレキサンドリア,Alexandria,,10,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: アレキサンドリア = Alexandria
+74,ｱｳﾄﾞﾑﾗ,アウドムラ,Audhumla,,8,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: アウドムラ = Audhumla
+75,ｼﾞｭﾋﾟﾄﾘｽ,ジュピトリス,Jupitris,,8,Mobile Suit Zeta Gundam,official,Gundam-EN,Akurasu: Jupitoris | glossary: ジュピトリス = Jupitoris
+76,ｷﾞｬﾌﾟﾗﾝ,ギャプラン,Gaplant,,7,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: ギャプラン = Gaplant
+77,ｷﾞｬﾌﾟﾗﾝ(MA),ギャプラン(MA),Gaplant (MA),,12,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: ギャプラン = Gaplant
+78,ZZｶﾞﾝﾀﾞﾑ,ZZガンダム,ZZ Gundam,,9,Mobile Suit Gundam ZZ,official,Gundam-EN,glossary: ΖΖガンダム = ZZ Gundam
+79,Gﾌｫ-ﾄﾚｽ,Gフォートレス,G-Fortress,,10,Mobile Suit Gundam ZZ,official,Gundam-EN,modo avión de ZZ; 2 registros | glossary: ΖΖガンダム = ZZ Gundam
+80,ｺｱﾌｧｲﾀ-(ZZ),コアファイター(ZZ),Core Fighter (ZZ),,17,Mobile Suit Gundam ZZ,official,Gundam-EN,glossary: コアファイター = Core Fighter; コアファイター (ZZ) = Core Fighter (ZZ); コアファイター (V) = Core Fighter (V); コアファイター (VD) = Core Fighter (VD); コアファイター (V2) = Core Fighter (V2); コアファイター (VH) = Core Fighter (VH)
+81,ﾌﾙｱ-ﾏ-ZZｶﾞﾝﾀﾞﾑ,フルアーマーZZガンダム,Full Armor ZZ Gundam,,20,Mobile Suit Gundam ZZ,official,Gundam-EN,glossary: フルアーマーΖΖガンダム = Full Armor ZZ Gundam
+82,Gﾌｫ-ﾄﾚｽ,Gフォートレス,G-Fortress,,10,Mobile Suit Gundam ZZ,official,Gundam-EN,modo avión de ZZ; 2 registros | glossary: ΖΖガンダム = ZZ Gundam
+83,ｽﾞｻ,ズサ,Zssa,,4,Mobile Suit Gundam ZZ,official,Gundam-EN,glossary: ズサ = Zssa
+84,R･ｼﾞｬｼﾞｬ,R・ジャジャ,R-Jarja,,7,Mobile Suit Gundam ZZ,official,Gundam-EN,glossary: R・ジャジャ = R-Jarja
+85,ﾄﾞﾗｲｾﾝ,ドライセン,Dreissen,,8,Mobile Suit Gundam ZZ,official,Gundam-EN,glossary: ドライセン = Dreissen
+86,ﾊﾝﾏ･ﾊﾝﾏ,ハンマ・ハンマ,Hamma-Hamma,,11,Mobile Suit Gundam ZZ,official,Gundam-EN,Akurasu: Hamma Hamma | glossary: ハンマ・ハンマ = Hamma Hamma
+87,ﾄﾞ-ﾍﾞﾝ･ｳﾙﾌ,ドーベン・ウルフ,Doven Wolf,,10,Mobile Suit Gundam ZZ,official,Gundam-EN,glossary: ドーベン・ウルフ = Doven Wolf
+88,ｹﾞ-ﾏﾙｸ,ゲーマルク,Geymalk,,7,Mobile Suit Gundam ZZ,official,Gundam-EN,glossary: ゲーマルク = Geymalk
+89,ｷｭﾍﾞﾚｲﾔﾟﾕﾟﾚﾟ,キュベレイMk-Ⅱ,Qubeley Mk-II,,13,Mobile Suit Gundam ZZ,official,Gundam-EN,3 registros (Puru / Puru Two) | glossary: キュベレイMk-II = Qubeley Mk-II; キュベレイMk-II (プルツー用) = Qubeley Mk-II (Ple Two)
+90,ｷｭﾍﾞﾚｲﾔﾟﾕﾟﾚﾟ,キュベレイMk-Ⅱ,Qubeley Mk-II,,13,Mobile Suit Gundam ZZ,official,Gundam-EN,3 registros (Puru / Puru Two) | glossary: キュベレイMk-II = Qubeley Mk-II; キュベレイMk-II (プルツー用) = Qubeley Mk-II (Ple Two)
+91,ｸｲﾝ･ﾏﾝｻ,クイン・マンサ,Quin Mantha,,11,Mobile Suit Gundam ZZ,official,Gundam-EN,Akurasu: Queen Mansa | glossary: クィン・マンサ = Queen Mansa
+92,ｴﾝﾄﾞﾗ,エンドラ,Endra,,5,Mobile Suit Gundam ZZ,official,Gundam-EN,glossary: エンドラ級巡洋艦 = Endra-class
+93,ｸﾞﾜﾀﾞﾝ,グワダン,Gwadan,,6,Mobile Suit Zeta Gundam,official,Gundam-EN,glossary: グワダン = Gwadan-class
+94,ｶﾞﾙｽJ,ガルスJ,Galluss-J,,9,Mobile Suit Gundam ZZ,official,Gundam-EN,glossary: ガルスJ = Galluss-J
+95,ﾊﾞｳ,バウ,Bawoo,,5,Mobile Suit Gundam ZZ,official,Gundam-EN,glossary: バウ = Bawoo
+96,ｶﾞｻﾞD,ガザD,Gaza-D,,6,Mobile Suit Gundam ZZ,official,Gundam-EN,Akurasu: Gaza D | glossary: ガザD = Gaza D
+97,ｶﾞｻﾞD(MA),ガザD(MA),Gaza-D (MA),,11,Mobile Suit Gundam ZZ,official,Gundam-EN,glossary: ガザD = Gaza D
+98,ｻﾞｸﾛﾟ,ザクⅢ,Zaku III,,8,Mobile Suit Gundam ZZ,official,Gundam-EN,glossary: ザクIII = Zaku III
+99,ｻﾞｸﾛﾟ改,ザクⅢ改,Zaku III Custom,,15,Mobile Suit Gundam ZZ,official,Gundam-EN,"AMX-011S; decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), E01: Zaku III Custom (Bandai)"
+100,ﾙﾟｶﾞﾝﾀﾞﾑ,νガンダム,Nu Gundam,,9,Mobile Suit Gundam: Char's Counterattack,official,Gundam-EN,glifo ν reemplazado por ASCII | glossary: νガンダム = Nu Gundam
+101,ﾙﾟｶﾞﾝﾀﾞﾑHWS装着型,νガンダムHWS装着型,Nu Gundam HWS,,13,Mobile Suit Gundam: Char's Counterattack,official,Gundam-EN,Heavy Weapon System | glossary: νガンダムHWS装備型 = Nu Gundam HWS
+102,ﾘ･ｶﾞｽﾞｨ(BWS),リ・ガズィ(BWS),Re-GZ (BWS),,11,Mobile Suit Gundam: Char's Counterattack,official,Gundam-EN,Back Weapon System | glossary: リ・ガズィ = Re-GZ
+103,ﾘ･ｶﾞｽﾞｨ,リ・ガズィ,Re-GZ,,5,Mobile Suit Gundam: Char's Counterattack,official,Gundam-EN,glossary: リ・ガズィ = Re-GZ
+104,ｼﾞｪｶﾞﾝ,ジェガン,Jegan,,5,Mobile Suit Gundam: Char's Counterattack,official,Gundam-EN,glossary: ジェガン = Jegan
+105,ｷﾞﾗ･ﾄﾞ-ｶﾞ,ギラ・ドーガ,Geara Doga,,10,Mobile Suit Gundam: Char's Counterattack,official,Gundam-EN,2 registros (uno es el de Rezin) | glossary: ギラ・ドーガ = Geara Doga; ギラ・ドーガ (レズン専用) = Geara Doga (Rezin)
+106,ｷﾞﾗ･ﾄﾞ-ｶﾞ,ギラ・ドーガ,Geara Doga,,10,Mobile Suit Gundam: Char's Counterattack,official,Gundam-EN,2 registros (uno es el de Rezin) | glossary: ギラ・ドーガ = Geara Doga; ギラ・ドーガ (レズン専用) = Geara Doga (Rezin)
+107,ﾔｸﾄ･ﾄﾞ-ｶﾞ,ヤクト・ドーガ,Jagd Doga,,9,Mobile Suit Gundam: Char's Counterattack,official,Gundam-EN,2 registros (Gyunei / Quess) | glossary: ヤクト・ドーガ (ギュネイ専用) = Jagd Doga (Gyunei); ヤクト・ドーガ (クェス専用) = Jagd Doga (Quess)
+108,ﾔｸﾄ･ﾄﾞ-ｶﾞ,ヤクト・ドーガ,Jagd Doga,,9,Mobile Suit Gundam: Char's Counterattack,official,Gundam-EN,2 registros (Gyunei / Quess) | glossary: ヤクト・ドーガ (ギュネイ専用) = Jagd Doga (Gyunei); ヤクト・ドーガ (クェス専用) = Jagd Doga (Quess)
+109,ﾝﾟ･ｱｼﾞ-ﾙ,α・アジール,Alpha Azieru,,12,Mobile Suit Gundam: Char's Counterattack,official,Gundam-EN,oficial: α Azieru; glifo α en ASCII | glossary: α・アジール = Alpha Azieru
+110,ｻｻﾞﾋﾞ-,サザビー,Sazabi,,6,Mobile Suit Gundam: Char's Counterattack,official,Gundam-EN,glossary: サザビー = Sazabi
+111,ﾚｳﾙ-ﾗ,レウルーラ,Rewloola,,8,Mobile Suit Gundam: Char's Counterattack,official,Gundam-EN,glossary: レウルーラ = Rewloola
+112,ｶﾞﾝﾀﾞﾑF90V,ガンダムF90V,Gundam F90 V-Type,,17,Mobile Suit Gundam F91,official,Gundam-EN,F90 con misión V; Akurasu: Gundam F90V | glossary: ガンダムF90V = Gundam F90V
+113,ｶﾞﾝﾀﾞﾑF91,ガンダムF91,Gundam F91,,10,Mobile Suit Gundam F91,official,Gundam-EN,glossary: ガンダムF91 = Gundam F91
+114,ﾋﾞｷﾞﾅ･ｷﾞﾅ,ビギナ・ギナ,Vigna Ghina,,11,Mobile Suit Gundam F91,official,Gundam-EN,glossary: ビギナ・ギナ = Vigna Ghina
+115,ﾗﾌﾚｼｱ,ラフレシア,Rafflesia,,9,Mobile Suit Gundam F91,official,Gundam-EN,glossary: ラフレシア = Rafflesia
+116,ﾍﾞﾙｶﾞ･ｷﾞﾛｽ,ベルガ・ギロス,Berga Giros,,11,Mobile Suit Gundam F91,official,Gundam-EN,2 registros | glossary: ベルガ・ギロス = Berga Giros
+117,ﾍﾞﾙｶﾞ･ｷﾞﾛｽ,ベルガ・ギロス,Berga Giros,,11,Mobile Suit Gundam F91,official,Gundam-EN,2 registros | glossary: ベルガ・ギロス = Berga Giros
+118,ﾍﾞﾙｶﾞ･ﾀﾞﾗｽ,ベルガ・ダラス,Berga Dalas,,11,Mobile Suit Gundam F91,official,Gundam-EN,glossary: ベルガ・ダラス = Berga Dalas
+119,Vｶﾞﾝﾀﾞﾑ,Vガンダム,Victory Gundam,,14,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: Vガンダム = Victory Gundam
+120,ﾄｯﾌﾟﾌｧｲﾀ-(V),トップファイター(V),Top Fighter (V),,15,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: トップファイター (V) = Top Fighter (V); トップファイター (VD) = Top Fighter (VD); トップファイター (VH) = Top Fighter (VH)
+121,ｺｱﾌｧｲﾀ-(V),コアファイター(V),Core Fighter (V),,16,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: コアファイター = Core Fighter; コアファイター (ZZ) = Core Fighter (ZZ); コアファイター (V) = Core Fighter (V); コアファイター (VD) = Core Fighter (VD); コアファイター (V2) = Core Fighter (V2); コアファイター (VH) = Core Fighter (VH)
+122,Vﾀﾞｯｼｭｶﾞﾝﾀﾞﾑ,Vダッシュガンダム,V-Dash Gundam,,13,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: Vダッシュガンダム = V-Dash Gundam
+123,ﾄｯﾌﾟﾌｧｲﾀ-(VD),トップファイター(VD),Top Fighter (VD),,16,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: トップファイター (V) = Top Fighter (V); トップファイター (VD) = Top Fighter (VD); トップファイター (VH) = Top Fighter (VH)
+124,ｺｱﾌｧｲﾀ-(VD),コアファイター(VD),Core Fighter (VD),,17,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: コアファイター = Core Fighter; コアファイター (ZZ) = Core Fighter (ZZ); コアファイター (V) = Core Fighter (V); コアファイター (VD) = Core Fighter (VD); コアファイター (V2) = Core Fighter (V2); コアファイター (VH) = Core Fighter (VH)
+125,V2ｶﾞﾝﾀﾞﾑ,V2ガンダム,V2 Gundam,,9,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: V2ガンダム = V2 Gundam
+126,V2ｱｻﾙﾄｶﾞﾝﾀﾞﾑ,V2アサルトガンダム,V2 Assault Gundam,,17,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: V2アサルトガンダム = V2 Assault Gundam
+127,V2ﾊﾞｽﾀ-ｶﾞﾝﾀﾞﾑ,V2バスターガンダム,V2 Buster Gundam,,16,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: V2バスターガンダム = V2 Buster Gundam
+128,V2ｱｻﾙﾄﾊﾞｽﾀ-ｶﾞﾝﾀﾞﾑ,V2アサルトバスターガンダム,V2 Assault-Buster Gundam,V2 Assault-Buster,17,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: V2アサルトバスターガンダム = V2 Assault Buster Gundam
+129,ｺｱﾌｧｲﾀ-(V2),コアファイター(V2),Core Fighter (V2),,17,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: コアファイター = Core Fighter; コアファイター (ZZ) = Core Fighter (ZZ); コアファイター (V) = Core Fighter (V); コアファイター (VD) = Core Fighter (VD); コアファイター (V2) = Core Fighter (V2); コアファイター (VH) = Core Fighter (VH)
+130,Vｶﾞﾝﾀﾞﾑﾍｷｻ,Vガンダムヘキサ,Victory Gundam Hexa,,19,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: Vガンダムヘキサ = Victory Gundam Hexa
+131,ﾄｯﾌﾟﾌｧｲﾀ-(VH),トップファイター(VH),Top Fighter (VH),,16,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: トップファイター (V) = Top Fighter (V); トップファイター (VD) = Top Fighter (VD); トップファイター (VH) = Top Fighter (VH)
+132,ｺｱﾌｧｲﾀ-(VH),コアファイター(VH),Core Fighter (VH),,17,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: コアファイター = Core Fighter; コアファイター (ZZ) = Core Fighter (ZZ); コアファイター (V) = Core Fighter (V); コアファイター (VD) = Core Fighter (VD); コアファイター (V2) = Core Fighter (V2); コアファイター (VH) = Core Fighter (VH)
+133,ｶﾞﾝｲ-ｼﾞ,ガンイージ,Gun-EZ,,6,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: ガンイージ = Gun-EZ
+134,ｶﾞﾝﾌﾞﾗｽﾀ-,ガンブラスター,Gunblaster,,10,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: ガンブラスター = Gunblaster
+135,ﾎﾜｲﾄｱ-ｸ,ホワイトアーク,White Ark,,9,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: ホワイトアーク = White Ark
+136,ｺﾝﾃｨｵ,コンティオ,Contio,,6,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: コンティオ = Contio
+137,ｼｬｯｺ-,シャッコー,Shokew,,6,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: シャッコー = Shokew
+138,ﾄﾞｯｺﾞ-ﾗ,ドッゴーラ,Doggorla,,8,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: ドッゴーラ = Doggorla
+139,ｿﾞﾛｱｯﾄ,ゾロアット,Zoloat,,6,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: ゾロアット = Zoloat
+140,ﾘｶ-ﾙ,リカール,Ricarl,,6,Mobile Suit Victory Gundam,fan-standard,akurasu,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C11: grafía oficial de Victory Gundam"
+141,ｹﾞﾄﾞﾗﾌ,ゲドラフ,Gedlav,,6,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: ゲドラフ = Gedlav
+142,ｻﾞﾝﾈｯｸ,ザンネック,Zanneck,,7,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: ザンネック = Zanneck
+143,ﾘｸﾞ･ｼｬｯｺ-,リグ・シャッコー,Rig Shokew,,10,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: リグ・シャッコー = Rig Shokew
+144,ﾘｸﾞ･ｺﾝﾃｨｵ,リグ・コンティオ,Rig Contio,,10,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: リグ・コンティオ = Rig Contio
+145,ｱﾄﾞﾗｽﾃｱ,アドラステア,Adrastea,,8,Mobile Suit Victory Gundam,official,Gundam-EN,Akurasu: Adrastea-class | glossary: アドラステア級汎用戦艦 = Adrastea-class
+146,ｺﾞﾄﾗﾀﾝ,ゴトラタン,Gottrlatan,,10,Mobile Suit Victory Gundam,official,Gundam-EN,glossary: ゴトラタン = Gottrlatan
+147,ｳｲﾝｸﾞｶﾞﾝﾀﾞﾑ,ウイングガンダム,Wing Gundam,,11,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: ウイングガンダム = Wing Gundam
+148,ｳｲﾝｸﾞｶﾞﾝﾀﾞﾑ･ﾊﾞ-ﾄﾞ形態,ウイングガンダム・バード形態,Wing Gundam (Bird Mode),Wing Gundam Bird Mode,21,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: ウイングガンダム = Wing Gundam
+149,ｳｲﾝｸﾞｶﾞﾝﾀﾞﾑｾﾞﾛ,ウイングガンダムゼロ,Wing Gundam Zero,,16,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: ウイングガンダムゼロ = Wing Gundam Zero
+150,ｳｲﾝｸﾞｾﾞﾛ･ﾈｵﾊﾞ-ﾄﾞ形態,ウイングゼロ・ネオバード形態,Wing Zero (Neo-Bird Mode),Wing Zero Neo-Bird,18,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: ウイングガンダムゼロ = Wing Gundam Zero
+151,ｳｲﾝｸﾞｶﾞﾝﾀﾞﾑｾﾞﾛｶｽﾀﾑ,ウイングガンダムゼロカスタム,Wing Gundam Zero Custom,Wing Zero Custom,16,New Mobile Report Gundam Wing: Endless Waltz,official,Gundam-EN,glossary: ウイングガンダムゼロカスタム = Wing Gundam Zero Custom
+152,ｶﾞﾝﾀﾞﾑﾃﾞｽｻｲｽﾞ,ガンダムデスサイズ,Gundam Deathscythe,,18,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: ガンダムデスサイズ = Gundam Deathscythe
+153,ｶﾞﾝﾀﾞﾑﾃﾞｽｻｲｽﾞﾍﾙ,ガンダムデスサイズヘル,Gundam Deathscythe Hell,Deathscythe Hell,16,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: ガンダムデスサイズヘル = Gundam Deathscythe Hell
+154,ｶﾞﾝﾀﾞﾑﾃﾞｽｻｲｽﾞﾍﾙｶｽﾀﾑ,ガンダムデスサイズヘルカスタム,Gundam Deathscythe Hell Custom,Deathscythe H. Custom,21,New Mobile Report Gundam Wing: Endless Waltz,official,Gundam-EN,DUDA: forma corta a revisar | glossary: ガンダムデスサイズヘルカスタム = Gundam Deathscythe Hell Custom
+155,ｶﾞﾝﾀﾞﾑｻﾝﾄﾞﾛｯｸ,ガンダムサンドロック,Gundam Sandrock,,15,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: ガンダムサンドロック = Gundam Sandrock
+156,ｶﾞﾝﾀﾞﾑｻﾝﾄﾞﾛｯｸ改,ガンダムサンドロック改,Gundam Sandrock Kai,,19,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: ガンダムサンドロック改 = Gundam Sandrock Kai
+157,ｶﾞﾝﾀﾞﾑｻﾝﾄﾞﾛｯｸｶｽﾀﾑ,ガンダムサンドロックカスタム,Gundam Sandrock Custom,Sandrock Custom,15,New Mobile Report Gundam Wing: Endless Waltz,official,Gundam-EN,glossary: ガンダムサンドロックカスタム = Gundam Sandrock Custom
+158,ｶﾞﾝﾀﾞﾑﾍﾋﾞ-ｱ-ﾑｽﾞ,ガンダムヘビーアームズ,Gundam Heavyarms,,16,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: ガンダムヘビーアームズ = Gundam Heavyarms
+159,ｶﾞﾝﾀﾞﾑﾍﾋﾞ-ｱ-ﾑｽﾞ改,ガンダムヘビーアームズ改,Gundam Heavyarms Kai,,20,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: ガンダムヘビーアームズ改 = Gundam Heavyarms Kai
+160,ｶﾞﾝﾀﾞﾑﾍﾋﾞ-ｱ-ﾑｽﾞｶｽﾀﾑ,ガンダムヘビーアームズカスタム,Gundam Heavyarms Custom,Heavyarms Custom,16,New Mobile Report Gundam Wing: Endless Waltz,official,Gundam-EN,glossary: ガンダムヘビーアームズカスタム = Gundam Heavyarms Custom
+161,ｼｪﾝﾛﾝｶﾞﾝﾀﾞﾑ,シェンロンガンダム,Shenlong Gundam,,15,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: シェンロンガンダム = Shenlong Gundam
+162,ｱﾙﾄﾛﾝｶﾞﾝﾀﾞﾑ,アルトロンガンダム,Altron Gundam,,13,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: アルトロンガンダム = Altron Gundam
+163,ｱﾙﾄﾛﾝｶﾞﾝﾀﾞﾑｶｽﾀﾑ,アルトロンガンダムカスタム,Altron Gundam Custom,,20,New Mobile Report Gundam Wing: Endless Waltz,official,Gundam-EN,glossary: アルトロンガンダムカスタム = Altron Gundam Custom
+164,ｶﾞﾝﾀﾞﾑｴﾋﾟｵﾝ,ガンダムエピオン,Gundam Epyon,,12,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: ガンダムエピオン = Gundam Epyon
+165,ｶﾞﾝﾀﾞﾑｴﾋﾟｵﾝ･ﾊﾞ-ﾄﾞ形態,ガンダムエピオン・バード形態,Gundam Epyon (MA Mode),Epyon (MA Mode),15,New Mobile Report Gundam Wing,official,literal,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E03: MA Mode (sitio oficial de Gundam)"
+166,ﾄ-ﾙｷﾞｽ,トールギス,Tallgeese,,9,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: トールギス = Tallgeese
+167,ﾄ-ﾙｷﾞｽﾚﾟ,トールギスⅡ,Tallgeese II,,12,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: トールギスII = Tallgeese II
+168,ﾄ-ﾙｷﾞｽﾛﾟ,トールギスⅢ,Tallgeese III,,13,New Mobile Report Gundam Wing: Endless Waltz,official,Gundam-EN,glossary: トールギスIII = Tallgeese III
+169,ﾘ-ｵ-,リーオー,Leo,,3,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: リーオー = Leo
+170,ｴｱﾘ-ｽﾞ,エアリーズ,Aries,,5,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: エアリーズ = Aries
+171,ｳﾞｧｲｴｲﾄ,ヴァイエイト,Vayeate,,7,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: ヴァイエイト = Vayeate
+172,ﾒﾘｸﾘｳｽ,メリクリウス,Mercurius,,9,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: メリクリウス = Mercurius
+173,ﾄ-ﾗｽ,トーラス,Taurus,,6,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: トーラス = Taurus
+174,ﾄ-ﾗｽ･飛行形態,トーラス・飛行形態,Taurus (Flight Mode),,20,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: トーラス = Taurus
+175,ﾄ-ﾗｽ(MD),トーラス(MD),Taurus (MD),,11,New Mobile Report Gundam Wing,official,Gundam-EN,MD = Mobile Doll | glossary: トーラス = Taurus
+176,ﾄ-ﾗｽ(MD)･飛行形態,トーラス(MD)・飛行形態,Taurus (MD) (Flight Mode),Taurus (MD) Flight,18,New Mobile Report Gundam Wing,official,Gundam-EN,glossary: トーラス = Taurus
+177,ﾀﾞﾝﾊﾞｲﾝ,ダンバイン,Dunbine,,7,Aura Battler Dunbine,official,Sunrise-EN,2 registros (uno es el de Tod) | glossary: ダンバイン = Dunbine; ダンバイン (トッド専用) = Dunbine (Tod)
+178,ﾀﾞﾝﾊﾞｲﾝ,ダンバイン,Dunbine,,7,Aura Battler Dunbine,official,Sunrise-EN,2 registros (uno es el de Tod) | glossary: ダンバイン = Dunbine; ダンバイン (トッド専用) = Dunbine (Tod)
+179,ﾋﾞﾙﾊﾞｲﾝ,ビルバイン,Billbine,,8,Aura Battler Dunbine,official,Sunrise-EN,2 registros (uno con camuflaje nocturno) | glossary: ビルバイン = Billbine; ビルバイン (夜間迷彩) = Billbine (Night Camo)
+180,ｳｲﾝｸﾞｷｬﾘﾊﾞ-,ウイングキャリバー,Wing Caliber,,12,Aura Battler Dunbine,fan-standard,akurasu,modo avión de Billbine; 2 registros | glossary: ビルバイン = Billbine
+181,ﾋﾞﾙﾊﾞｲﾝ,ビルバイン,Billbine,,8,Aura Battler Dunbine,official,Sunrise-EN,2 registros (uno con camuflaje nocturno) | glossary: ビルバイン = Billbine; ビルバイン (夜間迷彩) = Billbine (Night Camo)
+182,ｳｲﾝｸﾞｷｬﾘﾊﾞ-,ウイングキャリバー,Wing Caliber,,12,Aura Battler Dunbine,fan-standard,akurasu,modo avión de Billbine; 2 registros | glossary: ビルバイン = Billbine
+183,ﾎﾞﾁｭ-ﾝ,ボチューン,Botune,,6,Aura Battler Dunbine,fan-standard,akurasu,glossary: ボチューン = Botune
+184,ﾄﾞﾗﾑﾛ,ドラムロ,Drumlo,,6,Aura Battler Dunbine,fan-standard,akurasu,glossary: ドラムロ = Drumlo
+185,ﾚﾌﾟﾗｶ-ﾝ,レプラカーン,Leprechaun,,10,Aura Battler Dunbine,fan-standard,akurasu,glossary: レプラカーン = Leprechaun
+186,ﾊｲﾊﾟ-ﾚﾌﾟﾗｶ-ﾝ,ハイパーレプラカーン,Hyper Leprechaun,,16,Aura Battler Dunbine,fan-standard,akurasu,glossary: ハイパーレプラカーン = Hyper Leprechaun
+187,ﾊﾞｽﾄ-ﾙ,バストール,Bastole,,7,Aura Battler Dunbine,fan-standard,akurasu,glossary: バストール = Bastole
+188,ﾗｲﾈｯｸ,ライネック,Wryneck,,7,Aura Battler Dunbine,fan-standard,akurasu,glossary: ライネック = Wryneck
+189,ﾋﾞｱﾚｽ,ビアレス,Vierres,,7,Aura Battler Dunbine,fan-standard,akurasu,glossary: ビアレス = Vierres
+190,ﾌﾞﾌﾞﾘｨ,ブブリィ,Bubury,,6,Aura Battler Dunbine,fan-standard,akurasu,DUDA: también se ve Bubbly | glossary: ブブリィ = Bubury
+191,ｽﾞﾜｧ-ｽ,ズワァース,Zwarth,,6,Aura Battler Dunbine,fan-standard,akurasu,glossary: ズワァース = Zwarth
+192,ｽﾌﾟﾘｶﾞﾝ,スプリガン,Spriggan,,8,Aura Battler Dunbine,fan-standard,akurasu,glossary: スプリガン = Spriggan
+193,ｸﾞﾗﾝ･ｶﾞﾗﾝ,グラン・ガラン,Gran Garan,,10,Aura Battler Dunbine,fan-standard,akurasu,Akurasu: Gran-Garan | glossary: グラン・ガラン = Gran-Garan
+194,ｺﾞﾗｵﾝ,ゴラオン,Goraon,,6,Aura Battler Dunbine,fan-standard,akurasu,glossary: ゴラオン = Goraon
+195,ｳｨﾙ･ｳｨﾌﾟｽ,ウィル・ウィプス,Will Wips,,9,Aura Battler Dunbine,fan-standard,akurasu,Akurasu: Will-Wips; DUDA: fans usan también Wil Wiph | glossary: ウィル・ウィプス = Will-Wips
+196,ｹﾞｱ･ｶﾞﾘﾝｸﾞ,ゲア・ガリング,Gea Garing,,10,Aura Battler Dunbine,proposed,akurasu,Akurasu: Gyre-Garing; DUDA | glossary: ゲア・ガリング = Gyre-Garing
+197,ﾀﾞｲﾀ-ﾝ3,ダイターン3,Daitarn 3,,9,Invincible Steel Man Daitarn 3,official,Discotek-EN,glossary: ダイターン3 = Daitarn 3
+198,ﾀﾞｲﾌｧｲﾀ-,ダイファイター,Daifighter,,10,Invincible Steel Man Daitarn 3,fan-standard,akurasu,
+199,ﾀﾞｲﾀﾝｸ,ダイタンク,Daitank,,7,Invincible Steel Man Daitarn 3,fan-standard,akurasu,
+200,ﾏｯﾊｱﾀｯｶ-,マッハアタッカー,Mach Attacker,,13,Invincible Steel Man Daitarn 3,fan-standard,akurasu,glossary: マッハアタッカー = Mach Attacker
+201,量産型ﾀﾞｲﾀﾝｸ,量産型ダイタンク,Mass-Produced Daitank,,21,Invincible Steel Man Daitarn 3,fan-standard,SRW-OG-EN,"""Mass-Produced""/""MP"" = convención OG (Mass-Produced Huckebein Mk-II / MP Huckebein Mk-II) | glossary: 量産型ダイタンク = Mass Produced Daitank"
+202,量産型ﾀﾞｲﾌｧｲﾀ-,量産型ダイファイター,Mass-Produced Daifighter,MP Daifighter,13,Invincible Steel Man Daitarn 3,fan-standard,SRW-OG-EN,convención OG Mass-Produced / MP | glossary: 量産型ダイファイター = Mass Produced Daifighter
+203,ﾏｼﾞﾝｶﾞ-Z,マジンガーZ,Mazinger Z,,10,Mazinger Z,official,SRW-EN,3 registros | glossary: マジンガーZ = Mazinger Z
+204,ﾏｼﾞﾝｶﾞ-Z,マジンガーZ,Mazinger Z,,10,Mazinger Z,official,SRW-EN,3 registros | glossary: マジンガーZ = Mazinger Z
+205,ﾏｼﾞﾝｶﾞ-Z,マジンガーZ,Mazinger Z,,10,Mazinger Z,official,SRW-EN,3 registros | glossary: マジンガーZ = Mazinger Z
+206,ﾏｼﾞﾝｶｲｻﾞ-,マジンカイザー,Mazinkaiser,,11,Mazinger Z,official,SRW-EN,glossary: マジンカイザー = Mazinkaiser
+207,ﾎﾊﾞ-ﾊﾟｲﾙﾀﾞ-,ホバーパイルダー,Hover Pilder,,12,Mazinger Z,official,SRW-EN,glossary: ホバーパイルダー = Hover Pilder
+208,ｼﾞｪｯﾄﾊﾟｲﾙﾀﾞ-,ジェットパイルダー,Jet Pilder,,10,Mazinger Z,official,SRW-EN,glossary: ジェットパイルダー = Jet Pilder
+209,ｶｲｻﾞ-ﾊﾟｲﾙﾀﾞ-,カイザーパイルダー,Kaiser Pilder,,13,Mazinger Z,official,SRW-EN,"Akurasu tiene el typo ""Plider"" | glossary: カイザーパイルダー = Kaiser Plider"
+210,ｱﾌﾛﾀﾞｲA,アフロダイA,Aphrodite A,,11,Mazinger Z,official,SRW-EN,glossary: アフロダイA = Aphrodite A
+211,ﾀﾞｲｱﾅﾝA,ダイアナンA,Diana A,,7,Mazinger Z,official,SRW-EN,glossary: ダイアナンA = Diana A
+212,ﾎﾞｽﾎﾞﾛｯﾄ,ボスボロット,Boss Borot,,10,Mazinger Z,official,SRW-EN,glossary: ボスボロット = Boss Borot
+213,ｶﾞﾗﾀﾞK7,ガラダK7,Garada K7,,9,Mazinger Z,official,SRW-EN,glossary: ガラダK7 = Garada K7
+214,ﾀﾞﾌﾞﾗｽM2,ダブラスM2,Doublas M2,,10,Mazinger Z,official,SRW-EN,glossary: ダブラスM2 = Doublas M2
+215,ﾄﾛｽD7,トロスD7,Tauros D7,,9,Mazinger Z,fan-standard,akurasu,glossary: トロスD7 = Tauros D7
+216,ｱﾌﾞﾄﾞﾗU6,アブドラU6,Abdora U6,,9,Mazinger Z,fan-standard,romanization,Akurasu: Abdul U6 | glossary: アブドラU6 = Abdul U6
+217,ｸﾞﾛｯｻﾑX2,グロッサムX2,Glossam X2,,10,Mazinger Z,fan-standard,akurasu,glossary: グロッサムX2 = Glossam X2
+218,ｼﾞｪﾉｻｲﾀﾞ-F9,ジェノサイダーF9,Genocider F9,,12,Mazinger Z,fan-standard,akurasu,glossary: ジェノサイダーF9 = Genocider F9
+219,ｼﾞｪﾉﾊﾞM9,ジェノバM9,Jenova M9,,9,Mazinger Z,fan-standard,romanization,Akurasu: Jenoba M9 | glossary: ジェノバM9 = Jenoba M9
+220,ｸﾞｼｵｽﾘﾟﾛﾟ,グシオスβⅢ,Gushios Beta III,,16,Mazinger Z,fan-standard,akurasu,glifos βⅢ en ASCII; Akurasu: Goushios βIII | glossary: グシオスβIII = Goushios βIII
+221,ｼﾞｪｯﾄﾌｧｲｱ-P1,ジェットファイアーP1,Jetfire P1,,10,Mazinger Z,fan-standard,akurasu,glossary: ジェットファイアーP1 = Jetfire P1
+222,ﾊﾘﾋﾞｭ-ﾝV6,ハリビューンV6,Haribyun V6,,11,Mazinger Z,fan-standard,akurasu,glossary: ハリビューンV6 = Haribyun V6
+223,ﾌﾞ-ﾄﾞ,ブード,Budo,,4,Mazinger Z,fan-standard,akurasu,Sea Fortress Budo (el juego omite 海底要塞) | glossary: 海底要塞ブード = Sea Fortress Budo
+224,ｸﾞ-ﾙ,グール,Ghoul,,5,Mazinger Z,official,SRW-EN,Flying Fortress Ghoul (el juego omite 飛行要塞) | glossary: 飛行要塞グール = Flying Fortress Ghoul
+225,ｸﾞﾚ-ﾄﾏｼﾞﾝｶﾞ-,グレートマジンガー,Great Mazinger,,14,Great Mazinger,official,SRW-EN,glossary: グレートマジンガー = Great Mazinger
+226,ﾌﾞﾚ-ﾝｺﾝﾄﾞﾙ,ブレーンコンドル,Brain Condor,,12,Great Mazinger,official,SRW-EN,glossary: ブレーンコンドル = Brain Condor
+227,ﾋﾞｭ-ﾅｽA,ビューナスA,Venus A,,7,Great Mazinger,official,SRW-EN,glossary: ビューナスA = Venus A
+228,ｸｲﾝｽﾀ-,クインスター,Queen Star,,10,Great Mazinger,fan-standard,akurasu,glossary: クインスター = Queen Star
+229,ｵﾍﾞﾘｳｽ,オベリウス,Oberius,,7,Great Mazinger,fan-standard,akurasu,Battle Beast (el juego omite 戦闘獣) | glossary: 戦闘獣オベリウス = Battle Beast Oberius
+230,ｽﾞｶﾞ-ﾙ,ズガール,Zugal,,5,Great Mazinger,proposed,romanization,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E09: Zugal (glosario: Battle Beast Zugal)"
+231,ｱﾙｿｽ,アルソス,Arsos,,5,Mazinger Movie Series,fan-standard,akurasu,glossary: アルソス = Arsos
+232,ﾀﾞﾝﾃ,ダンテ,Dante,,5,Mazinger Movie Series,fan-standard,akurasu,glossary: 戦闘獣ダンテ = Battle Beast Dante
+233,ｼﾞｬﾗｶﾞ,ジャラガ,Jaraga,,6,Mazinger Movie Series,fan-standard,akurasu,glossary: ジャラガ = Jaraga
+234,暗黒大将軍,暗黒大将軍,Great General of Darkness,Dark Great General,18,Great Mazinger,fan-standard,akurasu,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), D13: corta Dark Great General (18 B)"
+235,ﾐｹﾛｽ,ミケロス,Mikeros,,7,Great Mazinger,fan-standard,akurasu,glossary: 万能要塞ミケロス = Omnipotent Fortress Mikeros
+236,量産型ｸﾞﾚ-ﾄﾏｼﾞﾝｶﾞ-,量産型グレートマジンガー,Mass-Produced Great Mazinger,MP Great Mazinger,17,Great Mazinger,fan-standard,SRW-OG-EN,convención OG Mass-Produced / MP | glossary: 量産型グレートマジンガー = Mass Produced Great Mazinger
+237,ｷﾞﾙｷﾞﾙｶﾞﾝ,ギルギルガン,Gilgilgan,,9,Mazinger Movie Series,fan-standard,akurasu,glossary: ギルギルガン (第3形態) = Gilgilgan (Form 3)
+238,ﾒｶｷﾞﾙｷﾞﾙｶﾞﾝ,メカギルギルガン,Mecha Gilgilgan,,15,Mazinger Movie Series,fan-standard,akurasu,glossary: メカギルギルガン = Mecha Gilgilgan
+239,ﾄﾞﾗｺﾞﾉｻﾞｳﾙｽ,ドラゴノザウルス,Dragonosaurus,,13,Mazinger Movie Series,fan-standard,romanization,Akurasu: Dragonsaurus | glossary: ドラゴノザウルス = Dragonsaurus
+240,ﾋﾟｸﾄﾞﾛﾝ,ピクドロン,Pikudron,,8,Mazinger Movie Series,proposed,romanization,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E10: grafía del juego (ﾋﾟｸﾄﾞﾛﾝ); glosario: Lightwave Beast Pikudron"
+241,ｹﾞｯﾀ-1,ゲッター1,Getter 1,,8,Getter Robo,fan-standard,akurasu,2 registros | glossary: ゲッター1 = Getter 1
+242,ｹﾞｯﾀ-2,ゲッター2,Getter 2,,8,Getter Robo,fan-standard,akurasu,glossary: ゲッター2 = Getter 2
+243,ｹﾞｯﾀ-3,ゲッター3,Getter 3,,8,Getter Robo,fan-standard,akurasu,glossary: ゲッター3 = Getter 3
+244,ｲ-ｸﾞﾙ号,イーグル号,Eagle,,5,Getter Robo,fan-standard,akurasu,glossary: イーグル号 = Eagle
+245,ｼﾞｬｶﾞ-号,ジャガー号,Jaguar,,6,Getter Robo,fan-standard,akurasu,glossary: ジャガー号 = Jaguar
+246,ﾍﾞｱ-号,ベアー号,Bear,,4,Getter Robo,fan-standard,akurasu,glossary: ベアー号 = Bear
+247,ｹﾞｯﾀ-ﾄﾞﾗｺﾞﾝ,ゲッタードラゴン,Getter Dragon,,13,Getter Robo G,fan-standard,akurasu,glossary: ゲッタードラゴン = Getter Dragon
+248,ｹﾞｯﾀ-ﾗｲｶﾞ-,ゲッターライガー,Getter Liger,,12,Getter Robo G,fan-standard,akurasu,glossary: ゲッターライガー = Getter Liger
+249,ｹﾞｯﾀ-ﾎﾟｾｲﾄﾞﾝ,ゲッターポセイドン,Getter Poseidon,,15,Getter Robo G,fan-standard,akurasu,glossary: ゲッターポセイドン = Getter Poseidon
+250,ﾄﾞﾗｺﾞﾝ号,ドラゴン号,Dragon,,6,Getter Robo G,fan-standard,akurasu,glossary: ドラゴン号 = Dragon
+251,ﾗｲｶﾞ-号,ライガー号,Liger,,5,Getter Robo G,fan-standard,akurasu,glossary: ライガー号 = Liger
+252,ﾎﾟｾｲﾄﾞﾝ号,ポセイドン号,Poseidon,,8,Getter Robo G,fan-standard,akurasu,glossary: ポセイドン号 = Poseidon
+253,真･ｹﾞｯﾀ-1,真・ゲッター1,Shin Getter 1,,13,Shin Getter Robo (Manga),fan-standard,akurasu,glossary: 真ゲッター1 = Shin Getter 1
+254,真･ｹﾞｯﾀ-2,真・ゲッター2,Shin Getter 2,,13,Shin Getter Robo (Manga),fan-standard,akurasu,glossary: 真ゲッター2 = Shin Getter 2
+255,真･ｹﾞｯﾀ-3,真・ゲッター3,Shin Getter 3,,13,Shin Getter Robo (Manga),fan-standard,akurasu,glossary: 真ゲッター3 = Shin Getter 3
+256,真･ｲ-ｸﾞﾙ号,真・イーグル号,Shin Eagle,,10,Shin Getter Robo (Manga),fan-standard,akurasu,glossary: 真イーグル号 = Shin Eagle
+257,真･ｼﾞｬｶﾞ-号,真・ジャガー号,Shin Jaguar,,11,Shin Getter Robo (Manga),fan-standard,akurasu,glossary: 真ジャガー号 = Shin Jaguar
+258,真･ﾍﾞｱ-号,真・ベアー号,Shin Bear,,9,Shin Getter Robo (Manga),fan-standard,akurasu,glossary: 真ベアー号 = Shin Bear
+259,量産型ｹﾞｯﾀ-ﾄﾞﾗｺﾞﾝ,量産型ゲッタードラゴン,Mass-Produced Getter Dragon,MP Getter Dragon,16,Getter Robo G,fan-standard,SRW-OG-EN,convención OG Mass-Produced / MP | glossary: 量産型ゲッタードラゴン = Mass Produced Getter Dragon
+260,ｹﾞｯﾀ-1,ゲッター1,Getter 1,,8,Getter Robo,fan-standard,akurasu,2 registros | glossary: ゲッター1 = Getter 1
+261,ﾃｷｻｽﾏｯｸ,テキサスマック,Texas Mack,,10,Getter Robo,fan-standard,akurasu,glossary: テキサスマック = Texas Mack
+262,ﾀﾞｲ,ダイ,Dai,,3,Getter Robo,fan-standard,akurasu,Invincible Battleship Dai | glossary: 無敵戦艦ダイ = Mechasaurus Dai
+263,ｻｷ,サキ,Saki,,4,Getter Robo,fan-standard,akurasu,glossary: サキ = Saki
+264,ｾﾞﾝﾚﾟ,ゼンⅡ,Zen II,,6,Getter Robo,fan-standard,akurasu,glossary: ゼン2号 = Zen II
+265,ｻﾞｲ,ザイ,Zai,,3,Getter Robo,fan-standard,akurasu,glossary: ザイ = Zai
+266,ｽﾞ-,ズー,Zuu,,3,Getter Robo,fan-standard,akurasu,glossary: ズー = Zuu
+267,ﾊﾞﾄﾞ,バド,Bado,,4,Getter Robo,fan-standard,akurasu,glossary: バド = Bado
+268,ｺﾝ･ﾊﾞﾄﾗ-V,コン・バトラーV,Combattler V,,12,Super Electromagnetic Robo Combattler V,official,SRW-EN,2 registros | glossary: コン・バトラーV = Combattler V
+269,ｺﾝ･ﾊﾞﾄﾗ-V,コン・バトラーV,Combattler V,,12,Super Electromagnetic Robo Combattler V,official,SRW-EN,2 registros | glossary: コン・バトラーV = Combattler V
+270,ﾊﾞﾄﾙｼﾞｪｯﾄ,バトルジェット,Battle Jet,,10,Super Electromagnetic Robo Combattler V,official,SRW-EN,glossary: バトルジェット = Battle Jet
+271,ﾊﾞﾄﾙｸﾗｯｼｬ-,バトルクラッシャー,Battle Crasher,,14,Super Electromagnetic Robo Combattler V,official,SRW-EN,glossary: バトルクラッシャー = Battle Crasher
+272,ﾊﾞﾄﾙﾀﾝｸ,バトルタンク,Battle Tank,,11,Super Electromagnetic Robo Combattler V,official,SRW-EN,glossary: バトルタンク = Battle Tank
+273,ﾊﾞﾄﾙﾏﾘﾝ,バトルマリン,Battle Marine,,13,Super Electromagnetic Robo Combattler V,official,SRW-EN,glossary: バトルマリン = Battle Marine
+274,ﾊﾞﾄﾙｸﾗﾌﾄ,バトルクラフト,Battle Craft,,12,Super Electromagnetic Robo Combattler V,official,SRW-EN,glossary: バトルクラフト = Battle Craft
+275,ﾋﾞｯｸﾞｶﾞﾙ-ﾀﾞ,ビッグガルーダ,Big Garuda,,10,Super Electromagnetic Robo Combattler V,fan-standard,akurasu,glossary: ビッグガルーダ = Big Garuda
+276,ｵﾚｱﾅ,オレアナ,Oreana,,6,Super Electromagnetic Robo Combattler V,fan-standard,akurasu,glossary: オレアナ = Oreana
+277,ｶﾞﾙﾑｽ,ガルムス,Galmus,,6,Super Electromagnetic Robo Combattler V,fan-standard,akurasu,glossary: ガルムス = Galmus
+278,ﾃﾞﾓﾝ,デモン,Demon,,5,Super Electromagnetic Robo Combattler V,fan-standard,akurasu,glossary: デモン = Demon
+279,ｸﾞﾚｲﾄﾞﾝ,グレイドン,Graydon,,7,Super Electromagnetic Robo Combattler V,fan-standard,akurasu,glossary: グレイドン = Graydon
+280,ﾎﾞﾙﾃｽﾖﾟ,ボルテスⅤ,Voltes V,,8,Super Electromagnetic Machine Voltes V,official,VoltesV-EN,glifo Ⅴ en ASCII; 2 registros | glossary: ボルテスV = Voltes V
+281,ﾎﾞﾙﾃｽﾖﾟ,ボルテスⅤ,Voltes V,,8,Super Electromagnetic Machine Voltes V,official,VoltesV-EN,glifo Ⅴ en ASCII; 2 registros | glossary: ボルテスV = Voltes V
+282,ﾎﾞﾙﾄ･ｸﾙ-ｻﾞ-,ボルト・クルーザー,Volt Cruiser,,12,Super Electromagnetic Machine Voltes V,official,VoltesV-EN,glossary: ボルト・クルーザー = Volt Cruiser
+283,ﾎﾞﾙﾄ･ﾎﾞﾝﾊﾞ-,ボルト・ボンバー,Volt Bomber,,11,Super Electromagnetic Machine Voltes V,official,VoltesV-EN,glossary: ボルト・ボンバー = Volt Bomber
+284,ﾎﾞﾙﾄ･ﾊﾟﾝｻﾞ-,ボルト・パンザー,Volt Panzer,,11,Super Electromagnetic Machine Voltes V,official,VoltesV-EN,glossary: ボルト・パンザー = Volt Panzer
+285,ﾎﾞﾙﾄ･ﾌﾘｹﾞ-ﾄ,ボルト・フリゲート,Volt Frigate,,12,Super Electromagnetic Machine Voltes V,official,VoltesV-EN,glossary: ボルト・フリゲート = Volt Frigate
+286,ﾎﾞﾙﾄ･ﾗﾝﾀﾞ-,ボルト・ランダー,Volt Lander,,11,Super Electromagnetic Machine Voltes V,official,VoltesV-EN,glossary: ボルト・ランダー = Volt Lander
+287,ﾎﾞｱｻﾞﾝ円盤,ボアザン円盤,Boazanian Saucer,,16,Super Electromagnetic Machine Voltes V,official,VoltesV-EN,Akurasu: Bosan Saucer; Voltes V: Legacy usa Boazan/Boazanian | glossary: ボアザン円盤 = Bosan Saucer
+288,ﾄﾞｸｶﾞｶﾞ,ドクガガ,Dokugaga,,8,Super Electromagnetic Machine Voltes V,fan-standard,akurasu,glossary: ドクガガ = Dokugaga
+289,ﾊﾞｲｻﾞﾝｶﾞ,バイザンガ,Baizanga,,8,Super Electromagnetic Machine Voltes V,fan-standard,akurasu,glossary: バイザンガ = Baizanga
+290,ﾀﾞｲﾓﾝ,ダイモン,Daimon,,6,Super Electromagnetic Machine Voltes V,fan-standard,akurasu,Armor Beastman (el juego omite 鎧獣士) | glossary: 鎧獣士ダイモン = Armor Beastman Daimon
+291,ｻｲﾓﾝ,サイモン,Saimon,,6,Super Electromagnetic Machine Voltes V,fan-standard,akurasu,glossary: 鎧獣士サイモン = Armor Beastman Saimon
+292,強力ﾅﾏｽﾞﾝｺﾞ,強力ナマズンゴ,Enhanced Namazungo,,18,Super Electromagnetic Machine Voltes V,fan-standard,akurasu,glossary: 強力ナマズンゴ = Enhanced Namazungo
+293,ｽｶ-ﾙ-ｸ,スカールーク,Skull Rook,,10,Super Electromagnetic Machine Voltes V,official,VoltesV-EN,Akurasu: Skullrook | glossary: スカールーク = Skullrook
+294,守護神ｺﾞ-ﾄﾞﾙ,守護神ゴードル,Guardian God Gordol,,19,Super Electromagnetic Machine Voltes V,official,VoltesV-EN,Akurasu: Guardian Godol | glossary: 守護神ゴードル = Guardian Godol
+295,ﾀﾞﾝｸ-ｶﾞ,ダンクーガ,Dancouga,,8,Dancouga - Super Beast Machine God,fan-standard,akurasu,"2 registros; uno puede ser el falso (偽ダンクーガ), sin marca en el nombre | glossary: ダンクーガ = Dancouga; 偽ダンクーガ = Fake Dancouga"
+296,ｲ-ｸﾞﾙﾌｧｲﾀ-N,イーグルファイターN,Eagle Fighter N,,15,Dancouga - Super Beast Machine God,fan-standard,akurasu,N/H/A = modos (normal/humanoide/animal) | glossary: イーグルファイター = Eagle Fighter
+297,ｲ-ｸﾞﾙﾌｧｲﾀ-H,イーグルファイターH,Eagle Fighter H,,15,Dancouga - Super Beast Machine God,fan-standard,akurasu,glossary: イーグルファイター = Eagle Fighter
+298,ｲ-ｸﾞﾙﾌｧｲﾀ-A,イーグルファイターA,Eagle Fighter A,,15,Dancouga - Super Beast Machine God,fan-standard,akurasu,glossary: イーグルファイター = Eagle Fighter
+299,ﾗﾝﾄﾞｸ-ｶﾞ-N,ランドクーガーN,Land Cougar N,,13,Dancouga - Super Beast Machine God,fan-standard,akurasu,glossary: ランドクーガー = Land Cougar
+300,ﾗﾝﾄﾞｸ-ｶﾞ-H,ランドクーガーH,Land Cougar H,,13,Dancouga - Super Beast Machine God,fan-standard,akurasu,glossary: ランドクーガー = Land Cougar
+301,ﾗﾝﾄﾞｸ-ｶﾞ-A,ランドクーガーA,Land Cougar A,,13,Dancouga - Super Beast Machine God,fan-standard,akurasu,glossary: ランドクーガー = Land Cougar
+302,ﾗﾝﾄﾞﾗｲｶﾞ-N,ランドライガーN,Land Liger N,,12,Dancouga - Super Beast Machine God,fan-standard,akurasu,glossary: ランドライガー = Land Liger
+303,ﾗﾝﾄﾞﾗｲｶﾞ-H,ランドライガーH,Land Liger H,,12,Dancouga - Super Beast Machine God,fan-standard,akurasu,glossary: ランドライガー = Land Liger
+304,ﾗﾝﾄﾞﾗｲｶﾞ-A,ランドライガーA,Land Liger A,,12,Dancouga - Super Beast Machine God,fan-standard,akurasu,glossary: ランドライガー = Land Liger
+305,ﾋﾞｯｸﾞﾓｽN,ビッグモスN,Big Moth N,,10,Dancouga - Super Beast Machine God,fan-standard,akurasu,glossary: ビッグモス = Big Moth
+306,ﾋﾞｯｸﾞﾓｽH,ビッグモスH,Big Moth H,,10,Dancouga - Super Beast Machine God,fan-standard,akurasu,glossary: ビッグモス = Big Moth
+307,ﾋﾞｯｸﾞﾓｽA,ビッグモスA,Big Moth A,,10,Dancouga - Super Beast Machine God,fan-standard,akurasu,glossary: ビッグモス = Big Moth
+308,ﾀﾞﾝｸ-ｶﾞ,ダンクーガ,Dancouga,,8,Dancouga - Super Beast Machine God,fan-standard,akurasu,"2 registros; uno puede ser el falso (偽ダンクーガ), sin marca en el nombre | glossary: ダンクーガ = Dancouga; 偽ダンクーガ = Fake Dancouga"
+309,ﾌﾞﾗｯｸｳｲﾝｸﾞN,ブラックウイングN,Black Wing N,,12,Dancouga - Super Beast Machine God,fan-standard,akurasu,glossary: ブラックウイング = Black Wing
+310,ﾌﾞﾗｯｸｳｲﾝｸﾞH,ブラックウイングH,Black Wing H,,12,Dancouga - Super Beast Machine God,fan-standard,akurasu,glossary: ブラックウイング = Black Wing
+311,EVA初号機,EVA初号機,Evangelion Unit-01,,18,Neon Genesis Evangelion,official,Eva-EN,3 registros | glossary: EVA初号機 = EVA-01; EVA初号機 (暴走) = EVA-01 (Berserk)
+312,EVA初号機,EVA初号機,Evangelion Unit-01,,18,Neon Genesis Evangelion,official,Eva-EN,3 registros | glossary: EVA初号機 = EVA-01; EVA初号機 (暴走) = EVA-01 (Berserk)
+313,EVA初号機,EVA初号機,Evangelion Unit-01,,18,Neon Genesis Evangelion,official,Eva-EN,3 registros | glossary: EVA初号機 = EVA-01; EVA初号機 (暴走) = EVA-01 (Berserk)
+314,EVA初号機(暴走),EVA初号機(暴走),EVA Unit-01 (Berserk),,21,Neon Genesis Evangelion,official,Eva-EN,glossary: EVA初号機 = EVA-01; EVA初号機 (暴走) = EVA-01 (Berserk)
+315,EVA零号機,EVA零号機,Evangelion Unit-00,,18,Neon Genesis Evangelion,official,Eva-EN,glossary: EVA零号機 = EVA-00
+316,EVA零号機･改,EVA零号機・改,Evangelion Unit-00 Kai,EVA Unit-00 Kai,15,Neon Genesis Evangelion,fan-standard,SRW-EN,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), E04: Kai; 2 registros"
+317,EVA零号機･改,EVA零号機・改,Evangelion Unit-00 Kai,EVA Unit-00 Kai,15,Neon Genesis Evangelion,fan-standard,SRW-EN,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), E04: Kai; 2 registros"
+318,EVA弐号機,EVA弐号機,Evangelion Unit-02,,18,Neon Genesis Evangelion,official,Eva-EN,2 registros | glossary: EVA弐号機 = EVA-02
+319,EVA弐号機,EVA弐号機,Evangelion Unit-02,,18,Neon Genesis Evangelion,official,Eva-EN,2 registros | glossary: EVA弐号機 = EVA-02
+320,EVA3号機,EVA3号機,Evangelion Unit-03,,18,Neon Genesis Evangelion,official,Eva-EN,glossary: EVA3号機 = EVA-03
+321,第3使徒ｻｷｴﾙ,第3使徒サキエル,3rd Angel Sachiel,,17,Neon Genesis Evangelion,official,Eva-EN,2 registros | glossary: 第3使徒サキエル = 3rd Angel Sachiel
+322,第3使徒ｻｷｴﾙ,第3使徒サキエル,3rd Angel Sachiel,,17,Neon Genesis Evangelion,official,Eva-EN,2 registros | glossary: 第3使徒サキエル = 3rd Angel Sachiel
+323,第4使徒ｼｬﾑｼｪﾙ,第4使徒シャムシェル,4th Angel Shamshel,,18,Neon Genesis Evangelion,official,Eva-EN,glossary: 第4使徒シャムシェル = 4th Angel Shamshel
+324,第5使徒ﾗﾐｴﾙ,第5使徒ラミエル,5th Angel Ramiel,,16,Neon Genesis Evangelion,official,Eva-EN,glossary: 第5使徒ラミエル = 5th Angel Ramiel
+325,第6使徒ｶﾞｷﾞｴﾙ,第6使徒ガギエル,6th Angel Gaghiel,,17,Neon Genesis Evangelion,official,Eva-EN,glossary: 第6使徒ガギエル = 6th Angel Gaghiel
+326,第7使徒ｲｽﾗﾌｪﾙ,第7使徒イスラフェル,7th Angel Israfel,,17,Neon Genesis Evangelion,official,Eva-EN,glossary: 第7使徒イスラフェル = 7th Angel Israfel
+327,第7使徒ｲｽﾗﾌｪﾙ･甲,第7使徒イスラフェル・甲,7th Angel Israfel A,,19,Neon Genesis Evangelion,proposed,Eva-EN,甲/乙 = mitades A/B | glossary: 第7使徒イスラフェル = 7th Angel Israfel
+328,第7使徒ｲｽﾗﾌｪﾙ･乙,第7使徒イスラフェル・乙,7th Angel Israfel B,,19,Neon Genesis Evangelion,proposed,Eva-EN,glossary: 第7使徒イスラフェル = 7th Angel Israfel
+329,第9使徒ﾏﾄﾘｴﾙ,第9使徒マトリエル,9th Angel Matarael,,18,Neon Genesis Evangelion,official,Eva-EN,glossary: 第9使徒マトリエル = 9th Angel Matarael
+330,第13使徒ﾊﾞﾙﾃﾞｨｴﾙ,第13使徒バルディエル,13th Angel Bardiel,,18,Neon Genesis Evangelion,official,Eva-EN,glossary: 第13使徒バルディエル = 13th Angel Bardiel
+331,第14使徒ｾﾞﾙｴﾙ,第14使徒ゼルエル,14th Angel Zeruel,,17,Neon Genesis Evangelion,official,Eva-EN,glossary: 第14使徒ゼルエル = 14th Angel Zeruel
+332,渚ｶｦﾙ,渚カヲル,Kaworu Nagisa,,13,Neon Genesis Evangelion,official,Eva-EN,orden occidental (Akurasu: Nagisa Kaworu) | glossary: 渚カヲル = Nagisa Kaworu
+333,EVA量産機,EVA量産機,Mass Production Evangelion,Mass Production EVA,19,Neon Genesis Evangelion: The End of Evangelion,official,Eva-EN,"2 registros; decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D14: piloto también ""Mass Production EVA"""
+334,EVA量産機,EVA量産機,Mass Production Evangelion,Mass Production EVA,19,Neon Genesis Evangelion: The End of Evangelion,official,Eva-EN,"2 registros; decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D14: piloto también ""Mass Production EVA"""
+335,RX-7ﾅｳｼｶ,RX-7ナウシカ,RX-7 Nausicaa,,13,Aim for the Top! Gunbuster,fan-standard,akurasu,glossary: RX-7ナウシカ = RX-7 Nausicaa
+336,RX-7ｼﾞｾﾞﾙ,RX-7ジゼル,RX-7 Giselle,,12,Aim for the Top! Gunbuster,proposed,romanization,Akurasu: Gazelle (ジゼル = Giselle) | glossary: RX-7ジゼル = RX-7 Gazelle
+337,RX-7ﾐ-ｼｬ,RX-7ミーシャ,RX-7 Mischa,,11,Aim for the Top! Gunbuster,fan-standard,akurasu,glossary: RX-7ミーシャ = RX-7 Mischa
+338,ｶﾞﾝﾊﾞｽﾀ-,ガンバスター,Gunbuster,,9,Aim for the Top! Gunbuster,official,Discotek-EN,2 registros | glossary: ガンバスター = Gunbuster
+339,ｶﾞﾝﾊﾞｽﾀ-,ガンバスター,Gunbuster,,9,Aim for the Top! Gunbuster,official,Discotek-EN,2 registros | glossary: ガンバスター = Gunbuster
+340,ﾊﾞｽﾀ-ﾏｼﾝ1号,バスターマシン1号,Buster Machine No.1,,19,Aim for the Top! Gunbuster,official,Discotek-EN,glossary: バスターマシン1号 = Buster Machine 1
+341,ﾊﾞｽﾀ-ﾏｼﾝ2号,バスターマシン2号,Buster Machine No.2,,19,Aim for the Top! Gunbuster,official,Discotek-EN,glossary: バスターマシン2号 = Buster Machine 2
+342,ﾏﾟｸｾﾘｦﾝ,ヱクセリヲン,Exelion,,7,Aim for the Top! Gunbuster,official,Discotek-EN,glifo ヱ reemplazado por ASCII | glossary: ヱクセリヲン = Exelion
+343,宇宙怪獣･高速型,宇宙怪獣・高速型,Space Monster Fast,,18,Aim for the Top! Gunbuster,proposed,Discotek-EN,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D15: patrón único Space Monster X"
+344,宇宙怪獣･上陸艇,宇宙怪獣・上陸艇,Space Monster Lander,,20,Aim for the Top! Gunbuster,proposed,Discotek-EN,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D15"
+345,宇宙怪獣･混合型,宇宙怪獣・混合型,Space Monster Mixed,,19,Aim for the Top! Gunbuster,proposed,Discotek-EN,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D15"
+346,ｼｽﾞﾗ-黒,シズラー黒,Sizzler Black,,13,Aim for the Top! Gunbuster,fan-standard,akurasu,glossary: シズラー黒 = Sizzler Black
+347,宇宙怪獣･兵隊,宇宙怪獣・兵隊,Space Monster Troop,,19,Aim for the Top! Gunbuster,proposed,Discotek-EN,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D15"
+348,宇宙怪獣･合体怪獣,宇宙怪獣・合体怪獣,Space Monster Fused,,19,Aim for the Top! Gunbuster,proposed,Discotek-EN,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D15"
+349,ﾏｸﾛｽ,マクロス,SDF-1 Macross,,13,Super Dimensional Fortress Macross,official,Macross-EN,4 registros | glossary: マクロス = Macross
+350,ﾏｸﾛｽ,マクロス,SDF-1 Macross,,13,Super Dimensional Fortress Macross,official,Macross-EN,4 registros | glossary: マクロス = Macross
+351,ﾏｸﾛｽ,マクロス,SDF-1 Macross,,13,Super Dimensional Fortress Macross,official,Macross-EN,4 registros | glossary: マクロス = Macross
+352,ﾏｸﾛｽ,マクロス,SDF-1 Macross,,13,Super Dimensional Fortress Macross,official,Macross-EN,4 registros | glossary: マクロス = Macross
+353,VF-1Aﾌｧｲﾀ-,VF-1Aファイター,VF-1A Fighter,,13,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,3 registros (Hikaru/Max/Kakizaki) | glossary: VF-1A バルキリー (輝用) = VF-1A Valkyrie (Hikaru); VF-1A バルキリー (マックス用) = VF-1A Valkyrie (Max); VF-1A バルキリー (柿崎用) = VF-1A Valkyrie (Kakizaki)
+354,VF-1Aｶﾞｳｫ-ｸ,VF-1Aガウォーク,VF-1A GERWALK,,13,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1A バルキリー (輝用) = VF-1A Valkyrie (Hikaru); VF-1A バルキリー (マックス用) = VF-1A Valkyrie (Max); VF-1A バルキリー (柿崎用) = VF-1A Valkyrie (Kakizaki)
+355,VF-1Aﾊﾞﾄﾛｲﾄﾞ,VF-1Aバトロイド,VF-1A Battroid,,14,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1A バルキリー (輝用) = VF-1A Valkyrie (Hikaru); VF-1A バルキリー (マックス用) = VF-1A Valkyrie (Max); VF-1A バルキリー (柿崎用) = VF-1A Valkyrie (Kakizaki)
+356,VF-1A(S)ﾌｧｲﾀ-,VF-1A(S)ファイター,VF-1A Super Fighter,,19,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,(S) = Super pack | glossary: VF-1A スーパーバルキリー (輝用) = VF-1A Super Valkyrie (Hikaru); VF-1A スーパーバルキリー (マックス用) = VF-1A Super Valkyrie (Max); VF-1A スーパーバルキリー (柿崎用) = VF-1A Super Valkyrie (Kakizaki)
+357,VF-1A(S)ｶﾞｳｫ-ｸ,VF-1A(S)ガウォーク,VF-1A Super GERWALK,,19,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1A スーパーバルキリー (輝用) = VF-1A Super Valkyrie (Hikaru); VF-1A スーパーバルキリー (マックス用) = VF-1A Super Valkyrie (Max); VF-1A スーパーバルキリー (柿崎用) = VF-1A Super Valkyrie (Kakizaki)
+358,VF-1A(S)ﾊﾞﾄﾛｲﾄﾞ,VF-1A(S)バトロイド,VF-1A Super Battroid,,20,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1A スーパーバルキリー (輝用) = VF-1A Super Valkyrie (Hikaru); VF-1A スーパーバルキリー (マックス用) = VF-1A Super Valkyrie (Max); VF-1A スーパーバルキリー (柿崎用) = VF-1A Super Valkyrie (Kakizaki)
+359,VF-1Aﾌｧｲﾀ-,VF-1Aファイター,VF-1A Fighter,,13,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,3 registros (Hikaru/Max/Kakizaki) | glossary: VF-1A バルキリー (輝用) = VF-1A Valkyrie (Hikaru); VF-1A バルキリー (マックス用) = VF-1A Valkyrie (Max); VF-1A バルキリー (柿崎用) = VF-1A Valkyrie (Kakizaki)
+360,VF-1Aｶﾞｳｫ-ｸ,VF-1Aガウォーク,VF-1A GERWALK,,13,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1A バルキリー (輝用) = VF-1A Valkyrie (Hikaru); VF-1A バルキリー (マックス用) = VF-1A Valkyrie (Max); VF-1A バルキリー (柿崎用) = VF-1A Valkyrie (Kakizaki)
+361,VF-1Aﾊﾞﾄﾛｲﾄﾞ,VF-1Aバトロイド,VF-1A Battroid,,14,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1A バルキリー (輝用) = VF-1A Valkyrie (Hikaru); VF-1A バルキリー (マックス用) = VF-1A Valkyrie (Max); VF-1A バルキリー (柿崎用) = VF-1A Valkyrie (Kakizaki)
+362,VF-1A(S)ﾌｧｲﾀ-,VF-1A(S)ファイター,VF-1A Super Fighter,,19,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,(S) = Super pack | glossary: VF-1A スーパーバルキリー (輝用) = VF-1A Super Valkyrie (Hikaru); VF-1A スーパーバルキリー (マックス用) = VF-1A Super Valkyrie (Max); VF-1A スーパーバルキリー (柿崎用) = VF-1A Super Valkyrie (Kakizaki)
+363,VF-1A(S)ｶﾞｳｫ-ｸ,VF-1A(S)ガウォーク,VF-1A Super GERWALK,,19,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1A スーパーバルキリー (輝用) = VF-1A Super Valkyrie (Hikaru); VF-1A スーパーバルキリー (マックス用) = VF-1A Super Valkyrie (Max); VF-1A スーパーバルキリー (柿崎用) = VF-1A Super Valkyrie (Kakizaki)
+364,VF-1A(S)ﾊﾞﾄﾛｲﾄﾞ,VF-1A(S)バトロイド,VF-1A Super Battroid,,20,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1A スーパーバルキリー (輝用) = VF-1A Super Valkyrie (Hikaru); VF-1A スーパーバルキリー (マックス用) = VF-1A Super Valkyrie (Max); VF-1A スーパーバルキリー (柿崎用) = VF-1A Super Valkyrie (Kakizaki)
+365,VF-1Jﾊﾞﾙｷﾘ-F,VF-1JバルキリーF,VF-1J Valkyrie F,,16,Super Dimensional Fortress Macross,official,Macross-EN,F/G/B = Fighter/GERWALK/Battroid (serie TV); 3 registros | glossary: VF-1J バルキリー = VF-1J Valkyrie
+366,VF-1Jﾊﾞﾙｷﾘ-G,VF-1JバルキリーG,VF-1J Valkyrie G,,16,Super Dimensional Fortress Macross,official,Macross-EN,glossary: VF-1J バルキリー = VF-1J Valkyrie
+367,VF-1Jﾊﾞﾙｷﾘ-B,VF-1JバルキリーB,VF-1J Valkyrie B,,16,Super Dimensional Fortress Macross,official,Macross-EN,glossary: VF-1J バルキリー = VF-1J Valkyrie
+368,VF-1Jｱ-ﾏ-ﾄﾞﾊﾞﾙｷﾘ-,VF-1Jアーマードバルキリー,VF-1J Armored Valkyrie,VF-1J Armored,13,Super Dimensional Fortress Macross,official,Macross-EN,forma corta VF-1J Armored: decisión del mantenedor 2026-09-28 (#42) | glossary: VF-1J アーマードバルキリー = VF-1J Armored Valkyrie
+369,VF-1Aﾌｧｲﾀ-,VF-1Aファイター,VF-1A Fighter,,13,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,3 registros (Hikaru/Max/Kakizaki) | glossary: VF-1A バルキリー (輝用) = VF-1A Valkyrie (Hikaru); VF-1A バルキリー (マックス用) = VF-1A Valkyrie (Max); VF-1A バルキリー (柿崎用) = VF-1A Valkyrie (Kakizaki)
+370,VF-1Aｶﾞｳｫ-ｸ,VF-1Aガウォーク,VF-1A GERWALK,,13,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1A バルキリー (輝用) = VF-1A Valkyrie (Hikaru); VF-1A バルキリー (マックス用) = VF-1A Valkyrie (Max); VF-1A バルキリー (柿崎用) = VF-1A Valkyrie (Kakizaki)
+371,VF-1Aﾊﾞﾄﾛｲﾄﾞ,VF-1Aバトロイド,VF-1A Battroid,,14,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1A バルキリー (輝用) = VF-1A Valkyrie (Hikaru); VF-1A バルキリー (マックス用) = VF-1A Valkyrie (Max); VF-1A バルキリー (柿崎用) = VF-1A Valkyrie (Kakizaki)
+372,VF-1A(S)ﾌｧｲﾀ-,VF-1A(S)ファイター,VF-1A Super Fighter,,19,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,(S) = Super pack | glossary: VF-1A スーパーバルキリー (輝用) = VF-1A Super Valkyrie (Hikaru); VF-1A スーパーバルキリー (マックス用) = VF-1A Super Valkyrie (Max); VF-1A スーパーバルキリー (柿崎用) = VF-1A Super Valkyrie (Kakizaki)
+373,VF-1A(S)ｶﾞｳｫ-ｸ,VF-1A(S)ガウォーク,VF-1A Super GERWALK,,19,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1A スーパーバルキリー (輝用) = VF-1A Super Valkyrie (Hikaru); VF-1A スーパーバルキリー (マックス用) = VF-1A Super Valkyrie (Max); VF-1A スーパーバルキリー (柿崎用) = VF-1A Super Valkyrie (Kakizaki)
+374,VF-1A(S)ﾊﾞﾄﾛｲﾄﾞ,VF-1A(S)バトロイド,VF-1A Super Battroid,,20,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1A スーパーバルキリー (輝用) = VF-1A Super Valkyrie (Hikaru); VF-1A スーパーバルキリー (マックス用) = VF-1A Super Valkyrie (Max); VF-1A スーパーバルキリー (柿崎用) = VF-1A Super Valkyrie (Kakizaki)
+375,VF-1Sﾌｧｲﾀ-,VF-1Sファイター,VF-1S Fighter,,13,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,2 registros | glossary: VF-1S バルキリー = VF-1S Valkyrie
+376,VF-1Sｶﾞｳｫ-ｸ,VF-1Sガウォーク,VF-1S GERWALK,,13,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1S バルキリー = VF-1S Valkyrie
+377,VF-1Sﾊﾞﾄﾛｲﾄﾞ,VF-1Sバトロイド,VF-1S Battroid,,14,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1S バルキリー = VF-1S Valkyrie
+378,VF-1S(S)ﾌｧｲﾀ-,VF-1S(S)ファイター,VF-1S Strike Fighter,,20,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,(S) = Strike Valkyrie (Akurasu) | glossary: VF-1S ストライクバルキリー (フォッカー用) = VF-1S Strike Valkyrie (Focker); VF-1S ストライクバルキリー (輝用) = VF-1S Strike Valkyrie (Hikaru)
+379,VF-1S(S)ｶﾞｳｫ-ｸ,VF-1S(S)ガウォーク,VF-1S Strike GERWALK,,20,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1S ストライクバルキリー (フォッカー用) = VF-1S Strike Valkyrie (Focker); VF-1S ストライクバルキリー (輝用) = VF-1S Strike Valkyrie (Hikaru)
+380,VF-1S(S)ﾊﾞﾄﾛｲﾄﾞ,VF-1S(S)バトロイド,VF-1S Strike Battroid,,21,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1S ストライクバルキリー (フォッカー用) = VF-1S Strike Valkyrie (Focker); VF-1S ストライクバルキリー (輝用) = VF-1S Strike Valkyrie (Hikaru)
+381,VF-1Jﾊﾞﾙｷﾘ-F,VF-1JバルキリーF,VF-1J Valkyrie F,,16,Super Dimensional Fortress Macross,official,Macross-EN,F/G/B = Fighter/GERWALK/Battroid (serie TV); 3 registros | glossary: VF-1J バルキリー = VF-1J Valkyrie
+382,VF-1Jﾊﾞﾙｷﾘ-G,VF-1JバルキリーG,VF-1J Valkyrie G,,16,Super Dimensional Fortress Macross,official,Macross-EN,glossary: VF-1J バルキリー = VF-1J Valkyrie
+383,VF-1Jﾊﾞﾙｷﾘ-B,VF-1JバルキリーB,VF-1J Valkyrie B,,16,Super Dimensional Fortress Macross,official,Macross-EN,glossary: VF-1J バルキリー = VF-1J Valkyrie
+384,VF-1J(S)ﾌｧｲﾀ-,VF-1J(S)ファイター,VF-1J Super Fighter,,19,Super Dimensional Fortress Macross,official,Macross-EN,(S) = Super Valkyrie (Max/Milia) | glossary: VF-1J スーパーバルキリー (マックス用) = VF-1J Super Valkyrie (Max); VF-1J スーパーバルキリー (ミリア用) = VF-1J Super Valkyrie (Milla)
+385,VF-1J(S)ｶﾞｳｫ-ｸ,VF-1J(S)ガウォーク,VF-1J Super GERWALK,,19,Super Dimensional Fortress Macross,official,Macross-EN,glossary: VF-1J スーパーバルキリー (マックス用) = VF-1J Super Valkyrie (Max); VF-1J スーパーバルキリー (ミリア用) = VF-1J Super Valkyrie (Milla)
+386,VF-1J(S)ﾊﾞﾄﾛｲﾄﾞ,VF-1J(S)バトロイド,VF-1J Super Battroid,,20,Super Dimensional Fortress Macross,official,Macross-EN,glossary: VF-1J スーパーバルキリー (マックス用) = VF-1J Super Valkyrie (Max); VF-1J スーパーバルキリー (ミリア用) = VF-1J Super Valkyrie (Milla)
+387,VF-1Jﾊﾞﾙｷﾘ-F,VF-1JバルキリーF,VF-1J Valkyrie F,,16,Super Dimensional Fortress Macross,official,Macross-EN,F/G/B = Fighter/GERWALK/Battroid (serie TV); 3 registros | glossary: VF-1J バルキリー = VF-1J Valkyrie
+388,VF-1Jﾊﾞﾙｷﾘ-G,VF-1JバルキリーG,VF-1J Valkyrie G,,16,Super Dimensional Fortress Macross,official,Macross-EN,glossary: VF-1J バルキリー = VF-1J Valkyrie
+389,VF-1Jﾊﾞﾙｷﾘ-B,VF-1JバルキリーB,VF-1J Valkyrie B,,16,Super Dimensional Fortress Macross,official,Macross-EN,glossary: VF-1J バルキリー = VF-1J Valkyrie
+390,VF-1J(S)ﾌｧｲﾀ-,VF-1J(S)ファイター,VF-1J Super Fighter,,19,Super Dimensional Fortress Macross,official,Macross-EN,(S) = Super Valkyrie (Max/Milia) | glossary: VF-1J スーパーバルキリー (マックス用) = VF-1J Super Valkyrie (Max); VF-1J スーパーバルキリー (ミリア用) = VF-1J Super Valkyrie (Milla)
+391,VF-1J(S)ｶﾞｳｫ-ｸ,VF-1J(S)ガウォーク,VF-1J Super GERWALK,,19,Super Dimensional Fortress Macross,official,Macross-EN,glossary: VF-1J スーパーバルキリー (マックス用) = VF-1J Super Valkyrie (Max); VF-1J スーパーバルキリー (ミリア用) = VF-1J Super Valkyrie (Milla)
+392,VF-1J(S)ﾊﾞﾄﾛｲﾄﾞ,VF-1J(S)バトロイド,VF-1J Super Battroid,,20,Super Dimensional Fortress Macross,official,Macross-EN,glossary: VF-1J スーパーバルキリー (マックス用) = VF-1J Super Valkyrie (Max); VF-1J スーパーバルキリー (ミリア用) = VF-1J Super Valkyrie (Milla)
+393,VF-1Sﾌｧｲﾀ-,VF-1Sファイター,VF-1S Fighter,,13,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,2 registros | glossary: VF-1S バルキリー = VF-1S Valkyrie
+394,VF-1Sｶﾞｳｫ-ｸ,VF-1Sガウォーク,VF-1S GERWALK,,13,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1S バルキリー = VF-1S Valkyrie
+395,VF-1Sﾊﾞﾄﾛｲﾄﾞ,VF-1Sバトロイド,VF-1S Battroid,,14,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1S バルキリー = VF-1S Valkyrie
+396,VF-1S(S)ﾌｧｲﾀ-,VF-1S(S)ファイター,VF-1S Strike Fighter,,20,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,(S) = Strike Valkyrie (Akurasu) | glossary: VF-1S ストライクバルキリー (フォッカー用) = VF-1S Strike Valkyrie (Focker); VF-1S ストライクバルキリー (輝用) = VF-1S Strike Valkyrie (Hikaru)
+397,VF-1S(S)ｶﾞｳｫ-ｸ,VF-1S(S)ガウォーク,VF-1S Strike GERWALK,,20,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1S ストライクバルキリー (フォッカー用) = VF-1S Strike Valkyrie (Focker); VF-1S ストライクバルキリー (輝用) = VF-1S Strike Valkyrie (Hikaru)
+398,VF-1S(S)ﾊﾞﾄﾛｲﾄﾞ,VF-1S(S)バトロイド,VF-1S Strike Battroid,,21,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: VF-1S ストライクバルキリー (フォッカー用) = VF-1S Strike Valkyrie (Focker); VF-1S ストライクバルキリー (輝用) = VF-1S Strike Valkyrie (Hikaru)
+399,ﾌﾞﾘﾀｲ艦,ブリタイ艦,Nupetiet-Vergnitz,,17,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,flagship de Britai; Akurasu: Nupetiet-Vergnitzs | glossary: ブリタイ艦 = Nupetiet-Vergnitzs
+400,ｹｱﾄﾞｩﾙ･ﾏｸﾞﾄﾞﾐﾗ,ケアドゥル・マグドミラ,Queadol Magdomilla,,18,Super Dimensional Fortress Macross,official,Macross-EN,glossary: ケアドゥル・マグドミラ = Queadol-Magdomilla
+401,ｽｳﾞｧ-ﾙ･ｻﾗﾝ,スヴァール・サラン,Thuverl Salan,,13,Super Dimensional Fortress Macross,official,Macross-EN,glossary: スヴァール・サラン = Thuverl-Salan
+402,ﾎﾞﾄﾞﾙ旗艦,ボドル旗艦,Boddole Flagship,,16,Super Dimension Fortress Macross: Do You Remember Love?,proposed,literal,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C13: coherente con Golg Boddole Zer"
+403,ﾘｶﾞ-ﾄﾞ,リガード,Regult,,6,Super Dimensional Fortress Macross,official,Macross-EN,2 registros | glossary: リガード = Regult
+404,ｸﾞﾗ-ｼﾞ,グラージ,Glaug,,5,Super Dimensional Fortress Macross,official,Macross-EN,glossary: グラージ = Glaug
+405,ﾇ-ｼﾞｬﾃﾞﾙ･ｶﾞ-,ヌージャデル・ガー,Nousjadeul-Ger,,14,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,glossary: ヌージャデル・ガー = Nousjadeul-Ger
+406,ﾒﾙﾄﾗﾝﾃﾞｨ軍標準戦艦,メルトランディ軍標準戦艦,Meltrandi Battleship,,20,Super Dimension Fortress Macross: Do You Remember Love?,proposed,literal,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E06"
+407,ﾒﾙﾄﾗﾝﾃﾞｨ軍中型砲艦,メルトランディ軍中型砲艦,Meltrandi Gunboat,,17,Super Dimension Fortress Macross: Do You Remember Love?,proposed,literal,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E06"
+408,ﾗﾌﾟﾗﾐｽﾞ旗艦,ラプラミズ旗艦,Laplamiz Flagship,,17,Super Dimension Fortress Macross: Do You Remember Love?,fan-standard,akurasu,Akurasu: Flagship Lap Lamiz | glossary: ラプラミズ旗艦 = Flagship Lap Lamiz
+409,ｸｧﾄﾞﾗﾝ･ﾛ-,クァドラン・ロー,Queadluun-Rau,,13,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,3 registros (Max/Milia) | glossary: クァドラン・ロー = Queadluun-Rau; クァドラン・ロー (マックス機) = Queadluun-Rau (Max); クァドラン・ロー (ミリア機) = Queadluun-Rau (Milla)
+410,ｸｧﾄﾞﾗﾝ･ﾛ-,クァドラン・ロー,Queadluun-Rau,,13,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,3 registros (Max/Milia) | glossary: クァドラン・ロー = Queadluun-Rau; クァドラン・ロー (マックス機) = Queadluun-Rau (Max); クァドラン・ロー (ミリア機) = Queadluun-Rau (Milla)
+411,ﾋｭｯｹﾊﾞｲﾝﾔﾟﾕﾟﾚﾟ,ヒュッケバインMk-Ⅱ,Huckebein Mk-II,,15,Banpresto Originals,official,akurasu:OGs Mech Database,2 registros | glossary: ヒュッケバインMk-II = Huckebein Mk-II
+412,ﾋｭｯｹﾊﾞｲﾝﾔﾟﾕﾟﾚﾟ,ヒュッケバインMk-Ⅱ,Huckebein Mk-II,,15,Banpresto Originals,official,akurasu:OGs Mech Database,2 registros | glossary: ヒュッケバインMk-II = Huckebein Mk-II
+413,ﾋｭｯｹﾊﾞｲﾝﾔﾟﾕﾟﾛﾟ,ヒュッケバインMk-Ⅲ,Huckebein Mk-III,,16,Banpresto Originals,official,akurasu:OGs Mech Database,OGs usa Mk-III y Mk. III; se elige Mk-III (igual que Mk-II) | glossary: ヒュッケバインMk-III = Huckebein Mk-III
+414,ﾋｭｯｹﾊﾞｲﾝﾎﾞｸｻ-,ヒュッケバインボクサー,Huckebein Boxer,,15,Banpresto Originals,official,akurasu:OGs Mech Database,OGs: Huckebein Boxer Type L/R (en Alpha no hay L/R) | glossary: ヒュッケバインボクサー = Huckebein Boxer
+415,ﾋｭｯｹﾊﾞｲﾝｶﾞﾝﾅ-,ヒュッケバインガンナー,Huckebein Gunner,,16,Banpresto Originals,official,akurasu:OGs Mech Database,OGs: Huckebein Gunner Type L/R | glossary: ヒュッケバインガンナー = Huckebein Gunner
+416,ｸﾞﾙﾝｶﾞｽﾄ弐式,グルンガスト弐式,Grungust Type 2,,15,Banpresto Originals,official,akurasu:OGs Mech Database,"OGs: ""Grungust Type 2"" (sin guion); 2 registros | glossary: グルンガスト弐式 = Grungust Type-2"
+417,Gﾎ-ｸ,Gホーク,G-Hawk,,6,Banpresto Originals,official,akurasu:OGs Mech Database,modo avión de Grungust Type 2; 2 registros | glossary: グルンガスト弐式 = Grungust Type-2
+418,ｸﾞﾙﾝｶﾞｽﾄ弐式,グルンガスト弐式,Grungust Type 2,,15,Banpresto Originals,official,akurasu:OGs Mech Database,"OGs: ""Grungust Type 2"" (sin guion); 2 registros | glossary: グルンガスト弐式 = Grungust Type-2"
+419,Gﾎ-ｸ,Gホーク,G-Hawk,,6,Banpresto Originals,official,akurasu:OGs Mech Database,modo avión de Grungust Type 2; 2 registros | glossary: グルンガスト弐式 = Grungust Type-2
+420,龍虎王,龍虎王,RyuKoOh,,7,Banpresto Originals,official,akurasu:OGs Mech Database,grafía OGs (Akurasu: RyuKoOh) | glossary: 龍虎王 = Ryukooh
+421,虎龍王,虎龍王,KoRyuOh,,7,Banpresto Originals,official,akurasu:OGs Mech Database,grafía OGs | glossary: 虎龍王 = Koryuoh
+422,龍王機,龍王機,RyuOhKi,,7,Banpresto Originals,proposed,SRW-OG-EN,por analogía con RyuKoOh/KoRyuOh (no figura en las páginas OGs); Akurasu Alpha: Ryuohki; 2 registros | glossary: 龍王機 = Ryuohki
+423,虎王機,虎王機,KoOhKi,,6,Banpresto Originals,proposed,SRW-OG-EN,por analogía con RyuKoOh/KoRyuOh; Akurasu Alpha: Koohki; 2 registros | glossary: 虎王機 = Koohki
+424,SRX,SRX,SRX,,3,Super War Machine SRX,official,akurasu:OGs Mech Database,2 registros
+425,SRX,SRX,SRX,,3,Super War Machine SRX,official,akurasu:OGs Mech Database,2 registros
+426,R-1,R-1,R-1,,3,Super War Machine SRX,official,akurasu:OGs Mech Database,2 registros
+427,R-ｳｨﾝｸﾞ,R-ウィング,R-Wing,,6,Super War Machine SRX,official,SRW-OG-EN,2 registros
+428,R-1,R-1,R-1,,3,Super War Machine SRX,official,akurasu:OGs Mech Database,2 registros
+429,R-ｳｨﾝｸﾞ,R-ウィング,R-Wing,,6,Super War Machine SRX,official,SRW-OG-EN,2 registros
+430,R-2,R-2,R-2,,3,Super War Machine SRX,official,SRW-OG-EN,
+431,R-2ﾊﾟﾜ-ﾄﾞ,R-2パワード,R-2 Powered,,11,Super War Machine SRX,official,akurasu:OGs Mech Database,glossary: R-2パワード = R-2 Powered
+432,R-3,R-3,R-3,,3,Super War Machine SRX,official,SRW-OG-EN,
+433,R-3ﾊﾟﾜ-ﾄﾞ,R-3パワード,R-3 Powered,,11,Super War Machine SRX,official,akurasu:OGs Mech Database,glossary: R-3パワード = R-3 Powered
+434,R-GUNﾊﾟﾜ-ﾄﾞ,R-GUNパワード,R-GUN Powered,,13,Super War Machine SRX,official,SRW-OG-EN,2 registros | glossary: R-GUNパワード = R-GUN Powered
+435,R-GUNﾊﾟﾜ-ﾄﾞ,R-GUNパワード,R-GUN Powered,,13,Super War Machine SRX,official,SRW-OG-EN,2 registros | glossary: R-GUNパワード = R-GUN Powered
+436,ｻｲﾊﾞｽﾀ-,サイバスター,Cybuster,,8,Masoukishin: THE LORD OF THE ELEMENTAL,official,akurasu:OGs Mech Database,3 registros | glossary: サイバスター = Cybuster
+437,ｻｲﾊﾞ-ﾄﾞ,サイバード,Cybird,,6,Masoukishin: THE LORD OF THE ELEMENTAL,official,akurasu:OGs Mech Database,modo ave de Cybuster; 3 registros | glossary: サイバスター = Cybuster
+438,ｻｲﾊﾞｽﾀ-,サイバスター,Cybuster,,8,Masoukishin: THE LORD OF THE ELEMENTAL,official,akurasu:OGs Mech Database,3 registros | glossary: サイバスター = Cybuster
+439,ｻｲﾊﾞ-ﾄﾞ,サイバード,Cybird,,6,Masoukishin: THE LORD OF THE ELEMENTAL,official,akurasu:OGs Mech Database,modo ave de Cybuster; 3 registros | glossary: サイバスター = Cybuster
+440,ｻｲﾊﾞｽﾀ-,サイバスター,Cybuster,,8,Masoukishin: THE LORD OF THE ELEMENTAL,official,akurasu:OGs Mech Database,3 registros | glossary: サイバスター = Cybuster
+441,ｻｲﾊﾞ-ﾄﾞ,サイバード,Cybird,,6,Masoukishin: THE LORD OF THE ELEMENTAL,official,akurasu:OGs Mech Database,modo ave de Cybuster; 3 registros | glossary: サイバスター = Cybuster
+442,ｸﾞﾗﾝｿﾞﾝ,グランゾン,Granzon,,7,Masoukishin: THE LORD OF THE ELEMENTAL,official,akurasu:OGs Mech Database,glossary: グランゾン = Granzon
+443,ｳﾞｧﾙｼｵ-ﾈR,ヴァルシオーネR,Valsione R,,10,Masoukishin: THE LORD OF THE ELEMENTAL,official,SRW-OG-EN,OGs tiene Valsione (base); la R no figura en las páginas | glossary: ヴァルシオーネR = Valsione R
+444,ｽﾞﾌｨﾙ-ﾄﾞ,ズフィルード,Zfylud,,6,Super War Machine SRX,official,SRW-OG-EN,glossary: ズフィルード = Zfylud
+445,ｼﾞｭﾃﾞｯｶ,ジュデッカ,Judecca,,7,Super War Machine SRX,official,SRW-OG-EN,2 registros (Levi / Euzeth) | glossary: ジュデッカ (レビ用) = Judecca (Levi); ジュデッカ (ユーゼス用) = Judecca (Euzeth)
+446,ｼﾞｭﾃﾞｯｶ,ジュデッカ,Judecca,,7,Super War Machine SRX,official,SRW-OG-EN,2 registros (Levi / Euzeth) | glossary: ジュデッカ (レビ用) = Judecca (Levi); ジュデッカ (ユーゼス用) = Judecca (Euzeth)
+447,ﾍﾙﾓ-ｽﾞ,ヘルモーズ,Hermodr,,7,Super War Machine SRX,fan-standard,akurasu,DUDA: grafía OG EN no verificada | glossary: ヘルモーズ = Hermodr
+448,ｱｽﾄﾗﾅｶﾞﾝ,アストラナガン,Astranagant,,11,Super War Machine SRX,official,SRW-OG-EN,glossary: アストラナガン = Astranagant
+449,ﾒｷﾞﾛ-ﾄ,メギロート,Megillot,,8,Super War Machine SRX,fan-standard,akurasu,DUDA: OG EN podría ser Megilot | glossary: メギロート = Megillot
+450,ｾﾞｶﾘｱ,ゼカリア,Zechariah,,9,Super War Machine SRX,fan-standard,akurasu,glossary: ゼカリア = Zechariah
+451,ﾊﾊﾞｸｸ,ハバクク,Habakkuk,,8,Super War Machine SRX,fan-standard,akurasu,Akurasu: Habbakuk (typo) | glossary: ハバクク = Habbakuk
+452,ｴｾﾞｷｴﾙ,エゼキエル,Ezekiel,,7,Super War Machine SRX,fan-standard,akurasu,glossary: エゼキエル = Ezekiel
+453,ｱﾝﾃｨﾉﾗ,アンティノラ,Antenora,,8,Super War Machine SRX,fan-standard,akurasu,glossary: アンティノラ = Antenora
+454,YF-19ﾌｧｲﾀ-,YF-19ファイター,YF-19 Fighter,,13,Macross Plus,official,Macross-EN,no está en glossary.csv
+455,YF-19ｶﾞｳｫ-ｸ,YF-19ガウォーク,YF-19 GERWALK,,13,Macross Plus,official,Macross-EN,
+456,YF-19ﾊﾞﾄﾛｲﾄﾞ,YF-19バトロイド,YF-19 Battroid,,14,Macross Plus,official,Macross-EN,
+457,YF-21ﾌｧｲﾀ-,YF-21ファイター,YF-21 Fighter,,13,Macross Plus,official,Macross-EN,
+458,YF-21ｶﾞｳｫ-ｸ,YF-21ガウォーク,YF-21 GERWALK,,13,Macross Plus,official,Macross-EN,
+459,YF-21ﾊﾞﾄﾛｲﾄﾞ,YF-21バトロイド,YF-21 Battroid,,14,Macross Plus,official,Macross-EN,
+460,ﾗｲﾃﾞｨ-ﾝ,ライディーン,Raideen,,7,Brave Raideen,official,Discotek-EN,2 registros | glossary: ライディーン = Raideen
+461,ﾗｲﾃﾞｨ-ﾝ,ライディーン,Raideen,,7,Brave Raideen,official,Discotek-EN,2 registros | glossary: ライディーン = Raideen
+462,ﾌﾞﾙ-ｶﾞ-,ブルーガー,Bluegar,,7,Brave Raideen,fan-standard,akurasu,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), C12"
+463,化石獣ﾊﾞｽﾄﾄﾞﾝ,化石獣バストドン,Fossil Beast Bastodon,,21,Brave Raideen,proposed,romanization,Akurasu: Bastdon | glossary: バストドン = Bastdon
+464,ｶﾞﾝﾃ,ガンテ,Gante,,5,Brave Raideen,fan-standard,akurasu,glossary: ガンテ = Gante
+465,巨大ｼｬ-ｷﾝ,巨大シャーキン,Giant Sharkin,,13,Brave Raideen,fan-standard,akurasu,glossary: 巨大シャーキン = Giant Sharkin
+466,ﾄﾞﾛ-ﾒ,ドローメ,Drome,,5,Brave Raideen,fan-standard,akurasu,glossary: ドローメ = Drome
+467,ｼﾞｬｲｱﾝﾄ･ﾛﾎﾞ,ジャイアント・ロボ,Giant Robo,,10,Giant Robo The Animation: The Day the Earth Stood Still,official,MediaBlasters-EN,glossary: ジャイアント・ロボ = Giant Robo
+468,銀鈴ﾛﾎﾞTYPE-1,銀鈴ロボTYPE-1,Ginrei Robo Type-1,,18,Giant Robo The Animation: The Day the Earth Stood Still,fan-standard,akurasu,glossary: 銀鈴ロボTYPE-1 = Ginrei Robo Type-1
+469,銀鈴ﾛﾎﾞTYPE-2,銀鈴ロボTYPE-2,Ginrei Robo Type-2,,18,Giant Robo The Animation: The Day the Earth Stood Still,fan-standard,akurasu,glossary: 銀鈴ロボTYPE-2 = Ginrei Robo Type-2
+470,GR2,GR2,GR2,,3,Giant Robo The Animation: The Day the Earth Stood Still,official,MediaBlasters-EN,
+471,維新竜･暁,維新竜・暁,Ishinryu Akatsuki,,17,Giant Robo The Animation: The Day the Earth Stood Still,fan-standard,akurasu,glossary: 維新竜・暁 = Ishinryu Akatsuki
+472,ｳﾗｴﾇｽ,ウラエヌス,Uranus,,6,Giant Robo The Animation: The Day the Earth Stood Still,fan-standard,akurasu,glossary: ウラエヌス = Uranus
+473,衝撃のｱﾙﾍﾞﾙﾄ,衝撃のアルベルト,Shockwave Alberto,,17,Giant Robo The Animation: The Day the Earth Stood Still,fan-standard,fandom,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), D06: Shockwave Alberto también como piloto"
+474,ﾋｭｯｹﾊﾞｲﾝEX,ヒュッケバインEX,Huckebein EX,,12,Banpresto Originals,fan-standard,akurasu,glossary: ヒュッケバインEX = Huckebein EX
+475,ｸﾞﾙﾝｶﾞｽﾄ改,グルンガスト改,Grungust Kai,,12,Banpresto Originals,fan-standard,akurasu,Akurasu: Grunguest Kai (typo) | glossary: グルンガスト改 = Grunguest Kai
+476,ﾃﾞｽﾄﾛｲﾄﾞ･ﾓﾝｽﾀ-,デストロイド・モンスター,Destroid Monster,,16,Super Dimensional Fortress Macross,official,Macross-EN,glossary: デストロイド・モンスター = Destroid Monster
+477,空戦ﾎﾟｯﾄﾞ,空戦ポッド,Gnerl Fighter Pod,,17,Super Dimensional Fortress Macross,official,akurasu,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E05: ジナール空戦ポッド (Macross Mecha Manual)"
+478,ﾘｶﾞ-ﾄﾞ,リガード,Regult,,6,Super Dimensional Fortress Macross,official,Macross-EN,2 registros | glossary: リガード = Regult
+479,ｸｧﾄﾞﾗﾝ･ﾛ-,クァドラン・ロー,Queadluun-Rau,,13,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,3 registros (Max/Milia) | glossary: クァドラン・ロー = Queadluun-Rau; クァドラン・ロー (マックス機) = Queadluun-Rau (Max); クァドラン・ロー (ミリア機) = Queadluun-Rau (Milla)
+480,ｷｭﾍﾞﾚｲﾔﾟﾕﾟﾚﾟ,キュベレイMk-Ⅱ,Qubeley Mk-II,,13,Mobile Suit Gundam ZZ,official,Gundam-EN,3 registros (Puru / Puru Two) | glossary: キュベレイMk-II = Qubeley Mk-II; キュベレイMk-II (プルツー用) = Qubeley Mk-II (Ple Two)
+481,ﾄｯﾌﾟﾘﾑ,トップリム,Top Rim,,7,Mobile Suit Victory Gundam,official,literal,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E07: parte superior de la Victory Gundam (kits de Bandai); el arma ﾋﾟﾝﾎﾟｲﾝﾄﾊﾞﾘｱﾊﾟﾝﾁ es un dato raro del original"
+482,ﾎﾞﾄﾑﾘﾑ,ボトムリム,Bottom Rim,,10,Mobile Suit Victory Gundam,official,literal,"decisión 2026-09-28 (INVESTIGACION_NOMBRES ronda 2), E07: parte inferior de la Victory Gundam (kits de Bandai)"
+483,龍王機,龍王機,RyuOhKi,,7,Banpresto Originals,proposed,SRW-OG-EN,por analogía con RyuKoOh/KoRyuOh (no figura en las páginas OGs); Akurasu Alpha: Ryuohki; 2 registros | glossary: 龍王機 = Ryuohki
+484,虎王機,虎王機,KoOhKi,,6,Banpresto Originals,proposed,SRW-OG-EN,por analogía con RyuKoOh/KoRyuOh; Akurasu Alpha: Koohki; 2 registros | glossary: 虎王機 = Koohki
+485,VT-1ﾊﾞﾙｷﾘ-F,VT-1バルキリーF,VT-1 Valkyrie F,,15,Super Dimension Fortress Macross: Do You Remember Love?,official,Macross-EN,VT-1 Ostrich (biplaza) | glossary: VT-1 オストリッチ = VT-1 Ostrich

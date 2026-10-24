@@ -1,0 +1,8 @@
+# Volcados de diálogo: git guarda cada fila SIN el japonés (texto del juego, no se distribuye) y el disco la tiene
+# completa. Filtro "srwjp" = work/tools/src/kit.py clean/smudge; lo configura `kit.py restore` (kit_setup.sh).
+work/dump/script.jsonl   filter=srwjp
+work/dump/snmsg.jsonl    filter=srwjp
+work/dump/bxclist.jsonl  filter=srwjp
+work/dump/deadmess.jsonl filter=srwjp
+work/dump/em.jsonl       filter=srwjp
+work/dump/mdata.jsonl    filter=srwjp

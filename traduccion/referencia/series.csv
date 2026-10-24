@@ -1,0 +1,33 @@
+codigo,jp,en,localizacion_de_referencia,convenciones,notas
+Gundam (0079),機動戦士ガンダム,Mobile Suit Gundam,Sunrise/Bandai (romanizaciones oficiales de Gundam.info),"Zeon, Federation, White Base, Char Aznable, ""the Red Comet"", Newtype, mobile suit",Amuro llega como veterano (CCA).
+Gundam 0080,機動戦士ガンダム００８０～ポケットの中の戦争,Mobile Suit Gundam 0080: War in the Pocket,Sunrise/Bandai,"Bernie (Bernard Wiseman), Chris (Christina Mackenzie), NT-1 ""Alex""",
+Gundam 0083,機動戦士ガンダム００８３～スターダストメモリー,Mobile Suit Gundam 0083: Stardust Memory,Sunrise/Bandai,"Operation Stardust (星の屑), Delaz Fleet, ""the Nightmare of Solomon"", Konpei Island","Rangos: Burning es 大尉 → ""Lt."" en el doblaje oficial."
+Zeta Gundam,機動戦士Ｚガンダム,Mobile Suit Zeta Gundam,Sunrise/Bandai,"AEUG, Titans, Karaba, Quattro Bajeena, Dakar, Jupitris","Glosario tenía errata ""AUEG"" (corregida, #46)."
+Gundam ZZ,機動戦士ガンダムＺＺ,Mobile Suit Gundam ZZ,Sunrise/Bandai,"Neo Zeon, Axis, Haman Karn, Judau Ashta, Elpeo Ple / Ple Two",
+Char's Counterattack,機動戦士ガンダム　逆襲のシャア,Mobile Suit Gundam: Char's Counterattack,Sunrise/Bandai,"Londo Bell, Ra Cailum, psycho-frame, Fin Funnel",
+Gundam F91,機動戦士ガンダムＦ９１,Mobile Suit Gundam F91,Sunrise/Bandai,"Crossbone Vanguard, Frontier Side, Seabook Arno, Cecily Fairchild",Solo en fichas: ガンダムＦ９０ (F90).
+Victory Gundam,機動戦士Ｖガンダム,Mobile Suit Victory Gundam,Sunrise/Bandai (subtítulos oficiales),"League Militaire, BESPA, Shrike Team, Angel Halo, Uso Ewin, Shakti Kareen","Grafías oficiales: Shakti, Mahalia Merrill, Connie Francis, Chronicle Asher (ver correcciones.csv)."
+Gundam Wing,新機動戦記ガンダムＷ,Mobile Suit Gundam Wing,Bandai / doblaje de Cartoon Network,"OZ, Romefeller Foundation, Sanc Kingdom, Gundanium, ZERO System, mobile doll, ""Mission accepted.""","El título comercial es ""Mobile Suit Gundam Wing"" (el glosario usa el literal ""New Mobile Report…"")."
+Endless Waltz,新機動戦記ガンダムＷ ～Endless Waltz,Gundam Wing: Endless Waltz,Bandai,"Preventer, Wing Zero (EW)",
+Mazinger Z,マジンガーＺ,Mazinger Z,Discotek (subtítulos) + SRW oficiales en inglés,"Mechanical Beasts, Dr. Hell, Baron Ashura, Count Brocken, Chogokin Z, Japanium, ""Mazin, Go!""","Instituto: decisión pendiente (Photonic/Photon, ver DECISIONES)."
+Great Mazinger,グレートマジンガー,Great Mazinger,Discotek,"Mycenae Empire, Warrior Beasts, Great General of Darkness, Fortress of Science",
+Mazinger (películas),劇場版マジンガーシリーズ,Mazinger Movie Series,—,Crossover Mazinger Z vs. Great General of Darkness (título 41),
+Getter Robo,ゲッターロボ,Getter Robo,Discotek + SRW oficiales,"Getter Rays, Get Machines, Dinosaur Empire, Mechasaurus, Saotome Research Institute",
+Getter Robo G,ゲッターロボＧ,Getter Robo G,Discotek,"Getter Dragon/Liger/Poseidon, Benkei Kuruma",
+Shin Getter Robo,真・ゲッターロボ（原作漫画版）,Shin Getter Robo (Original Manga),—,"Shin Getter-1/2/3, Getter Reactor",
+Combattler V,超電磁ロボ　コン・バトラーＶ,Super Electromagnetic Robo Combattler V,"Sin doblaje de referencia: nombres japoneses (Hyoma Aoi, Juzo Naniwa…)","Campbellians, Nanbara Connection, Battle Machines, ""Let's Combine!"", Chodenji",NO usar los nombres del doblaje filipino.
+Voltes V,超電磁マシーン　ボルテスＶ,Super Electromagnetic Machine Voltes V,"Nombres japoneses (Kenichi Go…), NO los del doblaje filipino (Steve Armstrong…)","Boazan, Prince Heinel, Big Falcon, Volt Machines, ""Let's Volt In!"", Tenkuken","Ｖ se escribe con glifo especial ﾖﾟ en DC. decidido 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), D01: nombres japoneses confirmados (Voltes V está en SRW 30, DLC1)."
+Daitarn 3,無敵鋼人ダイターン３,Invincible Steel Man Daitarn 3,Discotek,"Meganoids, Banjo Haran, Garrison, Beauty, Reika, Toppo, ""Sun Attack""",
+Raideen,勇者ライディーン,Brave Raideen,Discotek,"Demon Empire, Fossil Beasts, Mu Empire, Mutron, God Voice, God Bird, ""Fade in""",
+Dancouga,超獣機神ダンクーガ,Super Beast Machine God Dancouga,Blu-ray actual (Dancouga: Super Beast Machine God) + SRW 30 (DLC),"Cyber Beast Force, Beast Machines, Dankuu Sword, ""Let's do this!"" (Shinobu, a fijar)","decidido 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), D09: ""Dancouga"", no ""Dancougar""."
+Giant Robo,ジャイアント・ロボ　THE ANIMATION～地球が静止する日,Giant Robo: The Day the Earth Stood Still,Media Blasters / Discotek,"International Police Organization, Experts, BF Group, Big Fire, the Magnificent Ten",Epítetos de los Magnificent Ten: ver hablantes.csv (DUDOSO).
+Gunbuster,トップをねらえ！,Aim for the Top! Gunbuster,Bandai Visual (subtítulos oficiales),"Space Monsters, Exelion, Buster Machine, Coach Ohta, ""Onee-sama"", ""Hard work and guts!"", Urashima effect","Única excepción a ""sin honoríficos"": Onee-sama."
+Evangelion,新世紀エヴァンゲリオン,Neon Genesis Evangelion,ADV / Netflix,"NERV, SEELE, Angels, AT Field, LCL, entry plug, Unit-01, Third Child, Human Instrumentality Project","¡La historia de Alpha dice Tokyo-2, no Tokyo-3!"
+End of Evangelion,THE END OF EVANGELION,The End of Evangelion,ADV / Netflix,"Mass Production Evangelion, Third Impact","Títulos: ""Air"" (114), ""Death and Rebirth"" (123, sin uso)."
+Macross,超時空要塞マクロス,The Super Dimension Fortress Macross,"Nombres japoneses originales (Hikaru Ichijo, Lynn Minmay, Misa Hayase, Roy Focker…); NUNCA los de Robotech","Zentradi, Meltrandi, Valkyrie, GERWALK, Battroid, Destroid, fold, Protoculture, Micronian, ""Yack deculture""",
+Macross DYRL,超時空要塞マクロス　愛・おぼえていますか,Macross: Do You Remember Love?,"Nombres japoneses; los zentradi con numeración del film (Vrlitwhai 7018, Exsedol 4970)","Golg Boddole Zer, Milia Fallyna Jenius",
+Macross Plus,マクロスプラス,Macross Plus,Bandai/Manga Entertainment,"Isamu Dyson, Guld Goa Bowman, Myung Fang Lone",
+Dunbine,聖戦士ダンバイン,Aura Battler Dunbine,ADV (DUDOSO: algunas grafías del glosario vienen de Akurasu),"Byston Well, Aura Battler, aura power, Ferario, surface dweller, Holy Warrior (聖戦士, A04: SRW X y Bandai)","Reinos 〜の国: ""the Kingdom of X"". decidido 2026-09-28 (INVESTIGACION_NOMBRES ronda 1), B02: Na, Rau, Ku, Ah, Mi."
+Masou Kishin,魔装機神　THE LORD OF ELEMENTAL,Masou Kishin: The Lord of Elemental,Atlus (OG),"La Gias, Langran, prana, Possession, Cybuster, Granzon, Kuro & Shiro (gatos familiares)","Gatos: muletilla ニャ → ""meow""-ish con moderación (a fijar)."
+SRX,超機大戦ＳＲＸ,Super War Machine SRX,Atlus (OG1/OG2/OGs),"SRX Project/Team, T-LINK, telekinesis, Psycho Driver, Aerogaters, Huckebein, R-1/R-2/R-3, R-GUN",Terminología OG siempre primero (CLAUDE.md §6).
+Banpresto Original,オリジナル,Banpresto Original,Atlus (OG),"DC, EOT, Mao Industries, Tesla-Leicht Institute, Grungust Type-2, Choukijin",Protagonistas: nombres de speakers.csv; apodos ≤ 8 letras.

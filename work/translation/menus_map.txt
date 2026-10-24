@@ -1,0 +1,1000 @@
+# Mapa JP -> EN para menús/overlays. Formato: jp || en || en_short || notas
+# en_short vacío = en entra en el lugar (o no hay forma corta razonable: ver notas). Lo lee tools/src/menus_draft.py.
+# --- BTL: tabla de nombres de voces/operadores (sin referencias directas, ancho fijo) ---
+使わないで || Unused || || marcador de desarrollo ("no usar")
+トーレス || Torres || ||
+サエグサ || Saegusa || ||
+カワッセ || Kawasse || || glosario: Kawasse Gu
+エイブ || Abe || || glosario: Abe Tamari
+クロ || Kuro || ||
+シロ || Shiro || ||
+ライ || Rai || || apodo de Raidiese
+アヤ || Aya || ||
+副長 || Vice Captain || XO || operador del puente
+クローディア || Claudia || ||
+未沙 || Misa || ||
+エキセドル || Exsedol || ||
+ファラ || Fuala || || ¿Fuala Griffon? verificar contexto
+未登録 || Unregistered || Unreg. ||
+「%s」 || %s || || sin 「」 (2026-10-04): el juego ya no encierra las frases de batalla ni de DEADMESS entre corchetes; el nombre va en renglón propio (batalla) o delante (mapa)
+# --- COMM ---
+分離しますか? || Separate? || ||
+切断しますか? || Disconnect? || || cable umbilical del EVA
+ﾒﾓﾘｰｶｰﾄﾞをﾁｪｯｸしています。 || Checking Memory Card... || ||
+ｼｽﾃﾑﾌｧｲﾙを上書きします｡ よろしいですか? || Overwrite the system file. OK? || ||
+ｼｽﾃﾑﾌｧｲﾙがありません｡ 作成しますか? || No system file. Create one? || ||
+空き容量が足りません(3ﾌﾞﾛｯｸ必要です)｡ || Not enough space (3 blocks needed). || ||
+ﾒﾓﾘｰｶｰﾄﾞをｽﾛｯﾄ1に差してください。 || Insert a Memory Card in slot 1. || ||
+ｾｰﾌﾞ中です｡ ﾒﾓﾘｰｶｰﾄﾞを抜かないでください。 || Saving. Do not remove the Memory Card. || ||
+ｾｰﾌﾞが終了しました｡ ｹﾞｰﾑを続けますか? || Save complete. Continue playing? || ||
+ﾒﾓﾘｰｶｰﾄﾞをｽﾛｯﾄ1に差してください｡ || Insert a Memory Card in slot 1. || ||
+ﾌｫｰﾏｯﾄ中です｡ ﾒﾓﾘｰｶｰﾄﾞを抜かないでください。 || Formatting. Do not remove the Memory Card. || ||
+変形後の機体が地形に適応できません。 || The transformed unit can't handle this terrain. || The new form can't use this terrain. ||
+使っても効果がありません。 || It would have no effect. || ||
+ﾕﾆｯﾄ発進 || Launch Unit || Launch ||
+精神ポイントが足りません。 || Not enough SP. || ||
+このコマンドは現在使えません。 || This command can't be used now. || Command unavailable now. ||
+対象となるユニットがありません。 || No valid target units. || ||
+# --- ENTR: creación del protagonista ---
+主人公の詳細な設定を行います。 || Customize the main character. || ||
+8人の登録キャラクターから選択します。 || Choose from 8 preset characters. || ||
+現在の設定で決定します。 || Confirm the current settings. || Confirm current settings. ||
+顔を選択します。性別も自動的に決定されます。 || Choose a face. Gender is set automatically. || ||
+氏名を変更します。 || Change the name. || ||
+愛称を変更します。 || Change the nickname. || Change nickname. ||
+性別を設定します。 || Set the gender. || ||
+誕生日を設定します。 || Set the birthday. || ||
+血液型を選択します。 || Choose the blood type. || ||
+性格を４つのタイプから選択します。 || Choose from 4 personality types. || ||
+ｽｰﾊﾟｰﾛﾎﾞｯﾄ/ﾘｱﾙﾛﾎﾞｯﾄの種別を選択します。 || Choose Super Robot or Real Robot type. || ||
+名前の読み方を切り替えます。 || Switch the name order. || || 日本読み/欧米読み = apellido primero / nombre primero
+姓／名／愛称の入力を切り替えます。 || Switch between surname/name/nickname. || Switch: surname/name/nickname. ||
+入力できる文字の種類を切り替えます。 || Switch the character set. || ||
+入力位置を１文字分戻します。 || Move the cursor back one space. || Cursor back one space. ||
+入力位置を１文字分進めます。 || Move the cursor forward one space. || Cursor forward one space. ||
+変更前の状態に戻し、入力をやり直します。 || Undo changes and start input over. || ||
+現在の名前で決定します。 || Confirm the current name. || ||
+恋人設定の変更 || Edit Lover || || 恋人 = "Lover" (ronda 2 (2026-09-28), H10)
+恋人キャラクターの詳細な設定を行います。 || Customize the lover character. || ||
+顔を選択します。 || Choose a face. || ||
+この項目は変更できません。 || This can't be changed. || ||
+愛称 || Nickname || Nick ||
+ｽｰﾊﾟｰﾛﾎﾞｯﾄ系 || Super Robot || ||
+ﾘｱﾙﾛﾎﾞｯﾄ系 || Real Robot || ||
+A型 || A || || grupo sanguíneo; el rótulo "Blood Type" va aparte
+B型 || B || ||
+AB型 || AB || ||
+O型 || O || ||
+ひらがな || Hiragana || || el teclado de ingreso habrá que rediseñarlo (mayúsculas/minúsculas/símbolos)
+ｶﾀｶﾅ || Katakana || Kana ||
+漢字 || Kanji || ||
+英数(大) || Uppercase || ||
+英数(小) || Lowercase || ||
+　入力 　　削除 　　空白 　　もどる || 　Enter 　　Delete 　　Space 　　Back || 　Enter　　Del　　Space　　Back || PENDIENTE P5: los "　" (2 bytes) son huecos para íconos de botón: conservarlos; verificar posición con VWF
+日本読み || Japanese || || orden apellido-nombre
+欧米読み || Western || || orden nombre-apellido
+%d月%d日 || %d/%d || || mes/día (orden EE.UU.)
+%2d月%2d日 || %2d/%2d || || mes/día
+真面目で正義感が強い || Serious, strong sense of justice || Earnest and just || tipo de personalidad 1
+冷静沈着で頭脳明晰 || Calm and brilliant || || tipo 2
+沈着冷静で頭脳明晰 || Calm and brilliant || || tipo 2 (variante TITL)
+内気で心優しい || Shy and kind || || tipo 3
+陽気で楽天家 || Cheerful and optimistic || Sunny optimist || tipo 4
+設定内容の変更 || Edit Settings || ||
+登録キャラクターの中から選択 || Choose a Preset Character || ||
+これでいい || Done || ||
+恋人設定 || Lover || ||
+決定します。よろしいですか？ || Finalize these settings? || ||
+はい || Yes || ||
+いいえ || No || ||
+「はい」を選ぶとゲームを開始します。 || Choose "Yes" to start the game. || ||
+「はい」を選ぶと恋人キャラクター設定に移ります。 || Choose "Yes" to set up the lover character. || ||
+方向キー左右でキャラクターを選択、　ボタンで決定。 || Left/Right: select a character. Press 　  to confirm. || || #10: el ícono ○ va en x fija (texto+159…173 px, medido en el juego); el texto deja libre 157–175
+変更した内容はクリアされます。よろしいですか？ || Your changes will be cleared. OK? || ||
+入力された[愛称]は使用できません。 || That [nickname] can't be used. || ||
+姓／名／愛称を全て入力してください。 || Enter surname, name and nickname. || ||
+変更前の状態にもどします。よろしいですか？ || Revert to the previous settings? || ||
+ﾒﾓﾘｰｶｰﾄﾞをﾁｪｯｸしています｡ || Checking Memory Card... || ||
+ﾌｫｰﾏｯﾄ中です｡ ﾒﾓﾘｰｶｰﾄﾞを抜かないでください｡ || Formatting. Do not remove the Memory Card. || ||
+ｾｰﾌﾞ中です｡ ﾒﾓﾘｰｶｰﾄﾞを抜かないでください｡ || Saving. Do not remove the Memory Card. || ||
+ｽﾛｯﾄ1のﾒﾓﾘｰｶｰﾄﾞが空き容量不足です｡ || Not enough space on the slot 1 card. || Slot 1 card is out of space. ||
+ｽﾛｯﾄ1にﾒﾓﾘｰｶｰﾄﾞがありません｡ || No Memory Card in slot 1. || ||
+ｹﾞｰﾑの内容をｾｰﾌﾞするには、4ﾌﾞﾛｯｸ以上の空き容量 || To save the game, you need a Memory Card || || línea 1 de 2 (sigue: "があるﾒﾓﾘｰｶｰﾄﾞが必要です")
+があるﾒﾓﾘｰｶｰﾄﾞが必要です｡ || with at least 4 free blocks. || with 4+ free blocks. || línea 2 de 2
+ｹﾞｰﾑを開始する || Start Game || ||
+ﾀｲﾄﾙに戻る || Back to Title || To Title ||
+ｹﾞｰﾑ中にｼｽﾃﾑﾌｧｲﾙを作成するには、全体ｺﾏﾝﾄﾞで || To create a system file during play, use || || línea 1 de 2
+｢ｾｰﾌﾞ｣を選択してください｡ || "Save" in the map menu. || || línea 2 de 2 (全体コマンド = menú general del mapa)
+どれかﾎﾞﾀﾝを押すとｹﾞｰﾑを開始します｡ || Press any button to start. || ||
+ｽﾛｯﾄ1のﾒﾓﾘｰｶｰﾄﾞはﾌｫｰﾏｯﾄされていません｡ || The Memory Card in slot 1 isn't formatted. || Slot 1 card is not formatted. ||
+ﾒﾓﾘｰｶｰﾄﾞをﾌｫｰﾏｯﾄしてｼｽﾃﾑﾌｧｲﾙを作成する || Format card and create a system file || ||
+ｼｽﾃﾑﾌｧｲﾙを作成せずにｹﾞｰﾑを開始する || Start without a system file || ||
+ｼｽﾃﾑﾌｧｲﾙの作成に失敗しました｡ || Failed to create the system file. || System file creation failed. ||
+ﾗｯｸﾌｨ-ﾙﾄﾞ || Luckfield || || nombre predefinido (Brooklyn Luckfield), campo de 20 bytes
+ﾌﾞﾘｯﾄ || Bullet || || apodo de Brooklyn
+ｼﾞｪｸﾞﾅﾝ || Jaggar || || Yuuki Jaggar (glosario)
+ｼﾝｸﾞｳｼﾞ || Shinguji || || Tasuku Shinguji
+ｶﾞ-ｼｭﾀｲﾝ || Garstein || || Leona Garstein
+ﾘﾙｶ-ﾗ || Ricarla || || Ricarla Borgnine
+ﾎﾞ-ｸﾞﾅｲﾝ || Borgnine || ||
+# --- IMIS: intermisión — descripciones del menú ---
+ユニット一覧から能力を表示します。 || View stats from the unit list. || ||
+ユニット能力の強化を行います。 || Upgrade your units' stats. || ||
+武器の攻撃力アップを行います。 || Upgrade weapon attack power. || ||
+パイロット一覧から能力を表示します。 || View stats from the pilot list. || ||
+パイロットを別のユニットに乗せかえます。 || Move a pilot to a different unit. || ||
+妖精とパイロットのコンビを変更します。 || Change fairy and pilot pairings. || || 妖精 = hadas de Byston Well (Dunbine)
+ユニットに強化パーツを装備させます。 || Equip parts on your units. || ||
+ユニットに専用の換装パーツを装備させます。 || Equip units with their own swap parts. || || 換装 = Re-Equip (glosario)
+ゲームの設定を変更します。 || Change game settings. || ||
+メモリーカードへデータをセーブします。 || Save data to the Memory Card. || ||
+メモリーカードからデータをロードします。 || Load data from the Memory Card. || ||
+ポケットステーションとのデータ交換を行います。 || Exchange data with the PocketStation. || ||
+インターミッションを終了します。 || End the Intermission. || ||
+ミニゲームのダウンロード || Download the mini-game || ||
+本編に資金を加算 || Add funds to the main game || Add funds to game ||
+# --- IMIS: rótulos (muchos en kana de medio ancho) ---
+ユニット能力 || Unit Stats || || glosario ui
+ユニット改造 || Unit Upgrade || ||
+武器改造 || Weapon Upgrade || Weapons ||
+ﾊﾟｲﾛｯﾄ能力 || Pilot Stats || Pilots || glosario ui: Pilot Stats
+ﾊﾟｲﾛｯﾄのりかえ || Transfer Pilot || ||
+のりかえ可能なパイロットがいません｡ || No pilots can be transferred. || ||
+対象となる妖精がいません｡ || No eligible fairies. || ||
+対象となる機体がありません｡ || No eligible units. || ||
+ﾒﾓﾘｰｶｰﾄﾞの空き容量が不足しています｡ || Not enough space on the Memory Card. || Not enough Memory Card space. ||
+ｼﾅﾘｵﾃﾞｰﾀがありません｡ || No stage data. || ||
+ﾒﾓﾘｰｶｰﾄﾞをチェックしています｡ || Checking Memory Card... || ||
+ﾎﾟｹｯﾄｽﾃｰｼｮﾝを調べています｡ || Checking PocketStation... || ||
+これ以上の改造はできません｡ || Can't upgrade any further. || ||
+方向キーの上下左右で改造値を設定してください｡ || Use the D-pad to set the upgrade levels. || ||
+資金が足りません｡ || Not enough funds. || ||
+方向キーの左右で改造値を設定してください｡ || Use Left/Right to set the upgrade level. || ||
+武器性能 || Wpn. Stats || || glosario ui · #282: "Weapon Stats" se salía del recuadro del título (PRM, IMIS)
+乗り換え可能な機体がありません｡ || No units available to transfer to. || No units to transfer to. ||
+データを調べています｡ || Checking data... || ||
+ﾃﾞｰﾀの取得に失敗しました｡ || Failed to read data. || ||
+ｾｰﾌﾞ中です、ﾒﾓﾘｰｶｰﾄﾞを抜かないでください｡ || Saving. Do not remove the Memory Card. || ||
+ｾｰﾌﾞに失敗しました｡ || Save failed. || ||
+ﾛｰﾄﾞ中です、ﾒﾓﾘｰｶｰﾄﾞを抜かないでください｡ || Loading. Do not remove the Memory Card. || ||
+ﾎﾟｹｯﾄｽﾃｰｼｮﾝをｽﾛｯﾄ1に差してください｡ || Insert a PocketStation in slot 1. || ||
+ｾｰﾌﾞ中です、ﾎﾟｹｯﾄｽﾃｰｼｮﾝを抜かないでください｡ || Saving. Do not remove the PocketStation. || ||
+空き容量が足りません(2ﾌﾞﾛｯｸ必要です)｡ || Not enough space (2 blocks needed). || ||
+ﾛｰﾄﾞ中です、ﾎﾟｹｯﾄｽﾃｰｼｮﾝを抜かないでください｡ || Loading. Do not remove the PocketStation. || ||
+ﾀﾞｳﾝﾛｰﾄﾞに失敗しました｡ || Download failed. || ||
+加算中です｡ﾎﾟｹｯﾄｽﾃｰｼｮﾝを抜かないでください｡ || Adding funds. Don't remove the PocketStation. || Adding. Do not remove PocketStation. ||
+資金ﾃﾞｰﾀの更新に失敗しました｡ || Failed to update funds data. || ||
+ﾌｫｰﾏｯﾄ中です､ﾎﾟｹｯﾄｽﾃｰｼｮﾝを抜かないでください｡ || Formatting. Do not remove the PocketStation. || ||
+ﾌｫｰﾏｯﾄ中です､ﾒﾓﾘｰｶｰﾄﾞを抜かないでください｡ || Formatting. Do not remove the Memory Card. || ||
+# --- Títulos de escenario (IMIS y TITL: lista de guardado "clear hasta el escenario N") ---
+鋼鉄のコクピット || Cockpit of Steel || || escenario (ruta Super)
+マジンガーＺ絶体絶命 || Mazinger Z in Peril || ||
+ゲッターチーム出撃せよ！ || Getter Team, Sortie! || ||
+ジオン再臨 || Zeon Returns || Zeon Rises || Zeon (grafía oficial), no Jion
+シークレット・ナンバーズ || Secret Numbers || ||
+アーガマ撃墜命令 || Order: Down the Argama || Sink the Argama ||
+バニシング・トルーパー || Vanishing Trooper || || escenario 1 (ruta Real)
+黒いガンダム || Black Gundam || || título oficial del ep. 1 de Zeta
+ホワイトベース救出 || Rescue the White Base || Save White Base ||
+死神と呼ばれたＧ || The Gundam Called Death || The G Called Death || referencia a Wing ep. 2 (doblaje: "The Gundam Deathscythe"; verificar)
+ジオンの亡霊 || Ghosts of Zeon || ||
+対決、極東基地 || Showdown at the Far East Base || Far East Clash ||
+レッツ!コンバイン || Let's Combine! || || Combattler V
+出撃！その名はジャイアント・ロボ || Sortie! Its Name Is Giant Robo || ||
+風を呼ぶ者 || He Who Calls the Wind || Windcaller || Masaki / Cybuster
+未知なる災い || An Unknown Calamity || Unknown Doom ||
+アムロ再び || Amuro Returns || Amuro Back ||
+白いモビルスーツ || The White Mobile Suit || White Mobile Suit ||
+戦いは誰のために || For Whom We Fight || ||
+翼を持ったガンダム || The Winged Gundam || ||
+目覚めよ、勇者 || Awaken, Brave One || Awaken, Hero || Raideen (勇者 = Brave)
+ガンダム強奪 || Gundam Hijacked || Steal a Gundam ||
+野望の男 || A Man of Ambition || Ambition ||
+少女が見た流星 || The Shooting Star She Saw || Shooting Star || título oficial del ep. 1 de Wing
+父との約束 || A Promise to Father || Promise ||
+使徒、襲来 || Angel Attack || Angel Raid || título oficial (ADV) del ep. 1 de Evangelion
+咆哮、ＥＶＡ初号機 || Roar, EVA Unit-01 || ||
+ＧＲ対ＧＲ２ || GR vs. GR2 || ||
+ゼータの鼓動 || Pulse of Zeta || ||
+第二次直上会戦 || The Second Battle Overhead || Overhead Clash || "直上会戦" = término de Evangelion (batalla sobre Tokio-3)
+紅い稲妻 空飛ぶマジンガー || Crimson Bolt: Flying Mazinger || Red Bolt, Flying Mazinger ||
+激突！ゲッターロボＶＳゲッターロボＧ || Clash! Getter Robo vs. Getter Robo G || ||
+決戦、第２新東京市 || Showdown in Tokyo-2 || Battle for Tokyo-2 || parodia del ep. 6 de EVA (決戦、第3新東京市)
+聖戦士たち || Holy Warriors || Warriors || 聖戦士 = Holy Warrior (decisiones.csv, A04)
+エレの霊力 || Elle's Spiritual Power || Elle Power ||
+ナの国の女王 || Queen of Na || ||
+オーラロード || Aura Road || ||
+東京上空 || Skies Over Tokyo || Over Tokyo ||
+獣を超え、人を超え、いでよ神の戦士 || Beyond Beast, Beyond Man, Arise, Warrior of God || Beyond Beast and Man: Arise! ||
+戦いの海へ || Into the Sea of Battle || Sea of War ||
+マジンガーＺ対暗黒大将軍 || Mazinger Z vs. the Great General of Darkness || Mazinger Z vs Dark General || título oficial de la película
+ボルテス起死回生 || Voltes' Comeback || ||
+シャーキン悪魔の戦い || Sharkin's Demonic Battle || Sharkin's Demon War || glosario: Prince Sharkin (#40)
+ホンコン・シティ || Hong Kong City || ||
+ガンダム、星の海へ || Gundam, to the Sea of Stars || Gundam Among Stars ||
+始動ダブルゼータ || Double Zeta, Activate! || ZZ Activates ||
+ソロモンの悪夢 || The Nightmare of Solomon || Nightmare || apodo de Gato (0083)
+クロスボーン・バンガード || Crossbone Vanguard || ||
+紅いエヴァンゲリオン || The Crimson Evangelion || ||
+海からのマレビト || Visitor from the Sea || Visitor from Sea || マレビト = visitante del más allá
+マシン展開 || Machine Deployment || Deployment ||
+瞬間、心かさねて || Hearts in Unison || || EVA ep. 9 (ADV: "Both of You, Dance Like You Want to Win!"); se prefiere título literal
+ブービー・トラップ || Booby Trap || || título oficial Macross ep. 1
+カウント・ダウン || Countdown || || Macross ep. 2
+トランス・フォーメーション || Transformation || || Macross ep. 3
+隠された殺意 || Hidden Malice || ||
+サタン・ファイト || Satan Fight || ||
+リン・ミンメイ || Lynn Minmay || || Macross ep. 4
+ジュピトリアン || Jupitorians || || facción propia de Alpha (Scirocco + Zanscare), A09; título de misión 59 (entra in situ)
+帝国の女王 || Queen of the Empire || Empress ||
+終末への前奏曲 || Prelude to the End || Final Prelude ||
+奇跡の価値は || The Value of a Miracle || Miracle Value || EVA ep. 12 (título literal)
+スペース・フォールド || Space Fold || || Macross ep. 5
+アームド・アタック || ARMD Attack || || glosario: ARMD Attack
+天敵との遭遇 || Encounter with a Nemesis || Nemesis ||
+イングラムの真意 || Ingram's True Intent || Ingram's Intent ||
+ミス・マクロス || Miss Macross || || Macross ep. 7
+木星からの逃亡者 || Fugitive from Jupiter || Jupiter Fugitive ||
+人類を導く者 || He Who Guides Mankind || The Guide ||
+ファースト・コンタクト || First Contact || ||
+ビッグ・エスケープ || Big Escape || ||
+バイバイ・マルス || Bye-Bye Mars || || Macross ep. 6
+アクシズからの使者 || Envoy from Axis || ||
+プルとアクシズと || Ple and Axis || || glosario: Elpeo Ple
+リィナの血 || Leina's Blood || Blood Ties || forma corta libre: mejor reubicar
+漆黒の天使来たりて || The Jet-Black Angel Comes || Black Angel Comes ||
+ジュピター・ゴースト || Jupiter Ghost || ||
+宇宙に咲く妖花 || A Bewitching Flower in Space || Space Blossom ||
+ゼロと呼ばれたガンダム || The Gundam Called Zero || ||
+強襲、阻止限界点 || Assault at the Point of No Return || Point of No Return || 阻止限界点 = último punto para detener la caída (0083)
+父よ地球は近い || Father, Earth Is Near || Earth Is Near ||
+静止した闇の中で || In the Still Darkness || In Still Darkness || EVA ep. 11 (ADV: "The Day Tokyo-3 Stood Still")
+赤い髪の女 || The Red-Haired Woman || Redhead ||
+神か、悪魔か… || God, or Devil... || God or Devil? ||
+第三の力 || The Third Power || 3rd Force ||
+龍と虎 || Dragon and Tiger || Ryuko || forma corta = 龍虎 romanizado: mejor reubicar
+男の戰い || A Man's Battle || Man's War || EVA ep. 19: título de Netflix (ADV: "Introjection"), ronda 2 (2026-09-28)
+ヴァリアブル・フォーメーション || Variable Formation || ||
+ガラスの王国 || Kingdom of Glass || Glass Kingdom ||
+ダカールの日 || Day of Dakar || || Zeta ep. 37
+王国崩壊 || Fall of the Kingdom || Downfall ||
+バイブレーション || Vibration || ||
+思い出を未来へ || Memories to the Future || Memories ||
+ソロモン攻略戦 || Battle for Solomon || Solomon Siege ||
+女たちの戦場 || Women's Battlefield || Women at War ||
+駆け抜ける嵐 || Racing Storm || ||
+あしゅら男爵、散る || Baron Ashura Falls || ||
+魔神皇帝 || Demon God Emperor || The Kaiser || = Mazinkaiser
+クロス・ファイト || Cross Fight || ||
+異邦人たちの帰還 || Return of the Outsiders || Strangers Return ||
+地球を賭けた一騎討ち || A Duel for the Earth || ||
+ジオンの幻像 || Phantom of Zeon || Zeon Phantom ||
+父の胸の中で泣け！ || Cry in Your Father's Arms! || Cry to Father! ||
+女王リリーナ || Queen Relena || ||
+天使の輪の上で || On the Angel Halo || Angel Halo || Victory Gundam (Angel Halo)
+神の国への誘惑 || Lure of the Kingdom of God || Lure of Heaven ||
+クロス・ターゲット || Cross Target || ||
+戦士、再び… || Warriors, Once More... || Warriors Again ||
+勝者と敗者に祝福を || Bless Victor and Vanquished || Bless Them All ||
+せめて、人間らしく || At Least, Be Human || || EVA ep. 22: título de Netflix (ADV: "Don't Be."), ronda 2 (2026-09-28)
+最後のシ者 || The Final Messenger || Last Envoy || EVA ep. 24 (juego シ者 = 使者/死者)
+運命の矢 || Arrow of Destiny || Fated Bolt ||
+愛・おぼえていますか || Do You Remember Love? || || título oficial de la película de Macross
+Ａｉｒ || Air || || End of Evangelion
+ギア・オブ・デスティニー || Gear of Destiny || ||
+絶望の宴は今から始まる || The Feast of Despair Begins || Despair's Feast Begins ||
+この星の明日のために || For This Planet's Tomorrow || For Earth's Tomorrow ||
+終わりの始まり || The Beginning of the End || The End Begins ||
+人類に逃げ場なし || Nowhere for Mankind to Run || No Escape for Man ||
+鋼の魂 || Souls of Steel || Steel || forma corta pobre: mejor reubicar
+欠番 || Unused || || número de escenario vacante
+全能なる調停者 || The Almighty Arbiter || Almighty Judge ||
+シト新生 || Death and Rebirth || Rebirth || título oficial de la película de EVA
+ＥＯＴの島 || Island of EOT || EOT Island ||
+心に念じる見えない刃 || The Unseen Blade of the Mind || Unseen Blade of Mind ||
+黒い超闘士 || The Black Super Fighter || Dark Titan || 超闘士 = epíteto de Grungust
+誰がために鐘は踊る || For Whom the Bell Dances || The Bell Dances ||
+進路に光明、退路に絶望 || Hope Ahead, Despair Behind || Hope Fore, Doom Aft ||
+壮絶！台湾大地震ｽﾍﾟｼｬﾙ！ || Epic! Taiwan Quake Special! || Taiwan Quake Special! || entrada especial (terremoto de Taiwán 1999); ¿se ve en el juego? verificar
+第%d話 ｢%s｣までクリア || Stage %d "%s" cleared || || conservar %d y %s
+# --- Habilidades de piloto (IMIS/PRM) — glosario en_final ---
+精霊憑依 || Spirit Possession || Possession ||
+ﾆｭｰﾀｲﾌﾟ || Newtype || N-Type ||
+強化人間 || Cyber Newtype || Cyber NT ||
+聖戦士 || Holy Warrior || Holy || A04
+念動力 || Telekinesis || Telek. ||
+ｼｰﾙﾄﾞ防御 || Shield Defense || Shield ||
+切り払い || Sword Cut || || decisión 2026-09-28
+底力 || Potential || Poten. ||
+天才 || Genius || ||
+ｶﾞｯﾂ || Guts || ||
+野性化 || Aggressive Beast || Beast ||
+集中力 || Concentrate || Concen ||
+SP回復 || SP Regen || SP Rgn ||
+社長 || President || Pres. ||
+勇者 || Hero || ||
+王子 || Prince || ||
+王女 || Princess || Prncss ||
+ｴｰｽﾊﾟｲﾛｯﾄ || Ace Pilot || ||
+2回行動 || Double Move || 2xMove ||
+ﾆｭ-ﾀｲﾌﾟL%d || Newtype L%d || NT L%d || conservar %d
+　聖戦士L%d || Holy Warrior L%d || Holy L%d || el original lleva un espacio de ancho completo al inicio (alineación): verificar
+# --- Habilidades de unidad ---
+ATﾌｨ-ﾙﾄﾞ || AT Field || ||
+ｵ-ﾗﾊﾞﾘｱ || Aura Barrier || AuraBr ||
+ｸﾞﾗﾋﾞﾃｨ･ﾃﾘﾄﾘ- || Gravity Territory || Grav.Territory ||
+ﾋﾟﾝﾎﾟｲﾝﾄﾊﾞﾘｱ || Pinpoint Barrier || Pinpoint Bar. || decisión 2026-09-28 (#40): Pinpoint Barrier en parte y habilidad
+ｸﾞﾗﾋﾞﾃｨ･ｳｫ-ﾙ || Gravity Wall || ||
+念動ﾌｨ-ﾙﾄﾞ || Telekinesis Field || Telek.Fld || decisión 2026-09-28 (no TK Field)
+ｲﾅ-ｼｬﾙｷｬﾝｾﾗ- || Inertial Canceller || Inertia Cancel ||
+Iﾌｨ-ﾙﾄﾞ || I-Field || || decisión 2026-09-28 (#40): I-Field (7 bytes, igual que el japonés)
+ﾋﾞ-ﾑｺ-ﾃｨﾝｸﾞ || Beam Coat || || oficial
+ｼ-ﾙﾄﾞ防御 || Shield Defense || Shield ||
+補給装置 || Resupply || ||
+修理装置 || Repair || ||
+分身 || After Image || AftImg ||
+HP回復(小) || HP Regen (S) || HP Regen S ||
+HP回復(大) || HP Regen (L) || HP Regen L ||
+EN回復(小) || EN Regen (S) || EN Regen S ||
+EN回復(大) || EN Regen (L) || EN Regen L ||
+ﾏｼﾞﾝﾊﾟﾜ- || Mazin Power || MazinPower ||
+暴走 || Berserk || || A08: Berserk en todo (Evangelion oficial)
+ｾﾞﾛｼｽﾃﾑ || Zero System || ZERO ||
+S2機関 || S2 Engine || S2 Eng ||
+変形 || Transform || Change || también comando de mapa
+合体 || Combine || Unite || también comando de mapa
+分離 || Separate || Split || también comando de mapa
+ｹﾞｯﾀｰﾋﾞｼﾞｮﾝ || Getter Vision || G-Vision ||
+ﾏｯﾊｽﾍﾟｼｬﾙ || Mach Special || Mach Spec. ||
+真･ﾏｯﾊｽﾍﾟｼｬﾙ || Shin Mach Special || Shin Mach Spc. ||
+# --- Re-Equip / armas (IMIS) ---
+ｱｽﾄﾅｰｼﾞ: || Astonaige: || ||
+ﾓｰﾗ： || Mora: || ||
+ﾊﾛ: || Haro: || || sin forma corta posible (2 caracteres): reubicar (tiene puntero)
+ハロ: || Haro: || ||
+%s に以下の武器を装備できます || %s can equip these weapons: || ||
+熟練度ポイント || Expert Points || || 熟練度 (Akurasu: "Expert Point")
+シンクロ率 || Synchro Rate || Sync Rate ||
+%3d％ || %3d％ || || sin cambio (％ de ancho completo, evita que un sprintf lo tome como formato)
+強化ﾊﾟｰﾂ || Parts || ||
+なし || None || ||
+ﾕﾆｯﾄ換装 || Re-Equip || ||
+# --- Configuración (IMIS / PRM) ---
+全体マップに区切り線を表示します。 || Show grid lines on the map. || ||
+全体マップに区切り線を表示しません。 || Hide grid lines on the map. || ||
+サウンドをステレオ出力します。 || Output sound in stereo. || ||
+サウンドをモノラル出力します。 || Output sound in mono. || ||
+戦闘デモで主人公の声が出ます。 || Hero's voice plays in battles. || ||
+戦闘時、デモ画面に移行します。 || Show battle animations. || ||
+戦闘時、デモ画面に移行しません。 || Skip battle animations. || ||
+アナログコントローラは振動しません。 || Analog Controller won't vibrate. || ||
+ﾛｰﾄﾞ || Load || ||
+ｾｰﾌﾞ || Save || ||
+ｾ-ﾌﾞ || Save || ||
+容量不足 || No Space || ||
+破損ﾃﾞｰﾀ || Corrupt Data || Corrupted ||
+破損ﾃﾞｰﾀ(ｾｰﾌﾞできます) || Corrupt (can save over) || Corrupt (can save) ||
+このﾃﾞｰﾀを上書きします｡ よろしいですか？ || Overwrite this data. Are you sure? || ||
+ﾒﾓﾘｰｶｰﾄﾞ || Memory Card || Mem. Card ||
+ﾎﾟｹｯﾄｽﾃｰｼｮﾝ || PocketStation || PocketStn ||
+ｽﾛｯﾄ1の%sはﾌｫｰﾏｯﾄされていません｡ || The %s in slot 1 is not formatted. || || conservar %s
+ﾛｰﾄﾞに失敗しました｡ || Load failed. || ||
+どれかﾎﾞﾀﾝを押すとｲﾝﾀｰﾐｯｼｮﾝに戻ります｡ || Press any button to return to Intermission. || Press any button to return. ||
+このﾎﾟｹｯﾄｽﾃｰｼｮﾝのﾐﾆｹﾞｰﾑはｺﾋﾟｰです｡ || This PocketStation's mini-game is a copy. || This mini-game is a copy. ||
+本体からﾀﾞｳﾝﾛｰﾄﾞしたﾐﾆｹﾞｰﾑからでなければ || Funds can only be added from a mini-game || || línea 1 de 2
+資金の加算はできません || downloaded directly. || || línea 2 de 2 ("…descargado desde la consola")
+このﾎﾟｹｯﾄｽﾃｰｼｮﾝにはすでにﾐﾆｹﾞｰﾑがあります｡ || PocketStation already has the mini-game. || ||
+再度ﾀﾞｳﾝﾛｰﾄﾞを行うとﾊｲｽｺｱは0になります｡ || Downloading again resets the high score to 0. || Re-downloading resets the high score. ||
+ﾐﾆｹﾞｰﾑのﾊｲｽｺｱが0点です｡ || The mini-game high score is 0. || High score is 0. ||
+ﾊｲｽｺｱに応じた資金が加算されます｡ﾐﾆｹﾞｰﾑで高得点を || Funds are added based on high score. Get a || || línea 1 de 2
+獲得してから資金の加算を行いましょう｡ || high score in the mini-game first! || || línea 2 de 2
+このﾎﾟｹｯﾄｽﾃｰｼｮﾝのﾐﾆｹﾞｰﾑは壊れています｡ || The PocketStation mini-game is corrupted. || The mini-game data is corrupted. ||
+ﾌﾟﾚｲｽﾃｰｼｮﾝ本体のﾒﾓﾘｰｶｰﾄﾞ管理画面でﾐﾆｹﾞｰﾑを || Delete the mini-game in the PlayStation's || || línea 1 de 2
+削除するか､再度ﾀﾞｳﾝﾛｰﾄﾞを行ってください｡ || memory card manager, or download it again. || || línea 2 de 2
+すでに資金の加算が行われています｡ || Funds have already been added. || ||
+次のｲﾝﾀｰﾐｯｼｮﾝまで資金の加算はできません｡ || No more funds until the next Intermission. || ||
+このﾃﾞｰﾀは壊れています。 || This data is corrupted. || ||
+ﾌﾟﾚｲｽﾃｰｼｮﾝ本体のﾒﾓﾘｰｶｰﾄﾞ管理画面でこのﾃﾞｰﾀを || Delete this data in the PlayStation's || || línea 1 de 2
+削除するか､｢ｾｰﾌﾞ｣で上書きｾｰﾌﾞを行ってください｡ || memory card manager, or overwrite it via Save. || || línea 2 de 2
+削除するか､ｲﾝﾀｰﾐｯｼｮﾝで上書きｾｰﾌﾞを行ってください｡ || memory card manager or overwrite in Intermission. || || línea 2 de 2 (variante TITL)
+どれかﾎﾞﾀﾝを押すとﾛｰﾄﾞ画面に戻ります｡ || Press any button to return to Load. || ||
+これが最後の改造だ、慎重に選べよ。 || This is the final upgrade. Choose wisely. || Final upgrade. Choose carefully. || bono por mejora completa (habla masculina, tono de mecánico)
+最大HP+2000 || Max HP+2000 || HP+2000 ||
+最大EN+150 || Max EN+150 || ||
+運動性+30 || Mobility+30 || Mob.+30 ||
+移動力+1 || Move+1 || ||
+機体及び全武器の地形適応[空]をAにする || Air rank A for unit and all weapons || ||
+機体及び全武器の地形適応[陸]をAにする || Land rank A for unit and all weapons || ||
+機体及び全武器の地形適応[海]をAにする || Sea rank A for unit and all weapons || ||
+機体及び全武器の地形適応[宇]をAにする || Space rank A for unit and all weapons || ||
+最大HPを+2000します｡ || Max HP +2000. || ||
+最大ENを+150します｡ || Max EN +150. || ||
+運動性を+30します｡ || Mobility +30. || ||
+装甲を+400します｡ || Armor +400. || ||
+限界反応を+30します｡ || Limit +30. || ||
+移動力を+1します｡ || Move +1. || ||
+地形適応[空]をAにします｡ || Sets Air terrain rank to A. || Air terrain rank to A. ||
+地形適応[陸]をAにします｡ || Sets Land terrain rank to A. || Land terrain rank to A. ||
+地形適応[海]をAにします｡ || Sets Sea terrain rank to A. || Sea terrain rank to A. ||
+地形適応[宇]をAにします｡ || Sets Space terrain rank to A. || Space terrain rank to A. ||
+%s よろしいですか? || %s Are you sure? || || conservar %s
+ｲﾝﾀｰﾐｯｼｮﾝ || Intermission || Interm. || título del menú de intermisión (dirección derivada)
+ﾕﾆｯﾄ能力 || Unit Stats || ||
+ﾕﾆｯﾄ改造 || Unit Upgrade || Upgrade ||
+妖精のりかえ || Transfer Fairy || ||
+ｼｽﾃﾑ設定 || Settings || ||
+次のﾏｯﾌﾟへ || Next Map || ||
+総ﾀｰﾝ数 || Turns || ||
+資金 || Funds || $ || glosario ui; en TITL (pantalla de carga) hay un lugar de 4 bytes
+運動性 || Mobility || Mob. ||
+装甲 || Armor || ||
+限界 || Limit || ||
+費用 || Cost || ||
+残金 || Remaining || Remain || fondos restantes tras mejorar
+弾数 || Ammo || ||
+地形適応 || Terrain || ||
+必要気力 || Will || || decisión 2026-09-28: Will (confirmado)
+消費EN || EN Cost || EN Use ||
+必要技能 || Req. Skill || ||
+ｸﾘﾃｨｶﾙ補正 || Critical || ||
+攻撃力 || Attack || ||
+ﾀｲﾌﾟ || Type || ||
+移動力 || Move || ||
+ｻｲｽﾞ || Size || ||
+修理費 || Repair || || rótulo de la ficha de unidad: "Repair Cost" pisa el número (prueba en el juego 2026-09-28)
+特殊能力 || Abilities || ||
+地形 || Terrain || Terr. ||
+妖精 || Fairy || ||
+ﾚﾍﾞﾙ || Level || ||
+気力 || Will || || decisión final
+経験値 || EXP || ||
+次のﾚﾍﾞﾙまで || Next Level || ||
+格闘 || Melee || ||
+射撃 || Ranged || ||
+反応 || Reaction || React ||
+技量 || Skill || ||
+回避 || Evade || ||
+命中 || Hit || || glosario en_final
+精神ｺﾏﾝﾄﾞ || Spirits || || ficha de piloto: "Spirit Commands" choca con "SP" (prueba en el juego 2026-09-28)
+撃墜数 || Kills || ||
+特殊技能 || Pilot Skills || Skills ||
+ﾊﾟｲﾛｯﾄ || Pilot || ||
+この組み合わせでいいですか || Is this pairing OK? || ||
+ﾕﾆｯﾄ || Unit || ||
+装備中のﾕﾆｯﾄ || Equipped Unit || ||
+ﾊﾟｰﾂ || Parts || ||
+ﾊﾟ-ﾂ || Parts || ||
+変更前のﾊﾟｰﾂ || Previous Part || ||
+現在のﾕﾆｯﾄ || Current Unit || Current ||
+換装後のﾕﾆｯﾄ || After Re-Equip || ||
+はずす || Remove || ||
+追加する || Add || ||
+追加しない || Don't Add || ||
+名前 || Name || ||
+ｸﾞﾘｯﾄﾞ表示 || Grid Lines || ||
+ｻｳﾝﾄﾞ || Sound || ||
+主人公ﾎﾞｲｽ || Hero Voice || ||
+戦闘BGM設定 || Battle BGM || ||
+戦闘ﾃﾞモ表示 || Battle Animation || Battle Anim. || glosario: 戦闘デモ表示 = Battle Animation
+戦闘ﾃﾞﾓ表示 || Battle Animation || Animation ||
+ﾊﾞｲﾌﾞﾚｰｼｮﾝ || Vibration || ||
+ｽﾃﾚｵ || Stereo || ||
+ﾓﾉﾗﾙ || Mono || ||
+固定 || Fixed || || BGM de batalla fijo
+切り換え || Switch || || BGM que cambia según la unidad
+選択 || Select || ||
+資金の加算を行うと、次のｲﾝﾀｰﾐｯｼｮﾝまで || After adding funds, you can't add more || || línea 1 de 2
+資金の加算は出来なくなります。 || until the next Intermission. || || línea 2 de 2
+現在のﾊｲｽｺｱ || High Score || ||
+本編の資金 || Game Funds || ||
+現在の加算ﾚｰﾄ || Current Rate || ||
+加算される資金 || Funds to Add || ||
+ﾐﾆｹﾞｰﾑのﾊｲｽｺｱに応じた資金を加算します || Adds funds based on the mini-game score. || Adds funds based on mini-game score. ||
+資金の加算を行いますか? || Add funds? || ||
+地形適応[空] || Air Rank || ||
+地形適応[陸] || Land Rank || ||
+地形適応[海] || Sea Rank || ||
+地形適応[宇] || Space Rank || ||
+# --- PRM: partes (glosario en_final) ---
+ﾌﾞｰｽﾀｰ || Booster || Boostr ||
+ﾌﾞ-ｽﾀ- || Booster || Boostr ||
+ﾒｶﾞﾌﾞｰｽﾀｰ || Megabooster || Mega Boost ||
+ﾒｶﾞﾌﾞ-ｽﾀｰ || Megabooster || Mega Boost ||
+ﾏｸﾞﾈｯﾄｺｰﾃｨﾝｸﾞ || Magnetic Coating || Magnet Coating ||
+ｱﾎﾟｼﾞﾓｰﾀｰ || Apogee Motor || Apogee Mtr ||
+ﾊﾞｲｵｾﾝｻｰ || Biosensor || ||
+ｻｲｺﾌﾚｰﾑ || Psycoframe || PsycoF ||
+ﾊﾛ || Haro || || sin forma corta posible (lugar 3): reubicar / reempaquetar
+ﾁｮﾊﾞﾑｱｰﾏｰ || Chobham Armor || Chobham ||
+ﾊｲﾌﾞﾘｯﾄﾞｱｰﾏｰ || Hybrid Armor || ||
+超合金Z || Chogokin Z || Chog.Z ||
+超合金ﾆｭｰZ || Chogokin New Z || Chog.New Z ||
+高性能ﾚｰﾀﾞｰ || Radar Module || Radar Mod. ||
+高性能照準器 || Custom HUD || ||
+ﾐﾉﾌｽｷｰｸﾗﾌﾄ || Minovsky Craft || Mino Craft ||
+ﾐﾉﾌｽｷｰﾄﾞﾗｲﾌﾞ || Minovsky Drive || ||
+ﾃﾑ=ﾚｲの回路 || Tem Ray's Circuit || Tem's Chip ||
+Iﾌｨｰﾙﾄﾞ発生装置 || I-Field Generator || I-Field Gen. ||
+対ﾋﾞｰﾑｺｰﾃｨﾝｸﾞ || Anti-Beam Coating || A-Beam Coating ||
+ｲﾅｰｼｬﾙｷｬﾝｾﾗｰ || Inertial Canceller || Inertia Cancel ||
+ﾐﾝﾒｲ人形 || Minmay Doll || MinmayDoll || decisión 2026-09-28: Minmay (como Lynn Minmay)
+ｱﾝﾄﾞﾛﾒﾀﾞ焼き || Grilled Andromeda || Andromeda-yaki || es un dulce tipo taiyaki: "Andromeda-yaki" sería más fiel
+ﾌﾟﾛﾍﾟﾗﾝﾄﾀﾝｸ || Propellant Tank || Prop. Tank ||
+ﾌﾟﾛﾍﾟﾗﾝﾄﾀﾝｸS || Propellant Tank S || Prop. Tank S ||
+ﾘﾍﾟｱｷｯﾄ || Repair Kit || RprKit ||
+ﾘﾍﾟｱｷｯﾄS || Repair Kit S || Rpr. Kit S ||
+装備中のﾊﾟｰﾂをはずします。 || Removes the equipped part. || ||
+移動力+2 || Move+2 || ||
+ﾊﾟｲﾛｯﾄになにかいいことがある。 || Something good happens to the pilot. || Brings the pilot luck. || descripción de Haro
+# --- PRM: espíritus (decisiones.csv/glosario) ---
+熱血 || Valor || || dirección derivada (ver MISALIGNED en menus_draft.py); 魂/愛 (1 carácter) no están en el volcado
+てかげん || Mercy || ||
+狙撃 || Snipe || ||
+ひらめき || Flash || ||
+努力 || Gain || ||
+幸運 || Luck || || decisión final (OG)
+集中 || Focus || ||
+必中 || Bullseye || Strike || forma corta = término de OG1/OG2
+鉄壁 || Wall || ||
+隠れ身 || Stealth || || ronda 2 (2026-09-28), H03
+加速 || Accel || || decisión final (OG)
+覚醒 || Zeal || ||
+激闘 || Fury || || decisión final
+捨て身 || Reckless || || ronda 2 (2026-09-28), H06
+かく乱 || Disrupt || Jam ||
+挑発 || Taunt || || ronda 2 (2026-09-28), H02
+根性 || Vigor || ||
+ド根性 || Guts || ||
+気合 || Spirit || ||
+信頼 || Trust || ||
+友情 || Faith || ||
+補給 || Resupply || Supply || también comando de mapa
+再動 || Enable || ||
+復活 || Revive || ||
+脱力 || Daunt || ||
+戦慄 || Dread || ||
+自爆 || Self-Destruct || S.Dest ||
+偵察 || Scan || ||
+激励 || Rouse || ||
+大激励 || Rally || ||
+期待 || Hope || || decisión final (OG)
+奇跡 || Miracle || Wonder ||
+奇襲 || Ambush || || ronda 2 (2026-09-28), H04
+一度だけ敵に与えるダメージが2倍になる。 || Next attack deals double damage. || || Valor
+一度だけ敵に与えるダメージが3倍になる。 || Next attack deals triple damage. || || Soul
+マップ兵器及び射程1以外の武器の射程が+2。 || Range +2 (excl. MAP and range-1 weapons). || || Snipe
+一度だけ敵の攻撃を完全回避。 || Fully evades the next attack. || || Flash
+次の戦闘で得られる経験値が2倍になる。 || Double EXP from the next battle. || || Gain
+次の戦闘で得られる資金が2倍になる。 || Double funds from the next battle. || || Luck
+1ターンの間、命中率と回避率が30%UP。 || Hit and evasion +30% for 1 turn. || || Focus
+1ターンの間、命中率が100%になる。 || Hit rate becomes 100% for 1 turn. || || Bullseye
+1ターンの間、装甲値が2倍になる。 || Armor doubled for 1 turn. || || Wall
+1ターンの間、敵から攻撃されない。 || Enemies won't target you for 1 turn. || Can't be targeted for 1 turn. || Stealth
+一度だけ移動力を+3。移動するまで効果は継続。 || Move +3 once. Lasts until the unit moves. || || Accel
+1ターンの間、敵に与えるダメージが1.5倍になる。 || Damage dealt x1.5 for 1 turn. || ||
+自機のHPを最大HPの30%回復。 || Restores 30% of own max HP. || Recovers 30% of max HP. || Vigor
+自機のHPを全回復。 || Fully restores HP. || || Guts
+気力を10上げる。 || Will +10. || || Spirit
+指定した味方ユニット1体のHPを30%回復。 || Restores 30% HP to one ally. || ||
+すべての味方ユニットのHPを50%回復。 || Restores 50% HP to all allies. || ||
+すべての味方ユニットのHPを全回復。 || Fully restores HP of all allies. || ||
+指定した味方ユニット1体の弾薬とENを全回復。 || Fully restores one ally's ammo and EN. || || Resupply
+指定した敵ユニットの気力を10下げる。 || Lowers one enemy's Will by 10. || || Daunt
+すべての敵ユニットの気力を10下げる。 || Lowers all enemies' Will by 10. || || Dread
+指定した敵ユニット1体の能力値を調べる。 || Reveals one enemy's stats. || || Scan
+指定した味方ユニット1体の気力を10上げる。 || Raises one ally's Will by 10. || || Rouse
+すべての味方ユニットの気力を10上げる。 || Raises all allies' Will by 10. || || Rally
+指定した味方ユニット1体のSPを50回復 || Restores 50 SP to one ally. || || Hope
+加速、必中、熱血、ひらめきが同時にかかる。 || Casts Accel, Bullseye, Valor and Flash. || || Miracle
+# --- PRM: partes consumibles ---
+使用者の精神ポイントを全回復します。 || Fully restores the user's SP. || ||
+ユニットのENを50回復します。 || Restores 50 EN. || ||
+ユニットのENを200回復します。 || Restores 200 EN. || ||
+ユニットのHPを2000回復します。 || Restores 2000 HP. || ||
+ユニットのHPを全回復します。 || Fully restores HP. || ||
+# --- Comandos de mapa (PRM / SNMP) ---
+ﾀ-ﾝ終了 || End Turn || End ||
+ﾀｰﾝ終了 || End Turn || End ||
+部隊表 || Unit List || Units ||
+反撃命令 || Counter || || menú del mapa (ancho fijo): "Counter Orders" se sale del recuadro (prueba 2026-09-28)
+作戦目的 || Objectives || ||
+精神検索 || Spirit Search || Spr.Search ||
+ｼｽﾃﾑ || System || ||
+移動 || Move || ||
+攻撃 || Attack || ||
+精神 || Spirit || ||
+説得 || Persuade || Talk ||
+地上 || Land || || posición/tipo de movimiento de la unidad
+水中 || Water || || ronda 2 (2026-09-28), H11 (≤ 7 B)
+空中 || Air || ||
+地中 || Dig || || ronda 2 (2026-09-28), H11
+水上 || Hover || || ronda 2 (2026-09-28), H11
+修理 || Repair || ||
+接続 || Connect || Plug || cable umbilical del EVA
+切断 || Disconnect || Unplug ||
+待機 || Wait || ||
+搭載 || Board || ||
+発進 || Launch || ||
+能力 || Status || ||
+宇宙 || Space || ||
+武器選択 || Select Weapon || Weapons ||
+%2d%cｱｯﾌﾟ || %2d%c Up || || conservar %2d y %c
+変化なし || No Change || ||
+%2d%cﾀﾞｳﾝ || %2d%c Down || ||
+防御 || Defend || ||
+反撃不能 || Can't Counter || No Counter ||
+変形により行動終了となります｡ || Transforming will end this unit's turn. || Transforming ends your turn. ||
+よろしいですか? || Are you sure? || ||
+HP順 || By HP || ||
+ﾚﾍﾞﾙ順 || By Level || By Lv ||
+気力順 || By Will || ByWill ||
+味方部隊表 || Ally List || ||
+敵方部隊表 || Enemy List || ||
+%sL%dを修得 || Learned %s L%d || Got %s L%d || conservar %s y %d
+マニュアル || Manual || || órdenes de contraataque
+積極的に！ || Aggressive! || Aggressive ||
+効率よく！ || Efficient! || ||
+反撃するな！ || No Counter! || ||
+積極的に! || Aggressive! || Aggressive ||
+効率よく! || Efficient! || ||
+反撃するな! || No Counter! || No Counter ||
+プレイヤーが戦闘毎に反撃行動を選択します。 || You choose the response in each battle. || ||
+必ず回避か防御を行います。 || Always evade or defend. || ||
+どれかﾎﾞﾀﾝを押すと全体ｺﾏﾝﾄﾞ選択に戻ります｡ || Press any button to return to the map menu. || Press any button to return to the menu. ||
+修理完了 || Repaired || ||
+# --- PRM: barreras (registro de batalla) ---
+ATフィールド || AT Field || ||
+オーラバリア || Aura Barrier || ||
+グラビティ・テリトリー || Gravity Territory || ||
+ピンポイントバリア || Pinpoint Barrier || ||
+グラビティ・ウォール || Gravity Wall || ||
+念動フィールド || Telekinesis Field || Telekin. Field || decisión 2026-09-28 (no TK Field)
+イナーシャル喜屋武セラー || Inertial Canceller || || errata del original (喜屋武 = conversión del IME de "キャン")
+Iフィールド || I-Field || ||
+Iフィールド△ || I-Field (Nu) || || △ = probable glifo de ν (Iフィールド(ν) en el glosario); ASCII para evitar glifos especiales
+ビームコーティング || Beam Coat || ||
+# --- PRM: fondos de batalla (probable pantalla de depuración "背景:%s") ---
+宇宙地球 || Space (Earth) || SpaceEarth || fondos: probablemente solo en pantalla de depuración
+草原 || Plains || ||
+荒野 || Wasteland || Barren ||
+砂漠 || Desert || ||
+草原の道路 || Plains Road || Plains Rd. ||
+光子力研究所 || Photon Power Lab || Photon Lab ||
+新早乙女研究所 || New Saotome Lab || N. Saotome Lab ||
+海中（深い所） || Undersea (Deep) || Sea (Deep) ||
+水中（浅い所） || Water (Shallow) || Shallows ||
+ビル上 || Rooftop || Roofs ||
+軍事基地 || Military Base || Mil. Base ||
+南原コネクション || Nanbara Connection || ||
+Ｃ草原 || C Plains || C Plns ||
+Ｃ荒野 || C Wasteland || C Wild ||
+Ｃ森 || C Forest || C Wood ||
+Ｃ橋 || C Bridge || C Brdg ||
+Ｃ草原の道路 || C Plains Road || ||
+暗礁 || Shoal Zone || Shoal || 暗礁宙域 (Gundam)
+残骸 || Wreckage || Wreck ||
+コロニー残骸（近） || Colony Wreck (Near) || Colony Wreck (N) ||
+土星（ダイモビック） || Saturn (Daimovic) || ||
+火星 || Mars || ||
+フォボス || Phobos || ||
+ダイモス || Deimos || ||
+コロニー（近） || Colony (Near) || ||
+コロニー（遠） || Colony (Far) || ||
+宇宙ローズ || Space Rose || ||
+ソーラーレイ（近） || Solar Ray (Near) || ||
+ミラー || Mirror || ||
+ルナⅡ（近景） || Luna II (Near) || ||
+ソロモン（近景） || Solomon (Near) || ||
+ア・バオア・クー（近景） || A Baoa Qu (Near) || ||
+アクシズ（近景） || Axis (Near) || ||
+月面 || Moon Surface || Moon ||
+月クレーター || Moon Crater || ||
+月山 || Moon Mountain || MoonMt ||
+月面基地 || Moon Base || ||
+火星空中 || Mars Air || ||
+火星平地 || Mars Plains || Mars Flat ||
+火星道路 || Mars Road || ||
+火星山 || Mars Mountain || MarsMt ||
+火星基地 || Mars Base || ||
+基地内 床 || Base Floor || ||
+基地内 天井 || Base Ceiling || Base Ceil. ||
+ビル街道路 || City Street || City Road ||
+荒野道路 || Waste Road || ||
+森道路 || Forest Road || WoodRd ||
+水辺 || Waterside || Shore ||
+大気圏 || Atmosphere || Atmos. ||
+ビックシェル（ムトロポリス） || Big Shell (Mutropolis) || ||
+大鳥島ビッグファルコン基地 || Big Falcon Base, Otori Is. || || Voltes V
+ＮＥＲＶ本部（夜・空中） || NERV HQ (Night, Air) || ||
+ＮＥＲＶ本部（昼・空中） || NERV HQ (Day, Air) || ||
+エンジェル・ハイロウ || Angel Halo || ||
+マクロス艦内（ビル上） || Macross Interior (Roof) || Macross Int. (Roof) ||
+ブリタイ艦内（床） || Vrlitwhai Ship (Floor) || Vrlitwhai Floor || glosario: Vrlitwhai
+木星 || Jupiter || Jupitr ||
+冥王星 || Pluto || ||
+雷王星＋てんこもり宇宙 || Raioh + Busy Space || || 雷王星 = Planet Raioh (B01)
+宇宙怪獣てんこもり宇宙 || Space Monster-Packed Space || Space Monster Swarm || Gunbuster
+お屋敷 || Mansion || Manor ||
+草地の防波堤 || Grassy Seawall || ||
+臨海学園 || Seaside School || Sea School ||
+住宅街 || Residential || Houses ||
+コロニー残骸（遠） || Colony Wreck (Far) || ||
+コンサート会場 || Concert Hall || ||
+マクロス艦ドック || Macross Dock || ||
+砂漠道路 || Desert Road || Desert Rd. ||
+ブリタイ艦（外壁） || Vrlitwhai Ship (Hull) || Vrlitwhai Hull ||
+ブリタイ艦内（天井） || Vrlitwhai Ship (Ceiling) || Vrlitwhai Ceiling ||
+地上クレーター || Ground Crater || ||
+ブリタイ艦内（入口の床） || Vrlitwhai Ship Entry Floor || ||
+ブリタイ艦内（入口の天井） || Vrlitwhai Ship Entry Ceiling || Vrlitwhai Entry Ceiling ||
+Ｃ軍事基地 || C Mil. Base || C Mil Base ||
+Ｃビル上 || C Rooftop || ||
+アクシズ内・草地 || Axis Interior: Grass || Axis: Grassland ||
+アクシズ内・草地の道路 || Axis: Grassland Road || ||
+アクシズ内・森 || Axis: Forest || ||
+ルナⅡ（遠景） || Luna II (Far) || ||
+ソロモン（遠景） || Solomon (Far) || ||
+ア・バオア・クー（遠景） || A Baoa Qu (Far) || ||
+アクシズ（遠景） || Axis (Far) || ||
+壊れた早乙女研究所 || Ruined Saotome Lab || ||
+月道路 || Moon Road || MoonRd ||
+廃墟の道路 || Ruined Road || Ruin Road ||
+ＮＥＲＶ・夜・草原 || NERV Night Plains || ||
+ＮＥＲＶ・夜・草原道路 || NERV Night Plains Rd || ||
+ＮＥＲＶ・夜・森 || NERV Night Forest || ||
+ＮＥＲＶ・夜・水上 || NERV Night Water || ||
+ＮＥＲＶ・昼・草原 || NERV Day Plains || ||
+ＮＥＲＶ・昼・草原道路 || NERV Day Plains Rd || ||
+ＮＥＲＶ・昼・森 || NERV Day Forest || ||
+ＮＥＲＶ・昼・水上 || NERV Day Water || ||
+コンクリートの防波堤 || Concrete Seawall || ||
+荒野と川 || Wasteland & River || Wild+River ||
+セントラルドグマ || Central Dogma || ||
+ＮＥＲＶ・夜・電源ビル || NERV Night Power Bldg || ||
+ＮＥＲＶ・昼・電源ビル || NERV Day Power Bldg || ||
+ＮＥＲＶ・夜・ビル上 || NERV Night Rooftop || ||
+ＮＥＲＶ・昼・ビル上 || NERV Day Rooftop || ||
+ソーラーレイ（遠） || Solar Ray (Far) || ||
+銀河中心 || Galactic Core || Galaxy Ctr ||
+夜・草原 || Night Plains || Nt. Plains ||
+夜・草原の道路 || Night Plains Road || Nt. Plains Rd. ||
+夜・森 || Night Forest || NtWood ||
+夜・草地の防波堤 || Night Grassy Seawall || Nt. Grass Seawall ||
+夜･コンクリートの防波堤 || Night Concrete Seawall || ||
+夜･ビル上 || Night Roof || ||
+夜･ビル街道路 || Night City Road || Nt. City Road ||
+夜･住宅地 || Night Homes || Nt. Homes ||
+夜･橋 || Night Bridge || NtBrdg ||
+夜･海中（深い所） || Night Sea (Deep) || ||
+夜･水中（浅い所） || Night Shallows || ||
+夜･砂漠 || Night Desert || NtDsrt ||
+夜･荒野 || Night Wasteland || NtWild ||
+夜･荒野の道路 || Night Waste Road || Nt. Waste Road ||
+夜･軍事基地 || Night Base || ||
+夜･山 || Night Mountain || NtMtn ||
+夜･空中 || Night Air || NtAir ||
+# --- PRM: registro de batalla (probable depuración) ---
+攻撃なし || No Attack || ||
+回避成功 || Evaded || ||
+分身発生 || Afterimage || ||
+切り払い発生 || Sword Cut! || ||
+シールド防御 || Shield Defense || ||
+クリーンヒット || Clean Hit || ||
+クリティカル発生 || Critical! || ||
+クリティカルなし || No Critical || ||
+発生/%s || Active/%s || On/%s || conservar %s
+貫通/%s || Pierce/%s || Prc/%s || conservar %s
+バリア発生なし || No Barrier || ||
+武器消費EN / %d || Weapon EN / %d || ||
+バリア消費EN / %d || Barrier EN / %d || ||
+基本ダメージ/%d || Base Damage/%d || ||
+総合ダメージ/%d || Total Damage/%d || ||
+背景:%s || BG:%s || ||
+撃墜 || Destroyed || KO ||
+ｱｻﾙﾄﾊﾟｰﾂ || Assault Parts || || partes de Re-Equip (sin puntero directo)
+ﾊﾞｽﾀｰﾊﾟｰﾂ || Buster Parts || ||
+AMﾎﾞｸｻｰ || AM Boxer || || oficial OG
+AMｶﾞﾝﾅｰ || AM Gunner || || oficial OG
+# --- SNDU: selección de salida ---
+出撃ユニットを選択してください || Select units to sortie. || ||
+このメンバーで出撃しますか？ || Sortie with this lineup? || ||
+よし、総員出撃！ || All units, launch! || ||
+いや、ちょっと待て。 || No, wait a moment. || ||
+マップを見て作戦を立てよう。 || Let's check the map and plan. || ||
+出撃ユニットが選択されていません。 || No units selected to sortie. || ||
+出撃ユニットを決めるぞ！ || Let's pick our sortie units! || Time to pick our team! ||
+# --- SNMP: mapa ---
+出撃ﾕﾆｯﾄ選択 || Select Sortie Units || Sortie Units ||
+あと || Left || || "あと N" (quedan N) en la selección de unidades de salida; en el menú Combine (SNMP +0x26E74) layout_patch.py lo oculta (#8 del repo público)
+特技 || Skills || ||
+回復 || Recover || Regen || bono de terreno (recuperación)
+命中率 || Hit Rate || Hit % ||
+戦闘開始 || Start Battle || Start ||
+反撃 || Counter || Fight ||
+防御攻撃 || Defend+Attack || Def+Attack || contexto no confirmado
+配置 || Deploy || ||
+ﾊﾟｲﾛｯﾄ情報 || Pilot Info || ||
+ﾕﾆｯﾄ情報 || Unit Info || ||
+入手強化ﾊﾟｰﾂ || Parts Obtained || ||
+ﾚﾍﾞﾙｱｯﾌﾟ! || Level Up! || ||
+回合体出来ます || combinations left || || va después de un número ("N回合体出来ます"): layout_patch.py pone el número a la izquierda y este texto 16 px después (#8 del repo público)
+合体しますか? || Combine? || ||
+ﾀｰﾝ || Turn || T || lugar 3: forma corta de 1 letra; mejor reubicar
+ﾀｰﾝを終了します || Ending turn. || ||
+HP情報 || HP Info || HP ||
+ﾏﾆｭｱﾙ || Manual || ||
+精神検索一覧 || Spirit Search || ||
+消費精神ﾎﾟｲﾝﾄ || SP Cost || ||
+復活ﾕﾆｯﾄ選択 || Select Unit to Revive || Revive Unit ||
+撃墜ﾕﾆｯﾄ清算 || Destroyed Units || Kill Tally || liquidación de enemigos derribados al final del mapa
+ﾎﾞｰﾅｽ経験値取得 || Bonus EXP || ||
+エラーメッセージ || Error Message || ||
+# --- TITL: título / carga / protagonista ---
+性別 || Gender || ||
+誕生日 || Birthday || B-day ||
+血液型 || Blood || || ficha del protagonista: la columna de valores deja ~40 px (#57)
+性格 || Nature || || ficha del protagonista: "Personality" pisa el valor (#57)
+主人公設定 || Main Character || Hero Setup ||
+決定 || Confirm || OK ||
+主人公設定の変更 || Edit Main Character || Edit Protagonist ||
+やりなおし || Start Over || ||
+名前登録 || Enter Name || ||
+1月 || Jan || 1 || lugar 3: forma corta numérica; mejor reubicar (tiene puntero)
+2月 || Feb || 2 ||
+3月 || Mar || 3 ||
+4月 || Apr || 4 ||
+5月 || May || 5 ||
+6月 || Jun || 6 ||
+7月 || Jul || 7 ||
+8月 || Aug || 8 ||
+9月 || Sep || 9 ||
+10月 || Oct || ||
+11月 || Nov || ||
+12月 || Dec || ||
+ｷｬﾝｾﾙ || Cancel || ||
+メモリーカードをチェックしています｡ || Checking Memory Card... || ||
+ﾃﾞｰﾀを調べています｡ || Checking data... || ||
+どれかﾎﾞﾀﾝを押してください｡ || Press any button. || ||
+ﾀｲﾄﾙに戻ります､よろしいですか? || Return to the title screen? || ||
+ｼｽﾃﾑﾌｧｲﾙが壊れています｡ || The system file is corrupted. || System file corrupted. ||
+ｼｽﾃﾑﾌｧｲﾙにｺﾝﾃｨﾆｭｰﾃﾞｰﾀがありません｡ || No continue data in the system file. || System file has no continue data. ||
+他のﾒﾓﾘｰｶｰﾄﾞを使う || Use another card || ||
+ﾒﾓﾘｰｶｰﾄﾞを交換してください｡ || Please swap Memory Cards. || ||
+ﾛｰﾄﾞ中です､ﾒﾓﾘｰｶｰﾄﾞを抜かないでください｡ || Loading. Do not remove the Memory Card. || ||
+ｼｽﾃﾑﾌｧｲﾙがないため､ｺﾝﾃｨﾆｭｰできません｡ || Can't continue: no system file. || ||
+ﾒﾓﾘｰｶｰﾄﾞをｽﾛｯﾄ1に差してください || Insert a Memory Card in slot 1 || ||
+# ── Strings de un carácter (inventario ampliado 2026-09-28; antes el volcado pedía ≥ 2 caracteres) ──
+空 || Air || || terreno: la letra de rango va en x fija → máx. 3 letras ("Land"/"Space" la pisan, prueba 2026-09-28)
+陸 || Lnd || || terreno (3 letras, ver 空)
+海 || Sea || || terreno
+宇 || Spc || || terreno (3 letras, ver 空)
+機 || {blank} || || contador de derribos ("36機" → "36"); {blank} = string vacío (ovl_patch.py)
+魂 || Soul || || espíritu (glosario)
+愛 || Love || || espíritu (glosario)
+森 || Forest || || terreno del mapa
+山 || Mountain || || terreno del mapa
+橋 || Bridge || || terreno del mapa
+月 || Moon || || terreno del mapa (superficie lunar)
+姓 || Last || || pantalla de ingreso: apellido
+名 || First || || pantalla de ingreso: nombre
+男 || Male || || pantalla de ingreso: sexo
+女 || Female || || pantalla de ingreso: sexo
+顔 || Face || || pantalla de ingreso: rótulo bajo la cara del protagonista (#276)
+# --- Strings de varias líneas (salto 0x0A; "\n" en este archivo). Reemplazan los fragmentos de la 2.ª línea (#9, 2026-09-30) ---
+義理人情に厚い真面目な少年。正義感が強く、\n何事にも真面目に取り組む姿勢が他人の信頼を\n集めている。少々短気なところが玉にキズ。 || A dutiful, earnest boy with a strong\nsense of justice. His serious attitude\nwins others' trust. A bit hot-headed. || || multilínea (#9)
+沈着冷静、頭脳明晰。常に紳士的な態度を\n心がけている。常識派の人間で少々理屈っぽい\nところがあるが、人付き合いは割と良い。 || Calm, cool and brilliant. Always strives\nto act like a gentleman. Sensible, if a\nbit of a stickler, but fairly sociable. || || multilínea (#9)
+内気で心優しい少年。他人に対する思いやり\nは人一倍ある。物事を悲観的にとらえがち\nだが、芯はしっかりしており、意外に前向き。 || A shy, kind boy, more considerate of\nothers than most. Prone to pessimism,\nbut firm at heart and surprisingly upbeat. || || multilínea (#9)
+脳天気で楽観主義者。勝負事が大好きで、\n常に自分の運を試そうとする。頭の回転も\n早く洞察力に優れている。実は運動音痴。 || Carefree optimist who loves a contest\nand always tests his luck. Quick-witted,\nsharp and perceptive. Bad at sports. || || multilínea (#9)
+正義感が強く、明朗快活で真面目な女の子。\n自分が決めた目標は何としてでもやりとげる。\n優等生タイプで、割と説教くさいところがある。 || A cheerful, earnest girl with a strong\nsense of justice. Finishes any goal she\nsets. Honor-student type; tends to lecture. || || multilínea (#9)
+頭脳明晰で沈着冷静。プライドが高く、\n気も強い。名門の軍人一族の息女であり、\n何でもこなすように見えるが音痴で料理下手。 || Brilliant and cool-headed. Proud and\nfiery; daughter of a military dynasty.\nSeems capable, but tone-deaf; can't cook. || || multilínea (#9)
+心優しく、大人しい性格。自分のことよりも\n他人のことを心配してしまうタイプ。しかし、\nいざという時の行動力は他人を驚かせるほど。 || Kind-hearted and gentle. Worries about\nothers more than herself. But when it\ncounts, acts with startling drive. || || multilínea (#9)
+男勝りで陽気な女の子。要領をつかむのが\n上手く、人なつこい。悩み事があっても\n一晩寝れば忘れる。実は結構ロマンティスト。 || A tomboyish, cheerful girl. Quick to get\nthe knack of things and friendly. Sleeps\noff any worry. Secretly a romantic. || || multilínea (#9)
+あと75000の資金を投入すれば、新しい\n武器を装備できるぞ。 || Invest another 75000 and you can\nequip a new weapon! || || multilínea (#9)
+あと75000の資金を投入すれば、新しい\n武器を装備できるわよ。 || Invest another 75000 and you'll\nbe able to equip a new weapon. || || multilínea (#9)
+資金ヲアト75000使エバ、新シイ武器\n装備デキルゾ！ドウスル？ || SPEND 75000 MORE AND NEW WEAPONS\nCAN BE EQUIPPED! WHAT NOW? || || multilínea (#9)
+戦闘デモ中の主人公の声は出ません。\nあなたの熱き魂で叫んでください。 || Protagonist's voice is muted in battle\ndemos. Shout with your burning soul! || Protagonist voice is off in demos.\nShout with your burning soul!
+戦闘デモ終了時にBGMの切り替えを\n行いません。 || BGM won't change when the\nbattle demo ends. || || multilínea (#9)
+戦闘デモ終了時にBGMを標準の曲に\n切り替えます。 || When the battle demo ends, BGM\nswitches to the standard track. || After a battle demo, BGM\nswitches to standard.
+戦闘毎に、デモ画面に移行するかどうか\nを選択します。 || Choose for each battle whether\nto switch to the demo screen. || Choose per battle whether to\nuse the demo screen.
+戦闘・イベントなどでアナログ\nコントローラが振動します。 || The analog controller vibrates in\nbattles, events, and so on. || The analog controller vibrates in\nbattles, events, etc.
+運動性+5\n限界反応+20 || Mobility+5\nLimit+20 || || multilínea (#9)
+移動力+1\n運動性+5 || Move+1\nMobility+5 || || multilínea (#9)
+運動性+10\n限界反応+15 || Mobility+10\nLimit+15 || || multilínea (#9)
+運動性+10\n限界反応+30 || Mobility+10\nLimit+30 || || multilínea (#9)
+移動力+2\n運動性+20\n限界反応+30 || Move+2\nMobility+20\nLimit+30 || || multilínea (#9)
+最大ＨＰ+500\n装甲+150 || Max HP+500\nArmor+150 || || multilínea (#9)
+最大ＨＰ+800\n装甲+200 || Max HP+800\nArmor+200 || || multilínea (#9)
+最大ＨＰ+1000\n装甲+300 || Max HP+1000\nArmor+300 || || multilínea (#9)
+最大ＨＰ+1500\n装甲+400 || Max HP+1500\nArmor+400 || || multilínea (#9)
+マップ兵器及び射程1以外の\n武器の射程が1増える。 || Range +1 for all weapons except\nMap weapons and Range 1 weapons. || +1 Range to all but Map and\nRange 1 weapons.
+全ての武器の命中率が\n30％上昇する。 || Hit rate of all weapons\nup by 30%. || || multilínea (#9)
+空を飛べるようになり、ﾕﾆｯﾄ\nの地形適応を空Aにする。 || Grants flight and sets the unit's\nterrain rank to Air A. || Grants flight; unit's terrain\nrank becomes Air A.
+移動力+2\n空を飛べるようになり、ﾕﾆｯﾄ\nの地形適応を空Aにする。 || Move+2\nGrants flight and sets the unit's\nterrain rank to Air A. || || multilínea (#9)
+移動力-1　運動性-15\n限界反応-20\n撃墜時の修理費が10になる。 || Move-1 Mobility-15\nLimit-20\nRepair cost is 10 if shot down. || || multilínea (#9)
+ﾋﾞｰﾑ攻撃によるﾀﾞﾒｰｼﾞを\n2000軽減。 || Reduces damage from beam\nattacks by 2000. || || multilínea (#9)
+ﾋﾞｰﾑ攻撃によるﾀﾞﾒｰｼﾞを\n1500軽減。 || Reduces damage from beam\nattacks by 1500. || || multilínea (#9)
+すべての攻撃によるﾀﾞﾒｰｼﾞを\n1800まで無効化。\n気力110以上で発動。 || Nullifies damage from all attacks\nup to 1800.\nActive at Will 110+. || || multilínea (#9)
+すべての攻撃によるﾀﾞﾒｰｼﾞを\n2500軽減。\n気力130以上で発動。 || Reduces damage from all attacks\nby 2500.\nActive at Will 130+. || Reduces all attack damage\nby 2500.\nActive at Will 130+.
+ﾊﾟｲﾛｯﾄのSPを全回復。\n使い捨て。 || Fully restores pilot SP.\nSingle use. || || multilínea (#9)
+ｴﾈﾙｷﾞ-を50回復。\n使い捨て。 || Restores 50 EN.\nSingle use. || || multilínea (#9)
+ｴﾈﾙｷﾞ-を200回復。\n使い捨て。 || Restores 200 EN.\nSingle use. || || multilínea (#9)
+HPを2000回復。\n使い捨て。 || Restores 2000 HP.\nSingle use. || || multilínea (#9)
+HPを全回復。\n使い捨て。 || Fully restores HP.\nSingle use. || || multilínea (#9)
+敵にとどめを刺さずに、HPを10だけ残す\n自分より技量の低い相手にのみ有効。 || Leaves an enemy at 10 HP, no kill.\nOnly works on lower-Skill enemies. || || multilínea (#9)
+行動回数を一回増やす。\n重ねがけは無効。 || Grants one extra action.\nDoesn't stack. || || multilínea (#9)
+一度だけ敵に与えるダメージが３倍になり、\n命中率とクリティカル率が100%になる。\nただし1ターンの間回避率ゼロ。 || Triples damage dealt to an enemy once;\nhit and critical rates become 100%.\nBut evasion is 0 for 1 turn. || || multilínea (#9)
+1ターンの間、敵の命中率が半分になる。\nただし、敵の「必中」は優先される。 || Halves enemy hit rate for 1 turn.\nEnemy Bullseye still takes priority. || || multilínea (#9)
+指定した敵ユニットが自分をねらって移動する。\n一度でもその敵と戦闘すれば解除。 || Draws a chosen enemy to move at you.\nEnds after one battle with that foe. || || multilínea (#9)
+指定した行動済みの味方ユニット1体を再び行動\n可能にする。 || Lets one chosen ally that already\nacted act again. || || multilínea (#9)
+撃墜された味方ユニット1体をHP、精神力ともに\n全回復状態で復活させる。 || Revives one downed ally with full\nHP and SP. || || multilínea (#9)
+自爆し、隣接するユニットに残りHP分の防御無視\nダメージを与える。 || Self-destructs: adjacent units take\ndefense-ignoring damage equal to HP left. || Self-destruct: adjacent units take\nHP-left damage, unguardable.
+気合×３、加速、幸運、必中、ひらめき、魂を\n同時にかける。 || Casts Spirit x3, Accel, Luck, Bullseye,\nFlash and Soul at the same time. || Casts Spirit x3, Accel, Luck,\nBullseye, Flash and Soul.
+行動終了していないﾕﾆｯﾄが%d機あります\nﾀｰﾝを終了しますか? || %d units have yet to act.\nEnd turn? || || multilínea (#9)
+敵の攻撃によって撃墜される可能性がない限り\n反撃を行います。 || Counterattacks as long as there's no\nchance the enemy's attack shoots you down. || || multilínea (#9)
+敵パイロットのレベルが自分より低い場合は\n回避か防御を行い、それ以外は反撃を行います。 || If the enemy pilot's level is lower than\nyours, evade or defend; otherwise, counterattack. || || multilínea (#9)
+  ボタンで個別に命令を変更\n  ボタンで全員の命令を一斉変更 || 　  change each unit's orders\n　  change everyone's orders || || multilínea (#9) · #67: el ícono ○/△ (14 px) va en x fija al principio del renglón; hueco = 　 (12 px) + 2 espacios VWF = 18 px (medido en el juego)
+
+# Opciones Sí/No embebidas en un solo string (separadas por tabulador, #69)
+はい\tいいえ || Yes\tNo || || Load/Save, formato y título (ENTR, IMIS, TITL)
+ﾌｫｰﾏｯﾄを行いますか？\t\tはい\tいいえ || Format?\t\tYes\tNo || || IMIS y PRM
+ﾀﾞｳﾝﾛｰﾄﾞを行いますか？\t\tはい\tいいえ || Download?\t\tYes\tNo || || IMIS
+
+# Menú OPTION del título y rótulos de las fichas de los diccionarios (overlay SNDM; las letras de canciones quedan en japonés)
+ｵﾌﾟｼｮﾝ || Options || ||
+ｻｳﾝﾄﾞｾﾚｸﾄ || Sound Test || ||
+ｷｬﾗｸﾀｰ事典 || Character Guide || Characters || DC.BIN
+ﾛﾎﾞｯﾄ大図鑑 || Robot Guide || Robots || DR.BIN
+ﾃﾞﾓｾﾚｸﾄ || Demo Select || Demos ||
+ｶﾗｵｹﾓｰﾄﾞ || Karaoke Mode || Karaoke ||
+声優 || Voice || || seiyuu
+登場作品 || Series || ||
+全長 || Height || || DR.BIN
+重量 || Weight || ||
+収録率 || Completion || Done || % de entradas vistas
+ﾏｼﾞﾝｶﾞｰZ発進 || Mazinger Z Launch || ||
+ﾁｪﾝｼﾞ! ｹﾞｯﾀｰﾛﾎﾞ || Change! Getter Robo || || Demo Select: título del video n.º 2
+ﾚｯﾂ･ｺﾝﾊﾞｲﾝ || Let's Combine || || Demo Select: título del video n.º 3
+目覚めよ、勇者ﾗｲﾃﾞｨｰﾝ || Awaken, Brave Raideen || || Demo Select: título del video n.º 4
+EVA初号機、ﾘﾌﾄ･ｵﾌ || EVA Unit-01, Lift Off || || Demo Select: título del video n.º 5
+赤い稲妻 || Red Lightning || || Demo Select: título del video n.º 6
+ｹﾞｯﾀｰﾛﾎﾞG登場 || Getter Robo G Arrives || || Demo Select: título del video n.º 7
+いでよ神の戦士 || Come Forth, Warrior of the Gods || || Demo Select: título del video n.º 8
+偉大な勇者 || The Great Hero || || Demo Select: título del video n.º 9
+ﾚｯﾂ･ﾎﾞﾙﾄｲﾝ || Let's Volt In || || Demo Select: título del video n.º 10
+真･ｹﾞｯﾀｰ現る || Shin Getter Appears || || Demo Select: título del video n.º 11
+龍虎合体 || Dragon-Tiger Combination || || Demo Select: título del video n.º 12
+ｳﾞｧﾘｱﾌﾞﾙ･ﾌｫｰﾒｰｼｮﾝ || Variable Formation || || Demo Select: título del video n.º 13
+魔神皇帝の目覚め || Mazinkaiser Awakens || || Demo Select: título del video n.º 14
+炎となりて || Become the Flames || || Demo Select: título del video n.º 15
+
+# Valor "Type" de la ficha de unidad (IMIS, PRM, SNDU): las etiquetas se concatenan; espacio final con \s. Por dirección: el mismo kanji en otras pantallas es el rótulo de terreno (Air/Lnd/Sea/Spc). La rutina de relleno se anula en entry_patch.py
+空@IMIS:0x800d72fc || Air\s || || Type (ficha de unidad)
+水@IMIS:0x800d7300 || Sea\s || ||
+陸@IMIS:0x800d7304 || Lnd\s || ||
+空@PRM:0x800a9aa0 || Air\s || ||
+水@PRM:0x800a9aa4 || Sea\s || ||
+陸@PRM:0x800a9aa8 || Lnd\s || ||
+空@SNDU:0x801130e4 || Air\s || ||
+水@SNDU:0x801130e8 || Sea\s || ||
+陸@SNDU:0x801130ec || Lnd\s || ||
+
+# Pantalla Parts: columnas restantes / total
+残 || Left || || columna de Parts (ancho ~20 px)
+総 || All || ||
+# Resumen de unidad en el mapa (#285): abreviatura de espíritu = 1 kanji → 3 letras (columna de 0x18 px, VWF). Orden = índice de espíritu 0–16
+熱 || Val || || #285 Valor
+手 || Mrc || || #285 Mercy
+狙 || Snp || || #285 Snipe
+閃 || Fls || || #285 Flash
+努 || Gai || || #285 Gain
+幸 || Lck || || #285 Luck
+集 || Foc || || #285 Focus
+必 || Stk || || #285 Bullseye (forma corta "Strike" del mapa)
+鉄 || Wal || || #285 Wall
+隠 || Stl || || #285 Stealth
+加 || Acl || || #285 Accel
+覚 || Zel || || #285 Zeal
+激 || Fry || || #285 Fury
+捨 || Rkl || || #285 Reckless
+撹 || Jam || || #285 Disrupt
+挑 || Tnt || || #285 Taunt (string aparte, ref de código PRM+0x1E600)

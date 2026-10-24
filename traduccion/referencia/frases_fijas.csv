@@ -1,0 +1,73 @@
+jp,en,tipo,modo,veces,notas
+………,...,reacción,linea,8565,"Silencio. Pensamiento mudo: ""(...)""."
+………………,......,reacción,linea,218,Silencio largo.
+！！,!!,reacción,linea,283,Sorpresa muda.
+！？,!?,reacción,linea,214,"Siempre ""!?"" (orden SRW). σ = !? y ρ = !! en SCRIPT."
+……！,...!,reacción,linea,113,
+はい,Yes.,respuesta,linea,153,"Con superiores y registro militar: ""Yes, sir."" / ""Yes, ma'am."""
+…はい,...Yes.,respuesta,linea,123,
+は、はい…,Y-Yes...,respuesta,linea,43,
+了解！,Roger!,respuesta,linea,121,Pilotos y operadores.
+了解です,Roger that.,respuesta,linea,68,
+了解しました,Understood.,respuesta,linea,37,
+わかりました,Understood.,respuesta,linea,103,"""All right."" si el registro es casual."
+何だと！？,What!?,reacción,linea,78,"Varón, enojo."
+何だって！？,What did you say!?,reacción,linea,37,Incredulidad.
+何ですって！？,What!?,reacción,linea,34,Femenino.
+な、何だって！？,Wh-What!?,reacción,linea,30,
+何！？,What!?,reacción,linea,36,
+くっ…！,Ngh...!,reacción,linea,42,"Dolor/frustración (""Tch...!"" si es fastidio)."
+そ、そんな…,N-No...,reacción,linea,33,"O ""That can't be..."""
+ええ…,Yes...,respuesta,linea,70,ええ = femenino/formal.
+ああ…,Yeah...,respuesta,linea,38,ああ = masculino casual.
+こ、これは！？,Wh-What is this!?,reacción,linea,3,
+ありがとう…,Thank you...,respuesta,linea,23,
+ごめんなさい!,I'm sorry!,respuesta,linea,54,
+くらえっ!!,Take this!!,batalla,linea,137,Muy repetido: variar solo si el personaje tiene voz propia.
+これでもくらえっ!!,Eat this!!,batalla,linea,51,
+もらったっ!!,Got you!!,batalla,linea,95,
+まだ終わりじゃない!,It's not over yet!,batalla,linea,110,
+行くぞっ!!,Here I come!!,batalla,linea,58,
+落ちろっ!!,Go down!!,batalla,linea,56,
+落ちなさい!,Go down!,batalla,linea,61,Femenino/formal.
+そこっ!!,There!!,batalla,linea,62,
+そこだっ!!,Right there!!,batalla,linea,48,
+反撃します!,Counterattacking!,batalla,linea,61,
+直撃させる!!,Direct hit!!,batalla,linea,50,
+やらせるかっ!!,Not on my watch!!,batalla,linea,35,
+スキありっ!,Opening!,batalla,linea,38,"""You're wide open!"" si entra."
+こいつでとどめだ!!,This'll finish you!!,batalla,linea,25,
+貴様ぁっ!!,You bastard!!,batalla,linea,24,
+ゲットセット! GO!!,Get set! GO!!,batalla,linea,47,Gunbuster/Getter: ya viene en inglés.
+グルンガスト弐式、起動！,"Grungust Type 2, activate!",batalla,linea,28,"Nombre OGs oficial sin guion (glosario/units_en). dr_en escribe ""Type-2"": unificar."
+敵の全滅。,Defeat all enemies.,condición,fragmento,224,Solo en lista de victoria.
+味方の全滅。,All allies are destroyed.,condición,fragmento,158,Solo en lista de derrota.
+母艦の撃墜。,Your battleship is destroyed.,condición,fragmento,122,Derrota.
+いずれかの味方ユニットの撃墜。,Any allied unit is destroyed.,condición,fragmento,38,
+Ｘの撃墜。,(victoria) Defeat X. / (derrota) X is destroyed.,condición,plantilla,,"¡Mismo JP, sentido opuesto! Mirar `tipo` (victoria/derrota) en dump/sndata_map.csv. Personas: ""X is shot down."""
+Ｘの防衛。,Defend X.,condición,plantilla,,
+敵ユニットのＸへの侵入。,An enemy unit reaches X.,condición,plantilla,,
+Ｎターン目までＸを防衛すること。,Defend X until turn N.,condición,plantilla,,
+Ｎターン以内に…,"Within N turns, ...",condición,plantilla,,
+ＥＶＡ零号機のＥＮ切れ。,EVA Unit-00 runs out of EN.,condición,fragmento,5,"Ídem Unit-01 (初号機), Unit-02 (弐号機)."
+Ｘが目標地点に到達すること。,X reaches the target point.,condición,plantilla,,
+１．,1. ,condición,plantilla,,Numeración: dígito ASCII + punto + espacio. Varias condiciones en la misma caja: una por línea.
+『移動』,"""Move""",tutorial,fragmento,24,"Rótulos = categoría ui de glossary.csv, exactos."
+『攻撃』,"""Attack""",tutorial,fragmento,48,
+『反撃』,"""Counter""",tutorial,fragmento,48,Verificar contra menus_en (opciones de defensa).
+『回避』,"""Evade""",tutorial,fragmento,48,
+『防御』,"""Defend""",tutorial,fragmento,48,
+個別コマンド,unit command menu,tutorial,fragmento,88,Verificar contra menus_en.
+マジーン、ゴー！！,"Mazin, Go!!",icónica,linea,2,Koji.
+やってやるぜ,Let's do this!,icónica,fragmento,15,Shinobu (propuesta de la guía; fijar).
+努力と根性,hard work and guts,icónica,fragmento,1,Gunbuster.
+ブイ・トゥゲザー！,V-Together!,icónica,fragmento,6,Voltes V.
+レッツ！　ボルトイン！！,Let's Volt In!!,icónica,fragmento,1,Voltes V.
+レッツ・コンバイン,Let's Combine!,icónica,fragmento,2,Combattler V.
+日輪の力を借りて、今、必殺の!,With the power of the sun... my finishing move!,icónica,fragmento,4,"Banjo antes de ""Sun Attack"" (BXCLIST)."
+お前を殺す,I'll kill you.,icónica,fragmento,7,Heero (oficial).
+任務了解,Mission accepted.,icónica,fragmento,9,Heero (oficial).
+問題ない,No problem.,icónica,fragmento,16,Gendo.
+逃げちゃ駄目だ,I mustn't run away.,icónica,fragmento,6,Shinji (oficial).
+ヤック・デカルチャ,Yack deculture!,icónica,fragmento,3,Zentradi: no traducir.
+天上天下,Tenjou Tenge,icónica,fragmento,12,Parte de nombres de arma (Unstoppable...): seguir weapons_en; Masaki se burla del nombre.

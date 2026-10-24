@@ -1,0 +1,24 @@
+caja,x,y,w,h,jp,en,align,font,size,style
+H1,164,5,80,21,現在位置,Location,l,DejaVuSans-Bold,11,solid
+R01a,2,33,47,16,移動中,En Route,l,DejaVuSans-Bold,11,solid
+R01b,97,33,143,16,フロンティアⅣコロニー,Frontier IV Colony,l,DejaVuSans-Bold,11,solid
+R02a,1,49,88,16,グリーンノア２,Green Noa 2,l,DejaVuSans-Bold,11,solid
+R02b,146,49,94,16,ラビアンローズ,La Vie en Rose,l,DejaVuSans-Bold,11,solid
+R03a,1,65,79,16,ジュピトリス,Jupitris,l,DejaVuSans-Bold,11,solid
+R03b,145,65,55,16,アクシズ,Axis,l,DejaVuSans-Bold,11,solid
+R04a,1,81,143,16,衛星軌道上・アーガマ艦,"Orbit, the Argama",l,DejaVuSans-Bold,11,solid
+R04b,161,81,52,16,サイド７,Side 7,l,DejaVuSans-Bold,11,solid
+R05a,1,97,128,16,ア・バオア・クー宙域,A Baoa Qu Space,l,DejaVuSans-Bold,11,solid
+R05b,161,97,64,16,暗礁宙域,Shoal Zone,l,DejaVuSans-Bold,11,solid
+R06a,2,113,134,16,エンジェル・ハイロゥ,Angel Halo,l,DejaVuSans-Bold,11,solid
+R06b,161,113,72,16,コンペイ島,Konpei Island,l,DejaVuSans-Bold,11,solid
+R07a,1,129,176,16,エンジェル・ハイロゥ付近の宙域,Space near the Angel Halo,l,DejaVuSans-Bold,11,solid
+R08a,1,145,152,16,ＳＤＦ艦隊合流ポイント,SDF Fleet Rendezvous Point,l,DejaVuSans-Bold,11,solid
+R08b,177,145,54,16,サイド４,Side 4,l,DejaVuSans-Bold,11,solid
+R09a,1,161,113,16,地球大気圏付近,Near Earth,l,DejaVuSans-Bold,11,solid
+R09b,129,161,120,16,コスモ・バビロニア,Cosmo Babylonia,l,DejaVuSans-Bold,11,solid
+R10a,0,177,137,16,ネオ・テクネチウム基地,Neo Technetium Base,l,DejaVuSans-Bold,11,solid
+R10b,176,177,58,16,ルナツー,Luna II,l,DejaVuSans-Bold,11,solid
+R11a,1,193,65,16,アーガマ艦,The Argama,l,DejaVuSans-Bold,11,solid
+R11b,97,193,144,16,ボアザン軍スカールーク,Boazan Skullruk,l,DejaVuSans-Bold,11,solid
+R12a,2,209,110,16,フォン・ブラウン,Von Braun,l,DejaVuSans-Bold,11,solid
