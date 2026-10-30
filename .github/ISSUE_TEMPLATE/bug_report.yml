@@ -1,6 +1,7 @@
 name: Bug report
 description: Untranslated Japanese, cut-off or overlapping text, broken glyphs, crashes
 labels: [bug]
+assignees: nrlemo
 body:
   - type: input
     id: build
