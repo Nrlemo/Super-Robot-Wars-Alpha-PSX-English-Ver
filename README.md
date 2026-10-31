@@ -40,7 +40,12 @@ Grab your original Japanese ISO, check the README.md for the quick xdelta patchi
 
 ## What's new in v1.01
 
-Fixes from player reports ([#16](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/issues/16)):
+Fixes from player reports:
+- Stage 11 prologue and nearby scenes: *Tutti* is now **Tyutti**, *Lord Fail* is **Lord Feilord**, *Yanlon* is **Yang-Long**, and Koji's line about Masaki reads *"Has that guy Masaki regained consciousness!?"* ([#10](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/issues/10)).
+- Stage 13 epilogue: Amuro now says *Lieutenant Sleggar* and Sleggar answers *"You can drop the formalities."* instead of the confusing "Mr." exchange ([#11](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/issues/11)).
+- Two untranslated unit-stat labels are now English: *Armor+400* and *Limit+30* ([#13](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/issues/13)).
+
+More fixes ([#16](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/issues/16)):
 - Names are now consistent everywhere: *La Vie en Rose* (was *Rabian Rose* in Scenarios 21–23), *Full Vernian* (was *Full Burnern*), *Irmgard* (was *Irmgult*), *Raidiese* (was *Rydeath*) and *Human Instrumentality Project* (was *Huma Human…*).
 - *Room of Guf* is now *Chamber of Guf*.
 - Benkei's *Mt. Daisetsu Oroshi* is now *Daisetsuzan Oroshi*, like everywhere else.
