@@ -1,9 +1,9 @@
 
 # Super Robot Taisen Alpha — English Translation
 
-[![Version](https://img.shields.io/badge/version-v1.00-blue)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.00)
+[![Version](https://img.shields.io/badge/version-v1.01-blue)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.01)
 [![Platform: PSX](https://img.shields.io/badge/platform-PSX-555555?logo=playstation&logoColor=white)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver)
-[![Patch Downloads](https://img.shields.io/github/downloads/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/v1.00/SRWAlpha_EN_v1.00.xdelta?label=patch%20downloads)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.00)
+[![Patch Downloads](https://img.shields.io/github/downloads/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/v1.01/SRWAlpha_EN_v1.01.xdelta?label=patch%20downloads)](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.01)
 ![Translation](https://img.shields.io/badge/translation-inserted-brightgreen)
 ![VWF Font](https://img.shields.io/badge/font-variable--width%20(VWF)-purple)
 ![Glossary](https://img.shields.io/badge/glossary-1%2C739%20terms-blue)
@@ -14,7 +14,7 @@ English fan translation of **Super Robot Taisen Alpha** for the original PlaySta
 
 A complete, playable English release featuring translated dialogue, menus, battle quotes, and graphical text.
 
-**Current release:** [v1.00](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.00)
+**Current release:** [v1.01](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.01)
 
 
 
@@ -22,7 +22,7 @@ A complete, playable English release featuring translated dialogue, menus, battl
 <img src="screenshots/cover.jpeg" width="480" alt="cover" title="cover">
 </p>
 
-**Latest release: [v1.00](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.00)** — fan translation of *Super Robot Taisen Alpha* (PlayStation, 2000) into English.
+**Latest release: [v1.01](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.01)** — fan translation of *Super Robot Taisen Alpha* (PlayStation, 2000) into English.
 
 The first complete, playable English build of **Super Robot Taisen Alpha** (PlayStation, 2000) — the crossover that brought Mazinger, Getter Robo, Gundam (UC and AU), Evangelion, Macross, Dancougar, Dunbine, L-Gaim, Gunbuster, Brain Powerd, the Masou Kishin and the Banpresto originals together for the first time on PSX.
 
@@ -38,7 +38,20 @@ Grab your original Japanese ISO, check the README.md for the quick xdelta patchi
 
 <a href="https://www.buymeacoffee.com/Srwa_en" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-## What's new in v1.00
+## What's new in v1.01
+
+Fixes from player reports ([#16](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/issues/16)):
+- Names are now consistent everywhere: *La Vie en Rose* (was *Rabian Rose* in Scenarios 21–23), *Full Vernian* (was *Full Burnern*), *Irmgard* (was *Irmgult*), *Raidiese* (was *Rydeath*) and *Human Instrumentality Project* (was *Huma Human…*).
+- *Room of Guf* is now *Chamber of Guf*.
+- Benkei's *Mt. Daisetsu Oroshi* is now *Daisetsuzan Oroshi*, like everywhere else.
+- Ryoma's attack shout is *Stoooner Suuuunshiiiine!!*.
+- *Self-Destruct* is shortened to *Self-Dest.* in the spirit list so it no longer sticks out of its box on the Pilot Stats screen.
+
+Saves (memory card) from v1.00 and the release candidates should load fine in v1.01.
+
+## Changelog
+
+### v1.00
 
 **Story scenes type out again.** Dialogue in the intermission scenes was appearing all at once; it now types out letter by letter like the Japanese original, with the speaker's name shown first, and the characters' face animations play while the text is typed. ([#5](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/issues/5))
 
@@ -97,17 +110,17 @@ You need your own dump of the original Japanese disc. **The patch only works on 
 | MD5 | `8cc4b3af159d26d11cad46b136a5c833` |
 | SHA-1 | `cfce3c7a76f64269387fbb7b77e3bcfe41b723c6` |
 
-1. Download `SRWAlpha_EN_v1.00.xdelta` and `Super.Robot.Taisen.Alpha.English.v1.00.cue` from the [Releases page](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.00).
+1. Download `SRWAlpha_EN_v1.01.xdelta` and `Super.Robot.Taisen.Alpha.English.v1.01.cue` from the [Releases page](https://github.com/Nrlemo/Super-Robot-Wars-Alpha-PSX-English-Ver/releases/tag/v1.01).
 2. Apply the patch to the Japanese `.bin`:
    - **Windows / macOS / Linux (GUI):** [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) or the [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) web page.
    - **Command line:**
      ```
-     xdelta3 -d -s "Super Robot Taisen Alpha (Japan) (v1.0).bin" SRWAlpha_EN_v1.00.xdelta "Super Robot Taisen Alpha (English v1.00).bin"
+     xdelta3 -d -s "Super Robot Taisen Alpha (Japan) (v1.0).bin" SRWAlpha_EN_v1.01.xdelta "Super Robot Taisen Alpha (English v1.01).bin"
      ```
-3. Name the patched file `Super Robot Taisen Alpha (English v1.00).bin` (that is the name the `.cue` points to) and keep both in the same folder. You can rename the `.cue` freely; if you rename the `.bin`, edit the `FILE` line of the `.cue` to match.
+3. Name the patched file `Super Robot Taisen Alpha (English v1.01).bin` (that is the name the `.cue` points to) and keep both in the same folder. You can rename the `.cue` freely; if you rename the `.bin`, edit the `FILE` line of the `.cue` to match.
 4. Load the `.cue` in your emulator. Tested with **PCSX-Redux**, **DuckStation** and **RetroArch**. Real hardware / ODE has not been tested yet.
 
-`SHA1SUMS` lists the expected hashes. Patched image: SHA-1 `3af408a62c22e897c250ee27b904ef455309dbb5`, MD5 `5affb071c3a47e8ddba4267e3984daa3` (646,442,496 bytes).
+`SHA1SUMS` lists the expected hashes. Patched image: SHA-1 `e7ec5e26b84993d3305695587c2a7eff63884463`, MD5 `365a82fa5ef24b1cc1d7041a1e68df44` (646,442,496 bytes).
 
 > **Memory cards:** saves from the Japanese version load fine, but the protagonist's and partner's names are stored on the card, so they will appear in kana. Start a new game for the English names.
 
